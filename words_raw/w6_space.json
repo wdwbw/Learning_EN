@@ -1,0 +1,652 @@
+[
+  {
+    "word": "planet",
+    "kk": "[ˈplænɪt]",
+    "pos": "n.",
+    "meaning": "行星",
+    "examples": [
+      { "en": "Earth is the third planet from the sun.", "zh": "地球是離太陽第三近的行星。" },
+      { "en": "Scientists found a new planet outside our solar system.", "zh": "科學家在太陽系外發現一顆新行星。" }
+    ],
+    "img": "blue planet orbiting bright sun in space",
+    "theme": "太空天文",
+    "level": 2
+  },
+  {
+    "word": "galaxy",
+    "kk": "[ˈɡæləksɪ]",
+    "pos": "n.",
+    "meaning": "星系",
+    "examples": [
+      { "en": "The Milky Way is the galaxy we live in.", "zh": "銀河系是我們居住的星系。" },
+      { "en": "There are billions of stars in one galaxy.", "zh": "一個星系裡有數十億顆恆星。" }
+    ],
+    "img": "spiral galaxy with glowing stars in deep space",
+    "theme": "太空天文",
+    "level": 2
+  },
+  {
+    "word": "star",
+    "kk": "[stɑr]",
+    "pos": "n.",
+    "meaning": "恆星;星星",
+    "examples": [
+      { "en": "The sun is the closest star to Earth.", "zh": "太陽是離地球最近的恆星。" },
+      { "en": "We watched the stars from the mountain top.", "zh": "我們從山頂上觀看星星。" }
+    ],
+    "img": "bright glowing star in night sky",
+    "theme": "太空天文",
+    "level": 2
+  },
+  {
+    "word": "moon",
+    "kk": "[mun]",
+    "pos": "n.",
+    "meaning": "月球;衛星",
+    "examples": [
+      { "en": "The moon shines brightly tonight.", "zh": "今晚月亮閃耀明亮。" },
+      { "en": "Jupiter has many moons around it.", "zh": "木星周圍有許多衛星。" }
+    ],
+    "img": "full moon glowing over dark night sky",
+    "theme": "太空天文",
+    "level": 2
+  },
+  {
+    "word": "sun",
+    "kk": "[sʌn]",
+    "pos": "n.",
+    "meaning": "太陽",
+    "examples": [
+      { "en": "The sun gives us light and heat.", "zh": "太陽給我們光和熱。" },
+      { "en": "Never look straight at the sun.", "zh": "絕對不要直視太陽。" }
+    ],
+    "img": "bright yellow sun with glowing rays",
+    "theme": "太空天文",
+    "level": 2
+  },
+  {
+    "word": "comet",
+    "kk": "[ˈkɑmɪt]",
+    "pos": "n.",
+    "meaning": "彗星",
+    "examples": [
+      { "en": "A comet has a long, bright tail.", "zh": "彗星有一條明亮的長尾巴。" },
+      { "en": "The comet will not return for many years.", "zh": "這顆彗星要很多年後才會再出現。" }
+    ],
+    "img": "comet with glowing tail streaking across space",
+    "theme": "太空天文",
+    "level": 3
+  },
+  {
+    "word": "asteroid",
+    "kk": "[ˈæstərɔɪd]",
+    "pos": "n.",
+    "meaning": "小行星",
+    "examples": [
+      { "en": "A huge asteroid passed near Earth.", "zh": "一顆巨大的小行星從地球附近經過。" },
+      { "en": "Most asteroids move between Mars and Jupiter.", "zh": "大多數小行星在火星和木星之間運行。" }
+    ],
+    "img": "rocky asteroid floating in dark space",
+    "theme": "太空天文",
+    "level": 3
+  },
+  {
+    "word": "meteor",
+    "kk": "[ˈmitɪɚ]",
+    "pos": "n.",
+    "meaning": "流星",
+    "examples": [
+      { "en": "We saw a bright meteor cross the sky.", "zh": "我們看見一顆明亮的流星劃過天空。" },
+      { "en": "A meteor burns up in the atmosphere.", "zh": "流星在大氣層中燃燒殆盡。" }
+    ],
+    "img": "bright meteor streaking across starry night sky",
+    "theme": "太空天文",
+    "level": 3
+  },
+  {
+    "word": "orbit",
+    "kk": "[ˈɔrbɪt]",
+    "pos": "n./v.",
+    "meaning": "軌道;繞行",
+    "examples": [
+      { "en": "The moon travels in an orbit around Earth.", "zh": "月球沿著軌道繞地球運行。" },
+      { "en": "Satellites orbit our planet every day.", "zh": "衛星每天繞著我們的星球運行。" }
+    ],
+    "img": "planet orbit path around a glowing sun",
+    "theme": "太空天文",
+    "level": 3
+  },
+  {
+    "word": "gravity",
+    "kk": "[ˈɡrævətɪ]",
+    "pos": "n.",
+    "meaning": "重力",
+    "examples": [
+      { "en": "Gravity pulls objects toward the ground.", "zh": "重力把物體拉向地面。" },
+      { "en": "There is less gravity on the moon.", "zh": "月球上的重力比較小。" }
+    ],
+    "img": "apple falling to ground showing gravity",
+    "theme": "太空天文",
+    "level": 3
+  },
+  {
+    "word": "universe",
+    "kk": "[ˈjunəˌvɝs]",
+    "pos": "n.",
+    "meaning": "宇宙",
+    "examples": [
+      { "en": "The universe is bigger than we can imagine.", "zh": "宇宙比我們能想像的還要大。" },
+      { "en": "Everything in space is part of the universe.", "zh": "太空中的一切都是宇宙的一部分。" }
+    ],
+    "img": "vast universe full of stars and galaxies",
+    "theme": "太空天文",
+    "level": 2
+  },
+  {
+    "word": "spaceship",
+    "kk": "[ˈspesˌʃɪp]",
+    "pos": "n.",
+    "meaning": "太空船",
+    "examples": [
+      { "en": "The spaceship flew toward the red planet.", "zh": "太空船朝紅色星球飛去。" },
+      { "en": "Astronauts live inside the spaceship for months.", "zh": "太空人在太空船裡生活好幾個月。" }
+    ],
+    "img": "silver spaceship flying through outer space",
+    "theme": "太空天文",
+    "level": 2
+  },
+  {
+    "word": "rocket",
+    "kk": "[ˈrɑkɪt]",
+    "pos": "n.",
+    "meaning": "火箭",
+    "examples": [
+      { "en": "The rocket launched into the sky with fire.", "zh": "火箭噴著火焰射向天空。" },
+      { "en": "A powerful rocket carries the crew to space.", "zh": "強力的火箭把機組人員送上太空。" }
+    ],
+    "img": "rocket launching with fire and smoke",
+    "theme": "太空天文",
+    "level": 2
+  },
+  {
+    "word": "astronaut",
+    "kk": "[ˈæstrəˌnɔt]",
+    "pos": "n.",
+    "meaning": "太空人",
+    "examples": [
+      { "en": "The astronaut floated inside the space station.", "zh": "太空人在太空站裡漂浮。" },
+      { "en": "Every astronaut trains for many years.", "zh": "每位太空人都要訓練很多年。" }
+    ],
+    "img": "astronaut in white spacesuit floating in space",
+    "theme": "太空天文",
+    "level": 2
+  },
+  {
+    "word": "satellite",
+    "kk": "[ˈsætˌlaɪt]",
+    "pos": "n.",
+    "meaning": "衛星;人造衛星",
+    "examples": [
+      { "en": "A satellite sends TV signals to our homes.", "zh": "衛星把電視訊號傳送到我們家中。" },
+      { "en": "The satellite circles the Earth in space.", "zh": "這顆衛星在太空中繞地球運行。" }
+    ],
+    "img": "satellite with solar panels orbiting Earth",
+    "theme": "太空天文",
+    "level": 3
+  },
+  {
+    "word": "telescope",
+    "kk": "[ˈtɛləˌskop]",
+    "pos": "n.",
+    "meaning": "望遠鏡",
+    "examples": [
+      { "en": "We looked at Saturn through a telescope.", "zh": "我們用望遠鏡看土星。" },
+      { "en": "A telescope helps us see distant stars.", "zh": "望遠鏡幫助我們看見遙遠的恆星。" }
+    ],
+    "img": "large telescope pointed at starry sky",
+    "theme": "太空天文",
+    "level": 2
+  },
+  {
+    "word": "solar system",
+    "kk": "[ˈsolɚ ˈsɪstəm]",
+    "pos": "n.",
+    "meaning": "太陽系",
+    "examples": [
+      { "en": "Our solar system has eight planets.", "zh": "我們的太陽系有八顆行星。" },
+      { "en": "The sun sits at the center of the solar system.", "zh": "太陽位於太陽系的中心。" }
+    ],
+    "img": "solar system with sun and eight planets",
+    "theme": "太空天文",
+    "level": 3
+  },
+  {
+    "word": "Earth",
+    "kk": "[ɝθ]",
+    "pos": "n.",
+    "meaning": "地球",
+    "examples": [
+      { "en": "Earth is the only planet with life.", "zh": "地球是唯一有生命的行星。" },
+      { "en": "From space, Earth looks blue and green.", "zh": "從太空看,地球呈現藍色和綠色。" }
+    ],
+    "img": "blue and green Earth seen from space",
+    "theme": "太空天文",
+    "level": 2
+  },
+  {
+    "word": "Mars",
+    "kk": "[mɑrz]",
+    "pos": "n.",
+    "meaning": "火星",
+    "examples": [
+      { "en": "Mars is often called the red planet.", "zh": "火星常被稱為紅色星球。" },
+      { "en": "Robots explore the surface of Mars.", "zh": "機器人在火星表面進行探索。" }
+    ],
+    "img": "red dusty surface of planet Mars",
+    "theme": "太空天文",
+    "level": 3
+  },
+  {
+    "word": "Jupiter",
+    "kk": "[ˈdʒupətɚ]",
+    "pos": "n.",
+    "meaning": "木星",
+    "examples": [
+      { "en": "Jupiter is the largest planet in our system.", "zh": "木星是我們太陽系中最大的行星。" },
+      { "en": "Jupiter has a huge storm called the Great Red Spot.", "zh": "木星有個叫大紅斑的巨大風暴。" }
+    ],
+    "img": "giant gas planet Jupiter with red spot",
+    "theme": "太空天文",
+    "level": 3
+  },
+  {
+    "word": "Saturn",
+    "kk": "[ˈsætɚn]",
+    "pos": "n.",
+    "meaning": "土星",
+    "examples": [
+      { "en": "Saturn is famous for its beautiful rings.", "zh": "土星以美麗的環而聞名。" },
+      { "en": "The rings of Saturn are made of ice and rock.", "zh": "土星環由冰和岩石組成。" }
+    ],
+    "img": "planet Saturn with bright ice rings",
+    "theme": "太空天文",
+    "level": 3
+  },
+  {
+    "word": "spacesuit",
+    "kk": "[ˈspesˌsut]",
+    "pos": "n.",
+    "meaning": "太空衣",
+    "examples": [
+      { "en": "The spacesuit protects the astronaut from cold.", "zh": "太空衣保護太空人免受寒冷。" },
+      { "en": "A spacesuit gives the astronaut air to breathe.", "zh": "太空衣提供太空人呼吸的空氣。" }
+    ],
+    "img": "white astronaut spacesuit with helmet",
+    "theme": "太空天文",
+    "level": 3
+  },
+  {
+    "word": "space station",
+    "kk": "[spes ˈsteʃən]",
+    "pos": "n.",
+    "meaning": "太空站",
+    "examples": [
+      { "en": "Astronauts work on the space station in orbit.", "zh": "太空人在軌道上的太空站工作。" },
+      { "en": "The space station circles Earth every ninety minutes.", "zh": "太空站每九十分鐘繞地球一圈。" }
+    ],
+    "img": "international space station floating above Earth",
+    "theme": "太空天文",
+    "level": 3
+  },
+  {
+    "word": "launch",
+    "kk": "[lɔntʃ]",
+    "pos": "v./n.",
+    "meaning": "發射",
+    "examples": [
+      { "en": "They will launch the rocket at dawn.", "zh": "他們將在黎明時發射火箭。" },
+      { "en": "The launch of the spaceship was a success.", "zh": "太空船的發射非常成功。" }
+    ],
+    "img": "rocket launch with flames and smoke cloud",
+    "theme": "太空天文",
+    "level": 3
+  },
+  {
+    "word": "explore",
+    "kk": "[ɪkˈsplor]",
+    "pos": "v.",
+    "meaning": "探索",
+    "examples": [
+      { "en": "Humans want to explore other planets.", "zh": "人類想探索其他行星。" },
+      { "en": "Robots explore places that are too dangerous for people.", "zh": "機器人探索對人類太危險的地方。" }
+    ],
+    "img": "astronaut exploring rocky alien planet surface",
+    "theme": "太空天文",
+    "level": 2
+  },
+  {
+    "word": "float",
+    "kk": "[flot]",
+    "pos": "v.",
+    "meaning": "漂浮",
+    "examples": [
+      { "en": "Astronauts float because there is no gravity.", "zh": "太空人因為沒有重力而漂浮。" },
+      { "en": "The tools float around inside the spaceship.", "zh": "工具在太空船裡到處漂浮。" }
+    ],
+    "img": "astronaut floating weightless inside spaceship",
+    "theme": "太空天文",
+    "level": 2
+  },
+  {
+    "word": "spin",
+    "kk": "[spɪn]",
+    "pos": "v.",
+    "meaning": "旋轉;自轉",
+    "examples": [
+      { "en": "The Earth spins once every day.", "zh": "地球每天自轉一次。" },
+      { "en": "Planets spin as they move around the sun.", "zh": "行星一邊繞太陽運行一邊旋轉。" }
+    ],
+    "img": "planet spinning on its axis in space",
+    "theme": "太空天文",
+    "level": 2
+  },
+  {
+    "word": "shine",
+    "kk": "[ʃaɪn]",
+    "pos": "v.",
+    "meaning": "發光;閃耀",
+    "examples": [
+      { "en": "The stars shine brightly at night.", "zh": "星星在夜裡明亮地閃耀。" },
+      { "en": "The moon shines with light from the sun.", "zh": "月亮靠太陽的光而發亮。" }
+    ],
+    "img": "bright shining stars in dark sky",
+    "theme": "太空天文",
+    "level": 2
+  },
+  {
+    "word": "distant",
+    "kk": "[ˈdɪstənt]",
+    "pos": "adj.",
+    "meaning": "遙遠的",
+    "examples": [
+      { "en": "The distant stars are hard to see clearly.", "zh": "遙遠的星星很難看清楚。" },
+      { "en": "We dream of visiting distant worlds.", "zh": "我們夢想造訪遙遠的世界。" }
+    ],
+    "img": "distant faint stars in deep space",
+    "theme": "太空天文",
+    "level": 3
+  },
+  {
+    "word": "bright",
+    "kk": "[braɪt]",
+    "pos": "adj.",
+    "meaning": "明亮的",
+    "examples": [
+      { "en": "Venus is a bright light in the evening sky.", "zh": "金星是傍晚天空中明亮的光點。" },
+      { "en": "The full moon is very bright tonight.", "zh": "今晚的滿月非常明亮。" }
+    ],
+    "img": "bright glowing planet in evening sky",
+    "theme": "太空天文",
+    "level": 2
+  },
+  {
+    "word": "dark",
+    "kk": "[dɑrk]",
+    "pos": "adj.",
+    "meaning": "黑暗的",
+    "examples": [
+      { "en": "Space is cold and dark.", "zh": "太空又冷又暗。" },
+      { "en": "We can see more stars in a dark sky.", "zh": "在黑暗的天空中我們能看見更多星星。" }
+    ],
+    "img": "dark empty space with scattered stars",
+    "theme": "太空天文",
+    "level": 2
+  },
+  {
+    "word": "black hole",
+    "kk": "[blæk hol]",
+    "pos": "n.",
+    "meaning": "黑洞",
+    "examples": [
+      { "en": "A black hole pulls in everything nearby.", "zh": "黑洞會吸入附近的一切東西。" },
+      { "en": "Not even light can escape a black hole.", "zh": "連光都無法逃出黑洞。" }
+    ],
+    "img": "black hole bending light in deep space",
+    "theme": "太空天文",
+    "level": 3
+  },
+  {
+    "word": "constellation",
+    "kk": "[ˌkɑnstəˈleʃən]",
+    "pos": "n.",
+    "meaning": "星座",
+    "examples": [
+      { "en": "Orion is an easy constellation to find.", "zh": "獵戶座是容易找到的星座。" },
+      { "en": "Ancient people named each constellation.", "zh": "古人為每個星座命名。" }
+    ],
+    "img": "star constellation lines in night sky",
+    "theme": "太空天文",
+    "level": 3
+  },
+  {
+    "word": "atmosphere",
+    "kk": "[ˈætməsˌfɪr]",
+    "pos": "n.",
+    "meaning": "大氣層",
+    "examples": [
+      { "en": "Earth's atmosphere keeps us safe and warm.", "zh": "地球的大氣層讓我們安全又溫暖。" },
+      { "en": "Mars has a very thin atmosphere.", "zh": "火星有非常稀薄的大氣層。" }
+    ],
+    "img": "blue atmosphere layer around planet Earth",
+    "theme": "太空天文",
+    "level": 3
+  },
+  {
+    "word": "surface",
+    "kk": "[ˈsɝfɪs]",
+    "pos": "n.",
+    "meaning": "表面",
+    "examples": [
+      { "en": "The surface of the moon is full of craters.", "zh": "月球表面布滿了坑洞。" },
+      { "en": "Robots take photos of the planet's surface.", "zh": "機器人拍攝行星表面的照片。" }
+    ],
+    "img": "rocky moon surface covered with craters",
+    "theme": "太空天文",
+    "level": 2
+  },
+  {
+    "word": "crater",
+    "kk": "[ˈkretɚ]",
+    "pos": "n.",
+    "meaning": "隕石坑",
+    "examples": [
+      { "en": "A meteor made a huge crater on the moon.", "zh": "流星在月球上撞出一個巨大的隕石坑。" },
+      { "en": "The crater is deep and round.", "zh": "這個隕石坑又深又圓。" }
+    ],
+    "img": "deep round crater on grey moon surface",
+    "theme": "太空天文",
+    "level": 3
+  },
+  {
+    "word": "eclipse",
+    "kk": "[ɪˈklɪps]",
+    "pos": "n.",
+    "meaning": "食(日食、月食)",
+    "examples": [
+      { "en": "The moon blocks the sun during an eclipse.", "zh": "日食時月亮遮住了太陽。" },
+      { "en": "Many people watched the solar eclipse.", "zh": "許多人觀看了日食。" }
+    ],
+    "img": "solar eclipse with dark sun and glowing ring",
+    "theme": "太空天文",
+    "level": 3
+  },
+  {
+    "word": "spacewalk",
+    "kk": "[ˈspesˌwɔk]",
+    "pos": "n.",
+    "meaning": "太空漫步",
+    "examples": [
+      { "en": "The astronaut did a spacewalk to fix the station.", "zh": "太空人進行太空漫步來修理太空站。" },
+      { "en": "A spacewalk can last several hours.", "zh": "一次太空漫步可能持續好幾個小時。" }
+    ],
+    "img": "astronaut on spacewalk tethered outside station",
+    "theme": "太空天文",
+    "level": 3
+  },
+  {
+    "word": "mission",
+    "kk": "[ˈmɪʃən]",
+    "pos": "n.",
+    "meaning": "任務",
+    "examples": [
+      { "en": "The mission to the moon took several days.", "zh": "登月任務花了好幾天。" },
+      { "en": "Their mission is to study a distant planet.", "zh": "他們的任務是研究一顆遙遠的行星。" }
+    ],
+    "img": "space mission control room with screens",
+    "theme": "太空天文",
+    "level": 2
+  },
+  {
+    "word": "gravity-free",
+    "kk": "[ˈɡrævətɪ fri]",
+    "pos": "adj.",
+    "meaning": "無重力的",
+    "examples": [
+      { "en": "In a gravity-free room, everything floats.", "zh": "在無重力的房間裡,所有東西都會漂浮。" },
+      { "en": "Astronauts train in a gravity-free pool.", "zh": "太空人在無重力的水池中訓練。" }
+    ],
+    "img": "objects floating in gravity-free space cabin",
+    "theme": "太空天文",
+    "level": 3
+  },
+  {
+    "word": "orbit path",
+    "kk": "[ˈɔrbɪt pæθ]",
+    "pos": "n.",
+    "meaning": "運行軌跡",
+    "examples": [
+      { "en": "The orbit path of the comet is very long.", "zh": "這顆彗星的運行軌跡非常長。" },
+      { "en": "Engineers plan the orbit path of each satellite.", "zh": "工程師規劃每顆衛星的運行軌跡。" }
+    ],
+    "img": "curved orbit path lines around a planet",
+    "theme": "太空天文",
+    "level": 3
+  },
+  {
+    "word": "stargaze",
+    "kk": "[ˈstɑrˌɡez]",
+    "pos": "v.",
+    "meaning": "觀星",
+    "examples": [
+      { "en": "We love to stargaze on clear summer nights.", "zh": "我們喜歡在晴朗的夏夜觀星。" },
+      { "en": "You can stargaze better far from city lights.", "zh": "遠離城市燈光更適合觀星。" }
+    ],
+    "img": "people lying down stargazing under night sky",
+    "theme": "太空天文",
+    "level": 3
+  },
+  {
+    "word": "spacecraft",
+    "kk": "[ˈspesˌkræft]",
+    "pos": "n.",
+    "meaning": "太空載具",
+    "examples": [
+      { "en": "The spacecraft landed safely on Mars.", "zh": "這艘太空載具安全降落在火星上。" },
+      { "en": "A small spacecraft carried the samples home.", "zh": "一艘小型太空載具把樣本帶回家。" }
+    ],
+    "img": "small spacecraft landing on planet surface",
+    "theme": "太空天文",
+    "level": 3
+  },
+  {
+    "word": "light-year",
+    "kk": "[ˈlaɪt jɪr]",
+    "pos": "n.",
+    "meaning": "光年",
+    "examples": [
+      { "en": "That star is many light-years away.", "zh": "那顆星星在許多光年之外。" },
+      { "en": "A light-year measures huge distances in space.", "zh": "光年用來測量太空中的巨大距離。" }
+    ],
+    "img": "vast starfield showing distance in light-years",
+    "theme": "太空天文",
+    "level": 3
+  },
+  {
+    "word": "alien",
+    "kk": "[ˈeljən]",
+    "pos": "n.",
+    "meaning": "外星人",
+    "examples": [
+      { "en": "Some people believe aliens might exist.", "zh": "有些人相信外星人可能存在。" },
+      { "en": "The movie is about a friendly alien.", "zh": "這部電影是關於一個友善的外星人。" }
+    ],
+    "img": "green alien creature with big eyes in space",
+    "theme": "太空天文",
+    "level": 2
+  },
+  {
+    "word": "observatory",
+    "kk": "[əbˈzɝvəˌtorɪ]",
+    "pos": "n.",
+    "meaning": "天文台",
+    "examples": [
+      { "en": "The observatory has a giant telescope.", "zh": "這座天文台有一台巨大的望遠鏡。" },
+      { "en": "We visited an observatory on the mountain.", "zh": "我們參觀了山上的一座天文台。" }
+    ],
+    "img": "domed observatory building on mountain at night",
+    "theme": "太空天文",
+    "level": 3
+  },
+  {
+    "word": "nebula",
+    "kk": "[ˈnɛbjələ]",
+    "pos": "n.",
+    "meaning": "星雲",
+    "examples": [
+      { "en": "A nebula is a colorful cloud of gas in space.", "zh": "星雲是太空中一團色彩繽紛的氣體雲。" },
+      { "en": "New stars are born inside a nebula.", "zh": "新的恆星在星雲中誕生。" }
+    ],
+    "img": "colorful glowing nebula gas cloud in space",
+    "theme": "太空天文",
+    "level": 3
+  },
+  {
+    "word": "galaxy cluster",
+    "kk": "[ˈɡæləksɪ ˈklʌstɚ]",
+    "pos": "n.",
+    "meaning": "星系團",
+    "examples": [
+      { "en": "A galaxy cluster holds hundreds of galaxies.", "zh": "一個星系團包含數百個星系。" },
+      { "en": "Scientists study the huge galaxy cluster.", "zh": "科學家研究這個巨大的星系團。" }
+    ],
+    "img": "cluster of many galaxies grouped in space",
+    "theme": "太空天文",
+    "level": 3
+  },
+  {
+    "word": "rover",
+    "kk": "[ˈrovɚ]",
+    "pos": "n.",
+    "meaning": "探測車",
+    "examples": [
+      { "en": "The rover drives slowly across Mars.", "zh": "探測車在火星上緩慢行駛。" },
+      { "en": "A rover collects rocks from the planet.", "zh": "探測車在行星上採集岩石。" }
+    ],
+    "img": "robotic rover driving on red Mars surface",
+    "theme": "太空天文",
+    "level": 3
+  },
+  {
+    "word": "night sky",
+    "kk": "[naɪt skaɪ]",
+    "pos": "n.",
+    "meaning": "夜空",
+    "examples": [
+      { "en": "The night sky was full of stars.", "zh": "夜空中布滿了星星。" },
+      { "en": "We enjoy watching the night sky together.", "zh": "我們喜歡一起看夜空。" }
+    ],
+    "img": "starry night sky over quiet dark landscape",
+    "theme": "太空天文",
+    "level": 2
+  }
+]

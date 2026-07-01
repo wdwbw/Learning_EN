@@ -1,0 +1,652 @@
+[
+  {
+    "word": "chop",
+    "kk": "[tʃɑp]",
+    "pos": "v.",
+    "meaning": "切碎；剁",
+    "examples": [
+      { "en": "Can you chop the onions for me?", "zh": "你可以幫我把洋蔥切碎嗎？" },
+      { "en": "I chopped the garlic really fine.", "zh": "我把大蒜切得很細。" }
+    ],
+    "img": "hands chopping onions on cutting board",
+    "theme": "烹飪食譜",
+    "level": 1
+  },
+  {
+    "word": "slice",
+    "kk": "[slaɪs]",
+    "pos": "v.",
+    "meaning": "切片",
+    "examples": [
+      { "en": "Slice the bread into thin pieces.", "zh": "把麵包切成薄片。" },
+      { "en": "She sliced the tomato for the salad.", "zh": "她把番茄切片做沙拉。" }
+    ],
+    "img": "knife slicing tomato into thin pieces",
+    "theme": "烹飪食譜",
+    "level": 1
+  },
+  {
+    "word": "peel",
+    "kk": "[pil]",
+    "pos": "v.",
+    "meaning": "削皮；剝皮",
+    "examples": [
+      { "en": "Peel the potatoes before boiling them.", "zh": "煮之前先把馬鈴薯削皮。" },
+      { "en": "I hate peeling shrimp.", "zh": "我討厭剝蝦殼。" }
+    ],
+    "img": "peeling potato skin with peeler",
+    "theme": "烹飪食譜",
+    "level": 1
+  },
+  {
+    "word": "mix",
+    "kk": "[mɪks]",
+    "pos": "v.",
+    "meaning": "混合；攪拌",
+    "examples": [
+      { "en": "Mix the flour and sugar together.", "zh": "把麵粉和糖混合在一起。" },
+      { "en": "Mix it well before you pour.", "zh": "倒之前先攪拌均勻。" }
+    ],
+    "img": "mixing flour and sugar in bowl",
+    "theme": "烹飪食譜",
+    "level": 1
+  },
+  {
+    "word": "stir",
+    "kk": "[stɝ]",
+    "pos": "v.",
+    "meaning": "攪動；拌",
+    "examples": [
+      { "en": "Keep stirring so it doesn't burn.", "zh": "一直攪動才不會燒焦。" },
+      { "en": "Stir the soup every few minutes.", "zh": "每隔幾分鐘攪一下湯。" }
+    ],
+    "img": "wooden spoon stirring soup in pot",
+    "theme": "烹飪食譜",
+    "level": 1
+  },
+  {
+    "word": "fry",
+    "kk": "[fraɪ]",
+    "pos": "v.",
+    "meaning": "煎；炸；炒",
+    "examples": [
+      { "en": "Let's fry some eggs for breakfast.", "zh": "我們來煎幾顆蛋當早餐吧。" },
+      { "en": "Fry the chicken until golden.", "zh": "把雞肉炸到金黃色。" }
+    ],
+    "img": "frying eggs in a pan",
+    "theme": "烹飪食譜",
+    "level": 1
+  },
+  {
+    "word": "boil",
+    "kk": "[bɔɪl]",
+    "pos": "v.",
+    "meaning": "煮沸；水煮",
+    "examples": [
+      { "en": "Boil the water before adding pasta.", "zh": "加義大利麵前先把水煮開。" },
+      { "en": "I'll boil some eggs.", "zh": "我來水煮幾顆蛋。" }
+    ],
+    "img": "water boiling in pot with bubbles",
+    "theme": "烹飪食譜",
+    "level": 1
+  },
+  {
+    "word": "bake",
+    "kk": "[bek]",
+    "pos": "v.",
+    "meaning": "烘烤",
+    "examples": [
+      { "en": "Let's bake a cake this weekend.", "zh": "這週末我們來烤個蛋糕吧。" },
+      { "en": "Bake it for thirty minutes.", "zh": "烤三十分鐘。" }
+    ],
+    "img": "baking cake in oven",
+    "theme": "烹飪食譜",
+    "level": 1
+  },
+  {
+    "word": "pour",
+    "kk": "[por]",
+    "pos": "v.",
+    "meaning": "倒；灌",
+    "examples": [
+      { "en": "Pour the milk into the bowl.", "zh": "把牛奶倒進碗裡。" },
+      { "en": "Slowly pour in the oil.", "zh": "慢慢倒入油。" }
+    ],
+    "img": "pouring milk into mixing bowl",
+    "theme": "烹飪食譜",
+    "level": 1
+  },
+  {
+    "word": "add",
+    "kk": "[æd]",
+    "pos": "v.",
+    "meaning": "加入；添加",
+    "examples": [
+      { "en": "Add a little salt to the soup.", "zh": "在湯裡加一點鹽。" },
+      { "en": "Now add two eggs.", "zh": "現在加入兩顆蛋。" }
+    ],
+    "img": "adding salt to soup pot",
+    "theme": "烹飪食譜",
+    "level": 1
+  },
+  {
+    "word": "taste",
+    "kk": "[test]",
+    "pos": "v.",
+    "meaning": "嚐；試味道",
+    "examples": [
+      { "en": "Taste it and see if it needs salt.", "zh": "嚐一下看需不需要加鹽。" },
+      { "en": "Let me taste the sauce.", "zh": "讓我嚐嚐這醬。" }
+    ],
+    "img": "person tasting sauce from spoon",
+    "theme": "烹飪食譜",
+    "level": 1
+  },
+  {
+    "word": "wash",
+    "kk": "[wɑʃ]",
+    "pos": "v.",
+    "meaning": "洗；清洗",
+    "examples": [
+      { "en": "Wash the vegetables before cooking.", "zh": "煮之前先洗蔬菜。" },
+      { "en": "Please wash your hands first.", "zh": "請先洗手。" }
+    ],
+    "img": "washing vegetables under running water",
+    "theme": "烹飪食譜",
+    "level": 1
+  },
+  {
+    "word": "cut",
+    "kk": "[kʌt]",
+    "pos": "v.",
+    "meaning": "切；割",
+    "examples": [
+      { "en": "Cut the cake into eight pieces.", "zh": "把蛋糕切成八塊。" },
+      { "en": "Be careful when you cut the meat.", "zh": "切肉時要小心。" }
+    ],
+    "img": "knife cutting cake into pieces",
+    "theme": "烹飪食譜",
+    "level": 1
+  },
+  {
+    "word": "pan",
+    "kk": "[pæn]",
+    "pos": "n.",
+    "meaning": "平底鍋",
+    "examples": [
+      { "en": "Heat the pan before adding oil.", "zh": "加油前先把鍋子加熱。" },
+      { "en": "Use a nonstick pan for eggs.", "zh": "煎蛋用不沾鍋。" }
+    ],
+    "img": "frying pan on stove",
+    "theme": "烹飪食譜",
+    "level": 1
+  },
+  {
+    "word": "pot",
+    "kk": "[pɑt]",
+    "pos": "n.",
+    "meaning": "鍋；壺",
+    "examples": [
+      { "en": "Put the soup in a big pot.", "zh": "把湯放進大鍋裡。" },
+      { "en": "The pot is too hot to touch.", "zh": "鍋子太燙不能碰。" }
+    ],
+    "img": "large cooking pot on stove",
+    "theme": "烹飪食譜",
+    "level": 1
+  },
+  {
+    "word": "knife",
+    "kk": "[naɪf]",
+    "pos": "n.",
+    "meaning": "刀子",
+    "examples": [
+      { "en": "This knife is very sharp.", "zh": "這把刀很利。" },
+      { "en": "Use a knife to cut the bread.", "zh": "用刀切麵包。" }
+    ],
+    "img": "chef knife on cutting board",
+    "theme": "烹飪食譜",
+    "level": 1
+  },
+  {
+    "word": "spoon",
+    "kk": "[spun]",
+    "pos": "n.",
+    "meaning": "湯匙",
+    "examples": [
+      { "en": "Stir it with a spoon.", "zh": "用湯匙攪拌。" },
+      { "en": "Add one spoon of sugar.", "zh": "加一匙糖。" }
+    ],
+    "img": "wooden spoon in bowl",
+    "theme": "烹飪食譜",
+    "level": 1
+  },
+  {
+    "word": "bowl",
+    "kk": "[bol]",
+    "pos": "n.",
+    "meaning": "碗；缽",
+    "examples": [
+      { "en": "Crack the eggs into a bowl.", "zh": "把蛋打進碗裡。" },
+      { "en": "Mix everything in a large bowl.", "zh": "把所有東西在大碗裡混合。" }
+    ],
+    "img": "mixing bowl with ingredients",
+    "theme": "烹飪食譜",
+    "level": 1
+  },
+  {
+    "word": "oven",
+    "kk": "[ˈʌvən]",
+    "pos": "n.",
+    "meaning": "烤箱",
+    "examples": [
+      { "en": "Put the tray in the oven.", "zh": "把烤盤放進烤箱。" },
+      { "en": "Preheat the oven to 180 degrees.", "zh": "把烤箱預熱到180度。" }
+    ],
+    "img": "food baking inside oven",
+    "theme": "烹飪食譜",
+    "level": 1
+  },
+  {
+    "word": "salt",
+    "kk": "[sɔlt]",
+    "pos": "n.",
+    "meaning": "鹽",
+    "examples": [
+      { "en": "Add a pinch of salt.", "zh": "加一小撮鹽。" },
+      { "en": "This soup needs more salt.", "zh": "這湯需要再加點鹽。" }
+    ],
+    "img": "salt being sprinkled on food",
+    "theme": "烹飪食譜",
+    "level": 1
+  },
+  {
+    "word": "sugar",
+    "kk": "[ˈʃʊɡɚ]",
+    "pos": "n.",
+    "meaning": "糖",
+    "examples": [
+      { "en": "Add two spoons of sugar.", "zh": "加兩匙糖。" },
+      { "en": "This cake has too much sugar.", "zh": "這蛋糕糖放太多了。" }
+    ],
+    "img": "sugar in measuring spoon",
+    "theme": "烹飪食譜",
+    "level": 1
+  },
+  {
+    "word": "oil",
+    "kk": "[ɔɪl]",
+    "pos": "n.",
+    "meaning": "油",
+    "examples": [
+      { "en": "Heat some oil in the pan.", "zh": "在鍋裡熱點油。" },
+      { "en": "Add a little oil so it won't stick.", "zh": "加一點油才不會黏。" }
+    ],
+    "img": "pouring cooking oil into pan",
+    "theme": "烹飪食譜",
+    "level": 1
+  },
+  {
+    "word": "recipe",
+    "kk": "[ˈrɛsəpɪ]",
+    "pos": "n.",
+    "meaning": "食譜",
+    "examples": [
+      { "en": "I found a great recipe online.", "zh": "我在網路上找到一個很棒的食譜。" },
+      { "en": "Just follow the recipe step by step.", "zh": "只要照食譜一步步做就好。" }
+    ],
+    "img": "open recipe book on kitchen counter",
+    "theme": "烹飪食譜",
+    "level": 2
+  },
+  {
+    "word": "grill",
+    "kk": "[ɡrɪl]",
+    "pos": "v.",
+    "meaning": "燒烤",
+    "examples": [
+      { "en": "Let's grill some meat tonight.", "zh": "今晚我們來烤肉吧。" },
+      { "en": "Grill the fish for five minutes.", "zh": "把魚烤五分鐘。" }
+    ],
+    "img": "meat grilling on barbecue",
+    "theme": "烹飪食譜",
+    "level": 2
+  },
+  {
+    "word": "roast",
+    "kk": "[rost]",
+    "pos": "v.",
+    "meaning": "烘烤；烤（肉）",
+    "examples": [
+      { "en": "We roast a chicken every Sunday.", "zh": "我們每個星期天烤一隻雞。" },
+      { "en": "Roast the vegetables in the oven.", "zh": "把蔬菜放烤箱烤。" }
+    ],
+    "img": "roasted chicken in oven tray",
+    "theme": "烹飪食譜",
+    "level": 2
+  },
+  {
+    "word": "steam",
+    "kk": "[stim]",
+    "pos": "v.",
+    "meaning": "蒸",
+    "examples": [
+      { "en": "Steam the fish to keep it fresh.", "zh": "清蒸魚才能保持鮮味。" },
+      { "en": "It's healthier to steam vegetables.", "zh": "蒸蔬菜比較健康。" }
+    ],
+    "img": "steaming fish in bamboo steamer",
+    "theme": "烹飪食譜",
+    "level": 2
+  },
+  {
+    "word": "grate",
+    "kk": "[ɡret]",
+    "pos": "v.",
+    "meaning": "磨碎；刨絲",
+    "examples": [
+      { "en": "Grate some cheese on top.", "zh": "在上面刨一些起司。" },
+      { "en": "She grated the carrot finely.", "zh": "她把胡蘿蔔刨成細絲。" }
+    ],
+    "img": "grating cheese with a grater",
+    "theme": "烹飪食譜",
+    "level": 2
+  },
+  {
+    "word": "whisk",
+    "kk": "[hwɪsk]",
+    "pos": "v.",
+    "meaning": "攪打；打（蛋）",
+    "examples": [
+      { "en": "Whisk the eggs until fluffy.", "zh": "把蛋打到蓬鬆。" },
+      { "en": "Whisk the batter until smooth.", "zh": "把麵糊攪打到滑順。" }
+    ],
+    "img": "whisking eggs with a whisk",
+    "theme": "烹飪食譜",
+    "level": 2
+  },
+  {
+    "word": "knead",
+    "kk": "[nid]",
+    "pos": "v.",
+    "meaning": "揉（麵團）",
+    "examples": [
+      { "en": "Knead the dough for ten minutes.", "zh": "把麵團揉十分鐘。" },
+      { "en": "You need to knead it until soft.", "zh": "你要揉到麵團變軟。" }
+    ],
+    "img": "hands kneading bread dough",
+    "theme": "烹飪食譜",
+    "level": 2
+  },
+  {
+    "word": "season",
+    "kk": "[ˈsizn̩]",
+    "pos": "v.",
+    "meaning": "調味",
+    "examples": [
+      { "en": "Season the meat with salt and pepper.", "zh": "用鹽和胡椒替肉調味。" },
+      { "en": "Don't forget to season the soup.", "zh": "別忘了幫湯調味。" }
+    ],
+    "img": "seasoning meat with spices",
+    "theme": "烹飪食譜",
+    "level": 2
+  },
+  {
+    "word": "sprinkle",
+    "kk": "[ˈsprɪŋkl̩]",
+    "pos": "v.",
+    "meaning": "撒；灑",
+    "examples": [
+      { "en": "Sprinkle some cheese on the pizza.", "zh": "在披薩上撒一些起司。" },
+      { "en": "Sprinkle sugar over the cake.", "zh": "在蛋糕上撒糖。" }
+    ],
+    "img": "sprinkling cheese over pizza",
+    "theme": "烹飪食譜",
+    "level": 2
+  },
+  {
+    "word": "melt",
+    "kk": "[mɛlt]",
+    "pos": "v.",
+    "meaning": "融化",
+    "examples": [
+      { "en": "Melt the butter in a pan.", "zh": "在鍋裡把奶油融化。" },
+      { "en": "The chocolate melts quickly.", "zh": "巧克力很快就融化了。" }
+    ],
+    "img": "butter melting in hot pan",
+    "theme": "烹飪食譜",
+    "level": 2
+  },
+  {
+    "word": "simmer",
+    "kk": "[ˈsɪmɚ]",
+    "pos": "v.",
+    "meaning": "小火慢燉",
+    "examples": [
+      { "en": "Let the sauce simmer for an hour.", "zh": "讓醬汁小火慢燉一小時。" },
+      { "en": "Simmer it slowly over low heat.", "zh": "用小火慢慢燉。" }
+    ],
+    "img": "sauce simmering gently in pot",
+    "theme": "烹飪食譜",
+    "level": 2
+  },
+  {
+    "word": "marinate",
+    "kk": "[ˈmɛrəˌnet]",
+    "pos": "v.",
+    "meaning": "醃漬",
+    "examples": [
+      { "en": "Marinate the chicken overnight.", "zh": "把雞肉醃一晚。" },
+      { "en": "We marinate the beef in soy sauce.", "zh": "我們用醬油醃牛肉。" }
+    ],
+    "img": "marinating chicken in sauce bowl",
+    "theme": "烹飪食譜",
+    "level": 3
+  },
+  {
+    "word": "flip",
+    "kk": "[flɪp]",
+    "pos": "v.",
+    "meaning": "翻面",
+    "examples": [
+      { "en": "Flip the pancake when it bubbles.", "zh": "鬆餅冒泡時就翻面。" },
+      { "en": "Flip the steak once only.", "zh": "牛排只翻一次面。" }
+    ],
+    "img": "flipping pancake in pan",
+    "theme": "烹飪食譜",
+    "level": 2
+  },
+  {
+    "word": "dice",
+    "kk": "[daɪs]",
+    "pos": "v.",
+    "meaning": "切丁",
+    "examples": [
+      { "en": "Dice the onion into small cubes.", "zh": "把洋蔥切成小丁。" },
+      { "en": "Dice the potatoes for the stew.", "zh": "把馬鈴薯切丁做燉菜。" }
+    ],
+    "img": "diced onion cubes on board",
+    "theme": "烹飪食譜",
+    "level": 2
+  },
+  {
+    "word": "spatula",
+    "kk": "[ˈspætʃələ]",
+    "pos": "n.",
+    "meaning": "鍋鏟；抹刀",
+    "examples": [
+      { "en": "Use a spatula to flip the egg.", "zh": "用鍋鏟翻蛋。" },
+      { "en": "The spatula is in the drawer.", "zh": "鍋鏟在抽屜裡。" }
+    ],
+    "img": "spatula lifting fried egg",
+    "theme": "烹飪食譜",
+    "level": 2
+  },
+  {
+    "word": "blender",
+    "kk": "[ˈblɛndɚ]",
+    "pos": "n.",
+    "meaning": "果汁機；攪拌機",
+    "examples": [
+      { "en": "Put the fruit in the blender.", "zh": "把水果放進果汁機。" },
+      { "en": "The blender makes smooth soup.", "zh": "果汁機能打出滑順的湯。" }
+    ],
+    "img": "blender full of fruit smoothie",
+    "theme": "烹飪食譜",
+    "level": 2
+  },
+  {
+    "word": "cutting board",
+    "kk": "[ˈkʌtɪŋ bɔrd]",
+    "pos": "n.",
+    "meaning": "砧板",
+    "examples": [
+      { "en": "Chop the herbs on the cutting board.", "zh": "在砧板上切香草。" },
+      { "en": "Wash the cutting board after use.", "zh": "用完後清洗砧板。" }
+    ],
+    "img": "wooden cutting board with vegetables",
+    "theme": "烹飪食譜",
+    "level": 2
+  },
+  {
+    "word": "ingredient",
+    "kk": "[ɪnˈɡridɪənt]",
+    "pos": "n.",
+    "meaning": "食材；原料",
+    "examples": [
+      { "en": "Gather all the ingredients first.", "zh": "先把所有食材備齊。" },
+      { "en": "This recipe uses simple ingredients.", "zh": "這食譜用的是簡單的食材。" }
+    ],
+    "img": "fresh ingredients laid out on table",
+    "theme": "烹飪食譜",
+    "level": 2
+  },
+  {
+    "word": "measure",
+    "kk": "[ˈmɛʒɚ]",
+    "pos": "v.",
+    "meaning": "量；測量",
+    "examples": [
+      { "en": "Measure one cup of flour.", "zh": "量一杯麵粉。" },
+      { "en": "Measure the ingredients carefully.", "zh": "仔細量好食材。" }
+    ],
+    "img": "measuring flour with measuring cup",
+    "theme": "烹飪食譜",
+    "level": 2
+  },
+  {
+    "word": "preheat",
+    "kk": "[priˈhit]",
+    "pos": "v.",
+    "meaning": "預熱",
+    "examples": [
+      { "en": "Preheat the oven before baking.", "zh": "烘烤前先預熱烤箱。" },
+      { "en": "Remember to preheat it to 200.", "zh": "記得預熱到200度。" }
+    ],
+    "img": "oven display showing preheat temperature",
+    "theme": "烹飪食譜",
+    "level": 3
+  },
+  {
+    "word": "drain",
+    "kk": "[dren]",
+    "pos": "v.",
+    "meaning": "瀝乾；濾掉水",
+    "examples": [
+      { "en": "Drain the pasta in a colander.", "zh": "用濾網把義大利麵瀝乾。" },
+      { "en": "Drain the water before serving.", "zh": "上桌前把水濾掉。" }
+    ],
+    "img": "draining pasta in a colander",
+    "theme": "烹飪食譜",
+    "level": 3
+  },
+  {
+    "word": "garnish",
+    "kk": "[ˈɡɑrnɪʃ]",
+    "pos": "v.",
+    "meaning": "裝飾（菜餚）",
+    "examples": [
+      { "en": "Garnish the dish with parsley.", "zh": "用巴西里裝飾這道菜。" },
+      { "en": "Garnish it with a slice of lemon.", "zh": "用一片檸檬點綴。" }
+    ],
+    "img": "dish garnished with green herbs",
+    "theme": "烹飪食譜",
+    "level": 3
+  },
+  {
+    "word": "mince",
+    "kk": "[mɪns]",
+    "pos": "v.",
+    "meaning": "剁碎；絞（肉）",
+    "examples": [
+      { "en": "Mince the garlic very finely.", "zh": "把大蒜剁得很碎。" },
+      { "en": "We mince the pork for dumplings.", "zh": "我們把豬肉絞碎包餃子。" }
+    ],
+    "img": "minced garlic on cutting board",
+    "theme": "烹飪食譜",
+    "level": 3
+  },
+  {
+    "word": "whip",
+    "kk": "[hwɪp]",
+    "pos": "v.",
+    "meaning": "打發；攪打起泡",
+    "examples": [
+      { "en": "Whip the cream until stiff.", "zh": "把鮮奶油打到硬挺。" },
+      { "en": "Whip the egg whites for the cake.", "zh": "把蛋白打發做蛋糕。" }
+    ],
+    "img": "whipping cream in bowl until fluffy",
+    "theme": "烹飪食譜",
+    "level": 3
+  },
+  {
+    "word": "sauté",
+    "kk": "[soˈte]",
+    "pos": "v.",
+    "meaning": "嫩煎；快炒",
+    "examples": [
+      { "en": "Sauté the mushrooms in butter.", "zh": "用奶油快炒蘑菇。" },
+      { "en": "Sauté the onions until soft.", "zh": "把洋蔥炒到變軟。" }
+    ],
+    "img": "sauteing mushrooms in butter pan",
+    "theme": "烹飪食譜",
+    "level": 3
+  },
+  {
+    "word": "seasoning",
+    "kk": "[ˈsizn̩ɪŋ]",
+    "pos": "n.",
+    "meaning": "調味料",
+    "examples": [
+      { "en": "Add your favorite seasoning.", "zh": "加入你喜歡的調味料。" },
+      { "en": "The seasoning makes it tasty.", "zh": "調味料讓它更好吃。" }
+    ],
+    "img": "assorted seasonings in small jars",
+    "theme": "烹飪食譜",
+    "level": 3
+  },
+  {
+    "word": "colander",
+    "kk": "[ˈkʌləndɚ]",
+    "pos": "n.",
+    "meaning": "濾網；瀝水籃",
+    "examples": [
+      { "en": "Rinse the rice in a colander.", "zh": "用濾網洗米。" },
+      { "en": "Put the noodles in the colander.", "zh": "把麵放進瀝水籃。" }
+    ],
+    "img": "metal colander with washed vegetables",
+    "theme": "烹飪食譜",
+    "level": 3
+  },
+  {
+    "word": "batter",
+    "kk": "[ˈbætɚ]",
+    "pos": "n.",
+    "meaning": "麵糊",
+    "examples": [
+      { "en": "Pour the batter into the pan.", "zh": "把麵糊倒進鍋裡。" },
+      { "en": "The batter should be smooth.", "zh": "麵糊應該要滑順。" }
+    ],
+    "img": "pouring pancake batter into pan",
+    "theme": "烹飪食譜",
+    "level": 3
+  }
+]

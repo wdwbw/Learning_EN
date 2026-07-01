@@ -1,0 +1,652 @@
+[
+  {
+    "word": "logic",
+    "kk": "[ˈlɑdʒɪk]",
+    "pos": "n.",
+    "meaning": "邏輯;推理法則",
+    "examples": [
+      { "en": "Her argument follows clear logic.", "zh": "她的論點依循清晰的邏輯。" },
+      { "en": "There is no logic in his decision.", "zh": "他的決定毫無邏輯可言。" }
+    ],
+    "img": "brain with connected gears",
+    "theme": "哲學思考",
+    "level": 2
+  },
+  {
+    "word": "reason",
+    "kk": "[ˈrizn̩]",
+    "pos": "n./v.",
+    "meaning": "理性;推理",
+    "examples": [
+      { "en": "Humans use reason to solve problems.", "zh": "人類運用理性來解決問題。" },
+      { "en": "She reasoned that the plan would fail.", "zh": "她推論這個計畫會失敗。" }
+    ],
+    "img": "person thinking with lightbulb",
+    "theme": "哲學思考",
+    "level": 2
+  },
+  {
+    "word": "belief",
+    "kk": "[bɪˈlif]",
+    "pos": "n.",
+    "meaning": "信念;相信",
+    "examples": [
+      { "en": "His belief in honesty never changed.", "zh": "他對誠實的信念從未改變。" },
+      { "en": "People have different beliefs about life.", "zh": "人們對人生有不同的信念。" }
+    ],
+    "img": "hand on heart",
+    "theme": "哲學思考",
+    "level": 2
+  },
+  {
+    "word": "argument",
+    "kk": "[ˈɑrɡjəmənt]",
+    "pos": "n.",
+    "meaning": "論點;論證",
+    "examples": [
+      { "en": "He made a strong argument for change.", "zh": "他提出強而有力的變革論點。" },
+      { "en": "Her argument convinced the whole class.", "zh": "她的論證說服了全班。" }
+    ],
+    "img": "two speech bubbles debating",
+    "theme": "哲學思考",
+    "level": 2
+  },
+  {
+    "word": "moral",
+    "kk": "[ˈmɔrəl]",
+    "pos": "adj./n.",
+    "meaning": "道德的;寓意",
+    "examples": [
+      { "en": "Lying is a moral question.", "zh": "說謊是個道德問題。" },
+      { "en": "The story has a clear moral.", "zh": "這故事有明確的寓意。" }
+    ],
+    "img": "scale weighing right and wrong",
+    "theme": "哲學思考",
+    "level": 2
+  },
+  {
+    "word": "ethics",
+    "kk": "[ˈɛθɪks]",
+    "pos": "n.",
+    "meaning": "倫理;道德規範",
+    "examples": [
+      { "en": "Doctors must follow medical ethics.", "zh": "醫生必須遵守醫學倫理。" },
+      { "en": "Business ethics protect customers.", "zh": "商業倫理保護顧客。" }
+    ],
+    "img": "balance scale with compass",
+    "theme": "哲學思考",
+    "level": 3
+  },
+  {
+    "word": "existence",
+    "kk": "[ɪɡˈzɪstəns]",
+    "pos": "n.",
+    "meaning": "存在;生存",
+    "examples": [
+      { "en": "They debated the existence of aliens.", "zh": "他們辯論外星人的存在。" },
+      { "en": "Water is vital for our existence.", "zh": "水對我們的生存至關重要。" }
+    ],
+    "img": "single figure under vast sky",
+    "theme": "哲學思考",
+    "level": 3
+  },
+  {
+    "word": "exist",
+    "kk": "[ɪɡˈzɪst]",
+    "pos": "v.",
+    "meaning": "存在;生存",
+    "examples": [
+      { "en": "Do ghosts really exist?", "zh": "鬼真的存在嗎?" },
+      { "en": "These plants exist only in deserts.", "zh": "這些植物只存在於沙漠中。" }
+    ],
+    "img": "glowing dot in empty space",
+    "theme": "哲學思考",
+    "level": 2
+  },
+  {
+    "word": "truth",
+    "kk": "[truθ]",
+    "pos": "n.",
+    "meaning": "真相;真理",
+    "examples": [
+      { "en": "She always tells the truth.", "zh": "她總是說實話。" },
+      { "en": "Finding truth takes patience.", "zh": "尋找真理需要耐心。" }
+    ],
+    "img": "magnifying glass over word truth",
+    "theme": "哲學思考",
+    "level": 2
+  },
+  {
+    "word": "wisdom",
+    "kk": "[ˈwɪzdəm]",
+    "pos": "n.",
+    "meaning": "智慧;明智",
+    "examples": [
+      { "en": "Age often brings wisdom.", "zh": "年紀常帶來智慧。" },
+      { "en": "Her wisdom guided the team.", "zh": "她的智慧引導了團隊。" }
+    ],
+    "img": "old owl on books",
+    "theme": "哲學思考",
+    "level": 2
+  },
+  {
+    "word": "doubt",
+    "kk": "[daʊt]",
+    "pos": "n./v.",
+    "meaning": "懷疑;疑慮",
+    "examples": [
+      { "en": "I have no doubt about her skill.", "zh": "我對她的能力毫不懷疑。" },
+      { "en": "He doubted the strange news.", "zh": "他懷疑這則奇怪的消息。" }
+    ],
+    "img": "person with question marks",
+    "theme": "哲學思考",
+    "level": 2
+  },
+  {
+    "word": "proof",
+    "kk": "[pruf]",
+    "pos": "n.",
+    "meaning": "證據;證明",
+    "examples": [
+      { "en": "Do you have proof of your claim?", "zh": "你有證據支持你的主張嗎?" },
+      { "en": "The photo is proof he was there.", "zh": "這張照片證明他當時在場。" }
+    ],
+    "img": "stamped document with checkmark",
+    "theme": "哲學思考",
+    "level": 2
+  },
+  {
+    "word": "evidence",
+    "kk": "[ˈɛvədəns]",
+    "pos": "n.",
+    "meaning": "證據;跡象",
+    "examples": [
+      { "en": "The police found new evidence.", "zh": "警方找到新的證據。" },
+      { "en": "There is no evidence to support it.", "zh": "沒有證據支持這說法。" }
+    ],
+    "img": "magnifying glass over footprints",
+    "theme": "哲學思考",
+    "level": 3
+  },
+  {
+    "word": "assume",
+    "kk": "[əˈsum]",
+    "pos": "v.",
+    "meaning": "假設;認定",
+    "examples": [
+      { "en": "Don't assume he is wrong.", "zh": "別認定他是錯的。" },
+      { "en": "I assume you already ate.", "zh": "我猜你已經吃過了。" }
+    ],
+    "img": "thought bubble with guess mark",
+    "theme": "哲學思考",
+    "level": 3
+  },
+  {
+    "word": "conclude",
+    "kk": "[kənˈklud]",
+    "pos": "v.",
+    "meaning": "推斷;結論",
+    "examples": [
+      { "en": "We conclude that the test failed.", "zh": "我們推斷測試失敗了。" },
+      { "en": "She concluded her speech calmly.", "zh": "她平靜地結束演講。" }
+    ],
+    "img": "final puzzle piece placed",
+    "theme": "哲學思考",
+    "level": 3
+  },
+  {
+    "word": "conclusion",
+    "kk": "[kənˈkluʒən]",
+    "pos": "n.",
+    "meaning": "結論;推論",
+    "examples": [
+      { "en": "His conclusion surprised everyone.", "zh": "他的結論讓大家吃驚。" },
+      { "en": "We reached the same conclusion.", "zh": "我們得出相同的結論。" }
+    ],
+    "img": "arrow pointing to end box",
+    "theme": "哲學思考",
+    "level": 3
+  },
+  {
+    "word": "premise",
+    "kk": "[ˈprɛmɪs]",
+    "pos": "n.",
+    "meaning": "前提;假設",
+    "examples": [
+      { "en": "The plan rests on a false premise.", "zh": "這計畫建立在錯誤的前提上。" },
+      { "en": "Accept the premise before you judge.", "zh": "先接受前提再作判斷。" }
+    ],
+    "img": "foundation blocks under building",
+    "theme": "哲學思考",
+    "level": 3
+  },
+  {
+    "word": "judge",
+    "kk": "[dʒʌdʒ]",
+    "pos": "v./n.",
+    "meaning": "判斷;評判",
+    "examples": [
+      { "en": "Don't judge people by looks.", "zh": "別以貌取人。" },
+      { "en": "She is a fair judge of talent.", "zh": "她是公正的才能評判者。" }
+    ],
+    "img": "wooden gavel on table",
+    "theme": "哲學思考",
+    "level": 2
+  },
+  {
+    "word": "judgment",
+    "kk": "[ˈdʒʌdʒmənt]",
+    "pos": "n.",
+    "meaning": "判斷力;評斷",
+    "examples": [
+      { "en": "Trust your own judgment.", "zh": "相信你自己的判斷。" },
+      { "en": "Good judgment comes with age.", "zh": "良好的判斷力隨年紀而來。" }
+    ],
+    "img": "balanced scale in mind",
+    "theme": "哲學思考",
+    "level": 3
+  },
+  {
+    "word": "value",
+    "kk": "[ˈvælju]",
+    "pos": "n./v.",
+    "meaning": "價值觀;重視",
+    "examples": [
+      { "en": "Honesty is one of her values.", "zh": "誠實是她的價值觀之一。" },
+      { "en": "We value your honest opinion.", "zh": "我們重視你誠實的意見。" }
+    ],
+    "img": "gem on open hand",
+    "theme": "哲學思考",
+    "level": 2
+  },
+  {
+    "word": "principle",
+    "kk": "[ˈprɪnsəpl̩]",
+    "pos": "n.",
+    "meaning": "原則;準則",
+    "examples": [
+      { "en": "He never breaks his principles.", "zh": "他從不違背自己的原則。" },
+      { "en": "Fairness is a basic principle.", "zh": "公平是基本原則。" }
+    ],
+    "img": "carved stone rule tablet",
+    "theme": "哲學思考",
+    "level": 3
+  },
+  {
+    "word": "virtue",
+    "kk": "[ˈvɝtʃu]",
+    "pos": "n.",
+    "meaning": "美德;優點",
+    "examples": [
+      { "en": "Patience is a great virtue.", "zh": "耐心是一種美德。" },
+      { "en": "Kindness is her main virtue.", "zh": "善良是她主要的美德。" }
+    ],
+    "img": "shining halo over heart",
+    "theme": "哲學思考",
+    "level": 3
+  },
+  {
+    "word": "justice",
+    "kk": "[ˈdʒʌstɪs]",
+    "pos": "n.",
+    "meaning": "正義;公正",
+    "examples": [
+      { "en": "The people demanded justice.", "zh": "人民要求正義。" },
+      { "en": "Justice must treat all equally.", "zh": "正義必須平等對待每個人。" }
+    ],
+    "img": "blindfolded figure with scales",
+    "theme": "哲學思考",
+    "level": 3
+  },
+  {
+    "word": "conscience",
+    "kk": "[ˈkɑnʃəns]",
+    "pos": "n.",
+    "meaning": "良心;良知",
+    "examples": [
+      { "en": "His conscience told him to help.", "zh": "他的良心叫他去幫忙。" },
+      { "en": "She acted with a clear conscience.", "zh": "她問心無愧地行動。" }
+    ],
+    "img": "small angel on shoulder",
+    "theme": "哲學思考",
+    "level": 3
+  },
+  {
+    "word": "rational",
+    "kk": "[ˈræʃənl̩]",
+    "pos": "adj.",
+    "meaning": "理性的;合理的",
+    "examples": [
+      { "en": "Try to make a rational choice.", "zh": "試著做出理性的選擇。" },
+      { "en": "His fear was not rational.", "zh": "他的恐懼並不理性。" }
+    ],
+    "img": "cool head with clear diagram",
+    "theme": "哲學思考",
+    "level": 3
+  },
+  {
+    "word": "valid",
+    "kk": "[ˈvælɪd]",
+    "pos": "adj.",
+    "meaning": "有效的;站得住腳的",
+    "examples": [
+      { "en": "That is a valid point.", "zh": "那是個站得住腳的論點。" },
+      { "en": "Her reason seems quite valid.", "zh": "她的理由看來相當合理。" }
+    ],
+    "img": "green checkmark on paper",
+    "theme": "哲學思考",
+    "level": 3
+  },
+  {
+    "word": "define",
+    "kk": "[dɪˈfaɪn]",
+    "pos": "v.",
+    "meaning": "定義;界定",
+    "examples": [
+      { "en": "Can you define happiness?", "zh": "你能定義快樂嗎?" },
+      { "en": "The law defines what is legal.", "zh": "法律界定什麼是合法的。" }
+    ],
+    "img": "dictionary with highlighted word",
+    "theme": "哲學思考",
+    "level": 2
+  },
+  {
+    "word": "define",
+    "kk": "[dɪˈfaɪn]",
+    "pos": "v.",
+    "meaning": "定義;界定",
+    "examples": [
+      { "en": "Words define our thoughts.", "zh": "文字界定我們的思想。" },
+      { "en": "Let's define the problem first.", "zh": "我們先界定問題。" }
+    ],
+    "img": "pen drawing a clear boundary",
+    "theme": "哲學思考",
+    "level": 2
+  },
+  {
+    "word": "question",
+    "kk": "[ˈkwɛstʃən]",
+    "pos": "v./n.",
+    "meaning": "質疑;問題",
+    "examples": [
+      { "en": "She questioned the old rule.", "zh": "她質疑那條舊規則。" },
+      { "en": "That is a deep question.", "zh": "那是個深奧的問題。" }
+    ],
+    "img": "large glowing question mark",
+    "theme": "哲學思考",
+    "level": 2
+  },
+  {
+    "word": "opinion",
+    "kk": "[əˈpɪnjən]",
+    "pos": "n.",
+    "meaning": "意見;看法",
+    "examples": [
+      { "en": "Everyone has their own opinion.", "zh": "每個人都有自己的看法。" },
+      { "en": "In my opinion, she is right.", "zh": "在我看來,她是對的。" }
+    ],
+    "img": "speech bubble with pointing hand",
+    "theme": "哲學思考",
+    "level": 2
+  },
+  {
+    "word": "theory",
+    "kk": "[ˈθiəri]",
+    "pos": "n.",
+    "meaning": "理論;學說",
+    "examples": [
+      { "en": "His theory is hard to prove.", "zh": "他的理論很難證明。" },
+      { "en": "In theory, the plan works well.", "zh": "理論上,這計畫運作良好。" }
+    ],
+    "img": "chalkboard with equations",
+    "theme": "哲學思考",
+    "level": 2
+  },
+  {
+    "word": "meaning",
+    "kk": "[ˈminɪŋ]",
+    "pos": "n.",
+    "meaning": "意義;含義",
+    "examples": [
+      { "en": "People search for life's meaning.", "zh": "人們尋找人生的意義。" },
+      { "en": "What is the meaning of this word?", "zh": "這個字的意思是什麼?" }
+    ],
+    "img": "path leading to bright horizon",
+    "theme": "哲學思考",
+    "level": 2
+  },
+  {
+    "word": "purpose",
+    "kk": "[ˈpɝpəs]",
+    "pos": "n.",
+    "meaning": "目的;宗旨",
+    "examples": [
+      { "en": "She found her purpose in teaching.", "zh": "她在教學中找到了人生目標。" },
+      { "en": "What is the purpose of this rule?", "zh": "這條規則的目的是什麼?" }
+    ],
+    "img": "arrow hitting a target center",
+    "theme": "哲學思考",
+    "level": 2
+  },
+  {
+    "word": "assumption",
+    "kk": "[əˈsʌmpʃən]",
+    "pos": "n.",
+    "meaning": "假設;假定",
+    "examples": [
+      { "en": "Your assumption may be wrong.", "zh": "你的假設可能是錯的。" },
+      { "en": "We made too many assumptions.", "zh": "我們做了太多假設。" }
+    ],
+    "img": "dotted question sketch",
+    "theme": "哲學思考",
+    "level": 3
+  },
+  {
+    "word": "bias",
+    "kk": "[ˈbaɪəs]",
+    "pos": "n.",
+    "meaning": "偏見;偏誤",
+    "examples": [
+      { "en": "Try to judge without bias.", "zh": "試著不帶偏見地判斷。" },
+      { "en": "The report showed clear bias.", "zh": "那份報告有明顯偏見。" }
+    ],
+    "img": "tilted unbalanced scale",
+    "theme": "哲學思考",
+    "level": 3
+  },
+  {
+    "word": "claim",
+    "kk": "[klem]",
+    "pos": "v./n.",
+    "meaning": "主張;聲稱",
+    "examples": [
+      { "en": "He claims the theory is false.", "zh": "他主張這理論是錯的。" },
+      { "en": "Her claim needs more support.", "zh": "她的主張需要更多支持。" }
+    ],
+    "img": "raised hand making a point",
+    "theme": "哲學思考",
+    "level": 3
+  },
+  {
+    "word": "prove",
+    "kk": "[pruv]",
+    "pos": "v.",
+    "meaning": "證明;證實",
+    "examples": [
+      { "en": "Can you prove your idea?", "zh": "你能證明你的想法嗎?" },
+      { "en": "The results proved him right.", "zh": "結果證明他是對的。" }
+    ],
+    "img": "hand placing final evidence",
+    "theme": "哲學思考",
+    "level": 2
+  },
+  {
+    "word": "deny",
+    "kk": "[dɪˈnaɪ]",
+    "pos": "v.",
+    "meaning": "否認;拒絕承認",
+    "examples": [
+      { "en": "He denied taking the money.", "zh": "他否認拿了錢。" },
+      { "en": "You cannot deny the facts.", "zh": "你無法否認事實。" }
+    ],
+    "img": "hand pushing away a paper",
+    "theme": "哲學思考",
+    "level": 2
+  },
+  {
+    "word": "aware",
+    "kk": "[əˈwɛr]",
+    "pos": "adj.",
+    "meaning": "察覺的;意識到的",
+    "examples": [
+      { "en": "She is aware of her own bias.", "zh": "她意識到自己的偏見。" },
+      { "en": "Be aware of the risks first.", "zh": "先意識到風險。" }
+    ],
+    "img": "open eye with light beam",
+    "theme": "哲學思考",
+    "level": 3
+  },
+  {
+    "word": "perceive",
+    "kk": "[pɚˈsiv]",
+    "pos": "v.",
+    "meaning": "感知;察覺",
+    "examples": [
+      { "en": "We perceive colors differently.", "zh": "我們對顏色的感知不同。" },
+      { "en": "He perceived the hidden danger.", "zh": "他察覺到潛藏的危險。" }
+    ],
+    "img": "eye sensing colored waves",
+    "theme": "哲學思考",
+    "level": 3
+  },
+  {
+    "word": "reality",
+    "kk": "[riˈæləti]",
+    "pos": "n.",
+    "meaning": "現實;真實",
+    "examples": [
+      { "en": "Dreams are not reality.", "zh": "夢不是現實。" },
+      { "en": "She faced reality bravely.", "zh": "她勇敢地面對現實。" }
+    ],
+    "img": "hand touching solid ground",
+    "theme": "哲學思考",
+    "level": 3
+  },
+  {
+    "word": "identity",
+    "kk": "[aɪˈdɛntəti]",
+    "pos": "n.",
+    "meaning": "身分;自我認同",
+    "examples": [
+      { "en": "Travel shaped his identity.", "zh": "旅行塑造了他的自我認同。" },
+      { "en": "She kept her cultural identity.", "zh": "她保有自己的文化認同。" }
+    ],
+    "img": "mirror reflecting a face",
+    "theme": "哲學思考",
+    "level": 3
+  },
+  {
+    "word": "free will",
+    "kk": "[ˌfri ˈwɪl]",
+    "pos": "n.",
+    "meaning": "自由意志",
+    "examples": [
+      { "en": "He chose it of his own free will.", "zh": "他出於自由意志做了選擇。" },
+      { "en": "Do we truly have free will?", "zh": "我們真的擁有自由意志嗎?" }
+    ],
+    "img": "hand cutting puppet strings",
+    "theme": "哲學思考",
+    "level": 3
+  },
+  {
+    "word": "fate",
+    "kk": "[fet]",
+    "pos": "n.",
+    "meaning": "命運;宿命",
+    "examples": [
+      { "en": "Some believe in fate.", "zh": "有些人相信命運。" },
+      { "en": "She fought against her fate.", "zh": "她對抗自己的命運。" }
+    ],
+    "img": "winding road with dice",
+    "theme": "哲學思考",
+    "level": 2
+  },
+  {
+    "word": "consequence",
+    "kk": "[ˈkɑnsəˌkwɛns]",
+    "pos": "n.",
+    "meaning": "後果;結果",
+    "examples": [
+      { "en": "Every choice has consequences.", "zh": "每個選擇都有後果。" },
+      { "en": "He accepted the consequences.", "zh": "他接受了後果。" }
+    ],
+    "img": "falling row of dominoes",
+    "theme": "哲學思考",
+    "level": 3
+  },
+  {
+    "word": "responsible",
+    "kk": "[rɪˈspɑnsəbl̩]",
+    "pos": "adj.",
+    "meaning": "負責的;應負責的",
+    "examples": [
+      { "en": "We are responsible for our acts.", "zh": "我們要為自己的行為負責。" },
+      { "en": "She is a responsible leader.", "zh": "她是個負責任的領導者。" }
+    ],
+    "img": "hands holding a globe",
+    "theme": "哲學思考",
+    "level": 3
+  },
+  {
+    "word": "convince",
+    "kk": "[kənˈvɪns]",
+    "pos": "v.",
+    "meaning": "說服;使信服",
+    "examples": [
+      { "en": "He convinced me to change my mind.", "zh": "他說服我改變主意。" },
+      { "en": "Facts convinced the doubtful crowd.", "zh": "事實說服了懷疑的群眾。" }
+    ],
+    "img": "two hands meeting in agreement",
+    "theme": "哲學思考",
+    "level": 3
+  },
+  {
+    "word": "reflect",
+    "kk": "[rɪˈflɛkt]",
+    "pos": "v.",
+    "meaning": "反思;深思",
+    "examples": [
+      { "en": "She reflected on her mistakes.", "zh": "她反思自己的錯誤。" },
+      { "en": "Take time to reflect quietly.", "zh": "花點時間靜靜地反思。" }
+    ],
+    "img": "person gazing at still water",
+    "theme": "哲學思考",
+    "level": 3
+  },
+  {
+    "word": "wonder",
+    "kk": "[ˈwʌndɚ]",
+    "pos": "v./n.",
+    "meaning": "好奇;思索",
+    "examples": [
+      { "en": "I wonder why we dream.", "zh": "我好奇我們為何做夢。" },
+      { "en": "Children look at stars with wonder.", "zh": "孩子帶著好奇望向星星。" }
+    ],
+    "img": "child gazing at night sky",
+    "theme": "哲學思考",
+    "level": 2
+  },
+  {
+    "word": "contradict",
+    "kk": "[ˌkɑntrəˈdɪkt]",
+    "pos": "v.",
+    "meaning": "矛盾;反駁",
+    "examples": [
+      { "en": "His words contradict his actions.", "zh": "他的言語與行為互相矛盾。" },
+      { "en": "Don't contradict the clear facts.", "zh": "別反駁明擺的事實。" }
+    ],
+    "img": "two arrows pointing opposite ways",
+    "theme": "哲學思考",
+    "level": 3
+  }
+]

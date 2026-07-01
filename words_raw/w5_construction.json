@@ -1,0 +1,652 @@
+[
+  {
+    "word": "foundation",
+    "kk": "[faʊnˈdeʃən]",
+    "pos": "n.",
+    "meaning": "地基;基礎",
+    "examples": [
+      { "en": "Workers poured concrete to build the foundation of the tower.", "zh": "工人灌注混凝土來建造這座塔的地基。" },
+      { "en": "A strong foundation keeps the whole building stable.", "zh": "穩固的地基讓整棟建築保持穩定。" }
+    ],
+    "img": "concrete building foundation being poured at site",
+    "theme": "建築工程",
+    "level": 2
+  },
+  {
+    "word": "structure",
+    "kk": "[ˈstrʌktʃɚ]",
+    "pos": "n.",
+    "meaning": "結構;構造物",
+    "examples": [
+      { "en": "The bridge is a huge steel structure over the river.", "zh": "這座橋是橫跨河流的巨大鋼構結構。" },
+      { "en": "Engineers checked the structure for any cracks.", "zh": "工程師檢查這個結構是否有任何裂縫。" }
+    ],
+    "img": "large steel structure over a river",
+    "theme": "建築工程",
+    "level": 2
+  },
+  {
+    "word": "concrete",
+    "kk": "[ˈkɑnkrit]",
+    "pos": "n.",
+    "meaning": "混凝土",
+    "examples": [
+      { "en": "The truck delivered wet concrete to the site.", "zh": "卡車把濕的混凝土運送到工地。" },
+      { "en": "They let the concrete dry for a few days.", "zh": "他們讓混凝土乾燥幾天。" }
+    ],
+    "img": "concrete mixer truck pouring at construction site",
+    "theme": "建築工程",
+    "level": 2
+  },
+  {
+    "word": "beam",
+    "kk": "[bim]",
+    "pos": "n.",
+    "meaning": "橫樑;樑",
+    "examples": [
+      { "en": "A steel beam supports the ceiling of the hall.", "zh": "一根鋼樑支撐著大廳的天花板。" },
+      { "en": "The crane lifted the heavy beam into place.", "zh": "起重機把沉重的橫樑吊放到定位。" }
+    ],
+    "img": "steel beam being lifted by crane",
+    "theme": "建築工程",
+    "level": 2
+  },
+  {
+    "word": "column",
+    "kk": "[ˈkɑləm]",
+    "pos": "n.",
+    "meaning": "柱子;圓柱",
+    "examples": [
+      { "en": "Tall columns hold up the roof of the station.", "zh": "高大的柱子撐起了車站的屋頂。" },
+      { "en": "Each column is made of reinforced concrete.", "zh": "每根柱子都是用鋼筋混凝土製成的。" }
+    ],
+    "img": "tall concrete columns supporting a station roof",
+    "theme": "建築工程",
+    "level": 2
+  },
+  {
+    "word": "scaffold",
+    "kk": "[ˈskæfl̩d]",
+    "pos": "n.",
+    "meaning": "鷹架;施工架",
+    "examples": [
+      { "en": "Workers climbed the scaffold to paint the wall.", "zh": "工人爬上鷹架去粉刷牆面。" },
+      { "en": "The scaffold surrounds the whole building.", "zh": "鷹架環繞著整棟建築。" }
+    ],
+    "img": "metal scaffold around a building under construction",
+    "theme": "建築工程",
+    "level": 3
+  },
+  {
+    "word": "crane",
+    "kk": "[kren]",
+    "pos": "n.",
+    "meaning": "起重機;吊車",
+    "examples": [
+      { "en": "The crane lifted steel bars to the top floor.", "zh": "起重機把鋼筋吊到了頂樓。" },
+      { "en": "A tall crane stands over the construction site.", "zh": "一台高大的吊車矗立在工地上方。" }
+    ],
+    "img": "tall tower crane over a construction site",
+    "theme": "建築工程",
+    "level": 2
+  },
+  {
+    "word": "blueprint",
+    "kk": "[ˈbluˌprɪnt]",
+    "pos": "n.",
+    "meaning": "藍圖;設計圖",
+    "examples": [
+      { "en": "The architect showed us the blueprint of the house.", "zh": "建築師向我們展示了房子的藍圖。" },
+      { "en": "They followed the blueprint step by step.", "zh": "他們一步步照著設計圖施工。" }
+    ],
+    "img": "architect holding a building blueprint",
+    "theme": "建築工程",
+    "level": 3
+  },
+  {
+    "word": "architect",
+    "kk": "[ˈɑrkəˌtɛkt]",
+    "pos": "n.",
+    "meaning": "建築師",
+    "examples": [
+      { "en": "The architect designed a modern glass building.", "zh": "這位建築師設計了一棟現代的玻璃建築。" },
+      { "en": "She wants to become an architect one day.", "zh": "她希望有一天成為建築師。" }
+    ],
+    "img": "architect drawing plans at a desk",
+    "theme": "建築工程",
+    "level": 3
+  },
+  {
+    "word": "engineer",
+    "kk": "[ˌɛndʒəˈnɪr]",
+    "pos": "n.",
+    "meaning": "工程師",
+    "examples": [
+      { "en": "The engineer checked the safety of the bridge.", "zh": "工程師檢查了這座橋的安全性。" },
+      { "en": "A civil engineer plans roads and tunnels.", "zh": "土木工程師規劃道路和隧道。" }
+    ],
+    "img": "engineer with hard hat reviewing plans on site",
+    "theme": "建築工程",
+    "level": 2
+  },
+  {
+    "word": "cement",
+    "kk": "[səˈmɛnt]",
+    "pos": "n.",
+    "meaning": "水泥",
+    "examples": [
+      { "en": "They mixed cement with sand and water.", "zh": "他們把水泥和沙子與水混合。" },
+      { "en": "The wall is held together by cement.", "zh": "這面牆是靠水泥黏合在一起的。" }
+    ],
+    "img": "worker mixing cement in a bucket",
+    "theme": "建築工程",
+    "level": 2
+  },
+  {
+    "word": "steel",
+    "kk": "[stil]",
+    "pos": "n.",
+    "meaning": "鋼;鋼材",
+    "examples": [
+      { "en": "The frame of the tower is made of steel.", "zh": "這座塔的骨架是用鋼材製成的。" },
+      { "en": "Steel is strong enough to hold heavy loads.", "zh": "鋼材夠堅固,足以承受重物。" }
+    ],
+    "img": "stacks of steel bars at a construction yard",
+    "theme": "建築工程",
+    "level": 2
+  },
+  {
+    "word": "brick",
+    "kk": "[brɪk]",
+    "pos": "n.",
+    "meaning": "磚;磚塊",
+    "examples": [
+      { "en": "The old house was built of red brick.", "zh": "這棟老房子是用紅磚砌成的。" },
+      { "en": "He laid one brick on top of another.", "zh": "他把一塊磚疊在另一塊磚上。" }
+    ],
+    "img": "worker laying red bricks on a wall",
+    "theme": "建築工程",
+    "level": 2
+  },
+  {
+    "word": "gravel",
+    "kk": "[ˈɡrævl̩]",
+    "pos": "n.",
+    "meaning": "碎石;砂礫",
+    "examples": [
+      { "en": "They spread gravel over the muddy path.", "zh": "他們在泥濘的小路上鋪了碎石。" },
+      { "en": "Gravel is often mixed into concrete.", "zh": "砂礫常被混入混凝土中。" }
+    ],
+    "img": "pile of gravel at a construction site",
+    "theme": "建築工程",
+    "level": 3
+  },
+  {
+    "word": "girder",
+    "kk": "[ˈɡɝdɚ]",
+    "pos": "n.",
+    "meaning": "大樑;桁架樑",
+    "examples": [
+      { "en": "Steel girders form the frame of the bridge.", "zh": "鋼製大樑構成了橋的骨架。" },
+      { "en": "The workers bolted the girders together.", "zh": "工人們用螺栓把大樑鎖在一起。" }
+    ],
+    "img": "steel girders forming a bridge frame",
+    "theme": "建築工程",
+    "level": 3
+  },
+  {
+    "word": "tunnel",
+    "kk": "[ˈtʌnl̩]",
+    "pos": "n.",
+    "meaning": "隧道",
+    "examples": [
+      { "en": "The train passes through a long tunnel.", "zh": "火車穿過一條長長的隧道。" },
+      { "en": "Engineers dug the tunnel under the mountain.", "zh": "工程師在山下挖掘了這條隧道。" }
+    ],
+    "img": "long tunnel bored through a mountain",
+    "theme": "建築工程",
+    "level": 2
+  },
+  {
+    "word": "excavate",
+    "kk": "[ˈɛkskəˌvet]",
+    "pos": "v.",
+    "meaning": "挖掘;開挖",
+    "examples": [
+      { "en": "Machines excavated the ground for the basement.", "zh": "機器為地下室開挖了地面。" },
+      { "en": "They excavated a deep hole for the pool.", "zh": "他們為泳池挖了一個深洞。" }
+    ],
+    "img": "excavator digging a deep hole at site",
+    "theme": "建築工程",
+    "level": 3
+  },
+  {
+    "word": "reinforce",
+    "kk": "[ˌriɪnˈfɔrs]",
+    "pos": "v.",
+    "meaning": "加固;強化",
+    "examples": [
+      { "en": "They reinforced the wall with steel bars.", "zh": "他們用鋼筋加固了這面牆。" },
+      { "en": "The bridge was reinforced to carry more weight.", "zh": "這座橋被加固以承受更多重量。" }
+    ],
+    "img": "steel bars reinforcing a concrete wall",
+    "theme": "建築工程",
+    "level": 3
+  },
+  {
+    "word": "survey",
+    "kk": "[ˈsɝve]",
+    "pos": "n.",
+    "meaning": "測量;勘測",
+    "examples": [
+      { "en": "The team did a survey of the land before building.", "zh": "團隊在動工前對這塊地進行了測量。" },
+      { "en": "A land survey shows the exact borders.", "zh": "土地測量能顯示出確切的邊界。" }
+    ],
+    "img": "surveyor using a tripod instrument on land",
+    "theme": "建築工程",
+    "level": 3
+  },
+  {
+    "word": "demolish",
+    "kk": "[dɪˈmɑlɪʃ]",
+    "pos": "v.",
+    "meaning": "拆除;拆毀",
+    "examples": [
+      { "en": "They will demolish the old factory next week.", "zh": "他們下週將拆除這座舊工廠。" },
+      { "en": "The building was demolished in one afternoon.", "zh": "這棟建築在一個下午內就被拆除了。" }
+    ],
+    "img": "machine demolishing an old building",
+    "theme": "建築工程",
+    "level": 3
+  },
+  {
+    "word": "pavement",
+    "kk": "[ˈpevmənt]",
+    "pos": "n.",
+    "meaning": "路面;鋪面",
+    "examples": [
+      { "en": "The crew laid new pavement on the highway.", "zh": "工人在公路上鋪設了新的路面。" },
+      { "en": "Cracks appeared in the old pavement.", "zh": "舊路面上出現了裂縫。" }
+    ],
+    "img": "crew laying asphalt pavement on a road",
+    "theme": "建築工程",
+    "level": 2
+  },
+  {
+    "word": "asphalt",
+    "kk": "[ˈæsfɔlt]",
+    "pos": "n.",
+    "meaning": "柏油;瀝青",
+    "examples": [
+      { "en": "Hot asphalt was spread across the road.", "zh": "熱柏油被鋪滿了整條道路。" },
+      { "en": "The parking lot is covered with asphalt.", "zh": "這座停車場鋪滿了柏油。" }
+    ],
+    "img": "hot asphalt being spread on a road",
+    "theme": "建築工程",
+    "level": 3
+  },
+  {
+    "word": "framework",
+    "kk": "[ˈfremˌwɝk]",
+    "pos": "n.",
+    "meaning": "骨架;框架",
+    "examples": [
+      { "en": "The steel framework of the building is finished.", "zh": "這棟建築的鋼骨架已經完成了。" },
+      { "en": "Wooden framework holds up the new roof.", "zh": "木製框架撐起了新屋頂。" }
+    ],
+    "img": "steel framework of a building under construction",
+    "theme": "建築工程",
+    "level": 2
+  },
+  {
+    "word": "load",
+    "kk": "[lod]",
+    "pos": "n.",
+    "meaning": "負載;荷重",
+    "examples": [
+      { "en": "The bridge can carry a heavy load of trucks.", "zh": "這座橋可以承載卡車的重負載。" },
+      { "en": "Engineers calculate the load on each column.", "zh": "工程師會計算每根柱子承受的荷重。" }
+    ],
+    "img": "loaded trucks crossing a bridge",
+    "theme": "建築工程",
+    "level": 2
+  },
+  {
+    "word": "durable",
+    "kk": "[ˈdjʊrəbl̩]",
+    "pos": "adj.",
+    "meaning": "耐用的;持久的",
+    "examples": [
+      { "en": "Steel is a durable material for tall buildings.", "zh": "鋼是建造高樓的耐用材料。" },
+      { "en": "They chose durable bricks for the outer wall.", "zh": "他們為外牆選用了耐用的磚塊。" }
+    ],
+    "img": "close up of durable brick and steel wall",
+    "theme": "建築工程",
+    "level": 3
+  },
+  {
+    "word": "site",
+    "kk": "[saɪt]",
+    "pos": "n.",
+    "meaning": "工地;場地",
+    "examples": [
+      { "en": "Visitors must wear a helmet on the site.", "zh": "訪客在工地上必須戴安全帽。" },
+      { "en": "The construction site was busy all day.", "zh": "這個工地整天都很忙碌。" }
+    ],
+    "img": "busy construction site with workers and machines",
+    "theme": "建築工程",
+    "level": 2
+  },
+  {
+    "word": "slab",
+    "kk": "[slæb]",
+    "pos": "n.",
+    "meaning": "板;混凝土板",
+    "examples": [
+      { "en": "The floor is a thick slab of concrete.", "zh": "地板是一塊厚厚的混凝土板。" },
+      { "en": "They poured the slab for the ground floor.", "zh": "他們為一樓灌注了樓板。" }
+    ],
+    "img": "flat concrete slab poured on the ground",
+    "theme": "建築工程",
+    "level": 3
+  },
+  {
+    "word": "arch",
+    "kk": "[ɑrtʃ]",
+    "pos": "n.",
+    "meaning": "拱;拱門",
+    "examples": [
+      { "en": "The stone bridge has a wide arch in the middle.", "zh": "這座石橋中間有一個寬闊的拱。" },
+      { "en": "An arch spreads the weight to both sides.", "zh": "拱形能把重量分散到兩側。" }
+    ],
+    "img": "stone bridge with a wide arch",
+    "theme": "建築工程",
+    "level": 2
+  },
+  {
+    "word": "insulation",
+    "kk": "[ˌɪnsəˈleʃən]",
+    "pos": "n.",
+    "meaning": "隔熱層;絕緣材料",
+    "examples": [
+      { "en": "Good insulation keeps the building warm in winter.", "zh": "良好的隔熱層讓建築在冬天保持溫暖。" },
+      { "en": "They added insulation inside the walls.", "zh": "他們在牆內加裝了隔熱材料。" }
+    ],
+    "img": "worker installing insulation inside a wall",
+    "theme": "建築工程",
+    "level": 3
+  },
+  {
+    "word": "welding",
+    "kk": "[ˈwɛldɪŋ]",
+    "pos": "n.",
+    "meaning": "焊接",
+    "examples": [
+      { "en": "Welding joins two steel bars together.", "zh": "焊接把兩根鋼筋接合在一起。" },
+      { "en": "The worker wore a mask during welding.", "zh": "工人在焊接時戴著面罩。" }
+    ],
+    "img": "worker welding steel with bright sparks",
+    "theme": "建築工程",
+    "level": 3
+  },
+  {
+    "word": "trench",
+    "kk": "[trɛntʃ]",
+    "pos": "n.",
+    "meaning": "溝渠;壕溝",
+    "examples": [
+      { "en": "They dug a trench to lay the water pipes.", "zh": "他們挖了一條溝渠來鋪設水管。" },
+      { "en": "The deep trench runs along the road.", "zh": "這條深溝沿著道路延伸。" }
+    ],
+    "img": "deep trench dug for pipes along a road",
+    "theme": "建築工程",
+    "level": 3
+  },
+  {
+    "word": "cabin",
+    "kk": "[ˈkæbɪn]",
+    "pos": "n.",
+    "meaning": "小屋;工地工務所",
+    "examples": [
+      { "en": "The workers rest in a small site cabin at noon.", "zh": "工人們中午在小工務所裡休息。" },
+      { "en": "Plans are kept inside the office cabin.", "zh": "施工圖被放在辦公工務所裡。" }
+    ],
+    "img": "portable site cabin at a construction area",
+    "theme": "建築工程",
+    "level": 2
+  },
+  {
+    "word": "layout",
+    "kk": "[ˈleˌaʊt]",
+    "pos": "n.",
+    "meaning": "配置;佈局",
+    "examples": [
+      { "en": "The layout of the rooms looks well planned.", "zh": "這些房間的配置看起來規劃得很好。" },
+      { "en": "They changed the layout of the office floor.", "zh": "他們更改了辦公樓層的佈局。" }
+    ],
+    "img": "floor layout plan spread on a table",
+    "theme": "建築工程",
+    "level": 2
+  },
+  {
+    "word": "dimension",
+    "kk": "[dɪˈmɛnʃən]",
+    "pos": "n.",
+    "meaning": "尺寸;維度",
+    "examples": [
+      { "en": "The plan shows the exact dimensions of each room.", "zh": "這張圖顯示了每個房間的確切尺寸。" },
+      { "en": "Please check the dimensions before cutting.", "zh": "切割前請先確認尺寸。" }
+    ],
+    "img": "blueprint with room dimensions labeled",
+    "theme": "建築工程",
+    "level": 3
+  },
+  {
+    "word": "collapse",
+    "kk": "[kəˈlæps]",
+    "pos": "v.",
+    "meaning": "倒塌;崩塌",
+    "examples": [
+      { "en": "The old bridge might collapse under heavy trucks.", "zh": "這座舊橋在重卡車下可能會倒塌。" },
+      { "en": "The roof collapsed after the earthquake.", "zh": "屋頂在地震後倒塌了。" }
+    ],
+    "img": "collapsed roof of an old building",
+    "theme": "建築工程",
+    "level": 3
+  },
+  {
+    "word": "elevation",
+    "kk": "[ˌɛləˈveʃən]",
+    "pos": "n.",
+    "meaning": "立面圖;高度",
+    "examples": [
+      { "en": "The drawing shows the front elevation of the house.", "zh": "這張圖顯示了房子的正面立面圖。" },
+      { "en": "The elevation of the site is above sea level.", "zh": "這個場地的高度在海平面之上。" }
+    ],
+    "img": "front elevation drawing of a house",
+    "theme": "建築工程",
+    "level": 3
+  },
+  {
+    "word": "reinforcement",
+    "kk": "[ˌriɪnˈfɔrsmənt]",
+    "pos": "n.",
+    "meaning": "鋼筋;補強",
+    "examples": [
+      { "en": "Steel reinforcement makes the concrete stronger.", "zh": "鋼筋補強讓混凝土更堅固。" },
+      { "en": "The wall needs extra reinforcement here.", "zh": "這面牆在這裡需要額外的補強。" }
+    ],
+    "img": "steel reinforcement bars in a concrete floor",
+    "theme": "建築工程",
+    "level": 3
+  },
+  {
+    "word": "contractor",
+    "kk": "[ˈkɑntræktɚ]",
+    "pos": "n.",
+    "meaning": "承包商",
+    "examples": [
+      { "en": "The contractor hired ten workers for the job.", "zh": "承包商為這項工程雇用了十名工人。" },
+      { "en": "We signed a contract with a local contractor.", "zh": "我們和一家當地承包商簽了合約。" }
+    ],
+    "img": "contractor with plans talking to workers",
+    "theme": "建築工程",
+    "level": 3
+  },
+  {
+    "word": "helmet",
+    "kk": "[ˈhɛlmɪt]",
+    "pos": "n.",
+    "meaning": "安全帽",
+    "examples": [
+      { "en": "Every worker must wear a helmet on site.", "zh": "每位工人在工地都必須戴安全帽。" },
+      { "en": "His yellow helmet protected his head.", "zh": "他的黃色安全帽保護了他的頭部。" }
+    ],
+    "img": "construction worker wearing a yellow safety helmet",
+    "theme": "建築工程",
+    "level": 2
+  },
+  {
+    "word": "plaster",
+    "kk": "[ˈplæstɚ]",
+    "pos": "n.",
+    "meaning": "灰泥;粉刷料",
+    "examples": [
+      { "en": "They spread plaster to make the wall smooth.", "zh": "他們塗上灰泥讓牆面變得平滑。" },
+      { "en": "The plaster needs a day to dry.", "zh": "灰泥需要一天才能乾。" }
+    ],
+    "img": "worker spreading plaster on a wall",
+    "theme": "建築工程",
+    "level": 3
+  },
+  {
+    "word": "girth",
+    "kk": "[ɡɝθ]",
+    "pos": "n.",
+    "meaning": "周長;圍度",
+    "examples": [
+      { "en": "The engineer measured the girth of the pillar.", "zh": "工程師測量了柱子的周長。" },
+      { "en": "A thicker girth gives the column more strength.", "zh": "更粗的圍度給了柱子更多強度。" }
+    ],
+    "img": "worker measuring the girth of a large pillar",
+    "theme": "建築工程",
+    "level": 3
+  },
+  {
+    "word": "renovate",
+    "kk": "[ˈrɛnəˌvet]",
+    "pos": "v.",
+    "meaning": "翻新;整修",
+    "examples": [
+      { "en": "They plan to renovate the old train station.", "zh": "他們計畫翻新這座舊火車站。" },
+      { "en": "The team renovated the bridge last year.", "zh": "團隊去年整修了這座橋。" }
+    ],
+    "img": "old station being renovated by workers",
+    "theme": "建築工程",
+    "level": 3
+  },
+  {
+    "word": "drainage",
+    "kk": "[ˈdrenɪdʒ]",
+    "pos": "n.",
+    "meaning": "排水;排水系統",
+    "examples": [
+      { "en": "Good drainage keeps water off the road.", "zh": "良好的排水能讓水離開路面。" },
+      { "en": "They built a drainage channel beside the wall.", "zh": "他們在牆邊建了一條排水渠。" }
+    ],
+    "img": "drainage channel beside a new road",
+    "theme": "建築工程",
+    "level": 3
+  },
+  {
+    "word": "pillar",
+    "kk": "[ˈpɪlɚ]",
+    "pos": "n.",
+    "meaning": "支柱;樑柱",
+    "examples": [
+      { "en": "Stone pillars stand at the entrance of the hall.", "zh": "石柱矗立在大廳的入口處。" },
+      { "en": "Each pillar carries part of the roof's weight.", "zh": "每根支柱承擔了屋頂的部分重量。" }
+    ],
+    "img": "stone pillars at a grand entrance",
+    "theme": "建築工程",
+    "level": 2
+  },
+  {
+    "word": "material",
+    "kk": "[məˈtɪriəl]",
+    "pos": "n.",
+    "meaning": "建材;材料",
+    "examples": [
+      { "en": "They ordered building materials for the new house.", "zh": "他們為新房子訂購了建材。" },
+      { "en": "This material is both light and strong.", "zh": "這種材料既輕又堅固。" }
+    ],
+    "img": "stacks of building materials at a site",
+    "theme": "建築工程",
+    "level": 2
+  },
+  {
+    "word": "construction",
+    "kk": "[kənˈstrʌkʃən]",
+    "pos": "n.",
+    "meaning": "施工;建設",
+    "examples": [
+      { "en": "The road is closed due to construction.", "zh": "這條路因施工而封閉。" },
+      { "en": "Construction of the tower took three years.", "zh": "這座塔的施工花了三年。" }
+    ],
+    "img": "large tower under construction with cranes",
+    "theme": "建築工程",
+    "level": 2
+  },
+  {
+    "word": "stability",
+    "kk": "[stəˈbɪlətɪ]",
+    "pos": "n.",
+    "meaning": "穩定性",
+    "examples": [
+      { "en": "Engineers tested the stability of the tower.", "zh": "工程師測試了這座塔的穩定性。" },
+      { "en": "A wide base gives the building more stability.", "zh": "寬闊的底座給了建築更多穩定性。" }
+    ],
+    "img": "engineer testing stability of a tall tower",
+    "theme": "建築工程",
+    "level": 3
+  },
+  {
+    "word": "scaffolding",
+    "kk": "[ˈskæfl̩dɪŋ]",
+    "pos": "n.",
+    "meaning": "鷹架系統;施工架",
+    "examples": [
+      { "en": "The scaffolding was built around the tall tower.", "zh": "鷹架系統被搭建在這座高塔的四周。" },
+      { "en": "Safe scaffolding lets workers reach high walls.", "zh": "安全的鷹架系統讓工人能觸及高牆。" }
+    ],
+    "img": "full scaffolding system covering a tall tower",
+    "theme": "建築工程",
+    "level": 3
+  },
+  {
+    "word": "surveyor",
+    "kk": "[sɚˈveɚ]",
+    "pos": "n.",
+    "meaning": "測量員",
+    "examples": [
+      { "en": "The surveyor marked the corners of the plot.", "zh": "測量員標出了這塊地的各個角。" },
+      { "en": "A surveyor checks the level of the ground.", "zh": "測量員會檢查地面的水平。" }
+    ],
+    "img": "surveyor marking corners of a plot of land",
+    "theme": "建築工程",
+    "level": 3
+  },
+  {
+    "word": "drawing",
+    "kk": "[ˈdrɔɪŋ]",
+    "pos": "n.",
+    "meaning": "施工圖;繪圖",
+    "examples": [
+      { "en": "The drawing shows where each pipe should go.", "zh": "這張施工圖顯示了每根管線該放的位置。" },
+      { "en": "They updated the drawing after the change.", "zh": "他們在變更後更新了施工圖。" }
+    ],
+    "img": "technical construction drawing on paper",
+    "theme": "建築工程",
+    "level": 2
+  }
+]

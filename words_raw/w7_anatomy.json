@@ -1,0 +1,652 @@
+[
+  {
+    "word": "skull",
+    "kk": "[skʌl]",
+    "pos": "n.",
+    "meaning": "頭骨；顱骨",
+    "examples": [
+      { "en": "The helmet protects your skull from injury.", "zh": "安全帽保護你的頭骨免於受傷。" },
+      { "en": "The skull is made of many fused bones.", "zh": "頭骨由許多癒合的骨頭構成。" }
+    ],
+    "img": "human skull bone diagram",
+    "theme": "人體構造",
+    "level": 2
+  },
+  {
+    "word": "spine",
+    "kk": "[spaɪn]",
+    "pos": "n.",
+    "meaning": "脊椎；脊柱",
+    "examples": [
+      { "en": "Sitting up straight is good for your spine.", "zh": "坐直對你的脊椎有益。" },
+      { "en": "The spine supports the whole upper body.", "zh": "脊椎支撐整個上半身。" }
+    ],
+    "img": "human spine vertebral column",
+    "theme": "人體構造",
+    "level": 2
+  },
+  {
+    "word": "rib",
+    "kk": "[rɪb]",
+    "pos": "n.",
+    "meaning": "肋骨",
+    "examples": [
+      { "en": "Your ribs protect your heart and lungs.", "zh": "你的肋骨保護心臟和肺部。" },
+      { "en": "He broke a rib in the accident.", "zh": "他在意外中斷了一根肋骨。" }
+    ],
+    "img": "human rib cage bones",
+    "theme": "人體構造",
+    "level": 2
+  },
+  {
+    "word": "joint",
+    "kk": "[dʒɔɪnt]",
+    "pos": "n.",
+    "meaning": "關節",
+    "examples": [
+      { "en": "My knee joint aches after running.", "zh": "跑步後我的膝關節會痠痛。" },
+      { "en": "Joints let your bones move freely.", "zh": "關節讓你的骨頭能自由活動。" }
+    ],
+    "img": "human knee joint anatomy",
+    "theme": "人體構造",
+    "level": 2
+  },
+  {
+    "word": "muscle",
+    "kk": "[ˋmʌsl̩]",
+    "pos": "n.",
+    "meaning": "肌肉",
+    "examples": [
+      { "en": "Lifting weights builds strong muscles.", "zh": "舉重能鍛鍊強壯的肌肉。" },
+      { "en": "She stretched her leg muscles before the race.", "zh": "賽跑前她伸展了腿部肌肉。" }
+    ],
+    "img": "human arm muscle diagram",
+    "theme": "人體構造",
+    "level": 2
+  },
+  {
+    "word": "tendon",
+    "kk": "[ˋtɛndən]",
+    "pos": "n.",
+    "meaning": "肌腱",
+    "examples": [
+      { "en": "The tendon connects muscle to bone.", "zh": "肌腱把肌肉連到骨頭上。" },
+      { "en": "He injured a tendon in his ankle.", "zh": "他的腳踝肌腱受了傷。" }
+    ],
+    "img": "achilles tendon anatomy",
+    "theme": "人體構造",
+    "level": 3
+  },
+  {
+    "word": "skeleton",
+    "kk": "[ˋskɛlətn̩]",
+    "pos": "n.",
+    "meaning": "骨骼；骨架",
+    "examples": [
+      { "en": "The human skeleton has over 200 bones.", "zh": "人體骨骼有超過兩百塊骨頭。" },
+      { "en": "A model skeleton hangs in the biology lab.", "zh": "生物實驗室掛著一具骨架模型。" }
+    ],
+    "img": "full human skeleton model",
+    "theme": "人體構造",
+    "level": 2
+  },
+  {
+    "word": "brain",
+    "kk": "[bren]",
+    "pos": "n.",
+    "meaning": "腦；大腦",
+    "examples": [
+      { "en": "The brain controls everything we do.", "zh": "大腦控制我們所做的一切。" },
+      { "en": "Sleep helps your brain rest and recover.", "zh": "睡眠幫助你的大腦休息與恢復。" }
+    ],
+    "img": "human brain anatomy illustration",
+    "theme": "人體構造",
+    "level": 2
+  },
+  {
+    "word": "nerve",
+    "kk": "[nɝv]",
+    "pos": "n.",
+    "meaning": "神經",
+    "examples": [
+      { "en": "Nerves carry signals to your brain.", "zh": "神經把訊號傳到你的大腦。" },
+      { "en": "A pinched nerve can cause sharp pain.", "zh": "神經受到壓迫會引起劇痛。" }
+    ],
+    "img": "nerve cell neuron diagram",
+    "theme": "人體構造",
+    "level": 3
+  },
+  {
+    "word": "heart",
+    "kk": "[hɑrt]",
+    "pos": "n.",
+    "meaning": "心臟",
+    "examples": [
+      { "en": "Your heart pumps blood around the body.", "zh": "你的心臟把血液輸送到全身。" },
+      { "en": "Exercise keeps your heart healthy.", "zh": "運動能讓你的心臟保持健康。" }
+    ],
+    "img": "human heart anatomy diagram",
+    "theme": "人體構造",
+    "level": 2
+  },
+  {
+    "word": "lung",
+    "kk": "[lʌŋ]",
+    "pos": "n.",
+    "meaning": "肺",
+    "examples": [
+      { "en": "We breathe air into our lungs.", "zh": "我們把空氣吸進肺裡。" },
+      { "en": "Smoking damages the lungs.", "zh": "抽菸會傷害肺部。" }
+    ],
+    "img": "human lungs respiratory diagram",
+    "theme": "人體構造",
+    "level": 2
+  },
+  {
+    "word": "liver",
+    "kk": "[ˋlɪvɚ]",
+    "pos": "n.",
+    "meaning": "肝臟",
+    "examples": [
+      { "en": "The liver cleans toxins from your blood.", "zh": "肝臟清除血液中的毒素。" },
+      { "en": "Too much alcohol harms the liver.", "zh": "過量飲酒會損害肝臟。" }
+    ],
+    "img": "human liver organ anatomy",
+    "theme": "人體構造",
+    "level": 2
+  },
+  {
+    "word": "kidney",
+    "kk": "[ˋkɪdnɪ]",
+    "pos": "n.",
+    "meaning": "腎臟",
+    "examples": [
+      { "en": "The kidneys filter waste from the blood.", "zh": "腎臟過濾血液中的廢物。" },
+      { "en": "Drink water to keep your kidneys working well.", "zh": "多喝水讓你的腎臟正常運作。" }
+    ],
+    "img": "human kidney organ diagram",
+    "theme": "人體構造",
+    "level": 2
+  },
+  {
+    "word": "stomach",
+    "kk": "[ˋstʌmək]",
+    "pos": "n.",
+    "meaning": "胃",
+    "examples": [
+      { "en": "The stomach breaks down the food we eat.", "zh": "胃會分解我們吃下的食物。" },
+      { "en": "My stomach growls when I'm hungry.", "zh": "我肚子餓時胃會咕嚕叫。" }
+    ],
+    "img": "human stomach digestive organ",
+    "theme": "人體構造",
+    "level": 2
+  },
+  {
+    "word": "intestine",
+    "kk": "[ɪnˋtɛstɪn]",
+    "pos": "n.",
+    "meaning": "腸；腸道",
+    "examples": [
+      { "en": "The small intestine absorbs nutrients.", "zh": "小腸負責吸收養分。" },
+      { "en": "The intestine is a very long tube.", "zh": "腸道是一條很長的管子。" }
+    ],
+    "img": "human intestine anatomy diagram",
+    "theme": "人體構造",
+    "level": 3
+  },
+  {
+    "word": "bladder",
+    "kk": "[ˋblædɚ]",
+    "pos": "n.",
+    "meaning": "膀胱",
+    "examples": [
+      { "en": "The bladder stores urine before it leaves the body.", "zh": "膀胱在尿液排出前先儲存它。" },
+      { "en": "A full bladder makes you need the toilet.", "zh": "膀胱脹滿會讓你想上廁所。" }
+    ],
+    "img": "human bladder organ diagram",
+    "theme": "人體構造",
+    "level": 3
+  },
+  {
+    "word": "vein",
+    "kk": "[ven]",
+    "pos": "n.",
+    "meaning": "靜脈",
+    "examples": [
+      { "en": "Veins carry blood back to the heart.", "zh": "靜脈把血液送回心臟。" },
+      { "en": "You can see blue veins under the skin.", "zh": "你能看到皮膚下的藍色靜脈。" }
+    ],
+    "img": "blood vein arm diagram",
+    "theme": "人體構造",
+    "level": 3
+  },
+  {
+    "word": "artery",
+    "kk": "[ˋɑrtərɪ]",
+    "pos": "n.",
+    "meaning": "動脈",
+    "examples": [
+      { "en": "Arteries carry blood away from the heart.", "zh": "動脈把血液從心臟送出。" },
+      { "en": "A blocked artery is dangerous.", "zh": "動脈阻塞是很危險的。" }
+    ],
+    "img": "human artery blood vessel diagram",
+    "theme": "人體構造",
+    "level": 3
+  },
+  {
+    "word": "blood vessel",
+    "kk": "[blʌd ˋvɛsl̩]",
+    "pos": "n.",
+    "meaning": "血管",
+    "examples": [
+      { "en": "Blood vessels run through the whole body.", "zh": "血管遍布全身。" },
+      { "en": "Tiny blood vessels feed the skin.", "zh": "微小的血管供養皮膚。" }
+    ],
+    "img": "blood vessel network illustration",
+    "theme": "人體構造",
+    "level": 3
+  },
+  {
+    "word": "skin",
+    "kk": "[skɪn]",
+    "pos": "n.",
+    "meaning": "皮膚",
+    "examples": [
+      { "en": "Skin protects the body from germs.", "zh": "皮膚保護身體不受細菌侵入。" },
+      { "en": "Sunscreen keeps your skin safe.", "zh": "防曬乳能保護你的皮膚。" }
+    ],
+    "img": "human skin layers diagram",
+    "theme": "人體構造",
+    "level": 2
+  },
+  {
+    "word": "cell",
+    "kk": "[sɛl]",
+    "pos": "n.",
+    "meaning": "細胞",
+    "examples": [
+      { "en": "The body is made of billions of cells.", "zh": "身體由數十億個細胞組成。" },
+      { "en": "Each cell has a special job.", "zh": "每個細胞都有特定的工作。" }
+    ],
+    "img": "human cell structure diagram",
+    "theme": "人體構造",
+    "level": 2
+  },
+  {
+    "word": "tissue",
+    "kk": "[ˋtɪʃʊ]",
+    "pos": "n.",
+    "meaning": "組織",
+    "examples": [
+      { "en": "Muscle tissue helps the body move.", "zh": "肌肉組織幫助身體活動。" },
+      { "en": "Groups of cells form tissue.", "zh": "一群細胞組成組織。" }
+    ],
+    "img": "biological tissue microscope view",
+    "theme": "人體構造",
+    "level": 3
+  },
+  {
+    "word": "organ",
+    "kk": "[ˋɔrgən]",
+    "pos": "n.",
+    "meaning": "器官",
+    "examples": [
+      { "en": "The heart is a vital organ.", "zh": "心臟是重要的器官。" },
+      { "en": "Each organ has its own function.", "zh": "每個器官都有自己的功能。" }
+    ],
+    "img": "human internal organs illustration",
+    "theme": "人體構造",
+    "level": 2
+  },
+  {
+    "word": "throat",
+    "kk": "[θrot]",
+    "pos": "n.",
+    "meaning": "喉嚨",
+    "examples": [
+      { "en": "Food passes through the throat to the stomach.", "zh": "食物經過喉嚨到達胃部。" },
+      { "en": "Drink warm water to soothe your throat.", "zh": "喝溫水能舒緩你的喉嚨。" }
+    ],
+    "img": "human throat anatomy diagram",
+    "theme": "人體構造",
+    "level": 2
+  },
+  {
+    "word": "windpipe",
+    "kk": "[ˋwɪnd͵paɪp]",
+    "pos": "n.",
+    "meaning": "氣管",
+    "examples": [
+      { "en": "Air travels down the windpipe to the lungs.", "zh": "空氣沿著氣管進入肺部。" },
+      { "en": "The windpipe carries air, not food.", "zh": "氣管輸送空氣而非食物。" }
+    ],
+    "img": "human trachea windpipe diagram",
+    "theme": "人體構造",
+    "level": 3
+  },
+  {
+    "word": "jaw",
+    "kk": "[dʒɔ]",
+    "pos": "n.",
+    "meaning": "下巴；顎",
+    "examples": [
+      { "en": "We use our jaw to chew food.", "zh": "我們用下顎咀嚼食物。" },
+      { "en": "He rested his chin on his jaw.", "zh": "他把下巴靠在顎骨上。" }
+    ],
+    "img": "human jaw bone diagram",
+    "theme": "人體構造",
+    "level": 2
+  },
+  {
+    "word": "wrist",
+    "kk": "[rɪst]",
+    "pos": "n.",
+    "meaning": "手腕",
+    "examples": [
+      { "en": "She wears a watch on her wrist.", "zh": "她把手錶戴在手腕上。" },
+      { "en": "Bend your wrist gently to stretch it.", "zh": "輕輕彎曲手腕來伸展它。" }
+    ],
+    "img": "human wrist bones anatomy",
+    "theme": "人體構造",
+    "level": 2
+  },
+  {
+    "word": "ankle",
+    "kk": "[ˋæŋkl̩]",
+    "pos": "n.",
+    "meaning": "腳踝",
+    "examples": [
+      { "en": "He twisted his ankle while jogging.", "zh": "他慢跑時扭傷了腳踝。" },
+      { "en": "The ankle joins the foot to the leg.", "zh": "腳踝連接腳掌與小腿。" }
+    ],
+    "img": "human ankle joint diagram",
+    "theme": "人體構造",
+    "level": 2
+  },
+  {
+    "word": "palm",
+    "kk": "[pɑm]",
+    "pos": "n.",
+    "meaning": "手掌",
+    "examples": [
+      { "en": "She held the coin in her palm.", "zh": "她把硬幣握在手掌裡。" },
+      { "en": "The palm has many tiny lines.", "zh": "手掌上有許多細小的紋路。" }
+    ],
+    "img": "human hand palm illustration",
+    "theme": "人體構造",
+    "level": 2
+  },
+  {
+    "word": "heel",
+    "kk": "[hil]",
+    "pos": "n.",
+    "meaning": "腳後跟",
+    "examples": [
+      { "en": "The heel takes your weight when you walk.", "zh": "走路時腳後跟承受你的重量。" },
+      { "en": "New shoes rubbed against my heel.", "zh": "新鞋子磨到我的腳後跟。" }
+    ],
+    "img": "human heel foot diagram",
+    "theme": "人體構造",
+    "level": 2
+  },
+  {
+    "word": "eyelid",
+    "kk": "[ˋaɪ͵lɪd]",
+    "pos": "n.",
+    "meaning": "眼皮；眼瞼",
+    "examples": [
+      { "en": "Your eyelids blink to protect your eyes.", "zh": "眼皮眨動以保護你的眼睛。" },
+      { "en": "She closed her eyelids and fell asleep.", "zh": "她閉上眼皮睡著了。" }
+    ],
+    "img": "human eye eyelid close up",
+    "theme": "人體構造",
+    "level": 3
+  },
+  {
+    "word": "eyebrow",
+    "kk": "[ˋaɪ͵braʊ]",
+    "pos": "n.",
+    "meaning": "眉毛",
+    "examples": [
+      { "en": "He raised an eyebrow in surprise.", "zh": "他驚訝地揚起一邊眉毛。" },
+      { "en": "Eyebrows keep sweat out of the eyes.", "zh": "眉毛能擋住汗水進入眼睛。" }
+    ],
+    "img": "human eyebrow face close up",
+    "theme": "人體構造",
+    "level": 2
+  },
+  {
+    "word": "tongue",
+    "kk": "[tʌŋ]",
+    "pos": "n.",
+    "meaning": "舌頭",
+    "examples": [
+      { "en": "The tongue helps us taste food.", "zh": "舌頭幫助我們品嚐食物。" },
+      { "en": "She burned her tongue on hot soup.", "zh": "她被熱湯燙到舌頭。" }
+    ],
+    "img": "human tongue mouth diagram",
+    "theme": "人體構造",
+    "level": 2
+  },
+  {
+    "word": "gum",
+    "kk": "[gʌm]",
+    "pos": "n.",
+    "meaning": "牙齦",
+    "examples": [
+      { "en": "Brushing gently protects your gums.", "zh": "輕柔刷牙能保護你的牙齦。" },
+      { "en": "Healthy gums hold the teeth in place.", "zh": "健康的牙齦把牙齒固定住。" }
+    ],
+    "img": "human teeth gums diagram",
+    "theme": "人體構造",
+    "level": 3
+  },
+  {
+    "word": "chest",
+    "kk": "[tʃɛst]",
+    "pos": "n.",
+    "meaning": "胸部；胸腔",
+    "examples": [
+      { "en": "He felt his heart beat in his chest.", "zh": "他感覺到心臟在胸腔裡跳動。" },
+      { "en": "The runner's chest rose with each breath.", "zh": "跑者的胸部隨每次呼吸起伏。" }
+    ],
+    "img": "human chest anatomy diagram",
+    "theme": "人體構造",
+    "level": 2
+  },
+  {
+    "word": "waist",
+    "kk": "[west]",
+    "pos": "n.",
+    "meaning": "腰部",
+    "examples": [
+      { "en": "The belt goes around your waist.", "zh": "皮帶繫在你的腰部。" },
+      { "en": "She bent at the waist to pick it up.", "zh": "她彎下腰把東西撿起來。" }
+    ],
+    "img": "human waist body diagram",
+    "theme": "人體構造",
+    "level": 2
+  },
+  {
+    "word": "hip",
+    "kk": "[hɪp]",
+    "pos": "n.",
+    "meaning": "臀部；髖部",
+    "examples": [
+      { "en": "The dancer moved her hips to the beat.", "zh": "舞者隨節奏擺動臀部。" },
+      { "en": "The hip joint lets the leg swing.", "zh": "髖關節讓腿部能夠擺動。" }
+    ],
+    "img": "human hip joint anatomy",
+    "theme": "人體構造",
+    "level": 2
+  },
+  {
+    "word": "nostril",
+    "kk": "[ˋnɑstrəl]",
+    "pos": "n.",
+    "meaning": "鼻孔",
+    "examples": [
+      { "en": "We breathe air in through our nostrils.", "zh": "我們透過鼻孔吸入空氣。" },
+      { "en": "The smell went straight up his nostrils.", "zh": "那氣味直接竄進他的鼻孔。" }
+    ],
+    "img": "human nose nostril close up",
+    "theme": "人體構造",
+    "level": 3
+  },
+  {
+    "word": "cheek",
+    "kk": "[tʃik]",
+    "pos": "n.",
+    "meaning": "臉頰",
+    "examples": [
+      { "en": "The baby has round, soft cheeks.", "zh": "寶寶有圓潤柔軟的臉頰。" },
+      { "en": "Her cheeks turned red with shyness.", "zh": "她的臉頰因害羞而發紅。" }
+    ],
+    "img": "human face cheek close up",
+    "theme": "人體構造",
+    "level": 2
+  },
+  {
+    "word": "chin",
+    "kk": "[tʃɪn]",
+    "pos": "n.",
+    "meaning": "下巴",
+    "examples": [
+      { "en": "He rested his chin on his hand.", "zh": "他把下巴靠在手上。" },
+      { "en": "Lift your chin and look ahead.", "zh": "抬起下巴向前看。" }
+    ],
+    "img": "human chin face profile",
+    "theme": "人體構造",
+    "level": 2
+  },
+  {
+    "word": "spinal cord",
+    "kk": "[ˋspaɪnl̩ kɔrd]",
+    "pos": "n.",
+    "meaning": "脊髓",
+    "examples": [
+      { "en": "The spinal cord links the brain to the body.", "zh": "脊髓把大腦和身體連接起來。" },
+      { "en": "The spinal cord runs inside the spine.", "zh": "脊髓位於脊椎的內部。" }
+    ],
+    "img": "spinal cord nerve diagram",
+    "theme": "人體構造",
+    "level": 3
+  },
+  {
+    "word": "digestion",
+    "kk": "[daɪˋdʒɛstʃən]",
+    "pos": "n.",
+    "meaning": "消化（作用）",
+    "examples": [
+      { "en": "Digestion turns food into energy.", "zh": "消化把食物轉化為能量。" },
+      { "en": "A slow walk can help digestion.", "zh": "慢走有助於消化。" }
+    ],
+    "img": "human digestive system diagram",
+    "theme": "人體構造",
+    "level": 3
+  },
+  {
+    "word": "breathing",
+    "kk": "[ˋbriðɪŋ]",
+    "pos": "n.",
+    "meaning": "呼吸（作用）",
+    "examples": [
+      { "en": "Deep breathing helps you relax.", "zh": "深呼吸有助於放鬆。" },
+      { "en": "Her breathing slowed as she fell asleep.", "zh": "她入睡時呼吸漸漸放慢。" }
+    ],
+    "img": "person breathing lungs diagram",
+    "theme": "人體構造",
+    "level": 2
+  },
+  {
+    "word": "heartbeat",
+    "kk": "[ˋhɑrt͵bit]",
+    "pos": "n.",
+    "meaning": "心跳",
+    "examples": [
+      { "en": "The doctor listened to his heartbeat.", "zh": "醫生聽了他的心跳。" },
+      { "en": "Your heartbeat speeds up when you run.", "zh": "跑步時你的心跳會加快。" }
+    ],
+    "img": "heartbeat pulse line illustration",
+    "theme": "人體構造",
+    "level": 2
+  },
+  {
+    "word": "pulse",
+    "kk": "[pʌls]",
+    "pos": "n.",
+    "meaning": "脈搏",
+    "examples": [
+      { "en": "The nurse checked my pulse at the wrist.", "zh": "護士在我的手腕量脈搏。" },
+      { "en": "His pulse was fast after the sprint.", "zh": "衝刺後他的脈搏很快。" }
+    ],
+    "img": "checking pulse on wrist",
+    "theme": "人體構造",
+    "level": 3
+  },
+  {
+    "word": "circulation",
+    "kk": "[͵sɝkjəˋleʃən]",
+    "pos": "n.",
+    "meaning": "血液循環",
+    "examples": [
+      { "en": "Exercise improves blood circulation.", "zh": "運動能改善血液循環。" },
+      { "en": "Good circulation keeps your hands warm.", "zh": "良好的循環能讓你的手保持溫暖。" }
+    ],
+    "img": "blood circulation body diagram",
+    "theme": "人體構造",
+    "level": 3
+  },
+  {
+    "word": "immune system",
+    "kk": "[ɪˋmjun ˋsɪstəm]",
+    "pos": "n.",
+    "meaning": "免疫系統",
+    "examples": [
+      { "en": "The immune system fights off germs.", "zh": "免疫系統會對抗細菌。" },
+      { "en": "Good sleep strengthens your immune system.", "zh": "充足睡眠能強化你的免疫系統。" }
+    ],
+    "img": "immune system cells illustration",
+    "theme": "人體構造",
+    "level": 3
+  },
+  {
+    "word": "nervous system",
+    "kk": "[ˋnɝvəs ˋsɪstəm]",
+    "pos": "n.",
+    "meaning": "神經系統",
+    "examples": [
+      { "en": "The nervous system sends signals fast.", "zh": "神經系統快速傳送訊號。" },
+      { "en": "The brain is part of the nervous system.", "zh": "大腦是神經系統的一部分。" }
+    ],
+    "img": "human nervous system diagram",
+    "theme": "人體構造",
+    "level": 3
+  },
+  {
+    "word": "bone marrow",
+    "kk": "[bon ˋmæro]",
+    "pos": "n.",
+    "meaning": "骨髓",
+    "examples": [
+      { "en": "Bone marrow makes new blood cells.", "zh": "骨髓製造新的血球。" },
+      { "en": "Bone marrow is found inside large bones.", "zh": "骨髓存在於大骨頭的內部。" }
+    ],
+    "img": "bone marrow cross section diagram",
+    "theme": "人體構造",
+    "level": 3
+  },
+  {
+    "word": "posture",
+    "kk": "[ˋpɑstʃɚ]",
+    "pos": "n.",
+    "meaning": "姿勢；體態",
+    "examples": [
+      { "en": "Good posture protects your back.", "zh": "良好的姿勢能保護你的背部。" },
+      { "en": "She sat with an upright posture.", "zh": "她以挺直的姿勢坐著。" }
+    ],
+    "img": "person good sitting posture",
+    "theme": "人體構造",
+    "level": 3
+  }
+]

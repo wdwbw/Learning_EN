@@ -1,0 +1,639 @@
+[
+  {
+    "word": "law",
+    "kk": "[lɔ]",
+    "pos": "n.",
+    "meaning": "法律",
+    "examples": [
+      { "en": "Everyone must follow the law.", "zh": "每個人都必須遵守法律。" },
+      { "en": "It's against the law to steal.", "zh": "偷竊是違法的。" }
+    ],
+    "img": "wooden judge gavel on law book",
+    "theme": "政府法律",
+    "level": 1
+  },
+  {
+    "word": "police",
+    "kk": "[pəˋlis]",
+    "pos": "n.",
+    "meaning": "警察",
+    "examples": [
+      { "en": "Call the police if you need help.", "zh": "如果你需要幫助就報警。" },
+      { "en": "The police arrived very quickly.", "zh": "警察很快就到了。" }
+    ],
+    "img": "police officer in blue uniform",
+    "theme": "政府法律",
+    "level": 1
+  },
+  {
+    "word": "rule",
+    "kk": "[rul]",
+    "pos": "n.",
+    "meaning": "規則、規定",
+    "examples": [
+      { "en": "We have to follow the rules here.", "zh": "我們在這裡必須遵守規則。" },
+      { "en": "That's the rule, sorry.", "zh": "抱歉,規定就是這樣。" }
+    ],
+    "img": "list of rules on a sign",
+    "theme": "政府法律",
+    "level": 1
+  },
+  {
+    "word": "passport",
+    "kk": "[ˋpæsˏpɔrt]",
+    "pos": "n.",
+    "meaning": "護照",
+    "examples": [
+      { "en": "Don't forget your passport at the airport.", "zh": "在機場別忘了帶護照。" },
+      { "en": "My passport expires next year.", "zh": "我的護照明年到期。" }
+    ],
+    "img": "passport booklet with stamps",
+    "theme": "政府法律",
+    "level": 1
+  },
+  {
+    "word": "form",
+    "kk": "[fɔrm]",
+    "pos": "n.",
+    "meaning": "表格",
+    "examples": [
+      { "en": "Please fill out this form.", "zh": "請填寫這份表格。" },
+      { "en": "I signed the form and handed it in.", "zh": "我簽了表格然後交出去。" }
+    ],
+    "img": "paper application form with pen",
+    "theme": "政府法律",
+    "level": 1
+  },
+  {
+    "word": "sign",
+    "kk": "[saɪn]",
+    "pos": "v.",
+    "meaning": "簽名",
+    "examples": [
+      { "en": "Sign your name here, please.", "zh": "請在這裡簽名。" },
+      { "en": "I need you to sign this document.", "zh": "我需要你簽這份文件。" }
+    ],
+    "img": "hand signing a document with pen",
+    "theme": "政府法律",
+    "level": 1
+  },
+  {
+    "word": "office",
+    "kk": "[ˋɔfɪs]",
+    "pos": "n.",
+    "meaning": "辦公室、事務所",
+    "examples": [
+      { "en": "The government office opens at nine.", "zh": "政府辦公室九點開門。" },
+      { "en": "Go to the office to get the papers.", "zh": "去辦公室拿文件。" }
+    ],
+    "img": "government office front desk counter",
+    "theme": "政府法律",
+    "level": 1
+  },
+  {
+    "word": "card",
+    "kk": "[kɑrd]",
+    "pos": "n.",
+    "meaning": "卡片、證件卡",
+    "examples": [
+      { "en": "Show your ID card at the door.", "zh": "在門口出示你的身分證。" },
+      { "en": "I lost my library card.", "zh": "我弄丟了圖書證。" }
+    ],
+    "img": "plastic id card with photo",
+    "theme": "政府法律",
+    "level": 1
+  },
+  {
+    "word": "court",
+    "kk": "[kort]",
+    "pos": "n.",
+    "meaning": "法院",
+    "examples": [
+      { "en": "He has to go to court next week.", "zh": "他下週必須上法院。" },
+      { "en": "The court was quiet and serious.", "zh": "法院裡安靜又嚴肅。" }
+    ],
+    "img": "courtroom with judge bench and flags",
+    "theme": "政府法律",
+    "level": 1
+  },
+  {
+    "word": "fine",
+    "kk": "[faɪn]",
+    "pos": "n.",
+    "meaning": "罰款",
+    "examples": [
+      { "en": "I got a fine for parking here.", "zh": "我因為在這裡停車被罰款。" },
+      { "en": "The fine was two hundred dollars.", "zh": "罰款是兩百元。" }
+    ],
+    "img": "parking ticket fine on car window",
+    "theme": "政府法律",
+    "level": 1
+  },
+  {
+    "word": "safe",
+    "kk": "[sef]",
+    "pos": "adj.",
+    "meaning": "安全的",
+    "examples": [
+      { "en": "The police keep our streets safe.", "zh": "警察讓我們的街道安全。" },
+      { "en": "Stay safe and follow the rules.", "zh": "注意安全並遵守規定。" }
+    ],
+    "img": "safe neighborhood street with police",
+    "theme": "政府法律",
+    "level": 1
+  },
+  {
+    "word": "flag",
+    "kk": "[flæg]",
+    "pos": "n.",
+    "meaning": "旗幟、國旗",
+    "examples": [
+      { "en": "The national flag flies over the building.", "zh": "國旗在大樓上飄揚。" },
+      { "en": "Every school raises the flag.", "zh": "每間學校都會升旗。" }
+    ],
+    "img": "national flag on a pole",
+    "theme": "政府法律",
+    "level": 1
+  },
+  {
+    "word": "pay",
+    "kk": "[pe]",
+    "pos": "v.",
+    "meaning": "支付、繳納",
+    "examples": [
+      { "en": "You must pay the tax on time.", "zh": "你必須準時繳稅。" },
+      { "en": "I paid the fine at the office.", "zh": "我在辦公室繳了罰款。" }
+    ],
+    "img": "hand paying money at counter",
+    "theme": "政府法律",
+    "level": 1
+  },
+  {
+    "word": "guard",
+    "kk": "[ɡɑrd]",
+    "pos": "n.",
+    "meaning": "警衛、守衛",
+    "examples": [
+      { "en": "A guard stands at the gate.", "zh": "一名警衛站在大門。" },
+      { "en": "The guard checked our bags.", "zh": "警衛檢查了我們的包包。" }
+    ],
+    "img": "security guard at building entrance",
+    "theme": "政府法律",
+    "level": 1
+  },
+  {
+    "word": "identity",
+    "kk": "[aɪˋdɛntətɪ]",
+    "pos": "n.",
+    "meaning": "身分",
+    "examples": [
+      { "en": "Please prove your identity here.", "zh": "請在這裡證明你的身分。" },
+      { "en": "They stole his identity online.", "zh": "他們在網路上盜用了他的身分。" }
+    ],
+    "img": "id documents and fingerprint",
+    "theme": "政府法律",
+    "level": 2
+  },
+  {
+    "word": "citizen",
+    "kk": "[ˋsɪtəzn]",
+    "pos": "n.",
+    "meaning": "公民、市民",
+    "examples": [
+      { "en": "Every citizen has the right to vote.", "zh": "每位公民都有投票權。" },
+      { "en": "She became a citizen last year.", "zh": "她去年成為公民。" }
+    ],
+    "img": "diverse group of citizens with flag",
+    "theme": "政府法律",
+    "level": 2
+  },
+  {
+    "word": "government",
+    "kk": "[ˋɡʌvɚnmənt]",
+    "pos": "n.",
+    "meaning": "政府",
+    "examples": [
+      { "en": "The government made a new rule.", "zh": "政府訂了一條新規定。" },
+      { "en": "He works for the government.", "zh": "他為政府工作。" }
+    ],
+    "img": "government capitol building with dome",
+    "theme": "政府法律",
+    "level": 2
+  },
+  {
+    "word": "apply",
+    "kk": "[əˋplaɪ]",
+    "pos": "v.",
+    "meaning": "申請",
+    "examples": [
+      { "en": "You can apply for a visa online.", "zh": "你可以線上申請簽證。" },
+      { "en": "I applied for a new ID card.", "zh": "我申請了新的身分證。" }
+    ],
+    "img": "person filling online application",
+    "theme": "政府法律",
+    "level": 2
+  },
+  {
+    "word": "license",
+    "kk": "[ˋlaɪsns]",
+    "pos": "n.",
+    "meaning": "執照、駕照",
+    "examples": [
+      { "en": "Show me your driver's license.", "zh": "把你的駕照給我看。" },
+      { "en": "You need a license to drive.", "zh": "你需要駕照才能開車。" }
+    ],
+    "img": "driver license card with photo",
+    "theme": "政府法律",
+    "level": 2
+  },
+  {
+    "word": "visa",
+    "kk": "[ˋvizə]",
+    "pos": "n.",
+    "meaning": "簽證",
+    "examples": [
+      { "en": "I need a visa to visit that country.", "zh": "我需要簽證才能去那個國家。" },
+      { "en": "Her student visa was approved.", "zh": "她的學生簽證被核准了。" }
+    ],
+    "img": "visa stamp in passport page",
+    "theme": "政府法律",
+    "level": 2
+  },
+  {
+    "word": "document",
+    "kk": "[ˋdɑkjəmənt]",
+    "pos": "n.",
+    "meaning": "文件",
+    "examples": [
+      { "en": "Bring all your documents to the office.", "zh": "把你所有的文件帶到辦公室。" },
+      { "en": "This document needs your signature.", "zh": "這份文件需要你的簽名。" }
+    ],
+    "img": "stack of official documents with seal",
+    "theme": "政府法律",
+    "level": 2
+  },
+  {
+    "word": "officer",
+    "kk": "[ˋɔfəsɚ]",
+    "pos": "n.",
+    "meaning": "警官、官員",
+    "examples": [
+      { "en": "The officer asked for my ID.", "zh": "警官向我要身分證。" },
+      { "en": "A police officer helped the old man.", "zh": "一名警官幫助了那位老人。" }
+    ],
+    "img": "police officer with badge talking",
+    "theme": "政府法律",
+    "level": 2
+  },
+  {
+    "word": "permit",
+    "kk": "[ˋpɝmɪt]",
+    "pos": "n.",
+    "meaning": "許可證",
+    "examples": [
+      { "en": "You need a permit to park here.", "zh": "你需要許可證才能在這停車。" },
+      { "en": "They gave us a work permit.", "zh": "他們給了我們工作許可證。" }
+    ],
+    "img": "official permit paper with stamp",
+    "theme": "政府法律",
+    "level": 2
+  },
+  {
+    "word": "legal",
+    "kk": "[ˋliɡl]",
+    "pos": "adj.",
+    "meaning": "合法的",
+    "examples": [
+      { "en": "Is it legal to sell this here?", "zh": "在這裡賣這個合法嗎?" },
+      { "en": "You must be legal to work here.", "zh": "你必須有合法身分才能在這工作。" }
+    ],
+    "img": "legal contract with checkmark",
+    "theme": "政府法律",
+    "level": 2
+  },
+  {
+    "word": "illegal",
+    "kk": "[ɪˋliɡl]",
+    "pos": "adj.",
+    "meaning": "非法的",
+    "examples": [
+      { "en": "Parking here is illegal.", "zh": "在這裡停車是非法的。" },
+      { "en": "It's illegal to drive without a license.", "zh": "沒有駕照開車是非法的。" }
+    ],
+    "img": "red no entry illegal sign",
+    "theme": "政府法律",
+    "level": 2
+  },
+  {
+    "word": "tax",
+    "kk": "[tæks]",
+    "pos": "n.",
+    "meaning": "稅",
+    "examples": [
+      { "en": "We pay tax every year.", "zh": "我們每年繳稅。" },
+      { "en": "The price includes tax.", "zh": "價格含稅。" }
+    ],
+    "img": "tax form with calculator and money",
+    "theme": "政府法律",
+    "level": 2
+  },
+  {
+    "word": "judge",
+    "kk": "[dʒʌdʒ]",
+    "pos": "n.",
+    "meaning": "法官",
+    "examples": [
+      { "en": "The judge listened to both sides.", "zh": "法官聽取了雙方的說法。" },
+      { "en": "The judge made a fair decision.", "zh": "法官做出了公正的判決。" }
+    ],
+    "img": "judge in black robe with gavel",
+    "theme": "政府法律",
+    "level": 2
+  },
+  {
+    "word": "lawyer",
+    "kk": "[ˋlɔjɚ]",
+    "pos": "n.",
+    "meaning": "律師",
+    "examples": [
+      { "en": "I need to talk to my lawyer.", "zh": "我需要跟我的律師談談。" },
+      { "en": "The lawyer read the contract carefully.", "zh": "律師仔細地讀了合約。" }
+    ],
+    "img": "lawyer in suit holding files",
+    "theme": "政府法律",
+    "level": 2
+  },
+  {
+    "word": "crime",
+    "kk": "[kraɪm]",
+    "pos": "n.",
+    "meaning": "犯罪",
+    "examples": [
+      { "en": "Stealing is a serious crime.", "zh": "偷竊是嚴重的犯罪。" },
+      { "en": "The police stopped the crime.", "zh": "警察阻止了這起犯罪。" }
+    ],
+    "img": "crime scene tape and police lights",
+    "theme": "政府法律",
+    "level": 2
+  },
+  {
+    "word": "arrest",
+    "kk": "[əˋrɛst]",
+    "pos": "v.",
+    "meaning": "逮捕",
+    "examples": [
+      { "en": "The police arrested the thief.", "zh": "警察逮捕了小偷。" },
+      { "en": "He was arrested last night.", "zh": "他昨晚被逮捕了。" }
+    ],
+    "img": "police handcuffing a suspect",
+    "theme": "政府法律",
+    "level": 2
+  },
+  {
+    "word": "report",
+    "kk": "[rɪˋport]",
+    "pos": "v.",
+    "meaning": "報案、舉報",
+    "examples": [
+      { "en": "Please report the accident to the police.", "zh": "請向警察報告這起事故。" },
+      { "en": "She reported her lost wallet.", "zh": "她報案說皮夾遺失了。" }
+    ],
+    "img": "person at police station reporting",
+    "theme": "政府法律",
+    "level": 2
+  },
+  {
+    "word": "renew",
+    "kk": "[rɪˋnju]",
+    "pos": "v.",
+    "meaning": "更新、續期",
+    "examples": [
+      { "en": "I need to renew my passport.", "zh": "我需要更新我的護照。" },
+      { "en": "Renew your license before it expires.", "zh": "在駕照到期前續期。" }
+    ],
+    "img": "hand renewing document at counter",
+    "theme": "政府法律",
+    "level": 2
+  },
+  {
+    "word": "official",
+    "kk": "[əˋfɪʃəl]",
+    "pos": "adj.",
+    "meaning": "官方的、正式的",
+    "examples": [
+      { "en": "This is an official document.", "zh": "這是一份官方文件。" },
+      { "en": "You need an official stamp here.", "zh": "你這裡需要官方印章。" }
+    ],
+    "img": "official document with red seal",
+    "theme": "政府法律",
+    "level": 2
+  },
+  {
+    "word": "register",
+    "kk": "[ˋrɛdʒɪstɚ]",
+    "pos": "v.",
+    "meaning": "登記、註冊",
+    "examples": [
+      { "en": "You must register your address here.", "zh": "你必須在這裡登記地址。" },
+      { "en": "We registered our new car.", "zh": "我們登記了新車。" }
+    ],
+    "img": "person filling registration desk form",
+    "theme": "政府法律",
+    "level": 2
+  },
+  {
+    "word": "witness",
+    "kk": "[ˋwɪtnɪs]",
+    "pos": "n.",
+    "meaning": "證人",
+    "examples": [
+      { "en": "The witness saw the accident.", "zh": "證人目睹了事故。" },
+      { "en": "She was a witness in court.", "zh": "她是法庭上的證人。" }
+    ],
+    "img": "witness speaking in courtroom stand",
+    "theme": "政府法律",
+    "level": 2
+  },
+  {
+    "word": "approve",
+    "kk": "[əˋpruv]",
+    "pos": "v.",
+    "meaning": "核准、批准",
+    "examples": [
+      { "en": "They approved my visa application.", "zh": "他們核准了我的簽證申請。" },
+      { "en": "The office approved the request.", "zh": "辦公室批准了這項請求。" }
+    ],
+    "img": "approved stamp on application form",
+    "theme": "政府法律",
+    "level": 2
+  },
+  {
+    "word": "criminal",
+    "kk": "[ˋkrɪmənl]",
+    "pos": "n.",
+    "meaning": "罪犯",
+    "examples": [
+      { "en": "The criminal was sent to jail.", "zh": "罪犯被送進監獄。" },
+      { "en": "Police are looking for the criminal.", "zh": "警察正在尋找罪犯。" }
+    ],
+    "img": "criminal in orange jail uniform",
+    "theme": "政府法律",
+    "level": 2
+  },
+  {
+    "word": "authority",
+    "kk": "[əˋθɔrətɪ]",
+    "pos": "n.",
+    "meaning": "當局、權威",
+    "examples": [
+      { "en": "Report it to the local authority.", "zh": "向當地當局舉報。" },
+      { "en": "The police have the authority to check.", "zh": "警方有權進行檢查。" }
+    ],
+    "img": "government authority official seal",
+    "theme": "政府法律",
+    "level": 3
+  },
+  {
+    "word": "regulation",
+    "kk": "[ˏrɛɡjəˋleʃən]",
+    "pos": "n.",
+    "meaning": "法規、規章",
+    "examples": [
+      { "en": "New safety regulations start today.", "zh": "新的安全法規今天開始實施。" },
+      { "en": "The company follows all regulations.", "zh": "這家公司遵守所有法規。" }
+    ],
+    "img": "thick regulation rulebook on desk",
+    "theme": "政府法律",
+    "level": 3
+  },
+  {
+    "word": "certificate",
+    "kk": "[sɚˋtɪfəkɪt]",
+    "pos": "n.",
+    "meaning": "證書、證明",
+    "examples": [
+      { "en": "I need my birth certificate.", "zh": "我需要我的出生證明。" },
+      { "en": "She showed her marriage certificate.", "zh": "她出示了結婚證書。" }
+    ],
+    "img": "official certificate with gold seal",
+    "theme": "政府法律",
+    "level": 3
+  },
+  {
+    "word": "application",
+    "kk": "[ˏæpləˋkeʃən]",
+    "pos": "n.",
+    "meaning": "申請、申請書",
+    "examples": [
+      { "en": "My application was accepted.", "zh": "我的申請被接受了。" },
+      { "en": "Fill in the application carefully.", "zh": "仔細填寫申請書。" }
+    ],
+    "img": "printed application form with checkboxes",
+    "theme": "政府法律",
+    "level": 3
+  },
+  {
+    "word": "resident",
+    "kk": "[ˋrɛzədənt]",
+    "pos": "n.",
+    "meaning": "居民",
+    "examples": [
+      { "en": "He is a resident of this city.", "zh": "他是這座城市的居民。" },
+      { "en": "Residents must register their address.", "zh": "居民必須登記地址。" }
+    ],
+    "img": "resident id card with address",
+    "theme": "政府法律",
+    "level": 3
+  },
+  {
+    "word": "punishment",
+    "kk": "[ˋpʌnɪʃmənt]",
+    "pos": "n.",
+    "meaning": "處罰、懲罰",
+    "examples": [
+      { "en": "The punishment was a large fine.", "zh": "處罰是一筆巨額罰款。" },
+      { "en": "He accepted his punishment.", "zh": "他接受了他的懲罰。" }
+    ],
+    "img": "gavel with scales of justice",
+    "theme": "政府法律",
+    "level": 3
+  },
+  {
+    "word": "evidence",
+    "kk": "[ˋɛvədəns]",
+    "pos": "n.",
+    "meaning": "證據",
+    "examples": [
+      { "en": "The police found new evidence.", "zh": "警方找到了新證據。" },
+      { "en": "There was no evidence against him.", "zh": "沒有不利於他的證據。" }
+    ],
+    "img": "evidence bag with magnifying glass",
+    "theme": "政府法律",
+    "level": 3
+  },
+  {
+    "word": "guilty",
+    "kk": "[ˋɡɪltɪ]",
+    "pos": "adj.",
+    "meaning": "有罪的",
+    "examples": [
+      { "en": "The court found him guilty.", "zh": "法院判他有罪。" },
+      { "en": "She felt guilty about the mistake.", "zh": "她對這個錯誤感到內疚。" }
+    ],
+    "img": "guilty verdict in courtroom scene",
+    "theme": "政府法律",
+    "level": 3
+  },
+  {
+    "word": "innocent",
+    "kk": "[ˋɪnəsnt]",
+    "pos": "adj.",
+    "meaning": "無罪的、清白的",
+    "examples": [
+      { "en": "He said he was innocent.", "zh": "他說他是無辜的。" },
+      { "en": "The judge declared her innocent.", "zh": "法官宣判她無罪。" }
+    ],
+    "img": "innocent person freed in court",
+    "theme": "政府法律",
+    "level": 3
+  },
+  {
+    "word": "constitution",
+    "kk": "[ˏkɑnstəˋtjuʃən]",
+    "pos": "n.",
+    "meaning": "憲法",
+    "examples": [
+      { "en": "The constitution protects our rights.", "zh": "憲法保護我們的權利。" },
+      { "en": "This law follows the constitution.", "zh": "這條法律遵循憲法。" }
+    ],
+    "img": "old constitution document with quill",
+    "theme": "政府法律",
+    "level": 3
+  },
+  {
+    "word": "verify",
+    "kk": "[ˋvɛrəˏfaɪ]",
+    "pos": "v.",
+    "meaning": "核實、驗證",
+    "examples": [
+      { "en": "They need to verify your identity.", "zh": "他們需要核實你的身分。" },
+      { "en": "Please verify your address here.", "zh": "請在這裡驗證你的地址。" }
+    ],
+    "img": "officer verifying id with checkmark",
+    "theme": "政府法律",
+    "level": 3
+  },
+  {
+    "word": "custody",
+    "kk": "[ˋkʌstədɪ]",
+    "pos": "n.",
+    "meaning": "拘留、監護",
+    "examples": [
+      { "en": "The suspect is in police custody.", "zh": "嫌犯被警方拘留中。" },
+      { "en": "She won custody of the children.", "zh": "她獲得了孩子的監護權。" }
+    ],
+    "img": "suspect held behind jail bars",
+    "theme": "政府法律",
+    "level": 3
+  }
+]

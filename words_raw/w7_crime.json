@@ -1,0 +1,652 @@
+[
+  {
+    "word": "crime",
+    "kk": "[kraɪm]",
+    "pos": "n.",
+    "meaning": "罪行；犯罪",
+    "examples": [
+      { "en": "The police are trying to solve the crime.", "zh": "警方正試圖偵破這起犯罪。" },
+      { "en": "Stealing a car is a serious crime.", "zh": "偷車是嚴重的罪行。" }
+    ],
+    "img": "yellow police tape at crime scene",
+    "theme": "犯罪警察",
+    "level": 2
+  },
+  {
+    "word": "criminal",
+    "kk": "[ˈkrɪmənl]",
+    "pos": "n.",
+    "meaning": "罪犯",
+    "examples": [
+      { "en": "The criminal was caught near the bank.", "zh": "這名罪犯在銀行附近被抓到。" },
+      { "en": "Police put the criminal in handcuffs.", "zh": "警察給罪犯銬上手銬。" }
+    ],
+    "img": "handcuffed man in orange jumpsuit",
+    "theme": "犯罪警察",
+    "level": 2
+  },
+  {
+    "word": "suspect",
+    "kk": "[ˈsʌspɛkt]",
+    "pos": "n.",
+    "meaning": "嫌疑犯",
+    "examples": [
+      { "en": "The suspect ran away from the store.", "zh": "嫌疑犯從商店逃跑了。" },
+      { "en": "Police questioned the main suspect for hours.", "zh": "警方盤問主要嫌疑犯好幾個小時。" }
+    ],
+    "img": "man in police lineup interrogation room",
+    "theme": "犯罪警察",
+    "level": 3
+  },
+  {
+    "word": "victim",
+    "kk": "[ˈvɪktɪm]",
+    "pos": "n.",
+    "meaning": "受害者",
+    "examples": [
+      { "en": "The victim called the police right away.", "zh": "受害者立刻報警。" },
+      { "en": "The robbery had two victims.", "zh": "這起搶案有兩名受害者。" }
+    ],
+    "img": "person talking to police officer worried",
+    "theme": "犯罪警察",
+    "level": 2
+  },
+  {
+    "word": "witness",
+    "kk": "[ˈwɪtnəs]",
+    "pos": "n.",
+    "meaning": "目擊者；證人",
+    "examples": [
+      { "en": "A witness saw the whole accident.", "zh": "一名目擊者看到了整起意外。" },
+      { "en": "The witness described the thief to police.", "zh": "證人向警方描述了竊賊的樣子。" }
+    ],
+    "img": "person pointing describing to police officer",
+    "theme": "犯罪警察",
+    "level": 3
+  },
+  {
+    "word": "police officer",
+    "kk": "[pəˈlis ˈɔfəsɚ]",
+    "pos": "n.",
+    "meaning": "警察",
+    "examples": [
+      { "en": "A police officer stopped the car.", "zh": "一名警察攔下了那輛車。" },
+      { "en": "The police officer wore a blue uniform.", "zh": "那位警察穿著藍色制服。" }
+    ],
+    "img": "uniformed police officer standing on street",
+    "theme": "犯罪警察",
+    "level": 2
+  },
+  {
+    "word": "detective",
+    "kk": "[dɪˈtɛktɪv]",
+    "pos": "n.",
+    "meaning": "偵探；刑警",
+    "examples": [
+      { "en": "The detective looked for clues at the scene.", "zh": "偵探在現場尋找線索。" },
+      { "en": "A detective solved the difficult case.", "zh": "一名刑警偵破了這起棘手的案子。" }
+    ],
+    "img": "detective examining evidence with magnifier",
+    "theme": "犯罪警察",
+    "level": 3
+  },
+  {
+    "word": "arrest",
+    "kk": "[əˈrɛst]",
+    "pos": "v.",
+    "meaning": "逮捕",
+    "examples": [
+      { "en": "The police arrested the thief last night.", "zh": "警方昨晚逮捕了那名竊賊。" },
+      { "en": "He was arrested for driving drunk.", "zh": "他因酒駕被逮捕。" }
+    ],
+    "img": "police officer handcuffing suspect arrest",
+    "theme": "犯罪警察",
+    "level": 2
+  },
+  {
+    "word": "evidence",
+    "kk": "[ˈɛvədəns]",
+    "pos": "n.",
+    "meaning": "證據",
+    "examples": [
+      { "en": "The police found strong evidence at the scene.", "zh": "警方在現場找到有力的證據。" },
+      { "en": "Without evidence, they could not charge him.", "zh": "沒有證據,他們無法起訴他。" }
+    ],
+    "img": "evidence bags labeled on table forensic",
+    "theme": "犯罪警察",
+    "level": 3
+  },
+  {
+    "word": "clue",
+    "kk": "[klu]",
+    "pos": "n.",
+    "meaning": "線索",
+    "examples": [
+      { "en": "The broken window was an important clue.", "zh": "破掉的窗戶是一條重要線索。" },
+      { "en": "Detectives looked for clues everywhere.", "zh": "偵探到處尋找線索。" }
+    ],
+    "img": "magnifying glass over footprint clue",
+    "theme": "犯罪警察",
+    "level": 2
+  },
+  {
+    "word": "fingerprint",
+    "kk": "[ˈfɪŋɡɚˌprɪnt]",
+    "pos": "n.",
+    "meaning": "指紋",
+    "examples": [
+      { "en": "They found a fingerprint on the glass.", "zh": "他們在玻璃杯上發現一枚指紋。" },
+      { "en": "Everyone's fingerprint is different.", "zh": "每個人的指紋都不同。" }
+    ],
+    "img": "fingerprint on glass forensic dusting",
+    "theme": "犯罪警察",
+    "level": 3
+  },
+  {
+    "word": "robbery",
+    "kk": "[ˈrɑbəri]",
+    "pos": "n.",
+    "meaning": "搶劫",
+    "examples": [
+      { "en": "There was a robbery at the bank today.", "zh": "今天銀行發生了一起搶劫。" },
+      { "en": "The robbery happened in broad daylight.", "zh": "這起搶劫發生在大白天。" }
+    ],
+    "img": "masked robber holding bag in bank",
+    "theme": "犯罪警察",
+    "level": 3
+  },
+  {
+    "word": "thief",
+    "kk": "[θif]",
+    "pos": "n.",
+    "meaning": "小偷",
+    "examples": [
+      { "en": "A thief stole my wallet on the bus.", "zh": "一個小偷在公車上偷了我的錢包。" },
+      { "en": "The thief broke into the empty house.", "zh": "小偷闖入了那間空屋。" }
+    ],
+    "img": "thief sneaking with stolen bag at night",
+    "theme": "犯罪警察",
+    "level": 2
+  },
+  {
+    "word": "steal",
+    "kk": "[stil]",
+    "pos": "v.",
+    "meaning": "偷竊",
+    "examples": [
+      { "en": "Someone tried to steal her phone.", "zh": "有人試圖偷她的手機。" },
+      { "en": "It is wrong to steal from others.", "zh": "偷別人的東西是不對的。" }
+    ],
+    "img": "hand stealing wallet from pocket",
+    "theme": "犯罪警察",
+    "level": 2
+  },
+  {
+    "word": "burglar",
+    "kk": "[ˈbɝɡlɚ]",
+    "pos": "n.",
+    "meaning": "竊賊(闖空門)",
+    "examples": [
+      { "en": "A burglar entered through the back door.", "zh": "一名竊賊從後門進入。" },
+      { "en": "The burglar took jewelry and cash.", "zh": "竊賊拿走了珠寶和現金。" }
+    ],
+    "img": "burglar climbing through house window",
+    "theme": "犯罪警察",
+    "level": 3
+  },
+  {
+    "word": "murder",
+    "kk": "[ˈmɝdɚ]",
+    "pos": "n.",
+    "meaning": "謀殺",
+    "examples": [
+      { "en": "The police are investigating a murder.", "zh": "警方正在調查一起謀殺案。" },
+      { "en": "He was found guilty of murder.", "zh": "他被判謀殺罪成立。" }
+    ],
+    "img": "crime scene outline on floor dark",
+    "theme": "犯罪警察",
+    "level": 3
+  },
+  {
+    "word": "kidnap",
+    "kk": "[ˈkɪdˌnæp]",
+    "pos": "v.",
+    "meaning": "綁架",
+    "examples": [
+      { "en": "The men tried to kidnap the rich boy.", "zh": "那些人試圖綁架那個有錢人家的男孩。" },
+      { "en": "Police rescued the kidnapped child.", "zh": "警方救出了被綁架的孩子。" }
+    ],
+    "img": "person pulled into van kidnapping",
+    "theme": "犯罪警察",
+    "level": 3
+  },
+  {
+    "word": "smuggle",
+    "kk": "[ˈsmʌɡl]",
+    "pos": "v.",
+    "meaning": "走私",
+    "examples": [
+      { "en": "They tried to smuggle drugs across the border.", "zh": "他們試圖將毒品走私過境。" },
+      { "en": "Customs caught him smuggling gold.", "zh": "海關抓到他走私黃金。" }
+    ],
+    "img": "hidden goods in suitcase customs check",
+    "theme": "犯罪警察",
+    "level": 3
+  },
+  {
+    "word": "fraud",
+    "kk": "[frɔd]",
+    "pos": "n.",
+    "meaning": "詐欺",
+    "examples": [
+      { "en": "He lost money in an online fraud.", "zh": "他在一場網路詐欺中損失了錢。" },
+      { "en": "The company was accused of fraud.", "zh": "這家公司被指控詐欺。" }
+    ],
+    "img": "scam phone call fake money warning",
+    "theme": "犯罪警察",
+    "level": 3
+  },
+  {
+    "word": "gang",
+    "kk": "[ɡæŋ]",
+    "pos": "n.",
+    "meaning": "幫派",
+    "examples": [
+      { "en": "The gang controlled that part of town.", "zh": "這個幫派控制了那一帶。" },
+      { "en": "Police broke up the dangerous gang.", "zh": "警方瓦解了這個危險的幫派。" }
+    ],
+    "img": "group of tough men in dark alley",
+    "theme": "犯罪警察",
+    "level": 3
+  },
+  {
+    "word": "weapon",
+    "kk": "[ˈwɛpən]",
+    "pos": "n.",
+    "meaning": "武器",
+    "examples": [
+      { "en": "The police found a weapon in his bag.", "zh": "警方在他的包裡發現一件武器。" },
+      { "en": "A knife can be a dangerous weapon.", "zh": "刀子可能是危險的武器。" }
+    ],
+    "img": "knife and gun evidence on table",
+    "theme": "犯罪警察",
+    "level": 2
+  },
+  {
+    "word": "gun",
+    "kk": "[ɡʌn]",
+    "pos": "n.",
+    "meaning": "槍",
+    "examples": [
+      { "en": "The robber pointed a gun at the clerk.", "zh": "搶匪拿槍指著店員。" },
+      { "en": "Police officers carry a gun on duty.", "zh": "警察執勤時攜帶槍枝。" }
+    ],
+    "img": "handgun on evidence table close up",
+    "theme": "犯罪警察",
+    "level": 2
+  },
+  {
+    "word": "handcuffs",
+    "kk": "[ˈhændˌkʌfs]",
+    "pos": "n.",
+    "meaning": "手銬",
+    "examples": [
+      { "en": "The officer put handcuffs on the suspect.", "zh": "警員給嫌犯戴上手銬。" },
+      { "en": "The handcuffs were too tight.", "zh": "手銬太緊了。" }
+    ],
+    "img": "metal handcuffs on wrists close up",
+    "theme": "犯罪警察",
+    "level": 2
+  },
+  {
+    "word": "prison",
+    "kk": "[ˈprɪzn]",
+    "pos": "n.",
+    "meaning": "監獄",
+    "examples": [
+      { "en": "He spent five years in prison.", "zh": "他在監獄裡待了五年。" },
+      { "en": "The prison has very high walls.", "zh": "這座監獄有很高的圍牆。" }
+    ],
+    "img": "prison building with high walls bars",
+    "theme": "犯罪警察",
+    "level": 2
+  },
+  {
+    "word": "jail",
+    "kk": "[dʒel]",
+    "pos": "n.",
+    "meaning": "拘留所；牢房",
+    "examples": [
+      { "en": "The thief was sent to jail overnight.", "zh": "那名小偷被送進拘留所過夜。" },
+      { "en": "He was released from jail on bail.", "zh": "他交保後從牢裡被釋放。" }
+    ],
+    "img": "jail cell with metal bars empty",
+    "theme": "犯罪警察",
+    "level": 2
+  },
+  {
+    "word": "cell",
+    "kk": "[sɛl]",
+    "pos": "n.",
+    "meaning": "牢房",
+    "examples": [
+      { "en": "The prisoner sat alone in his cell.", "zh": "囚犯獨自坐在牢房裡。" },
+      { "en": "Each cell has a small window.", "zh": "每間牢房都有一扇小窗戶。" }
+    ],
+    "img": "prison cell interior bed and bars",
+    "theme": "犯罪警察",
+    "level": 3
+  },
+  {
+    "word": "prisoner",
+    "kk": "[ˈprɪznɚ]",
+    "pos": "n.",
+    "meaning": "囚犯",
+    "examples": [
+      { "en": "The prisoner tried to escape at night.", "zh": "那名囚犯試圖在夜裡逃跑。" },
+      { "en": "Prisoners eat in a large dining hall.", "zh": "囚犯在一間大餐廳裡用餐。" }
+    ],
+    "img": "prisoner in striped uniform behind bars",
+    "theme": "犯罪警察",
+    "level": 3
+  },
+  {
+    "word": "guilty",
+    "kk": "[ˈɡɪlti]",
+    "pos": "adj.",
+    "meaning": "有罪的",
+    "examples": [
+      { "en": "The court found him guilty of theft.", "zh": "法院判他竊盜罪成立。" },
+      { "en": "She did not feel guilty at all.", "zh": "她一點也不覺得有罪。" }
+    ],
+    "img": "defendant standing in court verdict",
+    "theme": "犯罪警察",
+    "level": 3
+  },
+  {
+    "word": "innocent",
+    "kk": "[ˈɪnəsnt]",
+    "pos": "adj.",
+    "meaning": "無辜的",
+    "examples": [
+      { "en": "The man was innocent and set free.", "zh": "那名男子是無辜的,被釋放了。" },
+      { "en": "An innocent person should not be punished.", "zh": "無辜的人不該受罰。" }
+    ],
+    "img": "relieved man leaving courtroom free",
+    "theme": "犯罪警察",
+    "level": 3
+  },
+  {
+    "word": "confess",
+    "kk": "[kənˈfɛs]",
+    "pos": "v.",
+    "meaning": "坦白;認罪",
+    "examples": [
+      { "en": "The suspect finally confessed to the crime.", "zh": "嫌犯最後坦承了犯行。" },
+      { "en": "He confessed that he took the money.", "zh": "他承認自己拿了那筆錢。" }
+    ],
+    "img": "suspect talking to detective interrogation",
+    "theme": "犯罪警察",
+    "level": 3
+  },
+  {
+    "word": "investigate",
+    "kk": "[ɪnˈvɛstəˌɡet]",
+    "pos": "v.",
+    "meaning": "調查",
+    "examples": [
+      { "en": "Police are investigating the robbery.", "zh": "警方正在調查這起搶案。" },
+      { "en": "They investigated the case for months.", "zh": "他們調查這起案子好幾個月。" }
+    ],
+    "img": "detectives examining case board photos",
+    "theme": "犯罪警察",
+    "level": 3
+  },
+  {
+    "word": "chase",
+    "kk": "[tʃes]",
+    "pos": "v.",
+    "meaning": "追捕",
+    "examples": [
+      { "en": "The police chased the thief down the street.", "zh": "警察沿街追捕那名小偷。" },
+      { "en": "Two officers chased the car for miles.", "zh": "兩名警員追那輛車追了好幾英里。" }
+    ],
+    "img": "police officer running chasing suspect street",
+    "theme": "犯罪警察",
+    "level": 2
+  },
+  {
+    "word": "escape",
+    "kk": "[əˈskep]",
+    "pos": "v.",
+    "meaning": "逃跑",
+    "examples": [
+      { "en": "The prisoner escaped from jail.", "zh": "那名囚犯從監獄逃跑了。" },
+      { "en": "The robber escaped before police arrived.", "zh": "搶匪在警察到來前逃跑了。" }
+    ],
+    "img": "prisoner climbing fence escape night",
+    "theme": "犯罪警察",
+    "level": 2
+  },
+  {
+    "word": "patrol",
+    "kk": "[pəˈtrol]",
+    "pos": "v.",
+    "meaning": "巡邏",
+    "examples": [
+      { "en": "Officers patrol the streets at night.", "zh": "警員在夜間巡邏街道。" },
+      { "en": "A car patrols this area every hour.", "zh": "一輛車每小時巡邏這個區域。" }
+    ],
+    "img": "police car patrolling city street night",
+    "theme": "犯罪警察",
+    "level": 3
+  },
+  {
+    "word": "siren",
+    "kk": "[ˈsaɪrən]",
+    "pos": "n.",
+    "meaning": "警笛",
+    "examples": [
+      { "en": "We heard a police siren coming closer.", "zh": "我們聽到警笛聲越來越近。" },
+      { "en": "The siren warned drivers to move aside.", "zh": "警笛提醒駕駛人靠邊讓路。" }
+    ],
+    "img": "police car flashing red blue lights siren",
+    "theme": "犯罪警察",
+    "level": 3
+  },
+  {
+    "word": "scene",
+    "kk": "[sin]",
+    "pos": "n.",
+    "meaning": "現場",
+    "examples": [
+      { "en": "Police arrived at the scene quickly.", "zh": "警方迅速抵達現場。" },
+      { "en": "No one could enter the crime scene.", "zh": "沒有人可以進入犯罪現場。" }
+    ],
+    "img": "cordoned crime scene police tape night",
+    "theme": "犯罪警察",
+    "level": 2
+  },
+  {
+    "word": "report",
+    "kk": "[rɪˈpɔrt]",
+    "pos": "v.",
+    "meaning": "報案;報告",
+    "examples": [
+      { "en": "She reported the theft to the police.", "zh": "她向警方報了竊案。" },
+      { "en": "Please report any strange behavior.", "zh": "請通報任何可疑的行為。" }
+    ],
+    "img": "person filing police report at station",
+    "theme": "犯罪警察",
+    "level": 2
+  },
+  {
+    "word": "charge",
+    "kk": "[tʃɑrdʒ]",
+    "pos": "v.",
+    "meaning": "控告;起訴",
+    "examples": [
+      { "en": "Police charged him with robbery.", "zh": "警方以搶劫罪起訴他。" },
+      { "en": "She was charged with three crimes.", "zh": "她被控三項罪名。" }
+    ],
+    "img": "officer reading charges to suspect station",
+    "theme": "犯罪警察",
+    "level": 3
+  },
+  {
+    "word": "theft",
+    "kk": "[θɛft]",
+    "pos": "n.",
+    "meaning": "竊盜(罪名)",
+    "examples": [
+      { "en": "He was arrested for car theft.", "zh": "他因汽車竊盜被逮捕。" },
+      { "en": "The store reported a theft this morning.", "zh": "這家店今早報了一起竊案。" }
+    ],
+    "img": "empty shelf security camera theft",
+    "theme": "犯罪警察",
+    "level": 3
+  },
+  {
+    "word": "assault",
+    "kk": "[əˈsɔlt]",
+    "pos": "n.",
+    "meaning": "傷害;攻擊(罪名)",
+    "examples": [
+      { "en": "The man was charged with assault.", "zh": "這名男子被控傷害罪。" },
+      { "en": "Assault is a serious offense.", "zh": "攻擊他人是嚴重的罪行。" }
+    ],
+    "img": "two men fighting on street conflict",
+    "theme": "犯罪警察",
+    "level": 3
+  },
+  {
+    "word": "bribe",
+    "kk": "[braɪb]",
+    "pos": "n.",
+    "meaning": "賄賂",
+    "examples": [
+      { "en": "He offered the officer a bribe.", "zh": "他向那名警員行賄。" },
+      { "en": "Taking a bribe is against the law.", "zh": "收受賄賂是違法的。" }
+    ],
+    "img": "hand passing cash envelope under table",
+    "theme": "犯罪警察",
+    "level": 3
+  },
+  {
+    "word": "hostage",
+    "kk": "[ˈhɑstɪdʒ]",
+    "pos": "n.",
+    "meaning": "人質",
+    "examples": [
+      { "en": "The robbers took two hostages.", "zh": "搶匪挾持了兩名人質。" },
+      { "en": "Police freed the hostage safely.", "zh": "警方安全救出了人質。" }
+    ],
+    "img": "person held with hands raised tense scene",
+    "theme": "犯罪警察",
+    "level": 3
+  },
+  {
+    "word": "alibi",
+    "kk": "[ˈæləˌbaɪ]",
+    "pos": "n.",
+    "meaning": "不在場證明",
+    "examples": [
+      { "en": "The suspect had a strong alibi.", "zh": "嫌犯有充分的不在場證明。" },
+      { "en": "His alibi was that he was at work.", "zh": "他的不在場證明是他當時在上班。" }
+    ],
+    "img": "clock and calendar timeline evidence",
+    "theme": "犯罪警察",
+    "level": 3
+  },
+  {
+    "word": "trial",
+    "kk": "[ˈtraɪəl]",
+    "pos": "n.",
+    "meaning": "審判",
+    "examples": [
+      { "en": "The trial will start next week.", "zh": "審判將於下週開始。" },
+      { "en": "He waited months for his trial.", "zh": "他等了好幾個月才受審。" }
+    ],
+    "img": "courtroom trial judge and lawyers",
+    "theme": "犯罪警察",
+    "level": 3
+  },
+  {
+    "word": "smuggler",
+    "kk": "[ˈsmʌɡlɚ]",
+    "pos": "n.",
+    "meaning": "走私者",
+    "examples": [
+      { "en": "The smuggler hid drugs in the truck.", "zh": "走私者把毒品藏在卡車裡。" },
+      { "en": "Customs officers caught the smuggler.", "zh": "海關人員抓到了走私者。" }
+    ],
+    "img": "man hiding packages in truck at border",
+    "theme": "犯罪警察",
+    "level": 3
+  },
+  {
+    "word": "shoplift",
+    "kk": "[ˈʃɑpˌlɪft]",
+    "pos": "v.",
+    "meaning": "順手牽羊(店內偷竊)",
+    "examples": [
+      { "en": "A teenager tried to shoplift a shirt.", "zh": "一名青少年試圖在店內偷一件襯衫。" },
+      { "en": "Guards watch for people who shoplift.", "zh": "警衛留意順手牽羊的人。" }
+    ],
+    "img": "person hiding item under jacket in store",
+    "theme": "犯罪警察",
+    "level": 3
+  },
+  {
+    "word": "wanted",
+    "kk": "[ˈwɑntɪd]",
+    "pos": "adj.",
+    "meaning": "被通緝的",
+    "examples": [
+      { "en": "He is wanted by the police.", "zh": "他被警方通緝。" },
+      { "en": "Her photo was on a wanted poster.", "zh": "她的照片出現在通緝海報上。" }
+    ],
+    "img": "wanted poster with suspect photo",
+    "theme": "犯罪警察",
+    "level": 2
+  },
+  {
+    "word": "investigation",
+    "kk": "[ɪnˌvɛstəˈɡeʃən]",
+    "pos": "n.",
+    "meaning": "調查(行動)",
+    "examples": [
+      { "en": "The investigation lasted three months.", "zh": "這起調查持續了三個月。" },
+      { "en": "New clues helped the investigation.", "zh": "新線索有助於調查。" }
+    ],
+    "img": "detective board with photos strings clues",
+    "theme": "犯罪警察",
+    "level": 3
+  },
+  {
+    "word": "捕獲",
+    "kk": "[ˈkæptʃɚ]",
+    "pos": "v.",
+    "meaning": "捉住;逮住",
+    "examples": [
+      { "en": "Police captured the robber at the airport.", "zh": "警方在機場逮住了搶匪。" },
+      { "en": "They finally captured the escaped prisoner.", "zh": "他們終於捉住了逃跑的囚犯。" }
+    ],
+    "img": "police surrounding and catching suspect",
+    "theme": "犯罪警察",
+    "level": 3
+  },
+  {
+    "word": "criminal record",
+    "kk": "[ˈkrɪmənl ˈrɛkɚd]",
+    "pos": "n.",
+    "meaning": "犯罪紀錄;前科",
+    "examples": [
+      { "en": "He has no criminal record.", "zh": "他沒有犯罪紀錄。" },
+      { "en": "A criminal record can hurt your job search.", "zh": "有前科可能不利於找工作。" }
+    ],
+    "img": "police file folder with mugshot record",
+    "theme": "犯罪警察",
+    "level": 3
+  }
+]

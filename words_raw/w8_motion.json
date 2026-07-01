@@ -1,0 +1,652 @@
+[
+  {
+    "word": "stroll",
+    "kk": "[strol]",
+    "pos": "v.",
+    "meaning": "悠閒地散步",
+    "examples": [
+      { "en": "We strolled along the beach at sunset.", "zh": "我們在日落時沿著海灘散步。" },
+      { "en": "She likes to stroll through the park after dinner.", "zh": "她喜歡晚餐後在公園裡散步。" }
+    ],
+    "img": "couple strolling in park",
+    "theme": "移動方式",
+    "level": 2
+  },
+  {
+    "word": "rush",
+    "kk": "[rʌʃ]",
+    "pos": "v.",
+    "meaning": "匆忙趕往",
+    "examples": [
+      { "en": "He rushed to catch the last train.", "zh": "他匆忙趕搭最後一班火車。" },
+      { "en": "Don't rush; we still have plenty of time.", "zh": "別急,我們還有很多時間。" }
+    ],
+    "img": "person rushing through crowd",
+    "theme": "移動方式",
+    "level": 2
+  },
+  {
+    "word": "crawl",
+    "kk": "[krɔl]",
+    "pos": "v.",
+    "meaning": "爬行",
+    "examples": [
+      { "en": "The baby crawled across the living room floor.", "zh": "寶寶在客廳地板上爬來爬去。" },
+      { "en": "We had to crawl through the narrow tunnel.", "zh": "我們必須爬過狹窄的隧道。" }
+    ],
+    "img": "baby crawling on floor",
+    "theme": "移動方式",
+    "level": 2
+  },
+  {
+    "word": "wander",
+    "kk": "[ˋwɑndɚ]",
+    "pos": "v.",
+    "meaning": "閒逛;漫遊",
+    "examples": [
+      { "en": "They wandered around the old town all afternoon.", "zh": "他們整個下午在舊城區閒逛。" },
+      { "en": "The child wandered off and got lost.", "zh": "那孩子走散了,迷了路。" }
+    ],
+    "img": "tourist wandering old town streets",
+    "theme": "移動方式",
+    "level": 2
+  },
+  {
+    "word": "sprint",
+    "kk": "[sprɪnt]",
+    "pos": "v.",
+    "meaning": "全力衝刺",
+    "examples": [
+      { "en": "He sprinted to the finish line.", "zh": "他衝刺到終點線。" },
+      { "en": "She sprinted across the road to catch the bus.", "zh": "她衝過馬路去趕公車。" }
+    ],
+    "img": "runner sprinting on track",
+    "theme": "移動方式",
+    "level": 2
+  },
+  {
+    "word": "jog",
+    "kk": "[dʒɑg]",
+    "pos": "v.",
+    "meaning": "慢跑",
+    "examples": [
+      { "en": "I jog around the lake every morning.", "zh": "我每天早上繞著湖慢跑。" },
+      { "en": "They jogged slowly to warm up.", "zh": "他們慢跑暖身。" }
+    ],
+    "img": "person jogging in park",
+    "theme": "移動方式",
+    "level": 2
+  },
+  {
+    "word": "leap",
+    "kk": "[lip]",
+    "pos": "v.",
+    "meaning": "跳躍;躍過",
+    "examples": [
+      { "en": "The cat leaped onto the table.", "zh": "貓跳上了桌子。" },
+      { "en": "He leaped over the puddle.", "zh": "他跳過了水坑。" }
+    ],
+    "img": "person leaping over gap",
+    "theme": "移動方式",
+    "level": 2
+  },
+  {
+    "word": "hop",
+    "kk": "[hɑp]",
+    "pos": "v.",
+    "meaning": "單腳跳;蹦跳",
+    "examples": [
+      { "en": "The rabbit hopped across the garden.", "zh": "兔子蹦跳著穿過花園。" },
+      { "en": "She hopped on one foot to keep her balance.", "zh": "她單腳跳著保持平衡。" }
+    ],
+    "img": "rabbit hopping in grass",
+    "theme": "移動方式",
+    "level": 2
+  },
+  {
+    "word": "climb",
+    "kk": "[klaɪm]",
+    "pos": "v.",
+    "meaning": "攀爬;攀登",
+    "examples": [
+      { "en": "They climbed the mountain before dawn.", "zh": "他們在黎明前登上了山。" },
+      { "en": "The boy climbed up the tree.", "zh": "男孩爬上了樹。" }
+    ],
+    "img": "hiker climbing rocky mountain",
+    "theme": "移動方式",
+    "level": 2
+  },
+  {
+    "word": "march",
+    "kk": "[mɑrtʃ]",
+    "pos": "v.",
+    "meaning": "行進;齊步走",
+    "examples": [
+      { "en": "The soldiers marched down the street.", "zh": "士兵們沿街行進。" },
+      { "en": "The band marched onto the field.", "zh": "樂隊行進進入場地。" }
+    ],
+    "img": "soldiers marching in formation",
+    "theme": "移動方式",
+    "level": 2
+  },
+  {
+    "word": "wade",
+    "kk": "[wed]",
+    "pos": "v.",
+    "meaning": "涉水而行",
+    "examples": [
+      { "en": "We waded across the shallow stream.", "zh": "我們涉水過了淺溪。" },
+      { "en": "The children waded into the water.", "zh": "孩子們涉水走進水裡。" }
+    ],
+    "img": "people wading through shallow river",
+    "theme": "移動方式",
+    "level": 3
+  },
+  {
+    "word": "tiptoe",
+    "kk": "[ˋtɪpˏto]",
+    "pos": "v.",
+    "meaning": "踮腳走",
+    "examples": [
+      { "en": "She tiptoed past the sleeping baby.", "zh": "她踮著腳走過熟睡的寶寶。" },
+      { "en": "He tiptoed into the dark room.", "zh": "他踮腳走進漆黑的房間。" }
+    ],
+    "img": "person tiptoeing quietly",
+    "theme": "移動方式",
+    "level": 3
+  },
+  {
+    "word": "stumble",
+    "kk": "[ˋstʌmbl]",
+    "pos": "v.",
+    "meaning": "絆倒;踉蹌",
+    "examples": [
+      { "en": "He stumbled over a rock in the dark.", "zh": "他在黑暗中被石頭絆倒。" },
+      { "en": "She stumbled but did not fall.", "zh": "她踉蹌了一下但沒摔倒。" }
+    ],
+    "img": "person stumbling on trail",
+    "theme": "移動方式",
+    "level": 3
+  },
+  {
+    "word": "dash",
+    "kk": "[dæʃ]",
+    "pos": "v.",
+    "meaning": "急奔;猛衝",
+    "examples": [
+      { "en": "She dashed out of the house in a hurry.", "zh": "她匆忙衝出屋子。" },
+      { "en": "He dashed across the street when it started to rain.", "zh": "開始下雨時他衝過了馬路。" }
+    ],
+    "img": "person dashing in rain",
+    "theme": "移動方式",
+    "level": 2
+  },
+  {
+    "word": "creep",
+    "kk": "[krip]",
+    "pos": "v.",
+    "meaning": "躡手躡腳地移動",
+    "examples": [
+      { "en": "The cat crept toward the bird.", "zh": "貓悄悄地朝小鳥靠近。" },
+      { "en": "He crept downstairs so no one would hear him.", "zh": "他躡手躡腳下樓,以免被人聽見。" }
+    ],
+    "img": "cat creeping toward prey",
+    "theme": "移動方式",
+    "level": 3
+  },
+  {
+    "word": "slide",
+    "kk": "[slaɪd]",
+    "pos": "v.",
+    "meaning": "滑行;滑動",
+    "examples": [
+      { "en": "The kids slid down the snowy hill.", "zh": "孩子們從雪坡上滑下來。" },
+      { "en": "She slid across the icy floor.", "zh": "她從結冰的地板上滑過去。" }
+    ],
+    "img": "child sliding down snowy slope",
+    "theme": "移動方式",
+    "level": 2
+  },
+  {
+    "word": "glide",
+    "kk": "[glaɪd]",
+    "pos": "v.",
+    "meaning": "滑翔;平穩滑行",
+    "examples": [
+      { "en": "The skater glided smoothly across the ice.", "zh": "溜冰者平穩地滑過冰面。" },
+      { "en": "The bird glided over the lake.", "zh": "鳥兒滑翔過湖面。" }
+    ],
+    "img": "skater gliding on ice",
+    "theme": "移動方式",
+    "level": 3
+  },
+  {
+    "word": "limp",
+    "kk": "[lɪmp]",
+    "pos": "v.",
+    "meaning": "跛行",
+    "examples": [
+      { "en": "He limped off the field after the injury.", "zh": "受傷後他一跛一跛地離開球場。" },
+      { "en": "The dog limped home on three legs.", "zh": "那隻狗用三條腿一跛一跛地回家。" }
+    ],
+    "img": "injured player limping off field",
+    "theme": "移動方式",
+    "level": 3
+  },
+  {
+    "word": "swing",
+    "kk": "[swɪŋ]",
+    "pos": "v.",
+    "meaning": "擺盪;搖擺",
+    "examples": [
+      { "en": "The monkey swung from branch to branch.", "zh": "猴子在樹枝間擺盪。" },
+      { "en": "She swung her arms as she walked.", "zh": "她走路時擺動雙臂。" }
+    ],
+    "img": "monkey swinging on branches",
+    "theme": "移動方式",
+    "level": 2
+  },
+  {
+    "word": "spin",
+    "kk": "[spɪn]",
+    "pos": "v.",
+    "meaning": "旋轉;打轉",
+    "examples": [
+      { "en": "The dancer spun gracefully on stage.", "zh": "舞者在舞台上優雅地旋轉。" },
+      { "en": "The kids spun around until they got dizzy.", "zh": "孩子們轉圈圈轉到頭暈。" }
+    ],
+    "img": "dancer spinning on stage",
+    "theme": "移動方式",
+    "level": 2
+  },
+  {
+    "word": "crouch",
+    "kk": "[kraʊtʃ]",
+    "pos": "v.",
+    "meaning": "蹲伏",
+    "examples": [
+      { "en": "He crouched behind the wall to hide.", "zh": "他蹲在牆後躲藏。" },
+      { "en": "The runner crouched at the starting line.", "zh": "跑者在起跑線上蹲伏。" }
+    ],
+    "img": "runner crouching at start line",
+    "theme": "移動方式",
+    "level": 3
+  },
+  {
+    "word": "kneel",
+    "kk": "[nil]",
+    "pos": "v.",
+    "meaning": "跪下",
+    "examples": [
+      { "en": "She knelt down to tie her shoe.", "zh": "她跪下來綁鞋帶。" },
+      { "en": "He knelt beside the injured man.", "zh": "他跪在受傷的男子旁邊。" }
+    ],
+    "img": "person kneeling to tie shoe",
+    "theme": "移動方式",
+    "level": 3
+  },
+  {
+    "word": "bend",
+    "kk": "[bɛnd]",
+    "pos": "v.",
+    "meaning": "彎腰;彎曲",
+    "examples": [
+      { "en": "Bend your knees when you lift the box.", "zh": "搬箱子時要彎膝蓋。" },
+      { "en": "She bent down to pick up the coin.", "zh": "她彎腰撿起硬幣。" }
+    ],
+    "img": "person bending to lift box",
+    "theme": "移動方式",
+    "level": 2
+  },
+  {
+    "word": "stretch",
+    "kk": "[strɛtʃ]",
+    "pos": "v.",
+    "meaning": "伸展",
+    "examples": [
+      { "en": "She stretched her arms after waking up.", "zh": "她起床後伸展雙臂。" },
+      { "en": "Remember to stretch before you run.", "zh": "跑步前記得伸展。" }
+    ],
+    "img": "person stretching arms outdoors",
+    "theme": "移動方式",
+    "level": 2
+  },
+  {
+    "word": "slip",
+    "kk": "[slɪp]",
+    "pos": "v.",
+    "meaning": "滑倒;溜走",
+    "examples": [
+      { "en": "He slipped on the wet floor.", "zh": "他在濕滑的地板上滑倒了。" },
+      { "en": "She slipped out of the room quietly.", "zh": "她悄悄溜出了房間。" }
+    ],
+    "img": "person slipping on wet floor",
+    "theme": "移動方式",
+    "level": 2
+  },
+  {
+    "word": "roll",
+    "kk": "[rol]",
+    "pos": "v.",
+    "meaning": "滾動;打滾",
+    "examples": [
+      { "en": "The ball rolled down the hill.", "zh": "球滾下了山坡。" },
+      { "en": "The dog rolled over on the grass.", "zh": "狗在草地上打滾。" }
+    ],
+    "img": "ball rolling down hill",
+    "theme": "移動方式",
+    "level": 2
+  },
+  {
+    "word": "chase",
+    "kk": "[tʃes]",
+    "pos": "v.",
+    "meaning": "追逐",
+    "examples": [
+      { "en": "The dog chased the cat around the yard.", "zh": "狗在院子裡追著貓跑。" },
+      { "en": "Police chased the thief down the alley.", "zh": "警察沿著巷子追捕小偷。" }
+    ],
+    "img": "dog chasing cat in yard",
+    "theme": "移動方式",
+    "level": 2
+  },
+  {
+    "word": "flee",
+    "kk": "[fli]",
+    "pos": "v.",
+    "meaning": "逃離;逃跑",
+    "examples": [
+      { "en": "The villagers fled from the flood.", "zh": "村民們逃離洪水。" },
+      { "en": "The birds fled at the sound of the gun.", "zh": "槍聲一響,鳥群便飛逃了。" }
+    ],
+    "img": "people fleeing from disaster",
+    "theme": "移動方式",
+    "level": 3
+  },
+  {
+    "word": "drift",
+    "kk": "[drɪft]",
+    "pos": "v.",
+    "meaning": "漂流;飄移",
+    "examples": [
+      { "en": "The boat drifted slowly down the river.", "zh": "小船順著河緩緩漂流。" },
+      { "en": "Leaves drifted across the yard in the wind.", "zh": "落葉在風中飄過院子。" }
+    ],
+    "img": "boat drifting on calm river",
+    "theme": "移動方式",
+    "level": 3
+  },
+  {
+    "word": "swerve",
+    "kk": "[swɝv]",
+    "pos": "v.",
+    "meaning": "急轉彎;偏離",
+    "examples": [
+      { "en": "The driver swerved to avoid the dog.", "zh": "駕駛急轉彎以避開那隻狗。" },
+      { "en": "The cyclist swerved around the pothole.", "zh": "騎士繞開了坑洞。" }
+    ],
+    "img": "car swerving on road",
+    "theme": "移動方式",
+    "level": 3
+  },
+  {
+    "word": "wriggle",
+    "kk": "[ˋrɪgl]",
+    "pos": "v.",
+    "meaning": "蠕動;扭動",
+    "examples": [
+      { "en": "The worm wriggled through the soil.", "zh": "蟲子在土裡蠕動。" },
+      { "en": "The child wriggled free from his coat.", "zh": "孩子扭動身子從外套裡掙脫。" }
+    ],
+    "img": "worm wriggling in soil",
+    "theme": "移動方式",
+    "level": 3
+  },
+  {
+    "word": "stagger",
+    "kk": "[ˋstægɚ]",
+    "pos": "v.",
+    "meaning": "搖晃走;蹣跚",
+    "examples": [
+      { "en": "He staggered home after the long hike.", "zh": "長途健行後他蹣跚地走回家。" },
+      { "en": "She staggered under the heavy load.", "zh": "她在沉重的負荷下搖搖晃晃。" }
+    ],
+    "img": "tired person staggering home",
+    "theme": "移動方式",
+    "level": 3
+  },
+  {
+    "word": "trip",
+    "kk": "[trɪp]",
+    "pos": "v.",
+    "meaning": "絆倒",
+    "examples": [
+      { "en": "She tripped over the loose wire.", "zh": "她被鬆脫的電線絆倒。" },
+      { "en": "Be careful not to trip on the step.", "zh": "小心別在台階上絆倒。" }
+    ],
+    "img": "person tripping over wire",
+    "theme": "移動方式",
+    "level": 2
+  },
+  {
+    "word": "scramble",
+    "kk": "[ˋskræmbl]",
+    "pos": "v.",
+    "meaning": "手腳並用爬;爭搶",
+    "examples": [
+      { "en": "They scrambled up the steep rocks.", "zh": "他們手腳並用爬上陡峭的岩石。" },
+      { "en": "The kids scrambled for the candy.", "zh": "孩子們爭搶著糖果。" }
+    ],
+    "img": "hikers scrambling up rocks",
+    "theme": "移動方式",
+    "level": 3
+  },
+  {
+    "word": "trot",
+    "kk": "[trɑt]",
+    "pos": "v.",
+    "meaning": "小跑步",
+    "examples": [
+      { "en": "The horse trotted around the field.", "zh": "馬在場地裡小跑。" },
+      { "en": "The dog trotted happily beside its owner.", "zh": "狗開心地在主人身旁小跑。" }
+    ],
+    "img": "horse trotting in field",
+    "theme": "移動方式",
+    "level": 3
+  },
+  {
+    "word": "pace",
+    "kk": "[pes]",
+    "pos": "v.",
+    "meaning": "來回踱步",
+    "examples": [
+      { "en": "He paced the room while waiting for the news.", "zh": "他在房裡來回踱步等消息。" },
+      { "en": "She paced nervously before the interview.", "zh": "面試前她緊張地踱來踱去。" }
+    ],
+    "img": "person pacing nervously in room",
+    "theme": "移動方式",
+    "level": 3
+  },
+  {
+    "word": "lean",
+    "kk": "[lin]",
+    "pos": "v.",
+    "meaning": "傾身;倚靠",
+    "examples": [
+      { "en": "She leaned against the wall to rest.", "zh": "她靠著牆休息。" },
+      { "en": "He leaned forward to hear better.", "zh": "他身子前傾好聽得更清楚。" }
+    ],
+    "img": "person leaning against wall",
+    "theme": "移動方式",
+    "level": 2
+  },
+  {
+    "word": "duck",
+    "kk": "[dʌk]",
+    "pos": "v.",
+    "meaning": "迅速低頭閃避",
+    "examples": [
+      { "en": "He ducked to avoid the low branch.", "zh": "他低頭閃過低垂的樹枝。" },
+      { "en": "She ducked behind the car for cover.", "zh": "她躲到車子後面掩護。" }
+    ],
+    "img": "person ducking under branch",
+    "theme": "移動方式",
+    "level": 2
+  },
+  {
+    "word": "dodge",
+    "kk": "[dɑdʒ]",
+    "pos": "v.",
+    "meaning": "閃躲;躲避",
+    "examples": [
+      { "en": "He dodged the ball just in time.", "zh": "他及時閃開了球。" },
+      { "en": "She dodged through the busy crowd.", "zh": "她在擁擠的人群中穿梭閃躲。" }
+    ],
+    "img": "person dodging a ball",
+    "theme": "移動方式",
+    "level": 3
+  },
+  {
+    "word": "sneak",
+    "kk": "[snik]",
+    "pos": "v.",
+    "meaning": "偷偷溜;潛行",
+    "examples": [
+      { "en": "He sneaked out of the house at night.", "zh": "他夜裡偷偷溜出屋子。" },
+      { "en": "She sneaked into the kitchen for a snack.", "zh": "她偷偷溜進廚房找點心。" }
+    ],
+    "img": "person sneaking through doorway",
+    "theme": "移動方式",
+    "level": 3
+  },
+  {
+    "word": "plunge",
+    "kk": "[plʌndʒ]",
+    "pos": "v.",
+    "meaning": "縱身跳入;猛然投入",
+    "examples": [
+      { "en": "He plunged into the cold lake.", "zh": "他縱身跳進冰冷的湖裡。" },
+      { "en": "The diver plunged from the high cliff.", "zh": "跳水者從高崖上一躍而下。" }
+    ],
+    "img": "diver plunging into water",
+    "theme": "移動方式",
+    "level": 3
+  },
+  {
+    "word": "hurry",
+    "kk": "[ˋhɝɪ]",
+    "pos": "v.",
+    "meaning": "趕緊;匆忙",
+    "examples": [
+      { "en": "Hurry, or we'll miss the movie.", "zh": "快點,不然我們會錯過電影。" },
+      { "en": "She hurried to finish her homework.", "zh": "她趕著寫完功課。" }
+    ],
+    "img": "person hurrying with bag",
+    "theme": "移動方式",
+    "level": 2
+  },
+  {
+    "word": "flip",
+    "kk": "[flɪp]",
+    "pos": "v.",
+    "meaning": "翻轉;翻筋斗",
+    "examples": [
+      { "en": "The gymnast flipped over the bar.", "zh": "體操選手翻越過單槓。" },
+      { "en": "He flipped the pancake in the pan.", "zh": "他把鍋裡的鬆餅翻了個面。" }
+    ],
+    "img": "gymnast doing a flip",
+    "theme": "移動方式",
+    "level": 3
+  },
+  {
+    "word": "bounce",
+    "kk": "[baʊns]",
+    "pos": "v.",
+    "meaning": "彈跳",
+    "examples": [
+      { "en": "The ball bounced off the wall.", "zh": "球從牆上彈開。" },
+      { "en": "The kids bounced on the trampoline.", "zh": "孩子們在彈跳床上蹦跳。" }
+    ],
+    "img": "kids bouncing on trampoline",
+    "theme": "移動方式",
+    "level": 2
+  },
+  {
+    "word": "shuffle",
+    "kk": "[ˋʃʌfl]",
+    "pos": "v.",
+    "meaning": "拖著腳走",
+    "examples": [
+      { "en": "The old man shuffled down the hallway.", "zh": "老人拖著腳步走過走廊。" },
+      { "en": "She shuffled slowly toward the door.", "zh": "她慢慢拖著腳走向門口。" }
+    ],
+    "img": "old man shuffling in hallway",
+    "theme": "移動方式",
+    "level": 3
+  },
+  {
+    "word": "gallop",
+    "kk": "[ˋgæləp]",
+    "pos": "v.",
+    "meaning": "疾馳;飛奔",
+    "examples": [
+      { "en": "The horse galloped across the open field.", "zh": "馬在空曠的原野上疾馳。" },
+      { "en": "The children galloped around like horses.", "zh": "孩子們像馬一樣飛奔嬉戲。" }
+    ],
+    "img": "horse galloping across field",
+    "theme": "移動方式",
+    "level": 3
+  },
+  {
+    "word": "hike",
+    "kk": "[haɪk]",
+    "pos": "v.",
+    "meaning": "健行;徒步旅行",
+    "examples": [
+      { "en": "We hiked up the trail to the waterfall.", "zh": "我們沿步道健行到瀑布。" },
+      { "en": "They hiked for hours through the forest.", "zh": "他們在森林裡健行了好幾個小時。" }
+    ],
+    "img": "hikers walking forest trail",
+    "theme": "移動方式",
+    "level": 2
+  },
+  {
+    "word": "twist",
+    "kk": "[twɪst]",
+    "pos": "v.",
+    "meaning": "扭轉;扭動",
+    "examples": [
+      { "en": "She twisted her body to look behind.", "zh": "她扭轉身體往後看。" },
+      { "en": "He twisted around to see who was calling.", "zh": "他轉過身看是誰在叫他。" }
+    ],
+    "img": "dancer twisting body",
+    "theme": "移動方式",
+    "level": 2
+  },
+  {
+    "word": "soar",
+    "kk": "[sor]",
+    "pos": "v.",
+    "meaning": "翱翔;高飛",
+    "examples": [
+      { "en": "The eagle soared high above the mountains.", "zh": "老鷹在群山上空高高翱翔。" },
+      { "en": "The kite soared into the clear sky.", "zh": "風箏飛向晴朗的天空。" }
+    ],
+    "img": "eagle soaring over mountains",
+    "theme": "移動方式",
+    "level": 3
+  },
+  {
+    "word": "tumble",
+    "kk": "[ˋtʌmbl]",
+    "pos": "v.",
+    "meaning": "翻滾;跌落",
+    "examples": [
+      { "en": "He tumbled down the grassy slope.", "zh": "他從草坡上翻滾而下。" },
+      { "en": "The books tumbled off the shelf.", "zh": "書從架子上掉了下來。" }
+    ],
+    "img": "child tumbling down grassy hill",
+    "theme": "移動方式",
+    "level": 3
+  }
+]

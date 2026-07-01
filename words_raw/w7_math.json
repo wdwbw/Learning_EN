@@ -1,0 +1,652 @@
+[
+  {
+    "word": "equation",
+    "kk": "[ɪˈkweʒən]",
+    "pos": "n.",
+    "meaning": "方程式",
+    "examples": [
+      { "en": "Solve the equation to find the value of x.", "zh": "解這個方程式找出 x 的值。" },
+      { "en": "The teacher wrote a long equation on the board.", "zh": "老師在黑板上寫了一個很長的方程式。" }
+    ],
+    "img": "equation written on chalkboard with x",
+    "theme": "數學幾何",
+    "level": 2
+  },
+  {
+    "word": "sum",
+    "kk": "[sʌm]",
+    "pos": "n.",
+    "meaning": "總和;和",
+    "examples": [
+      { "en": "The sum of two and three is five.", "zh": "二加三的和是五。" },
+      { "en": "Add these numbers and write down the sum.", "zh": "把這些數字加起來,寫下總和。" }
+    ],
+    "img": "numbers being added with plus sign",
+    "theme": "數學幾何",
+    "level": 2
+  },
+  {
+    "word": "difference",
+    "kk": "[ˈdɪfərəns]",
+    "pos": "n.",
+    "meaning": "差;差值",
+    "examples": [
+      { "en": "The difference between ten and four is six.", "zh": "十和四的差是六。" },
+      { "en": "Find the difference by subtracting the smaller number.", "zh": "用減去較小的數來求出差值。" }
+    ],
+    "img": "subtraction on paper showing minus sign",
+    "theme": "數學幾何",
+    "level": 2
+  },
+  {
+    "word": "product",
+    "kk": "[ˈprɑdʌkt]",
+    "pos": "n.",
+    "meaning": "乘積",
+    "examples": [
+      { "en": "The product of four and five is twenty.", "zh": "四和五的乘積是二十。" },
+      { "en": "Multiply the two factors to get the product.", "zh": "把兩個因數相乘就得到乘積。" }
+    ],
+    "img": "multiplication times sign on whiteboard",
+    "theme": "數學幾何",
+    "level": 3
+  },
+  {
+    "word": "quotient",
+    "kk": "[ˈkwoʃənt]",
+    "pos": "n.",
+    "meaning": "商",
+    "examples": [
+      { "en": "When you divide twelve by three, the quotient is four.", "zh": "十二除以三,商是四。" },
+      { "en": "She checked her quotient by multiplying it back.", "zh": "她把商乘回去來檢查答案。" }
+    ],
+    "img": "long division showing quotient above bar",
+    "theme": "數學幾何",
+    "level": 3
+  },
+  {
+    "word": "add",
+    "kk": "[æd]",
+    "pos": "v.",
+    "meaning": "相加;加",
+    "examples": [
+      { "en": "Add these two numbers together.", "zh": "把這兩個數字加在一起。" },
+      { "en": "If you add five and seven, you get twelve.", "zh": "五加七等於十二。" }
+    ],
+    "img": "hand writing plus sign between numbers",
+    "theme": "數學幾何",
+    "level": 2
+  },
+  {
+    "word": "subtract",
+    "kk": "[səbˈtrækt]",
+    "pos": "v.",
+    "meaning": "減去",
+    "examples": [
+      { "en": "Subtract three from ten to get seven.", "zh": "從十減去三得到七。" },
+      { "en": "Remember to subtract the tax from the total.", "zh": "記得從總額中減去稅金。" }
+    ],
+    "img": "minus sign taking away blocks",
+    "theme": "數學幾何",
+    "level": 2
+  },
+  {
+    "word": "multiply",
+    "kk": "[ˈmʌltəˌplaɪ]",
+    "pos": "v.",
+    "meaning": "相乘",
+    "examples": [
+      { "en": "Multiply six by seven to get forty-two.", "zh": "六乘以七得到四十二。" },
+      { "en": "We learned how to multiply large numbers today.", "zh": "我們今天學了怎麼把大數字相乘。" }
+    ],
+    "img": "multiplication table grid on paper",
+    "theme": "數學幾何",
+    "level": 2
+  },
+  {
+    "word": "divide",
+    "kk": "[dəˈvaɪd]",
+    "pos": "v.",
+    "meaning": "除;分",
+    "examples": [
+      { "en": "Divide the pizza into eight equal slices.", "zh": "把披薩分成八等份。" },
+      { "en": "Divide twenty by four and you get five.", "zh": "二十除以四等於五。" }
+    ],
+    "img": "division symbol splitting a circle",
+    "theme": "數學幾何",
+    "level": 2
+  },
+  {
+    "word": "calculate",
+    "kk": "[ˈkælkjəˌlet]",
+    "pos": "v.",
+    "meaning": "計算",
+    "examples": [
+      { "en": "Please calculate the total cost of the trip.", "zh": "請計算這趟旅行的總花費。" },
+      { "en": "He used a calculator to calculate the answer.", "zh": "他用計算機算出答案。" }
+    ],
+    "img": "person using calculator with numbers",
+    "theme": "數學幾何",
+    "level": 2
+  },
+  {
+    "word": "formula",
+    "kk": "[ˈfɔrmjələ]",
+    "pos": "n.",
+    "meaning": "公式",
+    "examples": [
+      { "en": "Use the formula to find the area of the circle.", "zh": "用這個公式求出圓的面積。" },
+      { "en": "The math formula is printed at the back of the book.", "zh": "這個數學公式印在書本的後面。" }
+    ],
+    "img": "geometry formula on textbook page",
+    "theme": "數學幾何",
+    "level": 3
+  },
+  {
+    "word": "variable",
+    "kk": "[ˈvɛrɪəbl]",
+    "pos": "n.",
+    "meaning": "變數;未知數",
+    "examples": [
+      { "en": "In this equation, x is the variable.", "zh": "在這個方程式中,x 是變數。" },
+      { "en": "We solve for the unknown variable step by step.", "zh": "我們一步步解出這個未知的變數。" }
+    ],
+    "img": "letter x highlighted in an equation",
+    "theme": "數學幾何",
+    "level": 3
+  },
+  {
+    "word": "fraction",
+    "kk": "[ˈfrækʃən]",
+    "pos": "n.",
+    "meaning": "分數",
+    "examples": [
+      { "en": "One half is a common fraction.", "zh": "二分之一是常見的分數。" },
+      { "en": "She learned to add fractions in class.", "zh": "她在課堂上學會了分數相加。" }
+    ],
+    "img": "fraction one over two written on paper",
+    "theme": "數學幾何",
+    "level": 2
+  },
+  {
+    "word": "decimal",
+    "kk": "[ˈdɛsəml]",
+    "pos": "n.",
+    "meaning": "小數",
+    "examples": [
+      { "en": "Write the fraction as a decimal like zero point five.", "zh": "把這個分數寫成小數,例如零點五。" },
+      { "en": "Round the decimal to two places.", "zh": "把小數四捨五入到兩位。" }
+    ],
+    "img": "decimal point number on calculator screen",
+    "theme": "數學幾何",
+    "level": 2
+  },
+  {
+    "word": "percent",
+    "kk": "[pɚˈsɛnt]",
+    "pos": "n.",
+    "meaning": "百分比",
+    "examples": [
+      { "en": "Fifty percent of the students passed the test.", "zh": "百分之五十的學生通過了考試。" },
+      { "en": "The store gave a twenty percent discount.", "zh": "商店給了百分之二十的折扣。" }
+    ],
+    "img": "percent sign on a discount tag",
+    "theme": "數學幾何",
+    "level": 2
+  },
+  {
+    "word": "average",
+    "kk": "[ˈævərɪdʒ]",
+    "pos": "n.",
+    "meaning": "平均值",
+    "examples": [
+      { "en": "The average of these scores is eighty.", "zh": "這些分數的平均值是八十。" },
+      { "en": "We calculated the average temperature for the week.", "zh": "我們算出了這週的平均氣溫。" }
+    ],
+    "img": "bar chart with average line across",
+    "theme": "數學幾何",
+    "level": 3
+  },
+  {
+    "word": "ratio",
+    "kk": "[ˈreʃo]",
+    "pos": "n.",
+    "meaning": "比例;比",
+    "examples": [
+      { "en": "The ratio of boys to girls is two to one.", "zh": "男生和女生的比例是二比一。" },
+      { "en": "Mix the paint in a ratio of three to one.", "zh": "把顏料以三比一的比例混合。" }
+    ],
+    "img": "two to one ratio shown with colored dots",
+    "theme": "數學幾何",
+    "level": 3
+  },
+  {
+    "word": "graph",
+    "kk": "[ɡræf]",
+    "pos": "n.",
+    "meaning": "圖表;圖形",
+    "examples": [
+      { "en": "The graph shows how sales changed over time.", "zh": "這張圖表顯示銷售量隨時間的變化。" },
+      { "en": "Plot the points on the graph carefully.", "zh": "把這些點小心地畫在圖上。" }
+    ],
+    "img": "line graph on grid paper",
+    "theme": "數學幾何",
+    "level": 2
+  },
+  {
+    "word": "chart",
+    "kk": "[tʃɑrt]",
+    "pos": "n.",
+    "meaning": "圖表",
+    "examples": [
+      { "en": "The pie chart shows each part of the budget.", "zh": "這個圓餅圖顯示預算的每個部分。" },
+      { "en": "She made a chart to compare the results.", "zh": "她做了一張圖表來比較結果。" }
+    ],
+    "img": "colorful pie chart on screen",
+    "theme": "數學幾何",
+    "level": 2
+  },
+  {
+    "word": "angle",
+    "kk": "[ˈæŋɡl]",
+    "pos": "n.",
+    "meaning": "角;角度",
+    "examples": [
+      { "en": "A right angle is exactly ninety degrees.", "zh": "直角剛好是九十度。" },
+      { "en": "Measure the angle with a protractor.", "zh": "用量角器量出這個角度。" }
+    ],
+    "img": "angle measured with a protractor",
+    "theme": "數學幾何",
+    "level": 2
+  },
+  {
+    "word": "degree",
+    "kk": "[dɪˈɡri]",
+    "pos": "n.",
+    "meaning": "度(角度)",
+    "examples": [
+      { "en": "The triangle has an angle of sixty degrees.", "zh": "這個三角形有一個六十度的角。" },
+      { "en": "Turn the shape ninety degrees to the right.", "zh": "把這個形狀往右轉九十度。" }
+    ],
+    "img": "protractor showing degree marks",
+    "theme": "數學幾何",
+    "level": 2
+  },
+  {
+    "word": "triangle",
+    "kk": "[ˈtraɪˌæŋɡl]",
+    "pos": "n.",
+    "meaning": "三角形",
+    "examples": [
+      { "en": "A triangle has three sides and three angles.", "zh": "三角形有三個邊和三個角。" },
+      { "en": "Draw a triangle using your ruler.", "zh": "用尺畫一個三角形。" }
+    ],
+    "img": "red triangle shape on white paper",
+    "theme": "數學幾何",
+    "level": 2
+  },
+  {
+    "word": "rectangle",
+    "kk": "[ˈrɛkˌtæŋɡl]",
+    "pos": "n.",
+    "meaning": "長方形",
+    "examples": [
+      { "en": "The book cover is shaped like a rectangle.", "zh": "書的封面是長方形的。" },
+      { "en": "A rectangle has four right angles.", "zh": "長方形有四個直角。" }
+    ],
+    "img": "blue rectangle shape outline",
+    "theme": "數學幾何",
+    "level": 2
+  },
+  {
+    "word": "square",
+    "kk": "[skwɛr]",
+    "pos": "n.",
+    "meaning": "正方形;平方",
+    "examples": [
+      { "en": "Every side of a square is the same length.", "zh": "正方形的每一邊都一樣長。" },
+      { "en": "The square of five is twenty-five.", "zh": "五的平方是二十五。" }
+    ],
+    "img": "green square with equal sides",
+    "theme": "數學幾何",
+    "level": 2
+  },
+  {
+    "word": "circle",
+    "kk": "[ˈsɝkl]",
+    "pos": "n.",
+    "meaning": "圓;圓形",
+    "examples": [
+      { "en": "Use a compass to draw a perfect circle.", "zh": "用圓規畫一個完美的圓。" },
+      { "en": "The clock has a round circle face.", "zh": "時鐘有一個圓形的表面。" }
+    ],
+    "img": "circle drawn with a compass",
+    "theme": "數學幾何",
+    "level": 2
+  },
+  {
+    "word": "diameter",
+    "kk": "[daɪˈæmətɚ]",
+    "pos": "n.",
+    "meaning": "直徑",
+    "examples": [
+      { "en": "The diameter of the circle is ten centimeters.", "zh": "這個圓的直徑是十公分。" },
+      { "en": "Draw a line through the center to show the diameter.", "zh": "畫一條穿過圓心的線來表示直徑。" }
+    ],
+    "img": "circle with diameter line through center",
+    "theme": "數學幾何",
+    "level": 3
+  },
+  {
+    "word": "radius",
+    "kk": "[ˈredɪəs]",
+    "pos": "n.",
+    "meaning": "半徑",
+    "examples": [
+      { "en": "The radius is half of the diameter.", "zh": "半徑是直徑的一半。" },
+      { "en": "Measure the radius from the center to the edge.", "zh": "從圓心量到邊緣就是半徑。" }
+    ],
+    "img": "circle with radius line to edge",
+    "theme": "數學幾何",
+    "level": 3
+  },
+  {
+    "word": "curve",
+    "kk": "[kɝv]",
+    "pos": "n.",
+    "meaning": "曲線",
+    "examples": [
+      { "en": "The graph shows a smooth curve going up.", "zh": "這張圖顯示一條平滑上升的曲線。" },
+      { "en": "Draw a gentle curve between the two points.", "zh": "在兩點之間畫一條平緩的曲線。" }
+    ],
+    "img": "smooth curved line on a graph",
+    "theme": "數學幾何",
+    "level": 2
+  },
+  {
+    "word": "line",
+    "kk": "[laɪn]",
+    "pos": "n.",
+    "meaning": "線;直線",
+    "examples": [
+      { "en": "Draw a straight line between the two dots.", "zh": "在兩點之間畫一條直線。" },
+      { "en": "A line goes on forever in both directions.", "zh": "一條直線往兩個方向無限延伸。" }
+    ],
+    "img": "straight line drawn with a ruler",
+    "theme": "數學幾何",
+    "level": 2
+  },
+  {
+    "word": "point",
+    "kk": "[pɔɪnt]",
+    "pos": "n.",
+    "meaning": "點",
+    "examples": [
+      { "en": "Mark the point where the two lines meet.", "zh": "標出兩條線相交的點。" },
+      { "en": "Each point on the graph has two numbers.", "zh": "圖上的每個點都有兩個數字。" }
+    ],
+    "img": "single dot marked on grid paper",
+    "theme": "數學幾何",
+    "level": 2
+  },
+  {
+    "word": "parallel",
+    "kk": "[ˈpærəˌlɛl]",
+    "pos": "adj.",
+    "meaning": "平行的",
+    "examples": [
+      { "en": "The two railway tracks are parallel lines.", "zh": "這兩條鐵軌是平行線。" },
+      { "en": "Parallel lines never cross each other.", "zh": "平行線永遠不會相交。" }
+    ],
+    "img": "two parallel lines side by side",
+    "theme": "數學幾何",
+    "level": 3
+  },
+  {
+    "word": "perpendicular",
+    "kk": "[ˌpɝpənˈdɪkjəlɚ]",
+    "pos": "adj.",
+    "meaning": "垂直的",
+    "examples": [
+      { "en": "The wall is perpendicular to the floor.", "zh": "牆壁和地板是垂直的。" },
+      { "en": "Draw a line perpendicular to the base.", "zh": "畫一條垂直於底邊的線。" }
+    ],
+    "img": "two lines meeting at right angle",
+    "theme": "數學幾何",
+    "level": 3
+  },
+  {
+    "word": "symmetry",
+    "kk": "[ˈsɪmətrɪ]",
+    "pos": "n.",
+    "meaning": "對稱",
+    "examples": [
+      { "en": "A butterfly's wings show perfect symmetry.", "zh": "蝴蝶的翅膀展現出完美的對稱。" },
+      { "en": "The shape has a line of symmetry down the middle.", "zh": "這個形狀中間有一條對稱線。" }
+    ],
+    "img": "symmetrical butterfly with center line",
+    "theme": "數學幾何",
+    "level": 3
+  },
+  {
+    "word": "area",
+    "kk": "[ˈɛrɪə]",
+    "pos": "n.",
+    "meaning": "面積",
+    "examples": [
+      { "en": "Find the area of the rectangle by multiplying its sides.", "zh": "把長方形的邊相乘來求出面積。" },
+      { "en": "The area of the room is twenty square meters.", "zh": "這個房間的面積是二十平方公尺。" }
+    ],
+    "img": "shaded rectangle showing area in squares",
+    "theme": "數學幾何",
+    "level": 2
+  },
+  {
+    "word": "perimeter",
+    "kk": "[pəˈrɪmətɚ]",
+    "pos": "n.",
+    "meaning": "周長",
+    "examples": [
+      { "en": "Add up all the sides to find the perimeter.", "zh": "把所有的邊加起來就是周長。" },
+      { "en": "The perimeter of the garden is forty meters.", "zh": "這座花園的周長是四十公尺。" }
+    ],
+    "img": "outline of shape with sides labeled",
+    "theme": "數學幾何",
+    "level": 3
+  },
+  {
+    "word": "volume",
+    "kk": "[ˈvɑljəm]",
+    "pos": "n.",
+    "meaning": "體積",
+    "examples": [
+      { "en": "The volume of the box is measured in cubic centimeters.", "zh": "這個盒子的體積以立方公分計算。" },
+      { "en": "Multiply length, width, and height to get the volume.", "zh": "把長、寬、高相乘就得到體積。" }
+    ],
+    "img": "3D cube showing volume dimensions",
+    "theme": "數學幾何",
+    "level": 3
+  },
+  {
+    "word": "digit",
+    "kk": "[ˈdɪdʒɪt]",
+    "pos": "n.",
+    "meaning": "數字;位數",
+    "examples": [
+      { "en": "The number 456 has three digits.", "zh": "數字 456 有三個位數。" },
+      { "en": "Write down the last digit of your answer.", "zh": "寫下你答案的最後一個數字。" }
+    ],
+    "img": "single number digits on cards",
+    "theme": "數學幾何",
+    "level": 2
+  },
+  {
+    "word": "even",
+    "kk": "[ˈivən]",
+    "pos": "adj.",
+    "meaning": "偶數的",
+    "examples": [
+      { "en": "Two, four, and six are even numbers.", "zh": "二、四、六是偶數。" },
+      { "en": "An even number can be divided by two.", "zh": "偶數可以被二整除。" }
+    ],
+    "img": "even numbers 2 4 6 8 on blocks",
+    "theme": "數學幾何",
+    "level": 2
+  },
+  {
+    "word": "odd",
+    "kk": "[ɑd]",
+    "pos": "adj.",
+    "meaning": "奇數的",
+    "examples": [
+      { "en": "One, three, and five are odd numbers.", "zh": "一、三、五是奇數。" },
+      { "en": "An odd number cannot be split into two equal parts.", "zh": "奇數無法被分成兩個相等的部分。" }
+    ],
+    "img": "odd numbers 1 3 5 7 on blocks",
+    "theme": "數學幾何",
+    "level": 2
+  },
+  {
+    "word": "prime",
+    "kk": "[praɪm]",
+    "pos": "adj.",
+    "meaning": "質數的",
+    "examples": [
+      { "en": "Seven is a prime number.", "zh": "七是一個質數。" },
+      { "en": "A prime number has only two factors.", "zh": "質數只有兩個因數。" }
+    ],
+    "img": "prime numbers circled on a chart",
+    "theme": "數學幾何",
+    "level": 3
+  },
+  {
+    "word": "equal",
+    "kk": "[ˈikwəl]",
+    "pos": "adj.",
+    "meaning": "相等的",
+    "examples": [
+      { "en": "The two sides of the equation are equal.", "zh": "方程式的兩邊是相等的。" },
+      { "en": "Cut the cake into equal pieces.", "zh": "把蛋糕切成相等的塊。" }
+    ],
+    "img": "equal sign between two equal groups",
+    "theme": "數學幾何",
+    "level": 2
+  },
+  {
+    "word": "solve",
+    "kk": "[sɑlv]",
+    "pos": "v.",
+    "meaning": "解答;解出",
+    "examples": [
+      { "en": "Can you solve this math problem?", "zh": "你能解出這道數學題嗎?" },
+      { "en": "She solved the equation in under a minute.", "zh": "她在一分鐘內解出了這個方程式。" }
+    ],
+    "img": "student solving problem on paper",
+    "theme": "數學幾何",
+    "level": 2
+  },
+  {
+    "word": "estimate",
+    "kk": "[ˈɛstəˌmet]",
+    "pos": "v.",
+    "meaning": "估計",
+    "examples": [
+      { "en": "Estimate the answer before you calculate it.", "zh": "在計算之前先估計一下答案。" },
+      { "en": "I estimate the crowd at about two hundred people.", "zh": "我估計人群大約有兩百人。" }
+    ],
+    "img": "person guessing number of jar beans",
+    "theme": "數學幾何",
+    "level": 3
+  },
+  {
+    "word": "measure",
+    "kk": "[ˈmɛʒɚ]",
+    "pos": "v.",
+    "meaning": "測量;量",
+    "examples": [
+      { "en": "Measure each side of the triangle.", "zh": "量出三角形的每一邊。" },
+      { "en": "Use a ruler to measure the line.", "zh": "用尺來量這條線。" }
+    ],
+    "img": "ruler measuring a drawn shape",
+    "theme": "數學幾何",
+    "level": 2
+  },
+  {
+    "word": "value",
+    "kk": "[ˈvælju]",
+    "pos": "n.",
+    "meaning": "值;數值",
+    "examples": [
+      { "en": "Find the value of x in the equation.", "zh": "求出方程式中 x 的值。" },
+      { "en": "Each symbol stands for a different value.", "zh": "每個符號代表不同的數值。" }
+    ],
+    "img": "x equals a number on whiteboard",
+    "theme": "數學幾何",
+    "level": 2
+  },
+  {
+    "word": "factor",
+    "kk": "[ˈfæktɚ]",
+    "pos": "n.",
+    "meaning": "因數;因子",
+    "examples": [
+      { "en": "Two and three are factors of six.", "zh": "二和三是六的因數。" },
+      { "en": "List all the factors of the number twelve.", "zh": "列出數字十二的所有因數。" }
+    ],
+    "img": "number tree showing factors branching",
+    "theme": "數學幾何",
+    "level": 3
+  },
+  {
+    "word": "diagram",
+    "kk": "[ˈdaɪəˌɡræm]",
+    "pos": "n.",
+    "meaning": "圖解;示意圖",
+    "examples": [
+      { "en": "The diagram shows how the shapes fit together.", "zh": "這張示意圖顯示這些形狀如何拼合。" },
+      { "en": "Label each part of the diagram clearly.", "zh": "清楚標示示意圖的每個部分。" }
+    ],
+    "img": "labeled geometry diagram with arrows",
+    "theme": "數學幾何",
+    "level": 3
+  },
+  {
+    "word": "coordinate",
+    "kk": "[koˈɔrdnɪt]",
+    "pos": "n.",
+    "meaning": "坐標",
+    "examples": [
+      { "en": "The point has the coordinates three and four.", "zh": "這個點的坐標是三和四。" },
+      { "en": "Plot each coordinate on the grid.", "zh": "把每個坐標畫在網格上。" }
+    ],
+    "img": "point plotted on xy coordinate grid",
+    "theme": "數學幾何",
+    "level": 3
+  },
+  {
+    "word": "shape",
+    "kk": "[ʃep]",
+    "pos": "n.",
+    "meaning": "形狀;圖形",
+    "examples": [
+      { "en": "A circle is a round shape.", "zh": "圓是一種圓形的形狀。" },
+      { "en": "Name each shape on the worksheet.", "zh": "說出習題單上每個圖形的名稱。" }
+    ],
+    "img": "colorful geometric shapes on paper",
+    "theme": "數學幾何",
+    "level": 2
+  },
+  {
+    "word": "total",
+    "kk": "[ˈtotl]",
+    "pos": "n.",
+    "meaning": "總計;合計",
+    "examples": [
+      { "en": "Add the prices to find the total.", "zh": "把價格加起來求出總計。" },
+      { "en": "The total came to fifty dollars.", "zh": "總計是五十美元。" }
+    ],
+    "img": "receipt showing total amount at bottom",
+    "theme": "數學幾何",
+    "level": 2
+  }
+]

@@ -1,0 +1,652 @@
+[
+  {
+    "word": "regarding",
+    "kk": "[rɪˈɡɑrdɪŋ]",
+    "pos": "prep.",
+    "meaning": "關於;有關",
+    "examples": [
+      { "en": "I am writing regarding the invoice you sent last week.", "zh": "我來信是關於您上週寄來的發票。" },
+      { "en": "Please see the attached notes regarding our next meeting.", "zh": "關於我們下次的會議,請參閱附件筆記。" }
+    ],
+    "img": "hand pointing at email subject line",
+    "theme": "商務書信",
+    "level": 2
+  },
+  {
+    "word": "enclosed",
+    "kk": "[ɪnˈklozd]",
+    "pos": "adj.",
+    "meaning": "隨函附上的",
+    "examples": [
+      { "en": "Please find the enclosed report for your reference.", "zh": "隨函附上報告供您參考。" },
+      { "en": "The enclosed documents contain all the details you requested.", "zh": "附上的文件包含您要求的所有細節。" }
+    ],
+    "img": "letter with document tucked inside envelope",
+    "theme": "商務書信",
+    "level": 2
+  },
+  {
+    "word": "attachment",
+    "kk": "[əˈtætʃmənt]",
+    "pos": "n.",
+    "meaning": "附件;附加檔案",
+    "examples": [
+      { "en": "You can find the schedule in the attachment below.", "zh": "您可以在下方附件中找到時程表。" },
+      { "en": "Sorry, I forgot to include the attachment in my last email.", "zh": "抱歉,我上一封信忘了加上附件。" }
+    ],
+    "img": "paperclip icon on email window",
+    "theme": "商務書信",
+    "level": 2
+  },
+  {
+    "word": "sincerely",
+    "kk": "[sɪnˈsɪrlɪ]",
+    "pos": "adv.",
+    "meaning": "敬上(正式結尾敬語)",
+    "examples": [
+      { "en": "Yours sincerely, followed by his full name and title.", "zh": "敬上,後面接著他的全名與職稱。" },
+      { "en": "We sincerely appreciate your continued support.", "zh": "我們誠摯感謝您一直以來的支持。" }
+    ],
+    "img": "handwritten signature at bottom of letter",
+    "theme": "商務書信",
+    "level": 2
+  },
+  {
+    "word": "acknowledge",
+    "kk": "[əkˈnɑlɪdʒ]",
+    "pos": "v.",
+    "meaning": "確認收到;告知已知悉",
+    "examples": [
+      { "en": "Please acknowledge receipt of this email when you can.", "zh": "方便時請回覆確認已收到此信。" },
+      { "en": "We acknowledge that the delivery arrived one day late.", "zh": "我們確認貨物延遲了一天送達。" }
+    ],
+    "img": "email reply with green checkmark",
+    "theme": "商務書信",
+    "level": 3
+  },
+  {
+    "word": "inquiry",
+    "kk": "[ˈɪnkwərɪ]",
+    "pos": "n.",
+    "meaning": "詢問;查詢",
+    "examples": [
+      { "en": "Thank you for your inquiry about our new product line.", "zh": "感謝您對我們新產品線的詢問。" },
+      { "en": "We will respond to your inquiry within two business days.", "zh": "我們將於兩個工作天內回覆您的詢問。" }
+    ],
+    "img": "person typing question into email",
+    "theme": "商務書信",
+    "level": 3
+  },
+  {
+    "word": "confirm",
+    "kk": "[kənˈfɝm]",
+    "pos": "v.",
+    "meaning": "確認;證實",
+    "examples": [
+      { "en": "I would like to confirm our appointment for Friday morning.", "zh": "我想確認我們週五早上的約會。" },
+      { "en": "Could you please confirm whether the price includes shipping?", "zh": "能否請您確認價格是否包含運費?" }
+    ],
+    "img": "calendar with checkmark and clock",
+    "theme": "商務書信",
+    "level": 2
+  },
+  {
+    "word": "apologize",
+    "kk": "[əˈpɑləˌdʒaɪz]",
+    "pos": "v.",
+    "meaning": "道歉;致歉",
+    "examples": [
+      { "en": "We apologize for the delay in responding to your message.", "zh": "我們為延遲回覆您的訊息致歉。" },
+      { "en": "I sincerely apologize for any inconvenience this may cause.", "zh": "對於可能造成的任何不便,我誠摯致歉。" }
+    ],
+    "img": "person bowing with apology note",
+    "theme": "商務書信",
+    "level": 2
+  },
+  {
+    "word": "appreciate",
+    "kk": "[əˈpriʃɪˌet]",
+    "pos": "v.",
+    "meaning": "感激;感謝",
+    "examples": [
+      { "en": "I would appreciate it if you could reply by Monday.", "zh": "若您能在週一前回覆,我將十分感激。" },
+      { "en": "We greatly appreciate your patience during this process.", "zh": "我們非常感謝您在此過程中的耐心。" }
+    ],
+    "img": "grateful handshake over desk",
+    "theme": "商務書信",
+    "level": 2
+  },
+  {
+    "word": "kindly",
+    "kk": "[ˈkaɪndlɪ]",
+    "pos": "adv.",
+    "meaning": "敬請;煩請(客氣用語)",
+    "examples": [
+      { "en": "Kindly let me know if you need any further information.", "zh": "如需任何進一步資訊,煩請告知。" },
+      { "en": "Please kindly send the signed contract back to us.", "zh": "煩請將簽好的合約寄回給我們。" }
+    ],
+    "img": "polite request note with soft handwriting",
+    "theme": "商務書信",
+    "level": 2
+  },
+  {
+    "word": "recipient",
+    "kk": "[rɪˈsɪpɪənt]",
+    "pos": "n.",
+    "meaning": "收件人;接收者",
+    "examples": [
+      { "en": "Make sure the recipient's email address is spelled correctly.", "zh": "務必確認收件人的電子郵件地址拼寫正確。" },
+      { "en": "The recipient did not reply to the previous message.", "zh": "收件人並未回覆先前的訊息。" }
+    ],
+    "img": "envelope arriving in person's inbox",
+    "theme": "商務書信",
+    "level": 3
+  },
+  {
+    "word": "correspondence",
+    "kk": "[ˌkɔrəˈspɑndəns]",
+    "pos": "n.",
+    "meaning": "書信往來;通信",
+    "examples": [
+      { "en": "Please keep all correspondence related to this order.", "zh": "請保留與此訂單相關的所有書信。" },
+      { "en": "Our correspondence with the supplier lasted several weeks.", "zh": "我們與供應商的通信持續了數週。" }
+    ],
+    "img": "stack of letters and envelopes",
+    "theme": "商務書信",
+    "level": 3
+  },
+  {
+    "word": "forward",
+    "kk": "[ˈfɔrwɚd]",
+    "pos": "v.",
+    "meaning": "轉寄;轉發",
+    "examples": [
+      { "en": "I will forward your message to the relevant department.", "zh": "我會將您的訊息轉寄給相關部門。" },
+      { "en": "Could you forward me the original email, please?", "zh": "能否請您把原始郵件轉寄給我?" }
+    ],
+    "img": "email arrow pointing to another inbox",
+    "theme": "商務書信",
+    "level": 2
+  },
+  {
+    "word": "attach",
+    "kk": "[əˈtætʃ]",
+    "pos": "v.",
+    "meaning": "附上;夾帶(檔案)",
+    "examples": [
+      { "en": "I have attached the updated price list to this email.", "zh": "我已將更新的價目表附在此封郵件中。" },
+      { "en": "Please attach a copy of your ID when you reply.", "zh": "回覆時請附上一份您的身分證明副本。" }
+    ],
+    "img": "file being clipped onto message",
+    "theme": "商務書信",
+    "level": 2
+  },
+  {
+    "word": "notify",
+    "kk": "[ˈnotəˌfaɪ]",
+    "pos": "v.",
+    "meaning": "通知;告知",
+    "examples": [
+      { "en": "We will notify you as soon as the order ships.", "zh": "訂單一出貨我們就會通知您。" },
+      { "en": "Please notify us in advance if you cannot attend.", "zh": "若您無法出席,請事先通知我們。" }
+    ],
+    "img": "bell alert on email screen",
+    "theme": "商務書信",
+    "level": 2
+  },
+  {
+    "word": "request",
+    "kk": "[rɪˈkwɛst]",
+    "pos": "n.",
+    "meaning": "請求;要求",
+    "examples": [
+      { "en": "We have received your request and are looking into it.", "zh": "我們已收到您的請求,正在處理中。" },
+      { "en": "Please submit your request through the online form.", "zh": "請透過線上表單提交您的請求。" }
+    ],
+    "img": "hand raised with formal note",
+    "theme": "商務書信",
+    "level": 2
+  },
+  {
+    "word": "reference",
+    "kk": "[ˈrɛfərəns]",
+    "pos": "n.",
+    "meaning": "參考;參照(編號)",
+    "examples": [
+      { "en": "Please quote this reference number in all future emails.", "zh": "請在日後所有郵件中註明此參考編號。" },
+      { "en": "I am attaching last year's report for your reference.", "zh": "我附上去年的報告供您參考。" }
+    ],
+    "img": "document with highlighted reference code",
+    "theme": "商務書信",
+    "level": 2
+  },
+  {
+    "word": "respond",
+    "kk": "[rɪˈspɑnd]",
+    "pos": "v.",
+    "meaning": "回覆;回應",
+    "examples": [
+      { "en": "I will respond to your questions by the end of the day.", "zh": "我會在今天結束前回覆您的問題。" },
+      { "en": "Thank you for taking the time to respond so quickly.", "zh": "感謝您撥空這麼快回覆。" }
+    ],
+    "img": "reply button glowing on email",
+    "theme": "商務書信",
+    "level": 2
+  },
+  {
+    "word": "clarify",
+    "kk": "[ˈklærəˌfaɪ]",
+    "pos": "v.",
+    "meaning": "澄清;說明清楚",
+    "examples": [
+      { "en": "Could you clarify what you meant in the second paragraph?", "zh": "能否請您說明第二段的意思?" },
+      { "en": "Let me clarify the terms before we sign the agreement.", "zh": "在簽署協議前,讓我把條款說明清楚。" }
+    ],
+    "img": "magnifying glass over unclear text",
+    "theme": "商務書信",
+    "level": 3
+  },
+  {
+    "word": "attentively",
+    "kk": "[əˈtɛntɪvlɪ]",
+    "pos": "adv.",
+    "meaning": "專注地;用心地",
+    "examples": [
+      { "en": "We have read your proposal attentively and have some notes.", "zh": "我們已仔細閱讀您的提案,並有一些意見。" },
+      { "en": "Thank you for attending to this matter so attentively.", "zh": "感謝您如此用心地處理此事。" }
+    ],
+    "img": "person reading letter with focus",
+    "theme": "商務書信",
+    "level": 3
+  },
+  {
+    "word": "prompt",
+    "kk": "[prɑmpt]",
+    "pos": "adj.",
+    "meaning": "迅速的;即時的",
+    "examples": [
+      { "en": "Thank you for your prompt reply to my inquiry.", "zh": "感謝您對我詢問的迅速回覆。" },
+      { "en": "We appreciate your prompt attention to this issue.", "zh": "我們感謝您對此問題的即時處理。" }
+    ],
+    "img": "fast clock next to sent email",
+    "theme": "商務書信",
+    "level": 2
+  },
+  {
+    "word": "queries",
+    "kk": "[ˈkwɪrɪz]",
+    "pos": "n.",
+    "meaning": "疑問;問題(複數)",
+    "examples": [
+      { "en": "Please feel free to send any queries to my assistant.", "zh": "如有任何疑問,歡迎寄給我的助理。" },
+      { "en": "All your queries have been forwarded to the support team.", "zh": "您所有的問題都已轉給支援團隊。" }
+    ],
+    "img": "list of question marks on paper",
+    "theme": "商務書信",
+    "level": 3
+  },
+  {
+    "word": "revert",
+    "kk": "[rɪˈvɝt]",
+    "pos": "v.",
+    "meaning": "回覆;答覆(商務用語)",
+    "examples": [
+      { "en": "I will revert to you once I have the figures.", "zh": "等我拿到數據後就會回覆您。" },
+      { "en": "Kindly revert with your decision by Friday.", "zh": "煩請於週五前回覆您的決定。" }
+    ],
+    "img": "arrow looping back to sender",
+    "theme": "商務書信",
+    "level": 3
+  },
+  {
+    "word": "greetings",
+    "kk": "[ˈɡritɪŋz]",
+    "pos": "n.",
+    "meaning": "問候語;致意",
+    "examples": [
+      { "en": "Warm greetings from all of us at the head office.", "zh": "總公司全體同仁向您致上溫暖的問候。" },
+      { "en": "Season's greetings and best wishes for the new year.", "zh": "佳節問候,並祝新年萬事如意。" }
+    ],
+    "img": "cheerful hello note with wave",
+    "theme": "商務書信",
+    "level": 2
+  },
+  {
+    "word": "regards",
+    "kk": "[rɪˈɡɑrdz]",
+    "pos": "n.",
+    "meaning": "問候;致意(結尾語)",
+    "examples": [
+      { "en": "Best regards, and I look forward to hearing from you.", "zh": "順頌時祺,期待您的回音。" },
+      { "en": "Please give my regards to your manager.", "zh": "請代我向您的經理問好。" }
+    ],
+    "img": "email sign-off with warm tone",
+    "theme": "商務書信",
+    "level": 2
+  },
+  {
+    "word": "recipient list",
+    "kk": "[rɪˈsɪpɪənt lɪst]",
+    "pos": "n.",
+    "meaning": "收件人清單",
+    "examples": [
+      { "en": "Please double-check the recipient list before you send it.", "zh": "寄出前請再次核對收件人清單。" },
+      { "en": "Her name was accidentally left off the recipient list.", "zh": "她的名字不小心被漏在收件人清單之外。" }
+    ],
+    "img": "email header showing multiple names",
+    "theme": "商務書信",
+    "level": 3
+  },
+  {
+    "word": "follow up",
+    "kk": "[ˈfɑlo ʌp]",
+    "pos": "v.",
+    "meaning": "後續追蹤;跟進",
+    "examples": [
+      { "en": "I am writing to follow up on my previous email.", "zh": "我來信是想跟進我先前的郵件。" },
+      { "en": "Let's follow up next week to check the progress.", "zh": "我們下週再跟進以確認進度。" }
+    ],
+    "img": "second reminder email in inbox",
+    "theme": "商務書信",
+    "level": 2
+  },
+  {
+    "word": "on behalf of",
+    "kk": "[ɑn bɪˈhæf ʌv]",
+    "pos": "phr.",
+    "meaning": "代表;為了……",
+    "examples": [
+      { "en": "I am writing on behalf of our marketing director.", "zh": "我謹代表我們的行銷總監來信。" },
+      { "en": "On behalf of the whole team, thank you very much.", "zh": "謹代表整個團隊,非常感謝您。" }
+    ],
+    "img": "person speaking for a group",
+    "theme": "商務書信",
+    "level": 3
+  },
+  {
+    "word": "at your earliest convenience",
+    "kk": "[æt jʊr ˈɝlɪɪst kənˈvinjəns]",
+    "pos": "phr.",
+    "meaning": "請儘早;在您方便時",
+    "examples": [
+      { "en": "Please reply at your earliest convenience.", "zh": "請您儘早回覆。" },
+      { "en": "Kindly send the documents at your earliest convenience.", "zh": "煩請您儘早寄出文件。" }
+    ],
+    "img": "clock with polite reminder note",
+    "theme": "商務書信",
+    "level": 3
+  },
+  {
+    "word": "look forward to",
+    "kk": "[lʊk ˈfɔrwɚd tu]",
+    "pos": "phr.",
+    "meaning": "期待;盼望",
+    "examples": [
+      { "en": "I look forward to your reply and further discussion.", "zh": "我期待您的回覆與進一步討論。" },
+      { "en": "We look forward to working with your company.", "zh": "我們期待與貴公司合作。" }
+    ],
+    "img": "person smiling at incoming email",
+    "theme": "商務書信",
+    "level": 2
+  },
+  {
+    "word": "to whom it may concern",
+    "kk": "[tu hum ɪt me kənˈsɝn]",
+    "pos": "phr.",
+    "meaning": "敬啟者(不知收件人時)",
+    "examples": [
+      { "en": "To whom it may concern, I am applying for the position.", "zh": "敬啟者,本人欲申請該職位。" },
+      { "en": "The letter began with To whom it may concern.", "zh": "這封信以「敬啟者」開頭。" }
+    ],
+    "img": "formal letter opening line",
+    "theme": "商務書信",
+    "level": 3
+  },
+  {
+    "word": "as per",
+    "kk": "[æz pɝ]",
+    "pos": "prep.",
+    "meaning": "依據;按照",
+    "examples": [
+      { "en": "As per your request, I have attached the full report.", "zh": "依據您的要求,我已附上完整報告。" },
+      { "en": "The goods were shipped as per our agreement.", "zh": "貨物已按照我們的協議出貨。" }
+    ],
+    "img": "checklist matching a contract clause",
+    "theme": "商務書信",
+    "level": 3
+  },
+  {
+    "word": "further to",
+    "kk": "[ˈfɝðɚ tu]",
+    "pos": "phr.",
+    "meaning": "承接;關於先前的……",
+    "examples": [
+      { "en": "Further to our phone call, here are the details in writing.", "zh": "承接我們的電話,以下是書面細節。" },
+      { "en": "Further to my last email, the meeting is now confirmed.", "zh": "關於我上封郵件,會議現已確認。" }
+    ],
+    "img": "thread of connected messages",
+    "theme": "商務書信",
+    "level": 3
+  },
+  {
+    "word": "please be advised",
+    "kk": "[pliz bi ədˈvaɪzd]",
+    "pos": "phr.",
+    "meaning": "謹此告知;敬請注意",
+    "examples": [
+      { "en": "Please be advised that our office will be closed on Monday.", "zh": "謹此告知,本辦公室週一將休息。" },
+      { "en": "Please be advised that prices will change next month.", "zh": "敬請注意,價格將於下月調整。" }
+    ],
+    "img": "formal notice banner on letter",
+    "theme": "商務書信",
+    "level": 3
+  },
+  {
+    "word": "should you have any questions",
+    "kk": "[ʃʊd ju hæv ˈɛnɪ ˈkwɛstʃənz]",
+    "pos": "phr.",
+    "meaning": "若您有任何疑問",
+    "examples": [
+      { "en": "Should you have any questions, please contact me directly.", "zh": "若您有任何疑問,請直接與我聯繫。" },
+      { "en": "Should you have any questions, our team is happy to help.", "zh": "若您有任何疑問,我們團隊樂意協助。" }
+    ],
+    "img": "help desk offering assistance",
+    "theme": "商務書信",
+    "level": 3
+  },
+  {
+    "word": "for your reference",
+    "kk": "[fɔr jʊr ˈrɛfərəns]",
+    "pos": "phr.",
+    "meaning": "供您參考",
+    "examples": [
+      { "en": "I am sending the brochure for your reference.", "zh": "我寄上這份手冊供您參考。" },
+      { "en": "The chart below is for your reference only.", "zh": "下方圖表僅供您參考。" }
+    ],
+    "img": "document handed over with note",
+    "theme": "商務書信",
+    "level": 2
+  },
+  {
+    "word": "in receipt of",
+    "kk": "[ɪn rɪˈsit ʌv]",
+    "pos": "phr.",
+    "meaning": "已收到",
+    "examples": [
+      { "en": "We are in receipt of your payment. Thank you.", "zh": "我們已收到您的款項,謝謝。" },
+      { "en": "I am in receipt of your letter dated May 3rd.", "zh": "我已收到您五月三日的來信。" }
+    ],
+    "img": "hand receiving a package receipt",
+    "theme": "商務書信",
+    "level": 3
+  },
+  {
+    "word": "at this time",
+    "kk": "[æt ðɪs taɪm]",
+    "pos": "phr.",
+    "meaning": "目前;此刻(委婉語)",
+    "examples": [
+      { "en": "We are unable to accept new orders at this time.", "zh": "我們目前無法接受新訂單。" },
+      { "en": "No further action is needed at this time.", "zh": "目前無需採取進一步行動。" }
+    ],
+    "img": "calendar marked present moment",
+    "theme": "商務書信",
+    "level": 2
+  },
+  {
+    "word": "at your disposal",
+    "kk": "[æt jʊr dɪˈspozl]",
+    "pos": "phr.",
+    "meaning": "隨時供您差遣;供您使用",
+    "examples": [
+      { "en": "Our support team is at your disposal around the clock.", "zh": "我們的支援團隊全天候供您差遣。" },
+      { "en": "I am at your disposal should you need assistance.", "zh": "如您需要協助,我隨時為您效勞。" }
+    ],
+    "img": "assistant ready to help at desk",
+    "theme": "商務書信",
+    "level": 3
+  },
+  {
+    "word": "duly noted",
+    "kk": "[ˈdulɪ ˈnotɪd]",
+    "pos": "phr.",
+    "meaning": "已充分知悉;已記下",
+    "examples": [
+      { "en": "Your feedback has been duly noted and will be reviewed.", "zh": "您的意見已充分知悉,並將被審視。" },
+      { "en": "Duly noted; I will make the changes right away.", "zh": "已記下,我會立刻進行修改。" }
+    ],
+    "img": "notebook with underlined entry",
+    "theme": "商務書信",
+    "level": 3
+  },
+  {
+    "word": "we regret to inform you",
+    "kk": "[wi rɪˈɡrɛt tu ɪnˈfɔrm ju]",
+    "pos": "phr.",
+    "meaning": "我們很遺憾地通知您",
+    "examples": [
+      { "en": "We regret to inform you that your application was unsuccessful.", "zh": "我們很遺憾地通知您,您的申請未通過。" },
+      { "en": "We regret to inform you of a delay in your shipment.", "zh": "我們很遺憾地通知您,您的貨運有所延誤。" }
+    ],
+    "img": "formal rejection letter with sad tone",
+    "theme": "商務書信",
+    "level": 3
+  },
+  {
+    "word": "as requested",
+    "kk": "[æz rɪˈkwɛstɪd]",
+    "pos": "phr.",
+    "meaning": "如所要求;依照要求",
+    "examples": [
+      { "en": "As requested, please find the signed form attached.", "zh": "如所要求,請查收附上的簽署表單。" },
+      { "en": "I have sent the samples as requested.", "zh": "我已依照要求寄出樣品。" }
+    ],
+    "img": "completed task matching a request",
+    "theme": "商務書信",
+    "level": 2
+  },
+  {
+    "word": "with reference to",
+    "kk": "[wɪð ˈrɛfərəns tu]",
+    "pos": "phr.",
+    "meaning": "關於;針對",
+    "examples": [
+      { "en": "With reference to your email, we have updated the order.", "zh": "關於您的郵件,我們已更新訂單。" },
+      { "en": "With reference to the contract, clause five needs revision.", "zh": "針對這份合約,第五條需要修改。" }
+    ],
+    "img": "email quoting an earlier message",
+    "theme": "商務書信",
+    "level": 3
+  },
+  {
+    "word": "thank you in advance",
+    "kk": "[θæŋk ju ɪn ədˈvæns]",
+    "pos": "phr.",
+    "meaning": "先行致謝;預先感謝",
+    "examples": [
+      { "en": "Thank you in advance for your help with this matter.", "zh": "先行感謝您對此事的協助。" },
+      { "en": "Thank you in advance for your prompt reply.", "zh": "預先感謝您的迅速回覆。" }
+    ],
+    "img": "grateful note before a favor",
+    "theme": "商務書信",
+    "level": 2
+  },
+  {
+    "word": "please find attached",
+    "kk": "[pliz faɪnd əˈtætʃt]",
+    "pos": "phr.",
+    "meaning": "請查收附件",
+    "examples": [
+      { "en": "Please find attached the minutes from today's meeting.", "zh": "請查收附上的今日會議紀錄。" },
+      { "en": "Please find attached my updated résumé for your review.", "zh": "請查收附上的更新履歷供您審閱。" }
+    ],
+    "img": "email with visible file attachment",
+    "theme": "商務書信",
+    "level": 2
+  },
+  {
+    "word": "we apologize for any inconvenience",
+    "kk": "[wi əˈpɑləˌdʒaɪz fɔr ˈɛnɪ ˌɪnkənˈvinjəns]",
+    "pos": "phr.",
+    "meaning": "我們為造成的不便致歉",
+    "examples": [
+      { "en": "We apologize for any inconvenience caused by the system outage.", "zh": "系統中斷造成的不便,我們深感抱歉。" },
+      { "en": "We apologize for any inconvenience during the renovation.", "zh": "整修期間造成的不便,我們致上歉意。" }
+    ],
+    "img": "apology banner on service notice",
+    "theme": "商務書信",
+    "level": 3
+  },
+  {
+    "word": "please do not hesitate to contact",
+    "kk": "[pliz du nɑt ˈhɛzəˌtet tu ˈkɑntækt]",
+    "pos": "phr.",
+    "meaning": "請儘管與……聯繫;別客氣",
+    "examples": [
+      { "en": "Please do not hesitate to contact me if you need help.", "zh": "如需協助,請儘管與我聯繫。" },
+      { "en": "Please do not hesitate to contact our office anytime.", "zh": "任何時候都歡迎與我們辦公室聯繫。" }
+    ],
+    "img": "open phone line with friendly agent",
+    "theme": "商務書信",
+    "level": 3
+  },
+  {
+    "word": "awaiting your reply",
+    "kk": "[əˈwetɪŋ jʊr rɪˈplaɪ]",
+    "pos": "phr.",
+    "meaning": "靜候您的回覆",
+    "examples": [
+      { "en": "I will be awaiting your reply before proceeding.", "zh": "在進行下一步前,我將靜候您的回覆。" },
+      { "en": "Awaiting your reply, I remain sincerely yours.", "zh": "靜候您的回音,謹此致意。" }
+    ],
+    "img": "person watching inbox expectantly",
+    "theme": "商務書信",
+    "level": 3
+  },
+  {
+    "word": "as mentioned earlier",
+    "kk": "[æz ˈmɛnʃənd ˈɝlɪɚ]",
+    "pos": "phr.",
+    "meaning": "如先前所提",
+    "examples": [
+      { "en": "As mentioned earlier, the deadline is next Wednesday.", "zh": "如先前所提,截止日是下週三。" },
+      { "en": "As mentioned earlier, we will cover the shipping cost.", "zh": "如先前所提,我們會負擔運費。" }
+    ],
+    "img": "highlighted earlier message thread",
+    "theme": "商務書信",
+    "level": 2
+  },
+  {
+    "word": "please advise",
+    "kk": "[pliz ədˈvaɪz]",
+    "pos": "phr.",
+    "meaning": "請告知(您的意見/決定)",
+    "examples": [
+      { "en": "Please advise whether the proposed date works for you.", "zh": "請告知所提議的日期是否適合您。" },
+      { "en": "Please advise on how you would like to proceed.", "zh": "請告知您希望如何進行。" }
+    ],
+    "img": "email awaiting a decision reply",
+    "theme": "商務書信",
+    "level": 3
+  }
+]

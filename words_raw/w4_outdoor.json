@@ -1,0 +1,639 @@
+[
+  {
+    "word": "campsite",
+    "kk": "[ˈkæmpˌsaɪt]",
+    "pos": "n.",
+    "meaning": "露營地、營地",
+    "examples": [
+      { "en": "We found a quiet campsite near the river.", "zh": "我們在河邊找到一個安靜的營地。" },
+      { "en": "The campsite has clean toilets and showers.", "zh": "這個營地有乾淨的廁所和淋浴間。" }
+    ],
+    "img": "tents on grassy campsite by river",
+    "theme": "戶外露營",
+    "level": 2
+  },
+  {
+    "word": "tent",
+    "kk": "[tɛnt]",
+    "pos": "n.",
+    "meaning": "帳篷",
+    "examples": [
+      { "en": "It took us an hour to set up the tent.", "zh": "我們花了一小時搭好帳篷。" },
+      { "en": "Two people can sleep in this tent.", "zh": "這頂帳篷可以睡兩個人。" }
+    ],
+    "img": "orange dome tent in forest",
+    "theme": "戶外露營",
+    "level": 2
+  },
+  {
+    "word": "sleeping bag",
+    "kk": "[ˈslipɪŋ ˌbæɡ]",
+    "pos": "n.",
+    "meaning": "睡袋",
+    "examples": [
+      { "en": "My sleeping bag keeps me warm at night.", "zh": "我的睡袋讓我晚上很暖和。" },
+      { "en": "Roll up your sleeping bag before we leave.", "zh": "出發前把你的睡袋捲起來。" }
+    ],
+    "img": "rolled up sleeping bag inside tent",
+    "theme": "戶外露營",
+    "level": 2
+  },
+  {
+    "word": "backpack",
+    "kk": "[ˈbækˌpæk]",
+    "pos": "n.",
+    "meaning": "後背包、登山包",
+    "examples": [
+      { "en": "She carried all her gear in a large backpack.", "zh": "她把所有裝備都裝在一個大背包裡。" },
+      { "en": "My backpack feels heavy after two hours.", "zh": "走了兩小時後我的背包覺得很重。" }
+    ],
+    "img": "hiker wearing large mountain backpack",
+    "theme": "戶外露營",
+    "level": 2
+  },
+  {
+    "word": "hiking",
+    "kk": "[ˈhaɪkɪŋ]",
+    "pos": "n.",
+    "meaning": "健行、徒步旅行",
+    "examples": [
+      { "en": "Hiking is a great way to enjoy nature.", "zh": "健行是享受大自然的好方法。" },
+      { "en": "We went hiking every weekend last summer.", "zh": "去年夏天我們每個週末都去健行。" }
+    ],
+    "img": "people hiking on mountain trail",
+    "theme": "戶外露營",
+    "level": 2
+  },
+  {
+    "word": "trail",
+    "kk": "[trel]",
+    "pos": "n.",
+    "meaning": "步道、小徑",
+    "examples": [
+      { "en": "This trail leads to the top of the hill.", "zh": "這條步道通往山頂。" },
+      { "en": "Stay on the trail so you don't get lost.", "zh": "走在步道上才不會迷路。" }
+    ],
+    "img": "narrow dirt trail through green forest",
+    "theme": "戶外露營",
+    "level": 2
+  },
+  {
+    "word": "compass",
+    "kk": "[ˈkʌmpəs]",
+    "pos": "n.",
+    "meaning": "指南針",
+    "examples": [
+      { "en": "A compass always points to the north.", "zh": "指南針總是指向北方。" },
+      { "en": "He used a compass to find the right way.", "zh": "他用指南針找到正確的方向。" }
+    ],
+    "img": "metal compass held in hand outdoors",
+    "theme": "戶外露營",
+    "level": 2
+  },
+  {
+    "word": "flashlight",
+    "kk": "[ˈflæʃˌlaɪt]",
+    "pos": "n.",
+    "meaning": "手電筒",
+    "examples": [
+      { "en": "Bring a flashlight for the night walk.", "zh": "夜間散步要帶手電筒。" },
+      { "en": "The flashlight ran out of batteries.", "zh": "手電筒沒電了。" }
+    ],
+    "img": "hand holding bright flashlight at night",
+    "theme": "戶外露營",
+    "level": 2
+  },
+  {
+    "word": "campfire",
+    "kk": "[ˈkæmpˌfaɪr]",
+    "pos": "n.",
+    "meaning": "營火",
+    "examples": [
+      { "en": "We sat around the campfire and told stories.", "zh": "我們圍著營火講故事。" },
+      { "en": "Never leave a campfire burning alone.", "zh": "絕不要讓營火無人看管地燃燒。" }
+    ],
+    "img": "glowing campfire at night with logs",
+    "theme": "戶外露營",
+    "level": 2
+  },
+  {
+    "word": "lantern",
+    "kk": "[ˈlæntən]",
+    "pos": "n.",
+    "meaning": "提燈、營燈",
+    "examples": [
+      { "en": "A lantern lit up the inside of the tent.", "zh": "一盞營燈照亮了帳篷內部。" },
+      { "en": "Hang the lantern on this hook.", "zh": "把營燈掛在這個鉤子上。" }
+    ],
+    "img": "glowing camping lantern on wooden table",
+    "theme": "戶外露營",
+    "level": 2
+  },
+  {
+    "word": "stove",
+    "kk": "[stov]",
+    "pos": "n.",
+    "meaning": "爐子、野炊爐",
+    "examples": [
+      { "en": "We cooked soup on a small camping stove.", "zh": "我們用小型露營爐煮湯。" },
+      { "en": "The gas stove is easy to carry.", "zh": "這個瓦斯爐很好攜帶。" }
+    ],
+    "img": "portable camping gas stove with flame",
+    "theme": "戶外露營",
+    "level": 2
+  },
+  {
+    "word": "grill",
+    "kk": "[ɡrɪl]",
+    "pos": "n./v.",
+    "meaning": "烤架;燒烤",
+    "examples": [
+      { "en": "We put the meat on the grill.", "zh": "我們把肉放在烤架上。" },
+      { "en": "Let's grill some corn tonight.", "zh": "今晚我們來烤一些玉米吧。" }
+    ],
+    "img": "food cooking on outdoor barbecue grill",
+    "theme": "戶外露營",
+    "level": 2
+  },
+  {
+    "word": "gear",
+    "kk": "[ɡɪr]",
+    "pos": "n.",
+    "meaning": "裝備、器材",
+    "examples": [
+      { "en": "Pack all your camping gear in the car.", "zh": "把所有露營裝備裝進車裡。" },
+      { "en": "Good gear makes a trip more comfortable.", "zh": "好的裝備讓旅程更舒適。" }
+    ],
+    "img": "camping gear laid out on ground",
+    "theme": "戶外露營",
+    "level": 2
+  },
+  {
+    "word": "trekking",
+    "kk": "[ˈtrɛkɪŋ]",
+    "pos": "n.",
+    "meaning": "長途跋涉、登山健行",
+    "examples": [
+      { "en": "Trekking in the mountains takes several days.", "zh": "在山中長途跋涉需要好幾天。" },
+      { "en": "We bought new boots for trekking.", "zh": "我們為長途健行買了新靴子。" }
+    ],
+    "img": "hikers trekking across mountain ridge",
+    "theme": "戶外露營",
+    "level": 3
+  },
+  {
+    "word": "summit",
+    "kk": "[ˈsʌmɪt]",
+    "pos": "n.",
+    "meaning": "山頂、峰頂",
+    "examples": [
+      { "en": "We reached the summit before noon.", "zh": "我們在中午前登上了山頂。" },
+      { "en": "The view from the summit was amazing.", "zh": "從山頂看到的景色令人驚嘆。" }
+    ],
+    "img": "climber standing on snowy mountain summit",
+    "theme": "戶外露營",
+    "level": 3
+  },
+  {
+    "word": "peak",
+    "kk": "[pik]",
+    "pos": "n.",
+    "meaning": "山峰、頂峰",
+    "examples": [
+      { "en": "Snow covered the mountain peak.", "zh": "雪覆蓋了山峰。" },
+      { "en": "That peak is the highest in the area.", "zh": "那座山峰是這一帶最高的。" }
+    ],
+    "img": "sharp rocky mountain peak against sky",
+    "theme": "戶外露營",
+    "level": 2
+  },
+  {
+    "word": "cliff",
+    "kk": "[klɪf]",
+    "pos": "n.",
+    "meaning": "懸崖、峭壁",
+    "examples": [
+      { "en": "Don't stand too close to the cliff.", "zh": "別站得離懸崖太近。" },
+      { "en": "The trail runs along a high cliff.", "zh": "步道沿著一道高聳的懸崖延伸。" }
+    ],
+    "img": "steep rocky cliff overlooking valley",
+    "theme": "戶外露營",
+    "level": 2
+  },
+  {
+    "word": "valley",
+    "kk": "[ˈvælɪ]",
+    "pos": "n.",
+    "meaning": "山谷、溪谷",
+    "examples": [
+      { "en": "A small river runs through the valley.", "zh": "一條小河流經山谷。" },
+      { "en": "We camped in a green valley.", "zh": "我們在一座綠色的山谷中露營。" }
+    ],
+    "img": "green valley between two mountains",
+    "theme": "戶外露營",
+    "level": 2
+  },
+  {
+    "word": "stream",
+    "kk": "[strim]",
+    "pos": "n.",
+    "meaning": "小溪、溪流",
+    "examples": [
+      { "en": "We filled our bottles from a clear stream.", "zh": "我們在清澈的溪流中裝滿水瓶。" },
+      { "en": "The stream was cold and fast.", "zh": "這條溪流又冷又急。" }
+    ],
+    "img": "clear stream flowing over rocks in forest",
+    "theme": "戶外露營",
+    "level": 2
+  },
+  {
+    "word": "waterfall",
+    "kk": "[ˈwɔtɚˌfɔl]",
+    "pos": "n.",
+    "meaning": "瀑布",
+    "examples": [
+      { "en": "We hiked two hours to see the waterfall.", "zh": "我們健行兩小時去看瀑布。" },
+      { "en": "The waterfall makes a loud sound.", "zh": "瀑布發出很大的聲音。" }
+    ],
+    "img": "tall waterfall falling into pool",
+    "theme": "戶外露營",
+    "level": 2
+  },
+  {
+    "word": "boots",
+    "kk": "[buts]",
+    "pos": "n.",
+    "meaning": "靴子、登山鞋",
+    "examples": [
+      { "en": "Wear strong boots for the rocky trail.", "zh": "在多岩石的步道上要穿堅固的靴子。" },
+      { "en": "My hiking boots kept my feet dry.", "zh": "我的登山靴讓我的腳保持乾爽。" }
+    ],
+    "img": "muddy hiking boots on rocky path",
+    "theme": "戶外露營",
+    "level": 2
+  },
+  {
+    "word": "waterproof",
+    "kk": "[ˈwɔtɚˌpruf]",
+    "pos": "adj.",
+    "meaning": "防水的",
+    "examples": [
+      { "en": "This jacket is fully waterproof.", "zh": "這件外套完全防水。" },
+      { "en": "Keep your phone in a waterproof bag.", "zh": "把你的手機放在防水袋裡。" }
+    ],
+    "img": "raindrops on waterproof jacket surface",
+    "theme": "戶外露營",
+    "level": 3
+  },
+  {
+    "word": "backpacker",
+    "kk": "[ˈbækˌpækɚ]",
+    "pos": "n.",
+    "meaning": "背包客",
+    "examples": [
+      { "en": "Many backpackers visit this hostel.", "zh": "許多背包客會來這間旅舍。" },
+      { "en": "The backpacker traveled alone for months.", "zh": "這位背包客獨自旅行了好幾個月。" }
+    ],
+    "img": "young backpacker walking on countryside road",
+    "theme": "戶外露營",
+    "level": 3
+  },
+  {
+    "word": "adventure",
+    "kk": "[ədˈvɛntʃɚ]",
+    "pos": "n.",
+    "meaning": "冒險、探險",
+    "examples": [
+      { "en": "Our camping trip was a real adventure.", "zh": "我們的露營之旅是一場真正的冒險。" },
+      { "en": "She loves outdoor adventures.", "zh": "她熱愛戶外冒險。" }
+    ],
+    "img": "hikers exploring wild mountain landscape",
+    "theme": "戶外露營",
+    "level": 2
+  },
+  {
+    "word": "shelter",
+    "kk": "[ˈʃɛltɚ]",
+    "pos": "n.",
+    "meaning": "遮蔽處、避難所",
+    "examples": [
+      { "en": "We looked for shelter from the rain.", "zh": "我們尋找躲雨的地方。" },
+      { "en": "The cave gave us shelter for the night.", "zh": "這個洞穴為我們提供了過夜的遮蔽處。" }
+    ],
+    "img": "simple wooden shelter in forest",
+    "theme": "戶外露營",
+    "level": 2
+  },
+  {
+    "word": "firewood",
+    "kk": "[ˈfaɪrˌwʊd]",
+    "pos": "n.",
+    "meaning": "柴火、木柴",
+    "examples": [
+      { "en": "We gathered firewood before dark.", "zh": "我們在天黑前撿柴火。" },
+      { "en": "Dry firewood burns better.", "zh": "乾燥的木柴燃燒得更好。" }
+    ],
+    "img": "pile of dry firewood by campsite",
+    "theme": "戶外露營",
+    "level": 3
+  },
+  {
+    "word": "marshmallow",
+    "kk": "[ˈmɑrʃˌmɛlo]",
+    "pos": "n.",
+    "meaning": "棉花糖",
+    "examples": [
+      { "en": "We roasted marshmallows over the fire.", "zh": "我們在火上烤棉花糖。" },
+      { "en": "The marshmallow turned golden brown.", "zh": "棉花糖變成了金黃色。" }
+    ],
+    "img": "marshmallow on stick over campfire",
+    "theme": "戶外露營",
+    "level": 3
+  },
+  {
+    "word": "canoe",
+    "kk": "[kəˈnu]",
+    "pos": "n.",
+    "meaning": "獨木舟",
+    "examples": [
+      { "en": "We paddled the canoe across the lake.", "zh": "我們划獨木舟橫渡湖泊。" },
+      { "en": "Two people can fit in this canoe.", "zh": "這艘獨木舟可以坐兩個人。" }
+    ],
+    "img": "wooden canoe on calm lake water",
+    "theme": "戶外露營",
+    "level": 3
+  },
+  {
+    "word": "paddle",
+    "kk": "[ˈpædl]",
+    "pos": "v./n.",
+    "meaning": "划槳;槳",
+    "examples": [
+      { "en": "We paddled toward the small island.", "zh": "我們朝小島划去。" },
+      { "en": "Hold the paddle with both hands.", "zh": "雙手握住船槳。" }
+    ],
+    "img": "person paddling kayak on river",
+    "theme": "戶外露營",
+    "level": 3
+  },
+  {
+    "word": "seashore",
+    "kk": "[ˈsiˌʃɔr]",
+    "pos": "n.",
+    "meaning": "海濱、海岸",
+    "examples": [
+      { "en": "We walked along the seashore at sunset.", "zh": "我們在日落時沿著海濱散步。" },
+      { "en": "Shells lay all over the seashore.", "zh": "海濱上到處都是貝殼。" }
+    ],
+    "img": "waves washing over rocky seashore",
+    "theme": "戶外露營",
+    "level": 2
+  },
+  {
+    "word": "seashell",
+    "kk": "[ˈsiˌʃɛl]",
+    "pos": "n.",
+    "meaning": "貝殼",
+    "examples": [
+      { "en": "She collected pretty seashells on the beach.", "zh": "她在海灘上撿了漂亮的貝殼。" },
+      { "en": "This seashell looks like a fan.", "zh": "這個貝殼看起來像一把扇子。" }
+    ],
+    "img": "colorful seashells on sandy beach",
+    "theme": "戶外露營",
+    "level": 2
+  },
+  {
+    "word": "seaweed",
+    "kk": "[ˈsiˌwid]",
+    "pos": "n.",
+    "meaning": "海藻、海草",
+    "examples": [
+      { "en": "Green seaweed washed up on the sand.", "zh": "綠色的海藻被沖上沙灘。" },
+      { "en": "Be careful, the seaweed is slippery.", "zh": "小心，海藻很滑。" }
+    ],
+    "img": "green seaweed on wet beach rocks",
+    "theme": "戶外露營",
+    "level": 3
+  },
+  {
+    "word": "tide",
+    "kk": "[taɪd]",
+    "pos": "n.",
+    "meaning": "潮汐、潮水",
+    "examples": [
+      { "en": "The tide comes in every afternoon.", "zh": "每天下午潮水都會漲上來。" },
+      { "en": "We moved our chairs before the tide rose.", "zh": "潮水上漲前我們把椅子移開了。" }
+    ],
+    "img": "ocean tide coming in over sandy beach",
+    "theme": "戶外露營",
+    "level": 3
+  },
+  {
+    "word": "sunscreen",
+    "kk": "[ˈsʌnˌskrin]",
+    "pos": "n.",
+    "meaning": "防曬乳",
+    "examples": [
+      { "en": "Put on sunscreen before you swim.", "zh": "游泳前先擦防曬乳。" },
+      { "en": "This sunscreen protects your skin.", "zh": "這款防曬乳能保護你的皮膚。" }
+    ],
+    "img": "hand applying sunscreen on beach",
+    "theme": "戶外露營",
+    "level": 3
+  },
+  {
+    "word": "snorkel",
+    "kk": "[ˈsnɔrkl]",
+    "pos": "n./v.",
+    "meaning": "浮潛呼吸管;浮潛",
+    "examples": [
+      { "en": "We used a snorkel to watch the fish.", "zh": "我們用浮潛呼吸管觀看魚群。" },
+      { "en": "Let's snorkel near the reef tomorrow.", "zh": "明天我們去珊瑚礁附近浮潛吧。" }
+    ],
+    "img": "snorkel and mask on tropical beach",
+    "theme": "戶外露營",
+    "level": 3
+  },
+  {
+    "word": "insect repellent",
+    "kk": "[ˈɪnsɛkt rɪˈpɛlənt]",
+    "pos": "n.",
+    "meaning": "防蟲液、驅蟲劑",
+    "examples": [
+      { "en": "Spray insect repellent to avoid mosquito bites.", "zh": "噴防蟲液以免被蚊子叮咬。" },
+      { "en": "Don't forget the insect repellent for camping.", "zh": "露營別忘了帶防蟲液。" }
+    ],
+    "img": "bottle of insect repellent spray outdoors",
+    "theme": "戶外露營",
+    "level": 3
+  },
+  {
+    "word": "canteen",
+    "kk": "[kænˈtin]",
+    "pos": "n.",
+    "meaning": "水壺",
+    "examples": [
+      { "en": "Fill your canteen before the long hike.", "zh": "長途健行前把水壺裝滿。" },
+      { "en": "His canteen was empty by noon.", "zh": "他的水壺到中午就空了。" }
+    ],
+    "img": "metal canteen water bottle on rock",
+    "theme": "戶外露營",
+    "level": 3
+  },
+  {
+    "word": "map",
+    "kk": "[mæp]",
+    "pos": "n.",
+    "meaning": "地圖",
+    "examples": [
+      { "en": "We checked the map at every fork.", "zh": "我們在每個岔路都查看地圖。" },
+      { "en": "This map shows all the hiking trails.", "zh": "這張地圖標示了所有的健行步道。" }
+    ],
+    "img": "hikers reading paper trail map outdoors",
+    "theme": "戶外露營",
+    "level": 2
+  },
+  {
+    "word": "path",
+    "kk": "[pæθ]",
+    "pos": "n.",
+    "meaning": "小路、路徑",
+    "examples": [
+      { "en": "Follow this path to the lake.", "zh": "沿著這條小路走到湖邊。" },
+      { "en": "The path was covered with fallen leaves.", "zh": "小路上鋪滿了落葉。" }
+    ],
+    "img": "winding forest path with fallen leaves",
+    "theme": "戶外露營",
+    "level": 2
+  },
+  {
+    "word": "wildlife",
+    "kk": "[ˈwaɪldˌlaɪf]",
+    "pos": "n.",
+    "meaning": "野生動物",
+    "examples": [
+      { "en": "We saw lots of wildlife in the forest.", "zh": "我們在森林裡看到很多野生動物。" },
+      { "en": "Please do not feed the wildlife.", "zh": "請不要餵食野生動物。" }
+    ],
+    "img": "deer and birds in wild forest",
+    "theme": "戶外露營",
+    "level": 3
+  },
+  {
+    "word": "scenery",
+    "kk": "[ˈsinərɪ]",
+    "pos": "n.",
+    "meaning": "風景、景色",
+    "examples": [
+      { "en": "The mountain scenery was breathtaking.", "zh": "山區的景色令人屏息。" },
+      { "en": "We stopped to enjoy the scenery.", "zh": "我們停下來欣賞風景。" }
+    ],
+    "img": "wide mountain landscape scenery view",
+    "theme": "戶外露營",
+    "level": 3
+  },
+  {
+    "word": "sunrise",
+    "kk": "[ˈsʌnˌraɪz]",
+    "pos": "n.",
+    "meaning": "日出",
+    "examples": [
+      { "en": "We woke up early to watch the sunrise.", "zh": "我們早起看日出。" },
+      { "en": "The sunrise painted the sky orange.", "zh": "日出將天空染成橘色。" }
+    ],
+    "img": "sunrise over misty mountain peaks",
+    "theme": "戶外露營",
+    "level": 2
+  },
+  {
+    "word": "sunset",
+    "kk": "[ˈsʌnˌsɛt]",
+    "pos": "n.",
+    "meaning": "日落、夕陽",
+    "examples": [
+      { "en": "The sunset over the sea was beautiful.", "zh": "海上的夕陽很美。" },
+      { "en": "We reached camp just before sunset.", "zh": "我們在日落前剛好抵達營地。" }
+    ],
+    "img": "colorful sunset over ocean horizon",
+    "theme": "戶外露營",
+    "level": 2
+  },
+  {
+    "word": "breeze",
+    "kk": "[briz]",
+    "pos": "n.",
+    "meaning": "微風、和風",
+    "examples": [
+      { "en": "A cool breeze blew through the trees.", "zh": "一陣涼爽的微風吹過樹林。" },
+      { "en": "The sea breeze felt fresh and cool.", "zh": "海風感覺清新又涼爽。" }
+    ],
+    "img": "grass swaying in gentle breeze outdoors",
+    "theme": "戶外露營",
+    "level": 3
+  },
+  {
+    "word": "insect",
+    "kk": "[ˈɪnsɛkt]",
+    "pos": "n.",
+    "meaning": "昆蟲",
+    "examples": [
+      { "en": "Many insects come out at night.", "zh": "許多昆蟲在夜晚出沒。" },
+      { "en": "The tent kept the insects out.", "zh": "帳篷把昆蟲擋在外面。" }
+    ],
+    "img": "close up of insect on green leaf",
+    "theme": "戶外露營",
+    "level": 2
+  },
+  {
+    "word": "rope",
+    "kk": "[rop]",
+    "pos": "n.",
+    "meaning": "繩子",
+    "examples": [
+      { "en": "We tied the tent down with a rope.", "zh": "我們用繩子把帳篷固定住。" },
+      { "en": "The climber checked the rope carefully.", "zh": "攀登者仔細檢查繩子。" }
+    ],
+    "img": "thick climbing rope on rock",
+    "theme": "戶外露營",
+    "level": 2
+  },
+  {
+    "word": "knapsack",
+    "kk": "[ˈnæpˌsæk]",
+    "pos": "n.",
+    "meaning": "小背包、行囊",
+    "examples": [
+      { "en": "He packed snacks in his knapsack.", "zh": "他把點心裝進小背包裡。" },
+      { "en": "A light knapsack is easy to carry.", "zh": "輕便的小背包很好攜帶。" }
+    ],
+    "img": "small canvas knapsack on wooden bench",
+    "theme": "戶外露營",
+    "level": 3
+  },
+  {
+    "word": "cabin",
+    "kk": "[ˈkæbɪn]",
+    "pos": "n.",
+    "meaning": "小木屋",
+    "examples": [
+      { "en": "We stayed in a wooden cabin by the lake.", "zh": "我們住在湖邊的一間小木屋。" },
+      { "en": "The cabin had a small fireplace.", "zh": "小木屋裡有一個小壁爐。" }
+    ],
+    "img": "cozy wooden cabin in the woods",
+    "theme": "戶外露營",
+    "level": 2
+  },
+  {
+    "word": "outdoors",
+    "kk": "[ˌaʊtˈdɔrz]",
+    "pos": "adv./n.",
+    "meaning": "在戶外;戶外",
+    "examples": [
+      { "en": "The kids love playing outdoors.", "zh": "孩子們喜歡在戶外玩耍。" },
+      { "en": "We spent the whole weekend outdoors.", "zh": "我們整個週末都待在戶外。" }
+    ],
+    "img": "family enjoying activities in the outdoors",
+    "theme": "戶外露營",
+    "level": 2
+  }
+]

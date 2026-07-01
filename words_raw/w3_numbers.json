@@ -1,0 +1,652 @@
+[
+  {
+    "word": "number",
+    "kk": "[ˋnʌmbɚ]",
+    "pos": "n.",
+    "meaning": "數字;號碼",
+    "examples": [
+      { "en": "What's your phone number?", "zh": "你的電話號碼是多少?" },
+      { "en": "Pick a number from one to ten.", "zh": "從一到十選一個數字。" }
+    ],
+    "img": "phone keypad with numbers",
+    "theme": "數量測量",
+    "level": 1
+  },
+  {
+    "word": "count",
+    "kk": "[kaʊnt]",
+    "pos": "v.",
+    "meaning": "數;計算",
+    "examples": [
+      { "en": "Let's count the chairs together.", "zh": "我們一起數椅子吧。" },
+      { "en": "Can you count to twenty?", "zh": "你能數到二十嗎?" }
+    ],
+    "img": "child counting on fingers",
+    "theme": "數量測量",
+    "level": 1
+  },
+  {
+    "word": "many",
+    "kk": "[ˋmɛnɪ]",
+    "pos": "adj.",
+    "meaning": "許多(可數)",
+    "examples": [
+      { "en": "How many books do you have?", "zh": "你有多少本書?" },
+      { "en": "There are many stars tonight.", "zh": "今晚有很多星星。" }
+    ],
+    "img": "many books on a shelf",
+    "theme": "數量測量",
+    "level": 1
+  },
+  {
+    "word": "much",
+    "kk": "[mʌtʃ]",
+    "pos": "adj.",
+    "meaning": "許多(不可數)",
+    "examples": [
+      { "en": "How much water do you drink?", "zh": "你喝多少水?" },
+      { "en": "There isn't much time left.", "zh": "剩下的時間不多了。" }
+    ],
+    "img": "glass filling with water",
+    "theme": "數量測量",
+    "level": 1
+  },
+  {
+    "word": "few",
+    "kk": "[fju]",
+    "pos": "adj.",
+    "meaning": "很少(可數)",
+    "examples": [
+      { "en": "Only a few people came.", "zh": "只有少數幾個人來了。" },
+      { "en": "I have a few questions.", "zh": "我有幾個問題。" }
+    ],
+    "img": "three people in empty room",
+    "theme": "數量測量",
+    "level": 2
+  },
+  {
+    "word": "little",
+    "kk": "[ˋlɪt!]",
+    "pos": "adj.",
+    "meaning": "很少(不可數);小的",
+    "examples": [
+      { "en": "There is little milk in the fridge.", "zh": "冰箱裡沒什麼牛奶了。" },
+      { "en": "Add a little salt.", "zh": "加一點鹽。" }
+    ],
+    "img": "pinch of salt in fingers",
+    "theme": "數量測量",
+    "level": 1
+  },
+  {
+    "word": "several",
+    "kk": "[ˋsɛvərəl]",
+    "pos": "adj.",
+    "meaning": "幾個;數個",
+    "examples": [
+      { "en": "I've been there several times.", "zh": "我去過那裡好幾次。" },
+      { "en": "Several students are absent today.", "zh": "今天有幾位學生缺席。" }
+    ],
+    "img": "several apples in a row",
+    "theme": "數量測量",
+    "level": 2
+  },
+  {
+    "word": "amount",
+    "kk": "[əˋmaʊnt]",
+    "pos": "n.",
+    "meaning": "數量;金額",
+    "examples": [
+      { "en": "A large amount of money was spent.", "zh": "花了一大筆錢。" },
+      { "en": "Check the amount on the receipt.", "zh": "檢查收據上的金額。" }
+    ],
+    "img": "receipt showing total amount",
+    "theme": "數量測量",
+    "level": 2
+  },
+  {
+    "word": "quantity",
+    "kk": "[ˋkwɑntətɪ]",
+    "pos": "n.",
+    "meaning": "數量;分量",
+    "examples": [
+      { "en": "We ordered a large quantity of rice.", "zh": "我們訂購了大量的米。" },
+      { "en": "Quality matters more than quantity.", "zh": "品質比數量更重要。" }
+    ],
+    "img": "warehouse stacked with boxes",
+    "theme": "數量測量",
+    "level": 3
+  },
+  {
+    "word": "total",
+    "kk": "[ˋtot!]",
+    "pos": "n.",
+    "meaning": "總數;合計",
+    "examples": [
+      { "en": "The total comes to fifty dollars.", "zh": "總共是五十元。" },
+      { "en": "Add these up to get the total.", "zh": "把這些加起來得到總數。" }
+    ],
+    "img": "calculator showing total sum",
+    "theme": "數量測量",
+    "level": 2
+  },
+  {
+    "word": "dozen",
+    "kk": "[ˋdʌzn]",
+    "pos": "n.",
+    "meaning": "一打(十二個)",
+    "examples": [
+      { "en": "I bought a dozen eggs.", "zh": "我買了一打蛋。" },
+      { "en": "She has dozens of shoes.", "zh": "她有好幾十雙鞋。" }
+    ],
+    "img": "carton of twelve eggs",
+    "theme": "數量測量",
+    "level": 2
+  },
+  {
+    "word": "pair",
+    "kk": "[pɛr]",
+    "pos": "n.",
+    "meaning": "一雙;一對",
+    "examples": [
+      { "en": "I need a new pair of shoes.", "zh": "我需要一雙新鞋。" },
+      { "en": "They make a nice pair.", "zh": "他們是很登對的一對。" }
+    ],
+    "img": "pair of matching shoes",
+    "theme": "數量測量",
+    "level": 1
+  },
+  {
+    "word": "single",
+    "kk": "[ˋsɪŋg!]",
+    "pos": "adj.",
+    "meaning": "單一的;單個的",
+    "examples": [
+      { "en": "Not a single seat was empty.", "zh": "沒有一個空位。" },
+      { "en": "I'd like a single room.", "zh": "我要一間單人房。" }
+    ],
+    "img": "one lone chair",
+    "theme": "數量測量",
+    "level": 2
+  },
+  {
+    "word": "double",
+    "kk": "[ˋdʌb!]",
+    "pos": "adj.",
+    "meaning": "兩倍的;雙的",
+    "examples": [
+      { "en": "I ordered a double coffee.", "zh": "我點了雙份咖啡。" },
+      { "en": "The price is double now.", "zh": "現在價格是兩倍了。" }
+    ],
+    "img": "two coffee shots pouring",
+    "theme": "數量測量",
+    "level": 2
+  },
+  {
+    "word": "size",
+    "kk": "[saɪz]",
+    "pos": "n.",
+    "meaning": "尺寸;大小",
+    "examples": [
+      { "en": "What size do you wear?", "zh": "你穿什麼尺寸?" },
+      { "en": "This shirt is the wrong size.", "zh": "這件襯衫尺寸不對。" }
+    ],
+    "img": "clothing size label tag",
+    "theme": "數量測量",
+    "level": 1
+  },
+  {
+    "word": "length",
+    "kk": "[lɛŋθ]",
+    "pos": "n.",
+    "meaning": "長度",
+    "examples": [
+      { "en": "Measure the length of the table.", "zh": "量一下桌子的長度。" },
+      { "en": "The rope is two meters in length.", "zh": "這條繩子長兩公尺。" }
+    ],
+    "img": "ruler measuring a table",
+    "theme": "數量測量",
+    "level": 2
+  },
+  {
+    "word": "width",
+    "kk": "[wɪdθ]",
+    "pos": "n.",
+    "meaning": "寬度",
+    "examples": [
+      { "en": "The width of the road is ten meters.", "zh": "這條路寬十公尺。" },
+      { "en": "Check the width before you buy.", "zh": "買之前先量寬度。" }
+    ],
+    "img": "measuring width of a doorway",
+    "theme": "數量測量",
+    "level": 3
+  },
+  {
+    "word": "height",
+    "kk": "[haɪt]",
+    "pos": "n.",
+    "meaning": "高度;身高",
+    "examples": [
+      { "en": "What is your height?", "zh": "你的身高是多少?" },
+      { "en": "The height of the wall surprised me.", "zh": "這面牆的高度讓我吃驚。" }
+    ],
+    "img": "height chart on wall",
+    "theme": "數量測量",
+    "level": 2
+  },
+  {
+    "word": "weight",
+    "kk": "[wet]",
+    "pos": "n.",
+    "meaning": "重量",
+    "examples": [
+      { "en": "What's the weight of this box?", "zh": "這個箱子有多重?" },
+      { "en": "I'm watching my weight.", "zh": "我正在控制體重。" }
+    ],
+    "img": "box on a weighing scale",
+    "theme": "數量測量",
+    "level": 2
+  },
+  {
+    "word": "measure",
+    "kk": "[ˋmɛʒɚ]",
+    "pos": "v.",
+    "meaning": "測量;量",
+    "examples": [
+      { "en": "Please measure the window.", "zh": "請量一下窗戶。" },
+      { "en": "He measured my foot for shoes.", "zh": "他量了我的腳來買鞋。" }
+    ],
+    "img": "tape measure on wood",
+    "theme": "數量測量",
+    "level": 2
+  },
+  {
+    "word": "meter",
+    "kk": "[ˋmitɚ]",
+    "pos": "n.",
+    "meaning": "公尺;米",
+    "examples": [
+      { "en": "The pool is fifty meters long.", "zh": "這個泳池長五十公尺。" },
+      { "en": "Stand one meter apart.", "zh": "站開一公尺的距離。" }
+    ],
+    "img": "meter stick ruler",
+    "theme": "數量測量",
+    "level": 2
+  },
+  {
+    "word": "kilogram",
+    "kk": "[ˋkɪlə͵græm]",
+    "pos": "n.",
+    "meaning": "公斤",
+    "examples": [
+      { "en": "I bought two kilograms of apples.", "zh": "我買了兩公斤蘋果。" },
+      { "en": "The baby weighs three kilograms.", "zh": "這嬰兒重三公斤。" }
+    ],
+    "img": "apples on kitchen scale",
+    "theme": "數量測量",
+    "level": 2
+  },
+  {
+    "word": "inch",
+    "kk": "[ɪntʃ]",
+    "pos": "n.",
+    "meaning": "英寸;吋",
+    "examples": [
+      { "en": "The screen is fifteen inches wide.", "zh": "這螢幕寬十五吋。" },
+      { "en": "Move it just an inch.", "zh": "把它移一吋就好。" }
+    ],
+    "img": "ruler with inch marks",
+    "theme": "數量測量",
+    "level": 2
+  },
+  {
+    "word": "pound",
+    "kk": "[paʊnd]",
+    "pos": "n.",
+    "meaning": "磅(重量單位)",
+    "examples": [
+      { "en": "I need a pound of butter.", "zh": "我需要一磅奶油。" },
+      { "en": "He lost ten pounds.", "zh": "他瘦了十磅。" }
+    ],
+    "img": "butter block on scale",
+    "theme": "數量測量",
+    "level": 3
+  },
+  {
+    "word": "half",
+    "kk": "[hæf]",
+    "pos": "n.",
+    "meaning": "一半;二分之一",
+    "examples": [
+      { "en": "I ate half of the cake.", "zh": "我吃了一半的蛋糕。" },
+      { "en": "Cut it in half.", "zh": "把它切成兩半。" }
+    ],
+    "img": "cake cut in half",
+    "theme": "數量測量",
+    "level": 1
+  },
+  {
+    "word": "quarter",
+    "kk": "[ˋkwɔrtɚ]",
+    "pos": "n.",
+    "meaning": "四分之一",
+    "examples": [
+      { "en": "A quarter of the class was late.", "zh": "四分之一的同學遲到了。" },
+      { "en": "It's a quarter past three.", "zh": "現在三點十五分。" }
+    ],
+    "img": "pizza with one quarter slice",
+    "theme": "數量測量",
+    "level": 2
+  },
+  {
+    "word": "third",
+    "kk": "[θɝd]",
+    "pos": "n.",
+    "meaning": "三分之一",
+    "examples": [
+      { "en": "A third of the water is gone.", "zh": "三分之一的水沒了。" },
+      { "en": "Give me a third of it.", "zh": "給我三分之一。" }
+    ],
+    "img": "bottle one third empty",
+    "theme": "數量測量",
+    "level": 3
+  },
+  {
+    "word": "percent",
+    "kk": "[pɚˋsɛnt]",
+    "pos": "n.",
+    "meaning": "百分之;百分比",
+    "examples": [
+      { "en": "The battery is at fifty percent.", "zh": "電池剩百分之五十。" },
+      { "en": "Prices went up ten percent.", "zh": "價格上漲了百分之十。" }
+    ],
+    "img": "percent sign on screen",
+    "theme": "數量測量",
+    "level": 2
+  },
+  {
+    "word": "fraction",
+    "kk": "[ˋfrækʃən]",
+    "pos": "n.",
+    "meaning": "分數;一小部分",
+    "examples": [
+      { "en": "Only a fraction of them agreed.", "zh": "只有一小部分人同意。" },
+      { "en": "We learned fractions in math.", "zh": "我們在數學課學了分數。" }
+    ],
+    "img": "fraction written on chalkboard",
+    "theme": "數量測量",
+    "level": 3
+  },
+  {
+    "word": "ratio",
+    "kk": "[ˋreʃo]",
+    "pos": "n.",
+    "meaning": "比;比例",
+    "examples": [
+      { "en": "The ratio of boys to girls is two to one.", "zh": "男女比例是二比一。" },
+      { "en": "Mix water and flour in a two to one ratio.", "zh": "水和麵粉以二比一混合。" }
+    ],
+    "img": "two to one ratio diagram",
+    "theme": "數量測量",
+    "level": 3
+  },
+  {
+    "word": "average",
+    "kk": "[ˋævərɪdʒ]",
+    "pos": "n.",
+    "meaning": "平均;平均數",
+    "examples": [
+      { "en": "The average score was eighty.", "zh": "平均分數是八十分。" },
+      { "en": "On average, I sleep seven hours.", "zh": "我平均睡七小時。" }
+    ],
+    "img": "bar chart with average line",
+    "theme": "數量測量",
+    "level": 3
+  },
+  {
+    "word": "equal",
+    "kk": "[ˋikwəl]",
+    "pos": "adj.",
+    "meaning": "相等的;平等的",
+    "examples": [
+      { "en": "Cut the pizza into equal pieces.", "zh": "把披薩切成相等的塊。" },
+      { "en": "Everyone gets an equal share.", "zh": "每個人都分到相等的份。" }
+    ],
+    "img": "balanced scale in equilibrium",
+    "theme": "數量測量",
+    "level": 2
+  },
+  {
+    "word": "more",
+    "kk": "[mor]",
+    "pos": "adj.",
+    "meaning": "更多的",
+    "examples": [
+      { "en": "I need more time.", "zh": "我需要更多時間。" },
+      { "en": "Can I have more rice?", "zh": "我可以多要一些飯嗎?" }
+    ],
+    "img": "bowl overflowing with rice",
+    "theme": "數量測量",
+    "level": 1
+  },
+  {
+    "word": "less",
+    "kk": "[lɛs]",
+    "pos": "adj.",
+    "meaning": "較少的",
+    "examples": [
+      { "en": "Eat less sugar.", "zh": "少吃點糖。" },
+      { "en": "This one costs less.", "zh": "這個比較便宜。" }
+    ],
+    "img": "small sugar spoon",
+    "theme": "數量測量",
+    "level": 1
+  },
+  {
+    "word": "enough",
+    "kk": "[əˋnʌf]",
+    "pos": "adj.",
+    "meaning": "足夠的",
+    "examples": [
+      { "en": "Do we have enough chairs?", "zh": "我們的椅子夠嗎?" },
+      { "en": "That's enough for me.", "zh": "那對我來說夠了。" }
+    ],
+    "img": "chairs around full table",
+    "theme": "數量測量",
+    "level": 1
+  },
+  {
+    "word": "empty",
+    "kk": "[ˋɛmptɪ]",
+    "pos": "adj.",
+    "meaning": "空的",
+    "examples": [
+      { "en": "The bottle is empty.", "zh": "瓶子是空的。" },
+      { "en": "The room felt empty.", "zh": "房間感覺空蕩蕩的。" }
+    ],
+    "img": "empty glass bottle",
+    "theme": "數量測量",
+    "level": 1
+  },
+  {
+    "word": "full",
+    "kk": "[fʊl]",
+    "pos": "adj.",
+    "meaning": "滿的;充滿的",
+    "examples": [
+      { "en": "The bus is full.", "zh": "公車滿了。" },
+      { "en": "My cup is full of tea.", "zh": "我的杯子裝滿了茶。" }
+    ],
+    "img": "cup filled to the brim",
+    "theme": "數量測量",
+    "level": 1
+  },
+  {
+    "word": "heavy",
+    "kk": "[ˋhɛvɪ]",
+    "pos": "adj.",
+    "meaning": "重的",
+    "examples": [
+      { "en": "This bag is too heavy.", "zh": "這個袋子太重了。" },
+      { "en": "He lifted the heavy box.", "zh": "他抬起那個重箱子。" }
+    ],
+    "img": "person lifting heavy box",
+    "theme": "數量測量",
+    "level": 1
+  },
+  {
+    "word": "light",
+    "kk": "[laɪt]",
+    "pos": "adj.",
+    "meaning": "輕的",
+    "examples": [
+      { "en": "The feather is very light.", "zh": "羽毛很輕。" },
+      { "en": "I packed a light bag.", "zh": "我打包了一個輕便的包。" }
+    ],
+    "img": "feather floating in air",
+    "theme": "數量測量",
+    "level": 1
+  },
+  {
+    "word": "wide",
+    "kk": "[waɪd]",
+    "pos": "adj.",
+    "meaning": "寬的",
+    "examples": [
+      { "en": "The river is very wide.", "zh": "這條河很寬。" },
+      { "en": "Open your mouth wide.", "zh": "把嘴張大。" }
+    ],
+    "img": "wide open river view",
+    "theme": "數量測量",
+    "level": 1
+  },
+  {
+    "word": "narrow",
+    "kk": "[ˋnæro]",
+    "pos": "adj.",
+    "meaning": "窄的",
+    "examples": [
+      { "en": "This is a narrow street.", "zh": "這是一條窄街。" },
+      { "en": "The gap is too narrow.", "zh": "這個縫太窄了。" }
+    ],
+    "img": "narrow alley between buildings",
+    "theme": "數量測量",
+    "level": 2
+  },
+  {
+    "word": "deep",
+    "kk": "[dip]",
+    "pos": "adj.",
+    "meaning": "深的",
+    "examples": [
+      { "en": "The pool is very deep.", "zh": "這個泳池很深。" },
+      { "en": "Take a deep breath.", "zh": "深呼吸一口。" }
+    ],
+    "img": "deep blue swimming pool",
+    "theme": "數量測量",
+    "level": 2
+  },
+  {
+    "word": "thick",
+    "kk": "[θɪk]",
+    "pos": "adj.",
+    "meaning": "厚的;濃的",
+    "examples": [
+      { "en": "This is a thick book.", "zh": "這是一本厚書。" },
+      { "en": "The soup is too thick.", "zh": "這湯太濃稠了。" }
+    ],
+    "img": "thick stack of books",
+    "theme": "數量測量",
+    "level": 2
+  },
+  {
+    "word": "thin",
+    "kk": "[θɪn]",
+    "pos": "adj.",
+    "meaning": "薄的;瘦的",
+    "examples": [
+      { "en": "Cut the bread into thin slices.", "zh": "把麵包切成薄片。" },
+      { "en": "The ice is too thin.", "zh": "冰太薄了。" }
+    ],
+    "img": "thin slice of bread",
+    "theme": "數量測量",
+    "level": 2
+  },
+  {
+    "word": "increase",
+    "kk": "[ɪnˋkris]",
+    "pos": "v.",
+    "meaning": "增加;提高",
+    "examples": [
+      { "en": "Prices will increase next month.", "zh": "價格下個月會上漲。" },
+      { "en": "Please increase the volume.", "zh": "請把音量調大。" }
+    ],
+    "img": "rising arrow on graph",
+    "theme": "數量測量",
+    "level": 3
+  },
+  {
+    "word": "decrease",
+    "kk": "[dɪˋkris]",
+    "pos": "v.",
+    "meaning": "減少;下降",
+    "examples": [
+      { "en": "Sales began to decrease.", "zh": "銷量開始下降。" },
+      { "en": "The number decreased last year.", "zh": "這個數字去年減少了。" }
+    ],
+    "img": "falling arrow on graph",
+    "theme": "數量測量",
+    "level": 3
+  },
+  {
+    "word": "add",
+    "kk": "[æd]",
+    "pos": "v.",
+    "meaning": "加;增添",
+    "examples": [
+      { "en": "Add two and three.", "zh": "把二和三相加。" },
+      { "en": "Add more sugar if you like.", "zh": "喜歡的話多加點糖。" }
+    ],
+    "img": "plus sign math symbol",
+    "theme": "數量測量",
+    "level": 1
+  },
+  {
+    "word": "extra",
+    "kk": "[ˋɛkstrə]",
+    "pos": "adj.",
+    "meaning": "額外的;多餘的",
+    "examples": [
+      { "en": "I brought an extra pen.", "zh": "我多帶了一支筆。" },
+      { "en": "There's an extra charge for that.", "zh": "那個要額外收費。" }
+    ],
+    "img": "extra pen on desk",
+    "theme": "數量測量",
+    "level": 2
+  },
+  {
+    "word": "maximum",
+    "kk": "[ˋmæksəməm]",
+    "pos": "n.",
+    "meaning": "最大量;最高限度",
+    "examples": [
+      { "en": "The maximum speed is a hundred.", "zh": "最高速度是一百。" },
+      { "en": "Ten people is the maximum.", "zh": "十個人是上限。" }
+    ],
+    "img": "speedometer at maximum",
+    "theme": "數量測量",
+    "level": 3
+  },
+  {
+    "word": "minimum",
+    "kk": "[ˋmɪnəməm]",
+    "pos": "n.",
+    "meaning": "最小量;最低限度",
+    "examples": [
+      { "en": "The minimum order is ten dollars.", "zh": "最低訂購額是十元。" },
+      { "en": "Keep noise to a minimum.", "zh": "把噪音降到最低。" }
+    ],
+    "img": "low gauge near minimum",
+    "theme": "數量測量",
+    "level": 3
+  }
+]

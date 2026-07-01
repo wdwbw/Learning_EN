@@ -1,0 +1,652 @@
+[
+  {
+    "word": "concept",
+    "kk": "[ˈkɑnsɛpt]",
+    "pos": "n.",
+    "meaning": "概念;觀念",
+    "examples": [
+      { "en": "The concept of freedom means different things to different people.", "zh": "自由的概念對不同的人有不同的意義。" },
+      { "en": "She explained the basic concept behind the new design.", "zh": "她解釋了新設計背後的基本概念。" }
+    ],
+    "img": "lightbulb above head thinking",
+    "theme": "抽象概念",
+    "level": 2
+  },
+  {
+    "word": "principle",
+    "kk": "[ˈprɪnsəpl]",
+    "pos": "n.",
+    "meaning": "原則;原理",
+    "examples": [
+      { "en": "Honesty is an important principle in her life.", "zh": "誠實是她人生中重要的原則。" },
+      { "en": "He refused to lie because of his principles.", "zh": "他因為自己的原則而拒絕說謊。" }
+    ],
+    "img": "stone tablet with rules carved",
+    "theme": "抽象概念",
+    "level": 3
+  },
+  {
+    "word": "attitude",
+    "kk": "[ˈætətjud]",
+    "pos": "n.",
+    "meaning": "態度",
+    "examples": [
+      { "en": "A positive attitude helps you overcome difficulties.", "zh": "正面的態度能幫助你克服困難。" },
+      { "en": "His bad attitude annoyed his coworkers.", "zh": "他惡劣的態度惹惱了同事。" }
+    ],
+    "img": "person with confident posture smiling",
+    "theme": "抽象概念",
+    "level": 2
+  },
+  {
+    "word": "possibility",
+    "kk": "[ˌpɑsəˈbɪlətɪ]",
+    "pos": "n.",
+    "meaning": "可能性",
+    "examples": [
+      { "en": "There is a possibility that it will rain tonight.", "zh": "今晚有可能會下雨。" },
+      { "en": "We should consider every possibility before deciding.", "zh": "在決定之前我們應該考慮每一種可能性。" }
+    ],
+    "img": "fork in the road with two paths",
+    "theme": "抽象概念",
+    "level": 3
+  },
+  {
+    "word": "influence",
+    "kk": "[ˈɪnfluəns]",
+    "pos": "n.",
+    "meaning": "影響;影響力",
+    "examples": [
+      { "en": "Her teacher had a great influence on her career.", "zh": "她的老師對她的職業生涯有很大的影響。" },
+      { "en": "Advertising has a strong influence on children.", "zh": "廣告對孩童有很強的影響。" }
+    ],
+    "img": "ripples spreading across water",
+    "theme": "抽象概念",
+    "level": 3
+  },
+  {
+    "word": "purpose",
+    "kk": "[ˈpɝpəs]",
+    "pos": "n.",
+    "meaning": "目的;宗旨",
+    "examples": [
+      { "en": "The purpose of this meeting is to plan the trip.", "zh": "這次會議的目的是規劃旅行。" },
+      { "en": "She lives her life with a clear purpose.", "zh": "她帶著明確的目的過生活。" }
+    ],
+    "img": "arrow hitting center of target",
+    "theme": "抽象概念",
+    "level": 2
+  },
+  {
+    "word": "reason",
+    "kk": "[ˈrizn]",
+    "pos": "n.",
+    "meaning": "原因;理由",
+    "examples": [
+      { "en": "Tell me the reason why you were late.", "zh": "告訴我你遲到的原因。" },
+      { "en": "There is no reason to be afraid.", "zh": "沒有理由害怕。" }
+    ],
+    "img": "question mark with pointing finger",
+    "theme": "抽象概念",
+    "level": 2
+  },
+  {
+    "word": "result",
+    "kk": "[rɪˈzʌlt]",
+    "pos": "n.",
+    "meaning": "結果",
+    "examples": [
+      { "en": "The result of the test surprised everyone.", "zh": "測驗的結果讓大家很驚訝。" },
+      { "en": "His hard work led to a great result.", "zh": "他的努力帶來了很好的結果。" }
+    ],
+    "img": "finish line ribbon at race end",
+    "theme": "抽象概念",
+    "level": 2
+  },
+  {
+    "word": "effect",
+    "kk": "[ɪˈfɛkt]",
+    "pos": "n.",
+    "meaning": "效果;影響",
+    "examples": [
+      { "en": "The medicine had an immediate effect.", "zh": "這藥立即產生了效果。" },
+      { "en": "Pollution has a bad effect on our health.", "zh": "污染對我們的健康有不良影響。" }
+    ],
+    "img": "domino chain falling in a row",
+    "theme": "抽象概念",
+    "level": 2
+  },
+  {
+    "word": "cause",
+    "kk": "[kɔz]",
+    "pos": "n.",
+    "meaning": "原因;起因",
+    "examples": [
+      { "en": "The police are looking for the cause of the fire.", "zh": "警方正在尋找火災的起因。" },
+      { "en": "Stress can be a cause of headaches.", "zh": "壓力可能是頭痛的原因。" }
+    ],
+    "img": "match lighting a flame",
+    "theme": "抽象概念",
+    "level": 2
+  },
+  {
+    "word": "value",
+    "kk": "[ˈvælju]",
+    "pos": "n.",
+    "meaning": "價值;價值觀",
+    "examples": [
+      { "en": "Education has great value for your future.", "zh": "教育對你的未來有很大的價值。" },
+      { "en": "Family values are important in her culture.", "zh": "家庭價值觀在她的文化中很重要。" }
+    ],
+    "img": "gold coin held in palm",
+    "theme": "抽象概念",
+    "level": 2
+  },
+  {
+    "word": "belief",
+    "kk": "[bɪˈlif]",
+    "pos": "n.",
+    "meaning": "信念;相信",
+    "examples": [
+      { "en": "Her belief in herself never faded.", "zh": "她對自己的信念從未消退。" },
+      { "en": "People have different beliefs about life.", "zh": "人們對人生有不同的信念。" }
+    ],
+    "img": "hand on heart with closed eyes",
+    "theme": "抽象概念",
+    "level": 3
+  },
+  {
+    "word": "opinion",
+    "kk": "[əˈpɪnjən]",
+    "pos": "n.",
+    "meaning": "意見;看法",
+    "examples": [
+      { "en": "In my opinion, this movie is boring.", "zh": "在我看來,這部電影很無聊。" },
+      { "en": "Everyone has a right to their own opinion.", "zh": "每個人都有權表達自己的意見。" }
+    ],
+    "img": "speech bubble with thinking face",
+    "theme": "抽象概念",
+    "level": 2
+  },
+  {
+    "word": "goal",
+    "kk": "[ɡol]",
+    "pos": "n.",
+    "meaning": "目標",
+    "examples": [
+      { "en": "My goal is to speak English fluently.", "zh": "我的目標是流利地說英語。" },
+      { "en": "They reached their goal after years of work.", "zh": "經過多年努力,他們達成了目標。" }
+    ],
+    "img": "flag planted on mountain peak",
+    "theme": "抽象概念",
+    "level": 2
+  },
+  {
+    "word": "quality",
+    "kk": "[ˈkwɑlətɪ]",
+    "pos": "n.",
+    "meaning": "品質;特質",
+    "examples": [
+      { "en": "This shop is known for its high quality.", "zh": "這家店以高品質聞名。" },
+      { "en": "Patience is a good quality in a teacher.", "zh": "耐心是老師的好特質。" }
+    ],
+    "img": "gold star quality badge",
+    "theme": "抽象概念",
+    "level": 2
+  },
+  {
+    "word": "ability",
+    "kk": "[əˈbɪlətɪ]",
+    "pos": "n.",
+    "meaning": "能力",
+    "examples": [
+      { "en": "She has the ability to solve hard problems.", "zh": "她有能力解決困難的問題。" },
+      { "en": "Practice can improve your ability.", "zh": "練習能提升你的能力。" }
+    ],
+    "img": "flexed strong arm muscle",
+    "theme": "抽象概念",
+    "level": 2
+  },
+  {
+    "word": "freedom",
+    "kk": "[ˈfridəm]",
+    "pos": "n.",
+    "meaning": "自由",
+    "examples": [
+      { "en": "Freedom of speech is a basic right.", "zh": "言論自由是基本權利。" },
+      { "en": "Birds enjoy the freedom of the sky.", "zh": "鳥兒享受天空的自由。" }
+    ],
+    "img": "bird flying out of open cage",
+    "theme": "抽象概念",
+    "level": 2
+  },
+  {
+    "word": "justice",
+    "kk": "[ˈdʒʌstɪs]",
+    "pos": "n.",
+    "meaning": "正義;公正",
+    "examples": [
+      { "en": "The court fights for justice.", "zh": "法院為正義而奮鬥。" },
+      { "en": "People want justice for the victims.", "zh": "人們希望為受害者伸張正義。" }
+    ],
+    "img": "balanced scales of justice",
+    "theme": "抽象概念",
+    "level": 3
+  },
+  {
+    "word": "truth",
+    "kk": "[truθ]",
+    "pos": "n.",
+    "meaning": "真相;真理",
+    "examples": [
+      { "en": "You must always tell the truth.", "zh": "你必須永遠說實話。" },
+      { "en": "The truth finally came out.", "zh": "真相終於水落石出。" }
+    ],
+    "img": "magnifying glass over document",
+    "theme": "抽象概念",
+    "level": 2
+  },
+  {
+    "word": "wisdom",
+    "kk": "[ˈwɪzdəm]",
+    "pos": "n.",
+    "meaning": "智慧",
+    "examples": [
+      { "en": "With age comes wisdom.", "zh": "隨著年紀增長而有智慧。" },
+      { "en": "His wisdom guided the young team.", "zh": "他的智慧引導著這支年輕的團隊。" }
+    ],
+    "img": "wise old owl on branch",
+    "theme": "抽象概念",
+    "level": 3
+  },
+  {
+    "word": "courage",
+    "kk": "[ˈkɝɪdʒ]",
+    "pos": "n.",
+    "meaning": "勇氣",
+    "examples": [
+      { "en": "It takes courage to admit a mistake.", "zh": "承認錯誤需要勇氣。" },
+      { "en": "She showed great courage during the crisis.", "zh": "危機中她展現了極大的勇氣。" }
+    ],
+    "img": "lion standing brave and proud",
+    "theme": "抽象概念",
+    "level": 3
+  },
+  {
+    "word": "patience",
+    "kk": "[ˈpeʃəns]",
+    "pos": "n.",
+    "meaning": "耐心",
+    "examples": [
+      { "en": "Learning a language requires patience.", "zh": "學習語言需要耐心。" },
+      { "en": "He waited with great patience.", "zh": "他非常有耐心地等待。" }
+    ],
+    "img": "hourglass with slow sand",
+    "theme": "抽象概念",
+    "level": 3
+  },
+  {
+    "word": "responsibility",
+    "kk": "[rɪˌspɑnsəˈbɪlətɪ]",
+    "pos": "n.",
+    "meaning": "責任",
+    "examples": [
+      { "en": "It is your responsibility to feed the dog.", "zh": "餵狗是你的責任。" },
+      { "en": "She took responsibility for the mistake.", "zh": "她為這個錯誤負起責任。" }
+    ],
+    "img": "hands holding heavy backpack",
+    "theme": "抽象概念",
+    "level": 3
+  },
+  {
+    "word": "advantage",
+    "kk": "[ədˈvæntɪdʒ]",
+    "pos": "n.",
+    "meaning": "優勢;好處",
+    "examples": [
+      { "en": "Speaking two languages is a big advantage.", "zh": "會說兩種語言是很大的優勢。" },
+      { "en": "Being tall gives him an advantage in basketball.", "zh": "身高讓他在籃球上占有優勢。" }
+    ],
+    "img": "runner ahead at starting line",
+    "theme": "抽象概念",
+    "level": 3
+  },
+  {
+    "word": "benefit",
+    "kk": "[ˈbɛnəfɪt]",
+    "pos": "n.",
+    "meaning": "益處;好處",
+    "examples": [
+      { "en": "Exercise has many health benefits.", "zh": "運動對健康有很多益處。" },
+      { "en": "The new policy will benefit workers.", "zh": "新政策將使勞工受益。" }
+    ],
+    "img": "plus sign with green upward arrow",
+    "theme": "抽象概念",
+    "level": 3
+  },
+  {
+    "word": "challenge",
+    "kk": "[ˈtʃælɪndʒ]",
+    "pos": "n.",
+    "meaning": "挑戰",
+    "examples": [
+      { "en": "Climbing the mountain was a real challenge.", "zh": "爬那座山是個真正的挑戰。" },
+      { "en": "She enjoys facing new challenges.", "zh": "她喜歡面對新的挑戰。" }
+    ],
+    "img": "steep mountain with climber",
+    "theme": "抽象概念",
+    "level": 2
+  },
+  {
+    "word": "solution",
+    "kk": "[səˈluʃən]",
+    "pos": "n.",
+    "meaning": "解決方法",
+    "examples": [
+      { "en": "We found a simple solution to the problem.", "zh": "我們找到了解決問題的簡單方法。" },
+      { "en": "There is no easy solution to this issue.", "zh": "這個問題沒有簡單的解決方法。" }
+    ],
+    "img": "key fitting into lock",
+    "theme": "抽象概念",
+    "level": 3
+  },
+  {
+    "word": "method",
+    "kk": "[ˈmɛθəd]",
+    "pos": "n.",
+    "meaning": "方法",
+    "examples": [
+      { "en": "This is the best method to learn quickly.", "zh": "這是快速學習的最佳方法。" },
+      { "en": "She uses a new teaching method.", "zh": "她使用一種新的教學方法。" }
+    ],
+    "img": "step by step diagram flowchart",
+    "theme": "抽象概念",
+    "level": 3
+  },
+  {
+    "word": "process",
+    "kk": "[ˈprɑsɛs]",
+    "pos": "n.",
+    "meaning": "過程;程序",
+    "examples": [
+      { "en": "Learning is a slow process.", "zh": "學習是個緩慢的過程。" },
+      { "en": "The baking process takes two hours.", "zh": "烘焙過程需要兩個小時。" }
+    ],
+    "img": "conveyor belt with stages",
+    "theme": "抽象概念",
+    "level": 3
+  },
+  {
+    "word": "situation",
+    "kk": "[ˌsɪtʃuˈeʃən]",
+    "pos": "n.",
+    "meaning": "情況;局勢",
+    "examples": [
+      { "en": "The situation got worse after the storm.", "zh": "暴風雨後情況變得更糟。" },
+      { "en": "He handled the difficult situation calmly.", "zh": "他冷靜地處理了那個困難的情況。" }
+    ],
+    "img": "person looking at complex map",
+    "theme": "抽象概念",
+    "level": 3
+  },
+  {
+    "word": "condition",
+    "kk": "[kənˈdɪʃən]",
+    "pos": "n.",
+    "meaning": "條件;狀況",
+    "examples": [
+      { "en": "The car is in good condition.", "zh": "這輛車狀況良好。" },
+      { "en": "You can borrow it on one condition.", "zh": "你可以借它,但有一個條件。" }
+    ],
+    "img": "checklist clipboard with marks",
+    "theme": "抽象概念",
+    "level": 3
+  },
+  {
+    "word": "impact",
+    "kk": "[ˈɪmpækt]",
+    "pos": "n.",
+    "meaning": "衝擊;影響",
+    "examples": [
+      { "en": "The news had a big impact on the market.", "zh": "這則新聞對市場造成很大衝擊。" },
+      { "en": "Her speech made a strong impact.", "zh": "她的演講造成了強烈的影響。" }
+    ],
+    "img": "meteor crashing into ground",
+    "theme": "抽象概念",
+    "level": 3
+  },
+  {
+    "word": "importance",
+    "kk": "[ɪmˈpɔrtns]",
+    "pos": "n.",
+    "meaning": "重要性",
+    "examples": [
+      { "en": "Do not forget the importance of sleep.", "zh": "別忘了睡眠的重要性。" },
+      { "en": "She stressed the importance of teamwork.", "zh": "她強調了團隊合作的重要性。" }
+    ],
+    "img": "bold exclamation mark highlighted",
+    "theme": "抽象概念",
+    "level": 3
+  },
+  {
+    "word": "difference",
+    "kk": "[ˈdɪfərəns]",
+    "pos": "n.",
+    "meaning": "差異;不同",
+    "examples": [
+      { "en": "There is a big difference between the two plans.", "zh": "這兩個計畫之間有很大的差異。" },
+      { "en": "Your help made a real difference.", "zh": "你的幫助帶來了真正的改變。" }
+    ],
+    "img": "two shapes side by side comparison",
+    "theme": "抽象概念",
+    "level": 2
+  },
+  {
+    "word": "similarity",
+    "kk": "[ˌsɪməˈlærətɪ]",
+    "pos": "n.",
+    "meaning": "相似之處",
+    "examples": [
+      { "en": "There is a similarity between the two sisters.", "zh": "這兩姊妹之間有相似之處。" },
+      { "en": "We noticed many similarities in their styles.", "zh": "我們注意到他們風格上有許多相似之處。" }
+    ],
+    "img": "two matching puzzle pieces",
+    "theme": "抽象概念",
+    "level": 3
+  },
+  {
+    "word": "meaning",
+    "kk": "[ˈminɪŋ]",
+    "pos": "n.",
+    "meaning": "意義;含義",
+    "examples": [
+      { "en": "What is the meaning of this word?", "zh": "這個字的意思是什麼?" },
+      { "en": "He searched for the meaning of life.", "zh": "他尋找人生的意義。" }
+    ],
+    "img": "dictionary open with word",
+    "theme": "抽象概念",
+    "level": 2
+  },
+  {
+    "word": "assumption",
+    "kk": "[əˈsʌmpʃən]",
+    "pos": "n.",
+    "meaning": "假設;臆測",
+    "examples": [
+      { "en": "Do not make an assumption without proof.", "zh": "沒有證據前不要妄下假設。" },
+      { "en": "His assumption turned out to be wrong.", "zh": "他的假設結果是錯的。" }
+    ],
+    "img": "thought cloud with question mark",
+    "theme": "抽象概念",
+    "level": 3
+  },
+  {
+    "word": "expectation",
+    "kk": "[ˌɛkspɛkˈteʃən]",
+    "pos": "n.",
+    "meaning": "期望;預期",
+    "examples": [
+      { "en": "The trip went beyond my expectation.", "zh": "這趟旅行超出了我的預期。" },
+      { "en": "Parents often have high expectations.", "zh": "父母通常有很高的期望。" }
+    ],
+    "img": "person looking up hopefully",
+    "theme": "抽象概念",
+    "level": 3
+  },
+  {
+    "word": "consequence",
+    "kk": "[ˈkɑnsəˌkwɛns]",
+    "pos": "n.",
+    "meaning": "後果",
+    "examples": [
+      { "en": "Every action has a consequence.", "zh": "每個行為都有後果。" },
+      { "en": "He faced the consequences of his choice.", "zh": "他面對自己選擇的後果。" }
+    ],
+    "img": "domino falling onto next piece",
+    "theme": "抽象概念",
+    "level": 3
+  },
+  {
+    "word": "factor",
+    "kk": "[ˈfæktɚ]",
+    "pos": "n.",
+    "meaning": "因素",
+    "examples": [
+      { "en": "Money was a key factor in his decision.", "zh": "金錢是他做決定的關鍵因素。" },
+      { "en": "Weather is an important factor for farmers.", "zh": "天氣是農民的重要因素。" }
+    ],
+    "img": "gear among many gears",
+    "theme": "抽象概念",
+    "level": 3
+  },
+  {
+    "word": "abstract",
+    "kk": "[ˈæbstrækt]",
+    "pos": "adj.",
+    "meaning": "抽象的",
+    "examples": [
+      { "en": "Love is an abstract idea.", "zh": "愛是一種抽象的概念。" },
+      { "en": "He enjoys abstract art.", "zh": "他喜歡抽象藝術。" }
+    ],
+    "img": "colorful abstract paint splashes",
+    "theme": "抽象概念",
+    "level": 3
+  },
+  {
+    "word": "possible",
+    "kk": "[ˈpɑsəbl]",
+    "pos": "adj.",
+    "meaning": "可能的",
+    "examples": [
+      { "en": "It is possible to finish this today.", "zh": "今天完成這件事是可能的。" },
+      { "en": "We tried every possible way.", "zh": "我們試了每一種可能的方法。" }
+    ],
+    "img": "open door with light shining",
+    "theme": "抽象概念",
+    "level": 2
+  },
+  {
+    "word": "likely",
+    "kk": "[ˈlaɪklɪ]",
+    "pos": "adj.",
+    "meaning": "可能的;很有可能",
+    "examples": [
+      { "en": "It is likely to snow tomorrow.", "zh": "明天很可能會下雪。" },
+      { "en": "She is the most likely winner.", "zh": "她是最有可能的獲勝者。" }
+    ],
+    "img": "weather forecast rain cloud icon",
+    "theme": "抽象概念",
+    "level": 3
+  },
+  {
+    "word": "obvious",
+    "kk": "[ˈɑbvɪəs]",
+    "pos": "adj.",
+    "meaning": "明顯的",
+    "examples": [
+      { "en": "The answer was obvious to everyone.", "zh": "答案對每個人來說都很明顯。" },
+      { "en": "It is obvious that he is tired.", "zh": "很明顯他累了。" }
+    ],
+    "img": "bright spotlight on object",
+    "theme": "抽象概念",
+    "level": 3
+  },
+  {
+    "word": "essential",
+    "kk": "[ɪˈsɛnʃəl]",
+    "pos": "adj.",
+    "meaning": "必要的;基本的",
+    "examples": [
+      { "en": "Water is essential for life.", "zh": "水是生命所必需的。" },
+      { "en": "Good sleep is essential for health.", "zh": "良好的睡眠對健康是必要的。" }
+    ],
+    "img": "core seed at center of fruit",
+    "theme": "抽象概念",
+    "level": 3
+  },
+  {
+    "word": "typical",
+    "kk": "[ˈtɪpɪkl]",
+    "pos": "adj.",
+    "meaning": "典型的",
+    "examples": [
+      { "en": "This is a typical day for me.", "zh": "這是我典型的一天。" },
+      { "en": "It was a typical example of his work.", "zh": "這是他作品的典型例子。" }
+    ],
+    "img": "stamp marking standard label",
+    "theme": "抽象概念",
+    "level": 3
+  },
+  {
+    "word": "general",
+    "kk": "[ˈdʒɛnərəl]",
+    "pos": "adj.",
+    "meaning": "一般的;普遍的",
+    "examples": [
+      { "en": "This is just a general idea of the plan.", "zh": "這只是計畫的大致概念。" },
+      { "en": "The general opinion was positive.", "zh": "普遍的意見是正面的。" }
+    ],
+    "img": "wide umbrella covering many people",
+    "theme": "抽象概念",
+    "level": 3
+  },
+  {
+    "word": "significant",
+    "kk": "[sɪɡˈnɪfəkənt]",
+    "pos": "adj.",
+    "meaning": "重要的;顯著的",
+    "examples": [
+      { "en": "There was a significant change in the plan.", "zh": "計畫有了顯著的改變。" },
+      { "en": "This is a significant moment in history.", "zh": "這是歷史上重要的時刻。" }
+    ],
+    "img": "large bold arrow pointing up",
+    "theme": "抽象概念",
+    "level": 3
+  },
+  {
+    "word": "potential",
+    "kk": "[pəˈtɛnʃəl]",
+    "pos": "n.",
+    "meaning": "潛力;可能性",
+    "examples": [
+      { "en": "This young player has great potential.", "zh": "這位年輕球員很有潛力。" },
+      { "en": "The plan has the potential to succeed.", "zh": "這個計畫有成功的潛力。" }
+    ],
+    "img": "seed sprouting into tall plant",
+    "theme": "抽象概念",
+    "level": 3
+  },
+  {
+    "word": "tendency",
+    "kk": "[ˈtɛndənsɪ]",
+    "pos": "n.",
+    "meaning": "傾向;趨勢",
+    "examples": [
+      { "en": "He has a tendency to arrive late.", "zh": "他有遲到的傾向。" },
+      { "en": "There is a tendency toward online learning.", "zh": "有一種朝向線上學習的趨勢。" }
+    ],
+    "img": "arrow curving in one direction",
+    "theme": "抽象概念",
+    "level": 3
+  }
+]

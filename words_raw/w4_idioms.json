@@ -1,0 +1,652 @@
+[
+  {
+    "word": "piece of cake",
+    "kk": "[pis ʌv kek]",
+    "pos": "idiom",
+    "meaning": "輕而易舉的事;小菜一碟",
+    "examples": [
+      { "en": "Don't worry, this test will be a piece of cake.", "zh": "別擔心,這個考試易如反掌。" },
+      { "en": "Fixing the bike was a piece of cake for him.", "zh": "修腳踏車對他來說輕鬆得很。" }
+    ],
+    "img": "slice of cake on plate",
+    "theme": "慣用語",
+    "level": 2
+  },
+  {
+    "word": "hit the sack",
+    "kk": "[hɪt ðə sæk]",
+    "pos": "idiom",
+    "meaning": "上床睡覺",
+    "examples": [
+      { "en": "I'm exhausted, I'm gonna hit the sack.", "zh": "我累壞了,我要去睡覺了。" },
+      { "en": "It's late, let's hit the sack.", "zh": "很晚了,我們去睡吧。" }
+    ],
+    "img": "person jumping into bed",
+    "theme": "慣用語",
+    "level": 2
+  },
+  {
+    "word": "no big deal",
+    "kk": "[no bɪɡ dil]",
+    "pos": "idiom",
+    "meaning": "沒什麼大不了的",
+    "examples": [
+      { "en": "It's no big deal, I can do it again.", "zh": "沒什麼大不了的,我可以再做一次。" },
+      { "en": "Losing one game is no big deal.", "zh": "輸一場沒什麼大不了的。" }
+    ],
+    "img": "person shrugging shoulders",
+    "theme": "慣用語",
+    "level": 2
+  },
+  {
+    "word": "break a leg",
+    "kk": "[brek ə lɛɡ]",
+    "pos": "idiom",
+    "meaning": "祝好運(尤指表演前)",
+    "examples": [
+      { "en": "Break a leg at your audition tonight!", "zh": "祝你今晚試鏡順利!" },
+      { "en": "You'll do great, break a leg!", "zh": "你會表現很棒的,加油!" }
+    ],
+    "img": "actor on stage spotlight",
+    "theme": "慣用語",
+    "level": 2
+  },
+  {
+    "word": "under the weather",
+    "kk": "[ˈʌndɚ ðə ˈwɛðɚ]",
+    "pos": "idiom",
+    "meaning": "身體不舒服;有點感冒",
+    "examples": [
+      { "en": "I'm feeling a bit under the weather today.", "zh": "我今天覺得有點不舒服。" },
+      { "en": "She stayed home because she was under the weather.", "zh": "她因為身體不適待在家裡。" }
+    ],
+    "img": "sick person under cloud",
+    "theme": "慣用語",
+    "level": 3
+  },
+  {
+    "word": "hang in there",
+    "kk": "[hæŋ ɪn ðɛr]",
+    "pos": "idiom",
+    "meaning": "撐住;堅持下去",
+    "examples": [
+      { "en": "Hang in there, things will get better.", "zh": "撐住,情況會好轉的。" },
+      { "en": "I know it's hard, but hang in there.", "zh": "我知道很難,但堅持下去。" }
+    ],
+    "img": "cat hanging on branch",
+    "theme": "慣用語",
+    "level": 2
+  },
+  {
+    "word": "call it a day",
+    "kk": "[kɔl ɪt ə de]",
+    "pos": "idiom",
+    "meaning": "今天到此為止;收工",
+    "examples": [
+      { "en": "We've done enough, let's call it a day.", "zh": "我們做夠了,今天就到這吧。" },
+      { "en": "After eight hours, they called it a day.", "zh": "工作八小時後,他們收工了。" }
+    ],
+    "img": "worker closing laptop sunset",
+    "theme": "慣用語",
+    "level": 3
+  },
+  {
+    "word": "on the same page",
+    "kk": "[ɑn ðə sem pedʒ]",
+    "pos": "idiom",
+    "meaning": "意見一致;有共識",
+    "examples": [
+      { "en": "Let's make sure we're on the same page.", "zh": "讓我們確認一下大家有共識。" },
+      { "en": "The whole team is on the same page now.", "zh": "整個團隊現在意見一致了。" }
+    ],
+    "img": "two people reading same book",
+    "theme": "慣用語",
+    "level": 3
+  },
+  {
+    "word": "cost an arm and a leg",
+    "kk": "[kɔst ən ɑrm ənd ə lɛɡ]",
+    "pos": "idiom",
+    "meaning": "非常昂貴;所費不貲",
+    "examples": [
+      { "en": "That new phone costs an arm and a leg.", "zh": "那支新手機貴得要命。" },
+      { "en": "Their wedding cost an arm and a leg.", "zh": "他們的婚禮花了一大筆錢。" }
+    ],
+    "img": "price tag with dollar signs",
+    "theme": "慣用語",
+    "level": 3
+  },
+  {
+    "word": "hit the books",
+    "kk": "[hɪt ðə bʊks]",
+    "pos": "idiom",
+    "meaning": "用功讀書",
+    "examples": [
+      { "en": "Finals are coming, I need to hit the books.", "zh": "期末考快到了,我得用功讀書。" },
+      { "en": "He hit the books all weekend.", "zh": "他整個週末都在苦讀。" }
+    ],
+    "img": "student studying stack of books",
+    "theme": "慣用語",
+    "level": 2
+  },
+  {
+    "word": "piece of mind",
+    "kk": "[pis ʌv maɪnd]",
+    "pos": "idiom",
+    "meaning": "內心的平靜;安心",
+    "examples": [
+      { "en": "Having insurance gives me peace of mind.", "zh": "有保險讓我很安心。" },
+      { "en": "She just wants some peace of mind.", "zh": "她只是想要內心的平靜。" }
+    ],
+    "img": "calm person meditating",
+    "theme": "慣用語",
+    "level": 3
+  },
+  {
+    "word": "get the hang of it",
+    "kk": "[ɡɛt ðə hæŋ ʌv ɪt]",
+    "pos": "idiom",
+    "meaning": "掌握訣竅;學會怎麼做",
+    "examples": [
+      { "en": "Don't give up, you'll get the hang of it.", "zh": "別放棄,你會抓到訣竅的。" },
+      { "en": "After a week, I got the hang of driving.", "zh": "一週後,我掌握了開車的訣竅。" }
+    ],
+    "img": "person learning to skate",
+    "theme": "慣用語",
+    "level": 3
+  },
+  {
+    "word": "once in a blue moon",
+    "kk": "[wʌns ɪn ə blu mun]",
+    "pos": "idiom",
+    "meaning": "極少發生;千載難逢",
+    "examples": [
+      { "en": "We only see each other once in a blue moon.", "zh": "我們難得才見一次面。" },
+      { "en": "He cooks once in a blue moon.", "zh": "他很少下廚。" }
+    ],
+    "img": "blue full moon night sky",
+    "theme": "慣用語",
+    "level": 3
+  },
+  {
+    "word": "spill the beans",
+    "kk": "[spɪl ðə binz]",
+    "pos": "idiom",
+    "meaning": "洩漏秘密;說溜嘴",
+    "examples": [
+      { "en": "Come on, spill the beans about the party!", "zh": "快點,把派對的秘密說出來!" },
+      { "en": "She accidentally spilled the beans.", "zh": "她不小心說溜了嘴。" }
+    ],
+    "img": "spilled beans from jar",
+    "theme": "慣用語",
+    "level": 3
+  },
+  {
+    "word": "in a nutshell",
+    "kk": "[ɪn ə ˈnʌtˌʃɛl]",
+    "pos": "idiom",
+    "meaning": "簡而言之;總之",
+    "examples": [
+      { "en": "In a nutshell, we need more time.", "zh": "簡而言之,我們需要更多時間。" },
+      { "en": "That's the plan, in a nutshell.", "zh": "簡單來說,那就是計畫。" }
+    ],
+    "img": "small walnut shell open",
+    "theme": "慣用語",
+    "level": 3
+  },
+  {
+    "word": "keep an eye on",
+    "kk": "[kip ən aɪ ɑn]",
+    "pos": "idiom",
+    "meaning": "看著;留意;照看",
+    "examples": [
+      { "en": "Can you keep an eye on my bag?", "zh": "你可以幫我看一下包包嗎?" },
+      { "en": "Keep an eye on the soup so it doesn't burn.", "zh": "留意一下湯別燒焦了。" }
+    ],
+    "img": "eye watching over object",
+    "theme": "慣用語",
+    "level": 2
+  },
+  {
+    "word": "a rip-off",
+    "kk": "[ə ˈrɪpˌɔf]",
+    "pos": "idiom",
+    "meaning": "敲竹槓;價格太貴的東西",
+    "examples": [
+      { "en": "Ten dollars for water? What a rip-off!", "zh": "一瓶水要十塊?根本是敲竹槓!" },
+      { "en": "That tour was a total rip-off.", "zh": "那個旅行團根本是坑錢。" }
+    ],
+    "img": "torn money bill",
+    "theme": "慣用語",
+    "level": 3
+  },
+  {
+    "word": "my bad",
+    "kk": "[maɪ bæd]",
+    "pos": "idiom",
+    "meaning": "我的錯(口語道歉)",
+    "examples": [
+      { "en": "Oh, my bad, I took your seat.", "zh": "喔,我的錯,我坐了你的位子。" },
+      { "en": "My bad, I forgot to call you.", "zh": "抱歉,是我忘了打給你。" }
+    ],
+    "img": "person raising hand apology",
+    "theme": "慣用語",
+    "level": 2
+  },
+  {
+    "word": "no worries",
+    "kk": "[no ˈwɝiz]",
+    "pos": "idiom",
+    "meaning": "沒關係;別擔心",
+    "examples": [
+      { "en": "No worries, take your time.", "zh": "別擔心,慢慢來。" },
+      { "en": "You're late? No worries at all.", "zh": "你遲到了?完全沒關係。" }
+    ],
+    "img": "relaxed smiling person",
+    "theme": "慣用語",
+    "level": 2
+  },
+  {
+    "word": "chill out",
+    "kk": "[tʃɪl aʊt]",
+    "pos": "idiom",
+    "meaning": "放輕鬆;冷靜一下",
+    "examples": [
+      { "en": "Just chill out, everything's fine.", "zh": "放輕鬆,一切都沒事。" },
+      { "en": "We chilled out at home all day.", "zh": "我們整天在家放鬆。" }
+    ],
+    "img": "person relaxing on couch",
+    "theme": "慣用語",
+    "level": 2
+  },
+  {
+    "word": "hang tight",
+    "kk": "[hæŋ taɪt]",
+    "pos": "idiom",
+    "meaning": "稍等;耐心等待",
+    "examples": [
+      { "en": "Hang tight, I'll be right back.", "zh": "稍等一下,我馬上回來。" },
+      { "en": "Hang tight while I check the schedule.", "zh": "我查一下時間表,你稍等。" }
+    ],
+    "img": "person waiting patiently clock",
+    "theme": "慣用語",
+    "level": 2
+  },
+  {
+    "word": "give it a shot",
+    "kk": "[ɡɪv ɪt ə ʃɑt]",
+    "pos": "idiom",
+    "meaning": "試試看;嘗試一下",
+    "examples": [
+      { "en": "It looks hard, but give it a shot.", "zh": "看起來很難,但試試看吧。" },
+      { "en": "I've never surfed, but I'll give it a shot.", "zh": "我沒衝過浪,但我會試試看。" }
+    ],
+    "img": "person trying archery target",
+    "theme": "慣用語",
+    "level": 2
+  },
+  {
+    "word": "big deal",
+    "kk": "[bɪɡ dil]",
+    "pos": "idiom",
+    "meaning": "重要的事;了不起的事(常反諷)",
+    "examples": [
+      { "en": "So you won once, big deal.", "zh": "你贏了一次,有什麼了不起。" },
+      { "en": "Getting the job is a big deal for her.", "zh": "得到這份工作對她來說是件大事。" }
+    ],
+    "img": "person waving hand dismissive",
+    "theme": "慣用語",
+    "level": 2
+  },
+  {
+    "word": "sleep on it",
+    "kk": "[slip ɑn ɪt]",
+    "pos": "idiom",
+    "meaning": "考慮一晚再決定",
+    "examples": [
+      { "en": "Don't decide now, sleep on it.", "zh": "現在別決定,考慮一晚吧。" },
+      { "en": "I'll sleep on it and tell you tomorrow.", "zh": "我考慮一晚,明天告訴你。" }
+    ],
+    "img": "person thinking in bed",
+    "theme": "慣用語",
+    "level": 3
+  },
+  {
+    "word": "hit the road",
+    "kk": "[hɪt ðə rod]",
+    "pos": "idiom",
+    "meaning": "出發;上路",
+    "examples": [
+      { "en": "It's getting late, we should hit the road.", "zh": "時間不早了,我們該出發了。" },
+      { "en": "Let's hit the road before traffic starts.", "zh": "趁塞車前上路吧。" }
+    ],
+    "img": "car driving open highway",
+    "theme": "慣用語",
+    "level": 2
+  },
+  {
+    "word": "grab a bite",
+    "kk": "[ɡræb ə baɪt]",
+    "pos": "idiom",
+    "meaning": "隨便吃點東西",
+    "examples": [
+      { "en": "Wanna grab a bite after work?", "zh": "下班後要不要去吃點東西?" },
+      { "en": "Let's grab a bite before the movie.", "zh": "看電影前先去吃點東西吧。" }
+    ],
+    "img": "quick sandwich meal",
+    "theme": "慣用語",
+    "level": 2
+  },
+  {
+    "word": "make up your mind",
+    "kk": "[mek ʌp jʊr maɪnd]",
+    "pos": "idiom",
+    "meaning": "下定決心;做決定",
+    "examples": [
+      { "en": "Hurry up and make up your mind.", "zh": "快點,做個決定吧。" },
+      { "en": "I can't make up my mind about the color.", "zh": "我決定不了要哪個顏色。" }
+    ],
+    "img": "person choosing two paths",
+    "theme": "慣用語",
+    "level": 3
+  },
+  {
+    "word": "a total mess",
+    "kk": "[ə ˈtot(ə)l mɛs]",
+    "pos": "idiom",
+    "meaning": "一團亂;糟透了",
+    "examples": [
+      { "en": "My room is a total mess right now.", "zh": "我的房間現在一團亂。" },
+      { "en": "The meeting was a total mess.", "zh": "那場會議亂七八糟。" }
+    ],
+    "img": "messy cluttered room",
+    "theme": "慣用語",
+    "level": 2
+  },
+  {
+    "word": "sounds good",
+    "kk": "[saʊndz ɡʊd]",
+    "pos": "idiom",
+    "meaning": "聽起來不錯;好啊",
+    "examples": [
+      { "en": "Dinner at seven? Sounds good to me.", "zh": "七點吃晚餐?聽起來不錯。" },
+      { "en": "Sounds good, let's do it.", "zh": "好啊,就這麼辦。" }
+    ],
+    "img": "two people thumbs up",
+    "theme": "慣用語",
+    "level": 2
+  },
+  {
+    "word": "the last straw",
+    "kk": "[ðə læst strɔ]",
+    "pos": "idiom",
+    "meaning": "壓垮駱駝的最後一根稻草;忍無可忍",
+    "examples": [
+      { "en": "His rude reply was the last straw.", "zh": "他無禮的回覆是最後一根稻草。" },
+      { "en": "Being late again was the last straw.", "zh": "又遲到讓我忍無可忍。" }
+    ],
+    "img": "camel with heavy load straw",
+    "theme": "慣用語",
+    "level": 3
+  },
+  {
+    "word": "cut it out",
+    "kk": "[kʌt ɪt aʊt]",
+    "pos": "idiom",
+    "meaning": "住手;別鬧了",
+    "examples": [
+      { "en": "Cut it out, that's not funny.", "zh": "別鬧了,那不好笑。" },
+      { "en": "Kids, cut it out and sit down.", "zh": "孩子們,別鬧了,坐下。" }
+    ],
+    "img": "hand stop gesture",
+    "theme": "慣用語",
+    "level": 2
+  },
+  {
+    "word": "keep your cool",
+    "kk": "[kip jʊr kul]",
+    "pos": "idiom",
+    "meaning": "保持冷靜;不發火",
+    "examples": [
+      { "en": "Try to keep your cool during the interview.", "zh": "面試時試著保持冷靜。" },
+      { "en": "He kept his cool even when they yelled.", "zh": "即使他們大吼,他仍保持冷靜。" }
+    ],
+    "img": "calm person crossed arms",
+    "theme": "慣用語",
+    "level": 3
+  },
+  {
+    "word": "a walk in the park",
+    "kk": "[ə wɔk ɪn ðə pɑrk]",
+    "pos": "idiom",
+    "meaning": "很容易的事;輕鬆",
+    "examples": [
+      { "en": "The exam was a walk in the park.", "zh": "那場考試輕鬆得很。" },
+      { "en": "For a pro, this job is a walk in the park.", "zh": "對專家來說,這工作易如反掌。" }
+    ],
+    "img": "person strolling in park",
+    "theme": "慣用語",
+    "level": 3
+  },
+  {
+    "word": "on the go",
+    "kk": "[ɑn ðə ɡo]",
+    "pos": "idiom",
+    "meaning": "忙個不停;在移動中",
+    "examples": [
+      { "en": "She's always on the go these days.", "zh": "她最近總是忙個不停。" },
+      { "en": "I usually eat breakfast on the go.", "zh": "我通常邊走邊吃早餐。" }
+    ],
+    "img": "busy person walking coffee",
+    "theme": "慣用語",
+    "level": 3
+  },
+  {
+    "word": "text me",
+    "kk": "[tɛkst mi]",
+    "pos": "idiom",
+    "meaning": "傳訊息給我",
+    "examples": [
+      { "en": "Text me when you get home.", "zh": "到家後傳訊息給我。" },
+      { "en": "Just text me the address later.", "zh": "晚點把地址傳給我就好。" }
+    ],
+    "img": "phone text message bubble",
+    "theme": "慣用語",
+    "level": 2
+  },
+  {
+    "word": "no way",
+    "kk": "[no we]",
+    "pos": "idiom",
+    "meaning": "不可能;絕不;不會吧",
+    "examples": [
+      { "en": "No way, I don't believe you!", "zh": "不會吧,我才不信你!" },
+      { "en": "No way am I doing that again.", "zh": "我絕不會再做那件事。" }
+    ],
+    "img": "surprised person shaking head",
+    "theme": "慣用語",
+    "level": 2
+  },
+  {
+    "word": "for real",
+    "kk": "[fɔr ril]",
+    "pos": "idiom",
+    "meaning": "真的嗎;認真的",
+    "examples": [
+      { "en": "You won the lottery? For real?", "zh": "你中樂透了?真的假的?" },
+      { "en": "I'm quitting my job, for real this time.", "zh": "我要辭職了,這次是認真的。" }
+    ],
+    "img": "person raising eyebrows shocked",
+    "theme": "慣用語",
+    "level": 2
+  },
+  {
+    "word": "check it out",
+    "kk": "[tʃɛk ɪt aʊt]",
+    "pos": "idiom",
+    "meaning": "看看這個;去瞧瞧",
+    "examples": [
+      { "en": "Check it out, this app is amazing!", "zh": "看看這個,這個app超棒的!" },
+      { "en": "There's a new cafe, let's check it out.", "zh": "有間新咖啡店,我們去瞧瞧。" }
+    ],
+    "img": "person pointing at screen",
+    "theme": "慣用語",
+    "level": 2
+  },
+  {
+    "word": "on second thought",
+    "kk": "[ɑn ˈsɛkənd θɔt]",
+    "pos": "idiom",
+    "meaning": "再想想;改變主意",
+    "examples": [
+      { "en": "On second thought, let's stay home.", "zh": "再想想,我們還是待在家吧。" },
+      { "en": "On second thought, I'll take the blue one.", "zh": "重新考慮後,我要藍色的。" }
+    ],
+    "img": "person rethinking finger chin",
+    "theme": "慣用語",
+    "level": 3
+  },
+  {
+    "word": "a piece of work",
+    "kk": "[ə pis ʌv wɝk]",
+    "pos": "idiom",
+    "meaning": "難搞的人;麻煩人物",
+    "examples": [
+      { "en": "Her new boss is a real piece of work.", "zh": "她的新老闆真是個難搞的人。" },
+      { "en": "That guy is a piece of work, honestly.", "zh": "老實說,那傢伙很難搞。" }
+    ],
+    "img": "frustrated coworker office",
+    "theme": "慣用語",
+    "level": 3
+  },
+  {
+    "word": "take it easy",
+    "kk": "[tek ɪt ˈizi]",
+    "pos": "idiom",
+    "meaning": "放輕鬆;保重(道別)",
+    "examples": [
+      { "en": "Take it easy, don't stress out.", "zh": "放輕鬆,別給自己壓力。" },
+      { "en": "See you later, take it easy!", "zh": "待會見,保重!" }
+    ],
+    "img": "person relaxing hammock",
+    "theme": "慣用語",
+    "level": 2
+  },
+  {
+    "word": "get cold feet",
+    "kk": "[ɡɛt kold fit]",
+    "pos": "idiom",
+    "meaning": "臨陣退縮;膽怯",
+    "examples": [
+      { "en": "He got cold feet before the wedding.", "zh": "他在婚禮前臨陣退縮了。" },
+      { "en": "Don't get cold feet now, you can do it.", "zh": "現在別退縮,你做得到。" }
+    ],
+    "img": "nervous person cold feet",
+    "theme": "慣用語",
+    "level": 3
+  },
+  {
+    "word": "my treat",
+    "kk": "[maɪ trit]",
+    "pos": "idiom",
+    "meaning": "我請客",
+    "examples": [
+      { "en": "Order whatever you want, my treat.", "zh": "想吃什麼儘管點,我請客。" },
+      { "en": "Lunch is my treat today.", "zh": "今天午餐我請。" }
+    ],
+    "img": "friend paying restaurant bill",
+    "theme": "慣用語",
+    "level": 2
+  },
+  {
+    "word": "up to you",
+    "kk": "[ʌp tu ju]",
+    "pos": "idiom",
+    "meaning": "由你決定;看你",
+    "examples": [
+      { "en": "Pizza or sushi? It's up to you.", "zh": "披薩還是壽司?由你決定。" },
+      { "en": "Where we go is totally up to you.", "zh": "要去哪完全看你。" }
+    ],
+    "img": "two people pointing choice",
+    "theme": "慣用語",
+    "level": 2
+  },
+  {
+    "word": "keep it up",
+    "kk": "[kip ɪt ʌp]",
+    "pos": "idiom",
+    "meaning": "繼續保持;加油",
+    "examples": [
+      { "en": "Great job, keep it up!", "zh": "做得好,繼續保持!" },
+      { "en": "You're improving fast, keep it up.", "zh": "你進步很快,繼續加油。" }
+    ],
+    "img": "coach cheering athlete",
+    "theme": "慣用語",
+    "level": 2
+  },
+  {
+    "word": "the ball is in your court",
+    "kk": "[ðə bɔl ɪz ɪn jʊr kɔrt]",
+    "pos": "idiom",
+    "meaning": "該你做決定了;輪到你了",
+    "examples": [
+      { "en": "I've done my part, now the ball is in your court.", "zh": "我做完我的部分了,現在該你了。" },
+      { "en": "The ball is in your court, so decide soon.", "zh": "輪到你決定了,快點吧。" }
+    ],
+    "img": "tennis ball on court",
+    "theme": "慣用語",
+    "level": 3
+  },
+  {
+    "word": "brand new",
+    "kk": "[brænd nu]",
+    "pos": "idiom",
+    "meaning": "全新的",
+    "examples": [
+      { "en": "She bought a brand new car.", "zh": "她買了一台全新的車。" },
+      { "en": "These shoes are brand new.", "zh": "這雙鞋是全新的。" }
+    ],
+    "img": "new item with tag",
+    "theme": "慣用語",
+    "level": 2
+  },
+  {
+    "word": "no rush",
+    "kk": "[no rʌʃ]",
+    "pos": "idiom",
+    "meaning": "不急;慢慢來",
+    "examples": [
+      { "en": "No rush, finish whenever you can.", "zh": "不急,你什麼時候完成都行。" },
+      { "en": "Take your time, there's no rush.", "zh": "慢慢來,不用急。" }
+    ],
+    "img": "relaxed person waiting clock",
+    "theme": "慣用語",
+    "level": 2
+  },
+  {
+    "word": "hit it off",
+    "kk": "[hɪt ɪt ɔf]",
+    "pos": "idiom",
+    "meaning": "一見如故;相處融洽",
+    "examples": [
+      { "en": "We hit it off right away at the party.", "zh": "我們在派對上一見如故。" },
+      { "en": "They hit it off and became close friends.", "zh": "他們很投緣,成了好朋友。" }
+    ],
+    "img": "two friends laughing together",
+    "theme": "慣用語",
+    "level": 3
+  },
+  {
+    "word": "long story short",
+    "kk": "[lɔŋ ˈstɔri ʃɔrt]",
+    "pos": "idiom",
+    "meaning": "長話短說",
+    "examples": [
+      { "en": "Long story short, we missed the train.", "zh": "長話短說,我們錯過了火車。" },
+      { "en": "Long story short, everything worked out.", "zh": "簡單來說,一切都順利解決了。" }
+    ],
+    "img": "person telling story gesture",
+    "theme": "慣用語",
+    "level": 3
+  }
+]

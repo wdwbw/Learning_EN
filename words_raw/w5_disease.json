@@ -1,0 +1,652 @@
+[
+  {
+    "word": "diabetes",
+    "kk": "[ˌdaɪəˈbitiz]",
+    "pos": "n.",
+    "meaning": "糖尿病",
+    "examples": [
+      { "en": "My grandfather has to check his blood sugar because of diabetes.", "zh": "我祖父因為糖尿病必須檢查血糖。" },
+      { "en": "Diabetes can be controlled with diet and medicine.", "zh": "糖尿病可以透過飲食和藥物控制。" }
+    ],
+    "img": "blood sugar test meter with drop of blood",
+    "theme": "疾病醫療",
+    "level": 3
+  },
+  {
+    "word": "hypertension",
+    "kk": "[ˌhaɪpɚˈtɛnʃən]",
+    "pos": "n.",
+    "meaning": "高血壓",
+    "examples": [
+      { "en": "The doctor said his hypertension is under control now.", "zh": "醫生說他的高血壓現在控制住了。" },
+      { "en": "Too much salt can lead to hypertension.", "zh": "攝取太多鹽分可能導致高血壓。" }
+    ],
+    "img": "digital blood pressure monitor on arm",
+    "theme": "疾病醫療",
+    "level": 3
+  },
+  {
+    "word": "asthma",
+    "kk": "[ˈæzmə]",
+    "pos": "n.",
+    "meaning": "氣喘",
+    "examples": [
+      { "en": "She always carries an inhaler because of her asthma.", "zh": "她因為氣喘總是隨身帶著吸入器。" },
+      { "en": "Cold air can trigger an asthma attack.", "zh": "冷空氣可能引發氣喘發作。" }
+    ],
+    "img": "asthma inhaler in hand",
+    "theme": "疾病醫療",
+    "level": 2
+  },
+  {
+    "word": "pneumonia",
+    "kk": "[nuˈmonjə]",
+    "pos": "n.",
+    "meaning": "肺炎",
+    "examples": [
+      { "en": "He was hospitalized for a week with pneumonia.", "zh": "他因肺炎住院了一週。" },
+      { "en": "Pneumonia often causes a high fever and coughing.", "zh": "肺炎常引起高燒和咳嗽。" }
+    ],
+    "img": "chest x-ray showing lungs on light box",
+    "theme": "疾病醫療",
+    "level": 3
+  },
+  {
+    "word": "cancer",
+    "kk": "[ˈkænsɚ]",
+    "pos": "n.",
+    "meaning": "癌症",
+    "examples": [
+      { "en": "Early detection of cancer greatly improves survival.", "zh": "及早發現癌症能大幅提高存活率。" },
+      { "en": "She beat cancer after two years of treatment.", "zh": "她經過兩年治療後戰勝了癌症。" }
+    ],
+    "img": "pink awareness ribbon on white background",
+    "theme": "疾病醫療",
+    "level": 2
+  },
+  {
+    "word": "stroke",
+    "kk": "[strok]",
+    "pos": "n.",
+    "meaning": "中風",
+    "examples": [
+      { "en": "A stroke can affect a person's ability to speak.", "zh": "中風可能影響一個人說話的能力。" },
+      { "en": "He is recovering from a stroke at the hospital.", "zh": "他正在醫院裡從中風中復原。" }
+    ],
+    "img": "elderly patient in wheelchair with therapist",
+    "theme": "疾病醫療",
+    "level": 2
+  },
+  {
+    "word": "arthritis",
+    "kk": "[ɑrˈθraɪtɪs]",
+    "pos": "n.",
+    "meaning": "關節炎",
+    "examples": [
+      { "en": "Arthritis makes it hard for her to open jars.", "zh": "關節炎讓她很難打開罐子。" },
+      { "en": "The pain from arthritis gets worse in cold weather.", "zh": "關節炎的疼痛在寒冷天氣時會加劇。" }
+    ],
+    "img": "swollen painful hand joints close up",
+    "theme": "疾病醫療",
+    "level": 3
+  },
+  {
+    "word": "migraine",
+    "kk": "[ˈmaɪˌgren]",
+    "pos": "n.",
+    "meaning": "偏頭痛",
+    "examples": [
+      { "en": "She had to lie down in a dark room during her migraine.", "zh": "偏頭痛發作時她必須躺在暗房裡。" },
+      { "en": "Bright lights often make his migraine worse.", "zh": "強光常使他的偏頭痛惡化。" }
+    ],
+    "img": "person holding head in pain in dark room",
+    "theme": "疾病醫療",
+    "level": 3
+  },
+  {
+    "word": "obesity",
+    "kk": "[oˈbisəti]",
+    "pos": "n.",
+    "meaning": "肥胖症",
+    "examples": [
+      { "en": "Obesity raises the risk of heart disease.", "zh": "肥胖症提高罹患心臟病的風險。" },
+      { "en": "Doctors recommend exercise to fight obesity.", "zh": "醫生建議運動來對抗肥胖症。" }
+    ],
+    "img": "weighing scale with measuring tape",
+    "theme": "疾病醫療",
+    "level": 3
+  },
+  {
+    "word": "allergy",
+    "kk": "[ˈælɚdʒi]",
+    "pos": "n.",
+    "meaning": "過敏",
+    "examples": [
+      { "en": "He has a serious allergy to peanuts.", "zh": "他對花生有嚴重過敏。" },
+      { "en": "Her pollen allergy acts up every spring.", "zh": "她的花粉過敏每年春天都會發作。" }
+    ],
+    "img": "person sneezing near blooming flowers",
+    "theme": "疾病醫療",
+    "level": 2
+  },
+  {
+    "word": "infection",
+    "kk": "[ɪnˈfɛkʃən]",
+    "pos": "n.",
+    "meaning": "感染",
+    "examples": [
+      { "en": "The wound got an infection and turned red.", "zh": "傷口感染了並且變紅。" },
+      { "en": "Antibiotics are used to treat bacterial infection.", "zh": "抗生素用來治療細菌感染。" }
+    ],
+    "img": "red infected wound on skin",
+    "theme": "疾病醫療",
+    "level": 2
+  },
+  {
+    "word": "depression",
+    "kk": "[dɪˈprɛʃən]",
+    "pos": "n.",
+    "meaning": "憂鬱症",
+    "examples": [
+      { "en": "Depression is a real illness that needs treatment.", "zh": "憂鬱症是一種需要治療的真實疾病。" },
+      { "en": "Talking to a therapist helped her depression.", "zh": "與治療師談話改善了她的憂鬱症。" }
+    ],
+    "img": "sad person sitting alone by window",
+    "theme": "疾病醫療",
+    "level": 3
+  },
+  {
+    "word": "surgery",
+    "kk": "[ˈsɝdʒəri]",
+    "pos": "n.",
+    "meaning": "手術",
+    "examples": [
+      { "en": "He needs surgery to repair his broken knee.", "zh": "他需要手術來修復受傷的膝蓋。" },
+      { "en": "The surgery lasted about three hours.", "zh": "這場手術大約持續三小時。" }
+    ],
+    "img": "surgeons operating in operating room",
+    "theme": "疾病醫療",
+    "level": 2
+  },
+  {
+    "word": "operation",
+    "kk": "[ˌɑpəˈreʃən]",
+    "pos": "n.",
+    "meaning": "手術;開刀",
+    "examples": [
+      { "en": "The operation on her heart was successful.", "zh": "她的心臟手術很成功。" },
+      { "en": "He will have an operation tomorrow morning.", "zh": "他明天早上要開刀。" }
+    ],
+    "img": "operating table under bright surgical lights",
+    "theme": "疾病醫療",
+    "level": 2
+  },
+  {
+    "word": "transplant",
+    "kk": "[ˈtrænsˌplænt]",
+    "pos": "n.",
+    "meaning": "移植",
+    "examples": [
+      { "en": "He is waiting for a kidney transplant.", "zh": "他正在等待腎臟移植。" },
+      { "en": "A heart transplant saved the young boy's life.", "zh": "心臟移植救了那個小男孩的命。" }
+    ],
+    "img": "surgeons carrying medical cooler for organ",
+    "theme": "疾病醫療",
+    "level": 3
+  },
+  {
+    "word": "anesthesia",
+    "kk": "[ˌænəsˈθiʒə]",
+    "pos": "n.",
+    "meaning": "麻醉",
+    "examples": [
+      { "en": "You will be asleep under general anesthesia.", "zh": "在全身麻醉下你會睡著。" },
+      { "en": "The dentist used local anesthesia to numb her gum.", "zh": "牙醫用局部麻醉讓她的牙齦失去知覺。" }
+    ],
+    "img": "anesthesia mask over patient face",
+    "theme": "疾病醫療",
+    "level": 3
+  },
+  {
+    "word": "diagnosis",
+    "kk": "[ˌdaɪəgˈnosɪs]",
+    "pos": "n.",
+    "meaning": "診斷",
+    "examples": [
+      { "en": "The doctor gave a clear diagnosis after the tests.", "zh": "醫生在檢查後給出明確的診斷。" },
+      { "en": "An early diagnosis can save lives.", "zh": "早期診斷能拯救生命。" }
+    ],
+    "img": "doctor reviewing medical chart with patient",
+    "theme": "疾病醫療",
+    "level": 3
+  },
+  {
+    "word": "treatment",
+    "kk": "[ˈtritmənt]",
+    "pos": "n.",
+    "meaning": "治療",
+    "examples": [
+      { "en": "The treatment for his illness takes six months.", "zh": "他的病症治療需要六個月。" },
+      { "en": "She responded well to the new treatment.", "zh": "她對新的治療反應良好。" }
+    ],
+    "img": "nurse giving patient medicine at bedside",
+    "theme": "疾病醫療",
+    "level": 2
+  },
+  {
+    "word": "therapy",
+    "kk": "[ˈθɛrəpi]",
+    "pos": "n.",
+    "meaning": "療法;治療",
+    "examples": [
+      { "en": "Physical therapy helped him walk again.", "zh": "物理治療幫助他再次行走。" },
+      { "en": "She goes to therapy twice a week.", "zh": "她每週去做兩次治療。" }
+    ],
+    "img": "therapist helping patient with exercise band",
+    "theme": "疾病醫療",
+    "level": 2
+  },
+  {
+    "word": "chemotherapy",
+    "kk": "[ˌkimoˈθɛrəpi]",
+    "pos": "n.",
+    "meaning": "化療",
+    "examples": [
+      { "en": "Chemotherapy made her lose her hair.", "zh": "化療讓她掉了頭髮。" },
+      { "en": "He starts chemotherapy next Monday.", "zh": "他下週一開始化療。" }
+    ],
+    "img": "patient receiving IV drip in treatment chair",
+    "theme": "疾病醫療",
+    "level": 3
+  },
+  {
+    "word": "vaccine",
+    "kk": "[vækˈsin]",
+    "pos": "n.",
+    "meaning": "疫苗",
+    "examples": [
+      { "en": "The flu vaccine is available every autumn.", "zh": "流感疫苗每年秋天都會提供。" },
+      { "en": "A new vaccine was developed to fight the virus.", "zh": "為了對抗病毒開發出一種新疫苗。" }
+    ],
+    "img": "vaccine vial and syringe on tray",
+    "theme": "疾病醫療",
+    "level": 2
+  },
+  {
+    "word": "antibiotic",
+    "kk": "[ˌæntɪbaɪˈɑtɪk]",
+    "pos": "n.",
+    "meaning": "抗生素",
+    "examples": [
+      { "en": "The doctor prescribed an antibiotic for his throat.", "zh": "醫生為他的喉嚨開了抗生素。" },
+      { "en": "You must finish the whole course of antibiotics.", "zh": "你必須吃完整個療程的抗生素。" }
+    ],
+    "img": "capsule pills spilling from bottle",
+    "theme": "疾病醫療",
+    "level": 3
+  },
+  {
+    "word": "prescription",
+    "kk": "[prɪˈskrɪpʃən]",
+    "pos": "n.",
+    "meaning": "處方箋",
+    "examples": [
+      { "en": "You need a prescription to buy this medicine.", "zh": "你需要處方箋才能買這種藥。" },
+      { "en": "The pharmacist filled her prescription quickly.", "zh": "藥劑師很快備好她的處方藥。" }
+    ],
+    "img": "handwritten prescription paper with pen",
+    "theme": "疾病醫療",
+    "level": 2
+  },
+  {
+    "word": "symptom",
+    "kk": "[ˈsɪmptəm]",
+    "pos": "n.",
+    "meaning": "症狀",
+    "examples": [
+      { "en": "A high fever is a common symptom of the flu.", "zh": "高燒是流感常見的症狀。" },
+      { "en": "Tell the doctor about all your symptoms.", "zh": "把你所有的症狀都告訴醫生。" }
+    ],
+    "img": "checklist of health symptoms on clipboard",
+    "theme": "疾病醫療",
+    "level": 2
+  },
+  {
+    "word": "recovery",
+    "kk": "[rɪˈkʌvəri]",
+    "pos": "n.",
+    "meaning": "康復;復原",
+    "examples": [
+      { "en": "His recovery after surgery was surprisingly fast.", "zh": "他手術後的康復出奇地快。" },
+      { "en": "Rest is important for a full recovery.", "zh": "休息對於完全康復很重要。" }
+    ],
+    "img": "patient walking in hospital hallway with support",
+    "theme": "疾病醫療",
+    "level": 2
+  },
+  {
+    "word": "cardiology",
+    "kk": "[ˌkɑrdiˈɑlədʒi]",
+    "pos": "n.",
+    "meaning": "心臟科",
+    "examples": [
+      { "en": "He was referred to the cardiology department.", "zh": "他被轉診到心臟科。" },
+      { "en": "Cardiology deals with diseases of the heart.", "zh": "心臟科處理心臟相關的疾病。" }
+    ],
+    "img": "heart shaped stethoscope on ecg chart",
+    "theme": "疾病醫療",
+    "level": 3
+  },
+  {
+    "word": "pediatrics",
+    "kk": "[ˌpidiˈætrɪks]",
+    "pos": "n.",
+    "meaning": "小兒科",
+    "examples": [
+      { "en": "The pediatrics ward is full of colorful toys.", "zh": "小兒科病房裡滿是彩色玩具。" },
+      { "en": "She works as a nurse in pediatrics.", "zh": "她在小兒科擔任護理師。" }
+    ],
+    "img": "doctor examining child with toys around",
+    "theme": "疾病醫療",
+    "level": 3
+  },
+  {
+    "word": "dermatology",
+    "kk": "[ˌdɝməˈtɑlədʒi]",
+    "pos": "n.",
+    "meaning": "皮膚科",
+    "examples": [
+      { "en": "She visited dermatology for her skin rash.", "zh": "她因皮膚疹去看皮膚科。" },
+      { "en": "Dermatology treats problems of the skin.", "zh": "皮膚科治療皮膚的問題。" }
+    ],
+    "img": "doctor examining skin with magnifier",
+    "theme": "疾病醫療",
+    "level": 3
+  },
+  {
+    "word": "neurology",
+    "kk": "[nʊˈrɑlədʒi]",
+    "pos": "n.",
+    "meaning": "神經科",
+    "examples": [
+      { "en": "The neurology team studied his brain scan.", "zh": "神經科團隊研究了他的腦部掃描。" },
+      { "en": "Neurology focuses on the nervous system.", "zh": "神經科專注於神經系統。" }
+    ],
+    "img": "brain scan images on computer screen",
+    "theme": "疾病醫療",
+    "level": 3
+  },
+  {
+    "word": "orthopedics",
+    "kk": "[ˌɔrθəˈpidɪks]",
+    "pos": "n.",
+    "meaning": "骨科",
+    "examples": [
+      { "en": "He went to orthopedics for his broken arm.", "zh": "他因手臂骨折去看骨科。" },
+      { "en": "Orthopedics deals with bones and joints.", "zh": "骨科處理骨頭和關節的問題。" }
+    ],
+    "img": "x-ray of bone with orthopedic model",
+    "theme": "疾病醫療",
+    "level": 3
+  },
+  {
+    "word": "psychiatry",
+    "kk": "[saɪˈkaɪətri]",
+    "pos": "n.",
+    "meaning": "精神科",
+    "examples": [
+      { "en": "She was referred to psychiatry for her anxiety.", "zh": "她因焦慮被轉介到精神科。" },
+      { "en": "Psychiatry treats mental health problems.", "zh": "精神科治療心理健康問題。" }
+    ],
+    "img": "patient talking with psychiatrist in office",
+    "theme": "疾病醫療",
+    "level": 3
+  },
+  {
+    "word": "emergency",
+    "kk": "[ɪˈmɝdʒənsi]",
+    "pos": "n.",
+    "meaning": "急診;緊急情況",
+    "examples": [
+      { "en": "They rushed him to the emergency room.", "zh": "他們把他緊急送往急診室。" },
+      { "en": "Call an ambulance in a medical emergency.", "zh": "遇到醫療緊急情況時要叫救護車。" }
+    ],
+    "img": "emergency room entrance red sign",
+    "theme": "疾病醫療",
+    "level": 2
+  },
+  {
+    "word": "ambulance",
+    "kk": "[ˈæmbjələns]",
+    "pos": "n.",
+    "meaning": "救護車",
+    "examples": [
+      { "en": "The ambulance arrived within five minutes.", "zh": "救護車在五分鐘內抵達。" },
+      { "en": "An ambulance carried the injured man away.", "zh": "一輛救護車載走了受傷的男子。" }
+    ],
+    "img": "white ambulance with flashing lights",
+    "theme": "疾病醫療",
+    "level": 2
+  },
+  {
+    "word": "physician",
+    "kk": "[fɪˈzɪʃən]",
+    "pos": "n.",
+    "meaning": "內科醫師",
+    "examples": [
+      { "en": "Her family physician knows her whole history.", "zh": "她的家庭醫師了解她全部的病史。" },
+      { "en": "The physician advised him to rest more.", "zh": "醫師建議他多休息。" }
+    ],
+    "img": "doctor in white coat with clipboard",
+    "theme": "疾病醫療",
+    "level": 3
+  },
+  {
+    "word": "surgeon",
+    "kk": "[ˈsɝdʒən]",
+    "pos": "n.",
+    "meaning": "外科醫師",
+    "examples": [
+      { "en": "The surgeon explained the risks before the operation.", "zh": "外科醫師在手術前說明了風險。" },
+      { "en": "She trained for years to become a surgeon.", "zh": "她受訓多年才成為外科醫師。" }
+    ],
+    "img": "surgeon in scrubs and mask holding tools",
+    "theme": "疾病醫療",
+    "level": 3
+  },
+  {
+    "word": "pharmacy",
+    "kk": "[ˈfɑrməsi]",
+    "pos": "n.",
+    "meaning": "藥局",
+    "examples": [
+      { "en": "I picked up my medicine at the pharmacy.", "zh": "我在藥局拿了我的藥。" },
+      { "en": "The pharmacy is open until midnight.", "zh": "這間藥局營業到午夜。" }
+    ],
+    "img": "pharmacy counter with shelves of medicine",
+    "theme": "疾病醫療",
+    "level": 2
+  },
+  {
+    "word": "clinic",
+    "kk": "[ˈklɪnɪk]",
+    "pos": "n.",
+    "meaning": "診所",
+    "examples": [
+      { "en": "There is a small clinic near my house.", "zh": "我家附近有一間小診所。" },
+      { "en": "The clinic offers free health checks.", "zh": "這間診所提供免費健康檢查。" }
+    ],
+    "img": "small medical clinic reception desk",
+    "theme": "疾病醫療",
+    "level": 2
+  },
+  {
+    "word": "chronic",
+    "kk": "[ˈkrɑnɪk]",
+    "pos": "adj.",
+    "meaning": "慢性的",
+    "examples": [
+      { "en": "He suffers from chronic back pain.", "zh": "他受慢性背痛所苦。" },
+      { "en": "Chronic illness requires long-term care.", "zh": "慢性疾病需要長期照護。" }
+    ],
+    "img": "elderly person rubbing sore lower back",
+    "theme": "疾病醫療",
+    "level": 3
+  },
+  {
+    "word": "contagious",
+    "kk": "[kənˈtedʒəs]",
+    "pos": "adj.",
+    "meaning": "傳染性的",
+    "examples": [
+      { "en": "The flu is highly contagious in winter.", "zh": "流感在冬天具有高度傳染性。" },
+      { "en": "Stay home if you have a contagious disease.", "zh": "如果你得了傳染病就待在家裡。" }
+    ],
+    "img": "person wearing face mask coughing",
+    "theme": "疾病醫療",
+    "level": 3
+  },
+  {
+    "word": "inflammation",
+    "kk": "[ˌɪnfləˈmeʃən]",
+    "pos": "n.",
+    "meaning": "發炎",
+    "examples": [
+      { "en": "Ice can reduce the inflammation in his ankle.", "zh": "冰敷可以減少他腳踝的發炎。" },
+      { "en": "The medicine helps ease inflammation.", "zh": "這種藥有助於減緩發炎。" }
+    ],
+    "img": "red swollen ankle with ice pack",
+    "theme": "疾病醫療",
+    "level": 3
+  },
+  {
+    "word": "tumor",
+    "kk": "[ˈtumɚ]",
+    "pos": "n.",
+    "meaning": "腫瘤",
+    "examples": [
+      { "en": "The scan showed a small tumor in his lung.", "zh": "掃描顯示他的肺部有一個小腫瘤。" },
+      { "en": "The doctors removed the tumor safely.", "zh": "醫生安全地移除了腫瘤。" }
+    ],
+    "img": "mri scan highlighting a mass",
+    "theme": "疾病醫療",
+    "level": 3
+  },
+  {
+    "word": "fracture",
+    "kk": "[ˈfræktʃɚ]",
+    "pos": "n.",
+    "meaning": "骨折",
+    "examples": [
+      { "en": "He got a fracture after falling off his bike.", "zh": "他從腳踏車上摔下來後骨折了。" },
+      { "en": "The fracture will take six weeks to heal.", "zh": "這處骨折需要六週才能癒合。" }
+    ],
+    "img": "arm in white cast with sling",
+    "theme": "疾病醫療",
+    "level": 3
+  },
+  {
+    "word": "wound",
+    "kk": "[wund]",
+    "pos": "n.",
+    "meaning": "傷口",
+    "examples": [
+      { "en": "The nurse cleaned the wound carefully.", "zh": "護理師仔細地清理了傷口。" },
+      { "en": "Keep the wound dry to help it heal.", "zh": "保持傷口乾燥以幫助癒合。" }
+    ],
+    "img": "bandaged wound on arm",
+    "theme": "疾病醫療",
+    "level": 2
+  },
+  {
+    "word": "bandage",
+    "kk": "[ˈbændɪdʒ]",
+    "pos": "n.",
+    "meaning": "繃帶",
+    "examples": [
+      { "en": "She wrapped a bandage around his knee.", "zh": "她在他的膝蓋上纏了繃帶。" },
+      { "en": "Change the bandage every day.", "zh": "每天更換繃帶。" }
+    ],
+    "img": "rolled white bandage and first aid kit",
+    "theme": "疾病醫療",
+    "level": 2
+  },
+  {
+    "word": "injection",
+    "kk": "[ɪnˈdʒɛkʃən]",
+    "pos": "n.",
+    "meaning": "注射;打針",
+    "examples": [
+      { "en": "The nurse gave him an injection in his arm.", "zh": "護理師在他的手臂上打了一針。" },
+      { "en": "This injection may cause slight pain.", "zh": "這一針可能會有點痛。" }
+    ],
+    "img": "nurse giving injection into upper arm",
+    "theme": "疾病醫療",
+    "level": 2
+  },
+  {
+    "word": "checkup",
+    "kk": "[ˈtʃɛkˌʌp]",
+    "pos": "n.",
+    "meaning": "健康檢查",
+    "examples": [
+      { "en": "I have a yearly checkup with my doctor.", "zh": "我每年都和醫生做一次健康檢查。" },
+      { "en": "The checkup showed he was in good health.", "zh": "健康檢查顯示他身體狀況良好。" }
+    ],
+    "img": "doctor listening to patient with stethoscope",
+    "theme": "疾病醫療",
+    "level": 2
+  },
+  {
+    "word": "disorder",
+    "kk": "[dɪsˈɔrdɚ]",
+    "pos": "n.",
+    "meaning": "失調;疾患",
+    "examples": [
+      { "en": "A sleep disorder keeps her awake at night.", "zh": "睡眠失調讓她晚上無法入睡。" },
+      { "en": "The doctor diagnosed an eating disorder.", "zh": "醫生診斷出飲食失調。" }
+    ],
+    "img": "tired person lying awake in bed at night",
+    "theme": "疾病醫療",
+    "level": 3
+  },
+  {
+    "word": "immune",
+    "kk": "[ɪˈmjun]",
+    "pos": "adj.",
+    "meaning": "免疫的",
+    "examples": [
+      { "en": "A strong immune system fights off disease.", "zh": "強健的免疫系統能抵抗疾病。" },
+      { "en": "Sleep helps keep your immune system healthy.", "zh": "睡眠有助於維持免疫系統健康。" }
+    ],
+    "img": "illustration of white blood cells fighting virus",
+    "theme": "疾病醫療",
+    "level": 3
+  },
+  {
+    "word": "epidemic",
+    "kk": "[ˌɛpəˈdɛmɪk]",
+    "pos": "n.",
+    "meaning": "流行病",
+    "examples": [
+      { "en": "The flu epidemic spread across the whole city.", "zh": "流感疫情蔓延到整座城市。" },
+      { "en": "Doctors worked hard to stop the epidemic.", "zh": "醫生們努力遏止這場流行病。" }
+    ],
+    "img": "crowd of people wearing masks in city",
+    "theme": "疾病醫療",
+    "level": 3
+  },
+  {
+    "word": "rehabilitation",
+    "kk": "[ˌrihəˌbɪləˈteʃən]",
+    "pos": "n.",
+    "meaning": "復健",
+    "examples": [
+      { "en": "He spent months in rehabilitation after the accident.", "zh": "意外之後他花了好幾個月做復健。" },
+      { "en": "Rehabilitation helped her regain her strength.", "zh": "復健幫助她恢復體力。" }
+    ],
+    "img": "patient doing rehab exercises with therapist",
+    "theme": "疾病醫療",
+    "level": 3
+  }
+]

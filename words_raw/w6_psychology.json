@@ -1,0 +1,652 @@
+[
+  {
+    "word": "cognition",
+    "kk": "[kɑɡˈnɪʃən]",
+    "pos": "n.",
+    "meaning": "認知；認知過程",
+    "examples": [
+      { "en": "Memory is an important part of human cognition.", "zh": "記憶是人類認知的重要部分。" },
+      { "en": "Sleep affects cognition and learning.", "zh": "睡眠會影響認知與學習。" }
+    ],
+    "img": "brain with gears thinking",
+    "theme": "心理學",
+    "level": 3
+  },
+  {
+    "word": "perception",
+    "kk": "[pɚˈsɛpʃən]",
+    "pos": "n.",
+    "meaning": "知覺；感知",
+    "examples": [
+      { "en": "Our perception of color can differ from others.", "zh": "我們對顏色的知覺可能和別人不同。" },
+      { "en": "Fear changes your perception of danger.", "zh": "恐懼會改變你對危險的知覺。" }
+    ],
+    "img": "eye viewing optical illusion",
+    "theme": "心理學",
+    "level": 3
+  },
+  {
+    "word": "memory",
+    "kk": "[ˈmɛmərɪ]",
+    "pos": "n.",
+    "meaning": "記憶；記憶力",
+    "examples": [
+      { "en": "She has a very good memory for names.", "zh": "她對名字的記憶力很好。" },
+      { "en": "Stress can weaken your memory.", "zh": "壓力會削弱你的記憶力。" }
+    ],
+    "img": "brain with photo film strip",
+    "theme": "心理學",
+    "level": 2
+  },
+  {
+    "word": "attention",
+    "kk": "[əˈtɛnʃən]",
+    "pos": "n.",
+    "meaning": "注意力；專注",
+    "examples": [
+      { "en": "It is hard to keep attention during a long lecture.", "zh": "長時間的演講很難保持注意力。" },
+      { "en": "Phones easily pull our attention away.", "zh": "手機很容易把我們的注意力拉走。" }
+    ],
+    "img": "spotlight on single object",
+    "theme": "心理學",
+    "level": 2
+  },
+  {
+    "word": "motivation",
+    "kk": "[ˌmotəˈveʃən]",
+    "pos": "n.",
+    "meaning": "動機；動力",
+    "examples": [
+      { "en": "A clear goal gives students motivation.", "zh": "明確的目標給學生動力。" },
+      { "en": "His motivation to exercise faded after a week.", "zh": "他運動的動力一週後就消退了。" }
+    ],
+    "img": "runner reaching for goal flag",
+    "theme": "心理學",
+    "level": 3
+  },
+  {
+    "word": "behavior",
+    "kk": "[bɪˈhevjɚ]",
+    "pos": "n.",
+    "meaning": "行為；舉止",
+    "examples": [
+      { "en": "Rewards can change a child's behavior.", "zh": "獎勵可以改變孩子的行為。" },
+      { "en": "Scientists study animal behavior in the wild.", "zh": "科學家研究野外的動物行為。" }
+    ],
+    "img": "person actions arrows diagram",
+    "theme": "心理學",
+    "level": 2
+  },
+  {
+    "word": "personality",
+    "kk": "[ˌpɝsnˈælətɪ]",
+    "pos": "n.",
+    "meaning": "人格；個性",
+    "examples": [
+      { "en": "Twins can have very different personalities.", "zh": "雙胞胎的個性可能非常不同。" },
+      { "en": "Her warm personality makes people relax.", "zh": "她溫暖的個性讓人放鬆。" }
+    ],
+    "img": "colorful masks representing traits",
+    "theme": "心理學",
+    "level": 3
+  },
+  {
+    "word": "instinct",
+    "kk": "[ˈɪnstɪŋkt]",
+    "pos": "n.",
+    "meaning": "本能；直覺",
+    "examples": [
+      { "en": "Babies have an instinct to grab things.", "zh": "嬰兒有抓握東西的本能。" },
+      { "en": "Trust your instinct when something feels wrong.", "zh": "當覺得不對勁時,相信你的直覺。" }
+    ],
+    "img": "cat pouncing on prey",
+    "theme": "心理學",
+    "level": 3
+  },
+  {
+    "word": "habit",
+    "kk": "[ˈhæbɪt]",
+    "pos": "n.",
+    "meaning": "習慣",
+    "examples": [
+      { "en": "Reading before bed became a good habit.", "zh": "睡前閱讀變成了好習慣。" },
+      { "en": "It takes time to break a bad habit.", "zh": "戒掉壞習慣需要時間。" }
+    ],
+    "img": "repeating loop calendar checkmarks",
+    "theme": "心理學",
+    "level": 2
+  },
+  {
+    "word": "reflex",
+    "kk": "[ˈriflɛks]",
+    "pos": "n.",
+    "meaning": "反射動作；反射",
+    "examples": [
+      { "en": "Blinking is a natural reflex.", "zh": "眨眼是一種自然反射。" },
+      { "en": "The doctor tested my knee reflex.", "zh": "醫生測試了我的膝反射。" }
+    ],
+    "img": "knee tapped by rubber hammer",
+    "theme": "心理學",
+    "level": 3
+  },
+  {
+    "word": "stimulus",
+    "kk": "[ˈstɪmjələs]",
+    "pos": "n.",
+    "meaning": "刺激；刺激物",
+    "examples": [
+      { "en": "A loud noise is a strong stimulus.", "zh": "巨大的聲音是一種強烈的刺激。" },
+      { "en": "The dog reacts to the same stimulus each time.", "zh": "這隻狗每次都對同樣的刺激做出反應。" }
+    ],
+    "img": "bell ringing near dog",
+    "theme": "心理學",
+    "level": 3
+  },
+  {
+    "word": "response",
+    "kk": "[rɪˈspɑns]",
+    "pos": "n.",
+    "meaning": "反應；回應",
+    "examples": [
+      { "en": "Her response to the news was calm.", "zh": "她對這消息的反應很冷靜。" },
+      { "en": "The body's response to danger is fast.", "zh": "身體對危險的反應很快。" }
+    ],
+    "img": "arrow bouncing back from wall",
+    "theme": "心理學",
+    "level": 2
+  },
+  {
+    "word": "reward",
+    "kk": "[rɪˈwɔrd]",
+    "pos": "n.",
+    "meaning": "獎勵；報酬",
+    "examples": [
+      { "en": "The dog gets a reward for good behavior.", "zh": "這隻狗因為表現好而得到獎勵。" },
+      { "en": "A small reward can boost effort.", "zh": "小小的獎勵能提升努力。" }
+    ],
+    "img": "gold star trophy treat",
+    "theme": "心理學",
+    "level": 2
+  },
+  {
+    "word": "reinforce",
+    "kk": "[ˌriɪnˈfɔrs]",
+    "pos": "v.",
+    "meaning": "強化；增強",
+    "examples": [
+      { "en": "Praise can reinforce good habits.", "zh": "讚美能強化好習慣。" },
+      { "en": "Practice reinforces what you learn.", "zh": "練習能強化你所學的東西。" }
+    ],
+    "img": "hand adding brick to wall",
+    "theme": "心理學",
+    "level": 3
+  },
+  {
+    "word": "association",
+    "kk": "[əˌsosɪˈeʃən]",
+    "pos": "n.",
+    "meaning": "聯想；關聯",
+    "examples": [
+      { "en": "The smell brought back an old association.", "zh": "這氣味喚起了一段舊的聯想。" },
+      { "en": "We form an association between food and comfort.", "zh": "我們在食物與安慰之間形成關聯。" }
+    ],
+    "img": "two ideas linked by chain",
+    "theme": "心理學",
+    "level": 3
+  },
+  {
+    "word": "intuition",
+    "kk": "[ˌɪntjuˈɪʃən]",
+    "pos": "n.",
+    "meaning": "直覺；直觀",
+    "examples": [
+      { "en": "Her intuition told her to leave early.", "zh": "她的直覺告訴她要早點離開。" },
+      { "en": "Good doctors trust their intuition too.", "zh": "好醫生也會相信自己的直覺。" }
+    ],
+    "img": "glowing lightbulb over head",
+    "theme": "心理學",
+    "level": 3
+  },
+  {
+    "word": "bias",
+    "kk": "[ˈbaɪəs]",
+    "pos": "n.",
+    "meaning": "偏見；偏誤",
+    "examples": [
+      { "en": "We should be aware of our own bias.", "zh": "我們應該察覺自己的偏見。" },
+      { "en": "The study tried to remove any bias.", "zh": "這項研究試圖去除任何偏誤。" }
+    ],
+    "img": "unbalanced weighing scale",
+    "theme": "心理學",
+    "level": 3
+  },
+  {
+    "word": "attitude",
+    "kk": "[ˈætətjud]",
+    "pos": "n.",
+    "meaning": "態度",
+    "examples": [
+      { "en": "A positive attitude helps in hard times.", "zh": "正面的態度在困難時很有幫助。" },
+      { "en": "His attitude toward work changed a lot.", "zh": "他對工作的態度改變了很多。" }
+    ],
+    "img": "person with thumbs up smile",
+    "theme": "心理學",
+    "level": 2
+  },
+  {
+    "word": "belief",
+    "kk": "[bɪˈlif]",
+    "pos": "n.",
+    "meaning": "信念；相信",
+    "examples": [
+      { "en": "Her belief in herself kept her going.", "zh": "她對自己的信念讓她堅持下去。" },
+      { "en": "Old beliefs are hard to change.", "zh": "舊的信念很難改變。" }
+    ],
+    "img": "person hand on heart determined",
+    "theme": "心理學",
+    "level": 2
+  },
+  {
+    "word": "conscious",
+    "kk": "[ˈkɑnʃəs]",
+    "pos": "adj.",
+    "meaning": "有意識的；察覺到的",
+    "examples": [
+      { "en": "She made a conscious choice to slow down.", "zh": "她有意識地選擇放慢腳步。" },
+      { "en": "He is conscious of his own mistakes.", "zh": "他察覺到自己的錯誤。" }
+    ],
+    "img": "person awake alert head",
+    "theme": "心理學",
+    "level": 3
+  },
+  {
+    "word": "subconscious",
+    "kk": "[ˌsʌbˈkɑnʃəs]",
+    "pos": "n.",
+    "meaning": "潛意識",
+    "examples": [
+      { "en": "Dreams come from the subconscious.", "zh": "夢來自潛意識。" },
+      { "en": "The subconscious stores hidden feelings.", "zh": "潛意識儲存著隱藏的情感。" }
+    ],
+    "img": "iceberg hidden under water",
+    "theme": "心理學",
+    "level": 3
+  },
+  {
+    "word": "awareness",
+    "kk": "[əˈwɛrnəs]",
+    "pos": "n.",
+    "meaning": "覺察；意識",
+    "examples": [
+      { "en": "Self awareness helps us grow.", "zh": "自我覺察幫助我們成長。" },
+      { "en": "The class raised awareness of the issue.", "zh": "這堂課提升了對這個議題的意識。" }
+    ],
+    "img": "eye opening with light",
+    "theme": "心理學",
+    "level": 3
+  },
+  {
+    "word": "impulse",
+    "kk": "[ˈɪmpʌls]",
+    "pos": "n.",
+    "meaning": "衝動",
+    "examples": [
+      { "en": "He fought the impulse to buy the shoes.", "zh": "他抵抗住買那雙鞋的衝動。" },
+      { "en": "Acting on impulse can be risky.", "zh": "憑衝動行事可能有風險。" }
+    ],
+    "img": "hand grabbing item quickly",
+    "theme": "心理學",
+    "level": 3
+  },
+  {
+    "word": "temptation",
+    "kk": "[tɛmpˈteʃən]",
+    "pos": "n.",
+    "meaning": "誘惑",
+    "examples": [
+      { "en": "The cake was a hard temptation to resist.", "zh": "那塊蛋糕是很難抵抗的誘惑。" },
+      { "en": "She gave in to temptation and checked her phone.", "zh": "她抵不住誘惑,看了手機。" }
+    ],
+    "img": "hand reaching for cake",
+    "theme": "心理學",
+    "level": 3
+  },
+  {
+    "word": "willpower",
+    "kk": "[ˈwɪlˌpaʊɚ]",
+    "pos": "n.",
+    "meaning": "意志力；自制力",
+    "examples": [
+      { "en": "It takes willpower to study every day.", "zh": "每天讀書需要意志力。" },
+      { "en": "Her willpower helped her quit sugar.", "zh": "她的意志力幫她戒掉了糖。" }
+    ],
+    "img": "flexed arm with glowing brain",
+    "theme": "心理學",
+    "level": 3
+  },
+  {
+    "word": "discipline",
+    "kk": "[ˈdɪsəplɪn]",
+    "pos": "n.",
+    "meaning": "自律；紀律",
+    "examples": [
+      { "en": "Success often needs daily discipline.", "zh": "成功常常需要每天的自律。" },
+      { "en": "He built discipline through routine.", "zh": "他透過規律建立了自律。" }
+    ],
+    "img": "person following strict schedule",
+    "theme": "心理學",
+    "level": 3
+  },
+  {
+    "word": "focus",
+    "kk": "[ˈfokəs]",
+    "pos": "n.",
+    "meaning": "專注；焦點",
+    "examples": [
+      { "en": "Quiet rooms help my focus.", "zh": "安靜的房間有助於我專注。" },
+      { "en": "Keep your focus on one task.", "zh": "把你的專注放在一件事上。" }
+    ],
+    "img": "camera lens sharp center",
+    "theme": "心理學",
+    "level": 2
+  },
+  {
+    "word": "concentration",
+    "kk": "[ˌkɑnsnˈtreʃən]",
+    "pos": "n.",
+    "meaning": "專注力；集中",
+    "examples": [
+      { "en": "Chess requires deep concentration.", "zh": "下棋需要高度的專注力。" },
+      { "en": "Noise breaks my concentration.", "zh": "噪音打斷了我的專注力。" }
+    ],
+    "img": "person staring at chessboard",
+    "theme": "心理學",
+    "level": 3
+  },
+  {
+    "word": "curiosity",
+    "kk": "[ˌkjʊrɪˈɑsətɪ]",
+    "pos": "n.",
+    "meaning": "好奇心",
+    "examples": [
+      { "en": "Curiosity pushed her to explore more.", "zh": "好奇心驅使她探索更多。" },
+      { "en": "Children are full of curiosity.", "zh": "孩子們充滿好奇心。" }
+    ],
+    "img": "child peeking into box",
+    "theme": "心理學",
+    "level": 3
+  },
+  {
+    "word": "creativity",
+    "kk": "[ˌkriˈtɪvətɪ]",
+    "pos": "n.",
+    "meaning": "創造力",
+    "examples": [
+      { "en": "Play boosts a child's creativity.", "zh": "玩耍能提升孩子的創造力。" },
+      { "en": "Her creativity shows in her art.", "zh": "她的創造力展現在藝術中。" }
+    ],
+    "img": "brain with colorful paint splash",
+    "theme": "心理學",
+    "level": 3
+  },
+  {
+    "word": "imagination",
+    "kk": "[ɪˌmædʒəˈneʃən]",
+    "pos": "n.",
+    "meaning": "想像力",
+    "examples": [
+      { "en": "Use your imagination to solve it.", "zh": "運用你的想像力來解決它。" },
+      { "en": "Books feed a child's imagination.", "zh": "書本滋養孩子的想像力。" }
+    ],
+    "img": "person daydreaming cloud castle",
+    "theme": "心理學",
+    "level": 3
+  },
+  {
+    "word": "reasoning",
+    "kk": "[ˈriznɪŋ]",
+    "pos": "n.",
+    "meaning": "推理；推論",
+    "examples": [
+      { "en": "His reasoning behind the plan was clear.", "zh": "他這個計畫背後的推理很清楚。" },
+      { "en": "Good reasoning leads to good choices.", "zh": "好的推理帶來好的選擇。" }
+    ],
+    "img": "connected logic puzzle pieces",
+    "theme": "心理學",
+    "level": 3
+  },
+  {
+    "word": "judgment",
+    "kk": "[ˈdʒʌdʒmənt]",
+    "pos": "n.",
+    "meaning": "判斷；判斷力",
+    "examples": [
+      { "en": "Tiredness can affect your judgment.", "zh": "疲勞會影響你的判斷力。" },
+      { "en": "I trust her judgment on money.", "zh": "在金錢上我相信她的判斷。" }
+    ],
+    "img": "balance scale with gavel",
+    "theme": "心理學",
+    "level": 3
+  },
+  {
+    "word": "decision",
+    "kk": "[dɪˈsɪʒən]",
+    "pos": "n.",
+    "meaning": "決定；決策",
+    "examples": [
+      { "en": "Making a big decision takes time.", "zh": "做重大決定需要時間。" },
+      { "en": "She made a wise decision.", "zh": "她做了一個明智的決定。" }
+    ],
+    "img": "crossroads two path signs",
+    "theme": "心理學",
+    "level": 2
+  },
+  {
+    "word": "concept",
+    "kk": "[ˈkɑnsɛpt]",
+    "pos": "n.",
+    "meaning": "概念",
+    "examples": [
+      { "en": "Time is a hard concept for young kids.", "zh": "時間對幼兒來說是難懂的概念。" },
+      { "en": "She grasped the concept quickly.", "zh": "她很快就掌握了這個概念。" }
+    ],
+    "img": "lightbulb with idea diagram",
+    "theme": "心理學",
+    "level": 3
+  },
+  {
+    "word": "assumption",
+    "kk": "[əˈsʌmpʃən]",
+    "pos": "n.",
+    "meaning": "假設；臆測",
+    "examples": [
+      { "en": "Don't make an assumption too fast.", "zh": "不要太快下假設。" },
+      { "en": "His assumption turned out wrong.", "zh": "他的臆測結果是錯的。" }
+    ],
+    "img": "thought bubble with question mark",
+    "theme": "心理學",
+    "level": 3
+  },
+  {
+    "word": "expectation",
+    "kk": "[ˌɛkspɛkˈteʃən]",
+    "pos": "n.",
+    "meaning": "期望；期待",
+    "examples": [
+      { "en": "High expectation can create pressure.", "zh": "過高的期望會製造壓力。" },
+      { "en": "The trip met all our expectations.", "zh": "這趟旅行符合我們所有的期待。" }
+    ],
+    "img": "person looking at raised bar",
+    "theme": "心理學",
+    "level": 3
+  },
+  {
+    "word": "trait",
+    "kk": "[tret]",
+    "pos": "n.",
+    "meaning": "特質；特徵",
+    "examples": [
+      { "en": "Kindness is her best trait.", "zh": "善良是她最好的特質。" },
+      { "en": "Patience is a useful trait.", "zh": "耐心是一種有用的特質。" }
+    ],
+    "img": "labeled person profile card",
+    "theme": "心理學",
+    "level": 3
+  },
+  {
+    "word": "temperament",
+    "kk": "[ˈtɛmprəmənt]",
+    "pos": "n.",
+    "meaning": "性情；氣質",
+    "examples": [
+      { "en": "The baby has a calm temperament.", "zh": "這個寶寶有平靜的性情。" },
+      { "en": "Their temperaments are very different.", "zh": "他們的性情非常不同。" }
+    ],
+    "img": "two contrasting mood faces",
+    "theme": "心理學",
+    "level": 3
+  },
+  {
+    "word": "introvert",
+    "kk": "[ˈɪntrəˌvɝt]",
+    "pos": "n.",
+    "meaning": "內向者",
+    "examples": [
+      { "en": "As an introvert, he enjoys quiet time.", "zh": "身為內向者,他享受安靜的時光。" },
+      { "en": "An introvert may feel tired after a party.", "zh": "內向者在派對後可能會感到疲累。" }
+    ],
+    "img": "person reading alone at home",
+    "theme": "心理學",
+    "level": 3
+  },
+  {
+    "word": "extrovert",
+    "kk": "[ˈɛkstrəˌvɝt]",
+    "pos": "n.",
+    "meaning": "外向者",
+    "examples": [
+      { "en": "An extrovert gains energy from people.", "zh": "外向者從人群中獲得能量。" },
+      { "en": "She is a classic extrovert who loves talking.", "zh": "她是典型的外向者,喜歡聊天。" }
+    ],
+    "img": "person laughing in crowd",
+    "theme": "心理學",
+    "level": 3
+  },
+  {
+    "word": "mindset",
+    "kk": "[ˈmaɪndˌsɛt]",
+    "pos": "n.",
+    "meaning": "心態；思維模式",
+    "examples": [
+      { "en": "A growth mindset welcomes mistakes.", "zh": "成長心態歡迎犯錯。" },
+      { "en": "Changing your mindset takes practice.", "zh": "改變你的心態需要練習。" }
+    ],
+    "img": "brain with upward arrow",
+    "theme": "心理學",
+    "level": 3
+  },
+  {
+    "word": "perspective",
+    "kk": "[pɚˈspɛktɪv]",
+    "pos": "n.",
+    "meaning": "觀點；角度",
+    "examples": [
+      { "en": "Try to see it from her perspective.", "zh": "試著從她的觀點來看。" },
+      { "en": "Travel gives you a new perspective.", "zh": "旅行給你新的觀點。" }
+    ],
+    "img": "person viewing from different angle",
+    "theme": "心理學",
+    "level": 3
+  },
+  {
+    "word": "self-control",
+    "kk": "[ˌsɛlfkənˈtrol]",
+    "pos": "n.",
+    "meaning": "自我控制；自制",
+    "examples": [
+      { "en": "Self-control helps you save money.", "zh": "自我控制幫你存錢。" },
+      { "en": "He lost self-control and shouted.", "zh": "他失去自制而大吼。" }
+    ],
+    "img": "person holding steady steering wheel",
+    "theme": "心理學",
+    "level": 3
+  },
+  {
+    "word": "self-esteem",
+    "kk": "[ˌsɛlfəˈstim]",
+    "pos": "n.",
+    "meaning": "自尊；自我價值感",
+    "examples": [
+      { "en": "Praise can build a child's self-esteem.", "zh": "讚美能建立孩子的自尊。" },
+      { "en": "Failure hurt his self-esteem.", "zh": "失敗傷了他的自尊。" }
+    ],
+    "img": "person standing tall confident mirror",
+    "theme": "心理學",
+    "level": 3
+  },
+  {
+    "word": "adaptation",
+    "kk": "[ˌædæpˈteʃən]",
+    "pos": "n.",
+    "meaning": "適應",
+    "examples": [
+      { "en": "Adaptation to a new city takes time.", "zh": "適應新城市需要時間。" },
+      { "en": "The mind is capable of quick adaptation.", "zh": "心智能夠快速適應。" }
+    ],
+    "img": "chameleon changing color",
+    "theme": "心理學",
+    "level": 3
+  },
+  {
+    "word": "conditioning",
+    "kk": "[kənˈdɪʃənɪŋ]",
+    "pos": "n.",
+    "meaning": "制約；條件反射",
+    "examples": [
+      { "en": "The dog learned by conditioning.", "zh": "這隻狗透過制約學會了。" },
+      { "en": "Conditioning links a sound to food.", "zh": "制約把聲音與食物連結起來。" }
+    ],
+    "img": "dog bell food experiment",
+    "theme": "心理學",
+    "level": 3
+  },
+  {
+    "word": "recall",
+    "kk": "[rɪˈkɔl]",
+    "pos": "v.",
+    "meaning": "回想；記起",
+    "examples": [
+      { "en": "I can't recall his name.", "zh": "我想不起他的名字。" },
+      { "en": "She could recall the day clearly.", "zh": "她能清楚地回想起那一天。" }
+    ],
+    "img": "person pulling memory from head",
+    "theme": "心理學",
+    "level": 3
+  },
+  {
+    "word": "distraction",
+    "kk": "[dɪˈstrækʃən]",
+    "pos": "n.",
+    "meaning": "分心；使分心之物",
+    "examples": [
+      { "en": "The phone is a big distraction while studying.", "zh": "手機是讀書時的一大分心來源。" },
+      { "en": "He turned off the TV to avoid distraction.", "zh": "他關掉電視以避免分心。" }
+    ],
+    "img": "person pulled by many arrows",
+    "theme": "心理學",
+    "level": 3
+  },
+  {
+    "word": "perceive",
+    "kk": "[pɚˈsiv]",
+    "pos": "v.",
+    "meaning": "察覺；認為",
+    "examples": [
+      { "en": "We perceive danger before we think.", "zh": "我們在思考前就察覺到危險。" },
+      { "en": "People perceive the same event differently.", "zh": "人們對同一件事的感知各不相同。" }
+    ],
+    "img": "eye and brain connected",
+    "theme": "心理學",
+    "level": 3
+  }
+]

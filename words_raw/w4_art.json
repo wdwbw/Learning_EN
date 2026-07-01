@@ -1,0 +1,639 @@
+[
+  {
+    "word": "sketch",
+    "kk": "[skɛtʃ]",
+    "pos": "n./v.",
+    "meaning": "素描;草圖;速寫",
+    "examples": [
+      { "en": "She made a quick sketch of the old bridge.", "zh": "她替那座老橋畫了一張快速的素描。" },
+      { "en": "He likes to sketch people in the coffee shop.", "zh": "他喜歡在咖啡店裡速寫來往的人。" }
+    ],
+    "img": "pencil sketch of a bridge in a notebook",
+    "theme": "藝術設計",
+    "level": 2
+  },
+  {
+    "word": "canvas",
+    "kk": "[ˈkænvəs]",
+    "pos": "n.",
+    "meaning": "畫布",
+    "examples": [
+      { "en": "The artist stretched a blank canvas over the frame.", "zh": "畫家把空白畫布繃在畫框上。" },
+      { "en": "Bright colors covered the whole canvas.", "zh": "鮮豔的色彩鋪滿了整張畫布。" }
+    ],
+    "img": "blank white canvas on a wooden easel",
+    "theme": "藝術設計",
+    "level": 2
+  },
+  {
+    "word": "palette",
+    "kk": "[ˈpælɪt]",
+    "pos": "n.",
+    "meaning": "調色盤;色彩搭配",
+    "examples": [
+      { "en": "She mixed blue and yellow on her palette.", "zh": "她在調色盤上把藍色和黃色調在一起。" },
+      { "en": "The room uses a warm color palette.", "zh": "這個房間採用暖色調的配色。" }
+    ],
+    "img": "wooden painter palette with dabs of oil paint",
+    "theme": "藝術設計",
+    "level": 3
+  },
+  {
+    "word": "brushstroke",
+    "kk": "[ˈbrʌʃˌstrok]",
+    "pos": "n.",
+    "meaning": "筆觸;一筆",
+    "examples": [
+      { "en": "His bold brushstrokes make the painting feel alive.", "zh": "他大膽的筆觸讓這幅畫顯得生動。" },
+      { "en": "You can see every brushstroke up close.", "zh": "近看時你能看見每一道筆觸。" }
+    ],
+    "img": "close-up of thick oil paint brushstrokes",
+    "theme": "藝術設計",
+    "level": 3
+  },
+  {
+    "word": "portrait",
+    "kk": "[ˈpɔrtrɪt]",
+    "pos": "n.",
+    "meaning": "肖像;人像畫",
+    "examples": [
+      { "en": "The museum displays a portrait of the young queen.", "zh": "博物館展出一幅年輕女王的肖像。" },
+      { "en": "He painted a portrait of his grandmother.", "zh": "他為祖母畫了一幅肖像。" }
+    ],
+    "img": "framed oil portrait of a woman on gallery wall",
+    "theme": "藝術設計",
+    "level": 2
+  },
+  {
+    "word": "landscape",
+    "kk": "[ˈlændˌskep]",
+    "pos": "n.",
+    "meaning": "風景;風景畫",
+    "examples": [
+      { "en": "She sells landscape paintings of the countryside.", "zh": "她販售鄉間風景的油畫。" },
+      { "en": "The photographer loves wide landscape shots.", "zh": "這位攝影師喜歡寬闊的風景照。" }
+    ],
+    "img": "painting of rolling green hills and sky",
+    "theme": "藝術設計",
+    "level": 2
+  },
+  {
+    "word": "shade",
+    "kk": "[ʃed]",
+    "pos": "n./v.",
+    "meaning": "色調;陰影;明暗",
+    "examples": [
+      { "en": "This wall needs a lighter shade of green.", "zh": "這面牆需要淺一點的綠色。" },
+      { "en": "He shaded the drawing to add depth.", "zh": "他為畫上陰影以增加立體感。" }
+    ],
+    "img": "color chart showing shades of green",
+    "theme": "藝術設計",
+    "level": 2
+  },
+  {
+    "word": "tone",
+    "kk": "[ton]",
+    "pos": "n.",
+    "meaning": "色調;調子",
+    "examples": [
+      { "en": "The photo has a soft, warm tone.", "zh": "這張照片帶著柔和的暖色調。" },
+      { "en": "Cool tones make the room feel calm.", "zh": "冷色調讓房間感覺沉靜。" }
+    ],
+    "img": "gradient of warm sunset tones",
+    "theme": "藝術設計",
+    "level": 2
+  },
+  {
+    "word": "contrast",
+    "kk": "[ˈkɑntræst]",
+    "pos": "n./v.",
+    "meaning": "對比;反差",
+    "examples": [
+      { "en": "The black frame gives a strong contrast to the white wall.", "zh": "黑色畫框與白牆形成強烈對比。" },
+      { "en": "She used contrast to make the title stand out.", "zh": "她用對比讓標題更醒目。" }
+    ],
+    "img": "black and white high contrast graphic design",
+    "theme": "藝術設計",
+    "level": 3
+  },
+  {
+    "word": "texture",
+    "kk": "[ˈtɛkstʃɚ]",
+    "pos": "n.",
+    "meaning": "質感;紋理",
+    "examples": [
+      { "en": "The rough texture of the paint feels interesting.", "zh": "油漆粗糙的質感很有意思。" },
+      { "en": "This fabric has a soft texture.", "zh": "這塊布料有柔軟的質感。" }
+    ],
+    "img": "close-up of rough textured painted surface",
+    "theme": "藝術設計",
+    "level": 3
+  },
+  {
+    "word": "outline",
+    "kk": "[ˈaʊtˌlaɪn]",
+    "pos": "n./v.",
+    "meaning": "輪廓;外形",
+    "examples": [
+      { "en": "First draw the outline of the cat.", "zh": "先畫出貓的輪廓。" },
+      { "en": "The dark outline makes the shape clear.", "zh": "深色的輪廓讓形狀更清楚。" }
+    ],
+    "img": "simple black outline drawing of a cat",
+    "theme": "藝術設計",
+    "level": 2
+  },
+  {
+    "word": "layout",
+    "kk": "[ˈleˌaʊt]",
+    "pos": "n.",
+    "meaning": "版面;佈局",
+    "examples": [
+      { "en": "The magazine layout is clean and modern.", "zh": "這本雜誌的版面乾淨又現代。" },
+      { "en": "They changed the layout of the poster.", "zh": "他們更改了海報的版面配置。" }
+    ],
+    "img": "magazine page layout with text and images",
+    "theme": "藝術設計",
+    "level": 2
+  },
+  {
+    "word": "pattern",
+    "kk": "[ˈpætɚn]",
+    "pos": "n.",
+    "meaning": "圖案;花樣",
+    "examples": [
+      { "en": "The wallpaper has a floral pattern.", "zh": "壁紙上有花卉圖案。" },
+      { "en": "She designed a bold striped pattern.", "zh": "她設計了大膽的條紋圖案。" }
+    ],
+    "img": "colorful repeating geometric pattern",
+    "theme": "藝術設計",
+    "level": 2
+  },
+  {
+    "word": "exhibition",
+    "kk": "[ˌɛksəˈbɪʃən]",
+    "pos": "n.",
+    "meaning": "展覽;展示會",
+    "examples": [
+      { "en": "The art exhibition opens next Friday.", "zh": "這場藝術展覽下週五開幕。" },
+      { "en": "Thousands visited the photography exhibition.", "zh": "數千人參觀了這場攝影展。" }
+    ],
+    "img": "people walking through an art exhibition hall",
+    "theme": "藝術設計",
+    "level": 3
+  },
+  {
+    "word": "gallery",
+    "kk": "[ˈgælərɪ]",
+    "pos": "n.",
+    "meaning": "畫廊;美術館",
+    "examples": [
+      { "en": "We spent the afternoon at the modern art gallery.", "zh": "我們整個下午都待在現代美術館。" },
+      { "en": "Her paintings hang in a small gallery downtown.", "zh": "她的畫作掛在市中心一間小畫廊裡。" }
+    ],
+    "img": "bright art gallery with framed paintings",
+    "theme": "藝術設計",
+    "level": 2
+  },
+  {
+    "word": "masterpiece",
+    "kk": "[ˈmæstɚˌpis]",
+    "pos": "n.",
+    "meaning": "傑作;名作",
+    "examples": [
+      { "en": "This painting is considered a masterpiece.", "zh": "這幅畫被視為一件傑作。" },
+      { "en": "The film is his greatest masterpiece.", "zh": "這部電影是他最偉大的傑作。" }
+    ],
+    "img": "famous classical painting in ornate gold frame",
+    "theme": "藝術設計",
+    "level": 3
+  },
+  {
+    "word": "sculpture",
+    "kk": "[ˈskʌlptʃɚ]",
+    "pos": "n.",
+    "meaning": "雕塑;雕刻品",
+    "examples": [
+      { "en": "A marble sculpture stands in the park.", "zh": "公園裡矗立著一座大理石雕塑。" },
+      { "en": "The sculpture took the artist two years to finish.", "zh": "這件雕塑花了藝術家兩年才完成。" }
+    ],
+    "img": "white marble sculpture in a plaza",
+    "theme": "藝術設計",
+    "level": 3
+  },
+  {
+    "word": "abstract",
+    "kk": "[ˈæbstrækt]",
+    "pos": "adj.",
+    "meaning": "抽象的",
+    "examples": [
+      { "en": "I don't always understand abstract art.", "zh": "我不見得看得懂抽象藝術。" },
+      { "en": "The painting is full of abstract shapes.", "zh": "這幅畫充滿了抽象的形狀。" }
+    ],
+    "img": "abstract painting with bold colorful shapes",
+    "theme": "藝術設計",
+    "level": 3
+  },
+  {
+    "word": "style",
+    "kk": "[staɪl]",
+    "pos": "n.",
+    "meaning": "風格;樣式",
+    "examples": [
+      { "en": "Her painting style is soft and dreamy.", "zh": "她的繪畫風格柔和又夢幻。" },
+      { "en": "The building has a classic style.", "zh": "這棟建築有著古典風格。" }
+    ],
+    "img": "two paintings side by side in different styles",
+    "theme": "藝術設計",
+    "level": 2
+  },
+  {
+    "word": "design",
+    "kk": "[dɪˈzaɪn]",
+    "pos": "n./v.",
+    "meaning": "設計;圖樣",
+    "examples": [
+      { "en": "The logo design looks simple but clever.", "zh": "這個標誌設計看似簡單卻很巧妙。" },
+      { "en": "She designs covers for books.", "zh": "她為書籍設計封面。" }
+    ],
+    "img": "designer sketching a logo on a tablet",
+    "theme": "藝術設計",
+    "level": 2
+  },
+  {
+    "word": "creative",
+    "kk": "[krɪˈetɪv]",
+    "pos": "adj.",
+    "meaning": "有創意的;創作的",
+    "examples": [
+      { "en": "She has a very creative mind.", "zh": "她的頭腦非常有創意。" },
+      { "en": "This is a creative way to use old paper.", "zh": "這是利用舊紙張的創意方法。" }
+    ],
+    "img": "colorful creative workspace with art supplies",
+    "theme": "藝術設計",
+    "level": 2
+  },
+  {
+    "word": "creativity",
+    "kk": "[ˌkriˈtɪvətɪ]",
+    "pos": "n.",
+    "meaning": "創造力",
+    "examples": [
+      { "en": "Art class encourages children's creativity.", "zh": "美術課鼓勵孩子的創造力。" },
+      { "en": "The project shows her amazing creativity.", "zh": "這個作品展現了她驚人的創造力。" }
+    ],
+    "img": "lightbulb made of colorful paint splashes",
+    "theme": "藝術設計",
+    "level": 3
+  },
+  {
+    "word": "artwork",
+    "kk": "[ˈɑrtˌwɝk]",
+    "pos": "n.",
+    "meaning": "藝術作品",
+    "examples": [
+      { "en": "Students displayed their artwork in the hall.", "zh": "學生們在大廳展出他們的藝術作品。" },
+      { "en": "This artwork was made from recycled metal.", "zh": "這件藝術作品是用回收金屬做成的。" }
+    ],
+    "img": "student artwork displayed on a school wall",
+    "theme": "藝術設計",
+    "level": 2
+  },
+  {
+    "word": "illustration",
+    "kk": "[ˌɪləˈstreʃən]",
+    "pos": "n.",
+    "meaning": "插畫;插圖",
+    "examples": [
+      { "en": "The children's book has lovely illustrations.", "zh": "這本童書有可愛的插畫。" },
+      { "en": "She draws illustrations for magazines.", "zh": "她為雜誌畫插圖。" }
+    ],
+    "img": "colorful hand-drawn children's book illustration",
+    "theme": "藝術設計",
+    "level": 3
+  },
+  {
+    "word": "shadow",
+    "kk": "[ˈʃædo]",
+    "pos": "n.",
+    "meaning": "陰影;影子",
+    "examples": [
+      { "en": "The tree casts a long shadow on the wall.", "zh": "那棵樹在牆上投下長長的影子。" },
+      { "en": "Adding shadows makes the drawing look real.", "zh": "加上陰影能讓畫看起來更真實。" }
+    ],
+    "img": "drawing of a ball with soft shadow underneath",
+    "theme": "藝術設計",
+    "level": 2
+  },
+  {
+    "word": "frame",
+    "kk": "[frem]",
+    "pos": "n./v.",
+    "meaning": "畫框;框住",
+    "examples": [
+      { "en": "She put the photo in a wooden frame.", "zh": "她把照片放進木製畫框。" },
+      { "en": "The window framed a lovely view.", "zh": "那扇窗框住了一幅美麗的景色。" }
+    ],
+    "img": "empty wooden picture frame on a wall",
+    "theme": "藝術設計",
+    "level": 2
+  },
+  {
+    "word": "highlight",
+    "kk": "[ˈhaɪˌlaɪt]",
+    "pos": "n./v.",
+    "meaning": "亮部;強調",
+    "examples": [
+      { "en": "The artist added white highlights to the eyes.", "zh": "畫家在眼睛加上白色亮部。" },
+      { "en": "Bright colors highlight the main figure.", "zh": "鮮豔的顏色突顯出主要人物。" }
+    ],
+    "img": "portrait sketch with bright white highlights",
+    "theme": "藝術設計",
+    "level": 3
+  },
+  {
+    "word": "vivid",
+    "kk": "[ˈvɪvɪd]",
+    "pos": "adj.",
+    "meaning": "鮮明的;生動的",
+    "examples": [
+      { "en": "The painting uses vivid red and orange.", "zh": "這幅畫用了鮮明的紅色與橙色。" },
+      { "en": "She has vivid memories of that summer.", "zh": "她對那個夏天有著生動的記憶。" }
+    ],
+    "img": "painting bursting with vivid bright colors",
+    "theme": "藝術設計",
+    "level": 3
+  },
+  {
+    "word": "faded",
+    "kk": "[ˈfedɪd]",
+    "pos": "adj.",
+    "meaning": "褪色的;暗淡的",
+    "examples": [
+      { "en": "The old poster looks faded and pale.", "zh": "這張舊海報看起來褪色又暗淡。" },
+      { "en": "She likes the faded colors of vintage photos.", "zh": "她喜歡復古照片那種褪色的色調。" }
+    ],
+    "img": "faded vintage poster with pale colors",
+    "theme": "藝術設計",
+    "level": 3
+  },
+  {
+    "word": "detail",
+    "kk": "[dɪˈtel]",
+    "pos": "n.",
+    "meaning": "細節",
+    "examples": [
+      { "en": "The drawing shows amazing detail.", "zh": "這幅畫展現了驚人的細節。" },
+      { "en": "Pay attention to small details in the design.", "zh": "設計時要注意微小的細節。" }
+    ],
+    "img": "close-up of fine detailed pen drawing",
+    "theme": "藝術設計",
+    "level": 2
+  },
+  {
+    "word": "compose",
+    "kk": "[kəmˈpoz]",
+    "pos": "v.",
+    "meaning": "構圖;創作",
+    "examples": [
+      { "en": "She carefully composed the photo before shooting.", "zh": "她在拍攝前仔細構圖。" },
+      { "en": "He composed a beautiful piece of music.", "zh": "他創作了一首優美的樂曲。" }
+    ],
+    "img": "photographer composing a shot through camera",
+    "theme": "藝術設計",
+    "level": 3
+  },
+  {
+    "word": "composition",
+    "kk": "[ˌkɑmpəˈzɪʃən]",
+    "pos": "n.",
+    "meaning": "構圖;佈局",
+    "examples": [
+      { "en": "The composition of this painting feels balanced.", "zh": "這幅畫的構圖顯得很平衡。" },
+      { "en": "Good composition guides the viewer's eye.", "zh": "好的構圖能引導觀者的視線。" }
+    ],
+    "img": "diagram showing balanced photo composition grid",
+    "theme": "藝術設計",
+    "level": 3
+  },
+  {
+    "word": "inspire",
+    "kk": "[ɪnˈspaɪr]",
+    "pos": "v.",
+    "meaning": "啟發;激發靈感",
+    "examples": [
+      { "en": "The sunset inspired her to paint.", "zh": "那片夕陽激發她提筆作畫。" },
+      { "en": "His work inspires young artists.", "zh": "他的作品啟發了年輕藝術家。" }
+    ],
+    "img": "artist gazing at a sunset for inspiration",
+    "theme": "藝術設計",
+    "level": 3
+  },
+  {
+    "word": "inspiration",
+    "kk": "[ˌɪnspəˈreʃən]",
+    "pos": "n.",
+    "meaning": "靈感;啟發",
+    "examples": [
+      { "en": "She found inspiration in nature.", "zh": "她從大自然中找到靈感。" },
+      { "en": "Travel gives him a lot of inspiration.", "zh": "旅行帶給他許多靈感。" }
+    ],
+    "img": "mood board with photos and color swatches",
+    "theme": "藝術設計",
+    "level": 3
+  },
+  {
+    "word": "modern",
+    "kk": "[ˈmɑdɚn]",
+    "pos": "adj.",
+    "meaning": "現代的",
+    "examples": [
+      { "en": "The gallery focuses on modern art.", "zh": "這間畫廊專注於現代藝術。" },
+      { "en": "Her house has a clean, modern design.", "zh": "她的房子有著簡潔的現代設計。" }
+    ],
+    "img": "minimalist modern art on a white wall",
+    "theme": "藝術設計",
+    "level": 2
+  },
+  {
+    "word": "traditional",
+    "kk": "[trəˈdɪʃən!]",
+    "pos": "adj.",
+    "meaning": "傳統的",
+    "examples": [
+      { "en": "He paints in a traditional Chinese style.", "zh": "他以傳統中國風格作畫。" },
+      { "en": "The festival keeps many traditional crafts alive.", "zh": "這個節慶讓許多傳統工藝得以延續。" }
+    ],
+    "img": "traditional ink painting of mountains",
+    "theme": "藝術設計",
+    "level": 2
+  },
+  {
+    "word": "elegant",
+    "kk": "[ˈɛləgənt]",
+    "pos": "adj.",
+    "meaning": "優雅的;雅致的",
+    "examples": [
+      { "en": "The poster has an elegant, simple look.", "zh": "這張海報有著優雅簡約的外觀。" },
+      { "en": "She wore an elegant black dress.", "zh": "她穿著一件優雅的黑色洋裝。" }
+    ],
+    "img": "elegant minimalist poster with thin gold lines",
+    "theme": "藝術設計",
+    "level": 3
+  },
+  {
+    "word": "display",
+    "kk": "[dɪˈsple]",
+    "pos": "n./v.",
+    "meaning": "展示;陳列",
+    "examples": [
+      { "en": "The paintings are on display until June.", "zh": "這些畫作展示到六月。" },
+      { "en": "They display their crafts at the market.", "zh": "他們在市集陳列自己的手工藝品。" }
+    ],
+    "img": "art pieces displayed on gallery stands",
+    "theme": "藝術設計",
+    "level": 2
+  },
+  {
+    "word": "collection",
+    "kk": "[kəˈlɛkʃən]",
+    "pos": "n.",
+    "meaning": "收藏;系列",
+    "examples": [
+      { "en": "The museum has a large collection of paintings.", "zh": "這間博物館收藏了大量畫作。" },
+      { "en": "She showed her new collection of designs.", "zh": "她展示了自己的新設計系列。" }
+    ],
+    "img": "wall covered with a collection of framed art",
+    "theme": "藝術設計",
+    "level": 2
+  },
+  {
+    "word": "vibrant",
+    "kk": "[ˈvaɪbrənt]",
+    "pos": "adj.",
+    "meaning": "鮮豔的;充滿活力的",
+    "examples": [
+      { "en": "The market is full of vibrant colors.", "zh": "市集裡充滿鮮豔的色彩。" },
+      { "en": "She painted the wall a vibrant pink.", "zh": "她把牆漆成鮮豔的粉紅色。" }
+    ],
+    "img": "vibrant colorful street mural",
+    "theme": "藝術設計",
+    "level": 3
+  },
+  {
+    "word": "blend",
+    "kk": "[blɛnd]",
+    "pos": "v./n.",
+    "meaning": "混合;調和",
+    "examples": [
+      { "en": "Blend the two colors for a soft look.", "zh": "把兩種顏色調和以呈現柔和效果。" },
+      { "en": "The design blends old and new styles.", "zh": "這個設計融合了新舊風格。" }
+    ],
+    "img": "two paint colors blending smoothly together",
+    "theme": "藝術設計",
+    "level": 2
+  },
+  {
+    "word": "canvas print",
+    "kk": "[ˈkænvəs prɪnt]",
+    "pos": "n.",
+    "meaning": "帆布印刷畫",
+    "examples": [
+      { "en": "She hung a canvas print of the ocean.", "zh": "她掛上一幅海洋的帆布印刷畫。" },
+      { "en": "Canvas prints are cheaper than originals.", "zh": "帆布印刷畫比原作便宜。" }
+    ],
+    "img": "canvas print of ocean waves on living room wall",
+    "theme": "藝術設計",
+    "level": 3
+  },
+  {
+    "word": "craft",
+    "kk": "[kræft]",
+    "pos": "n./v.",
+    "meaning": "工藝;手工製作",
+    "examples": [
+      { "en": "She sells handmade crafts online.", "zh": "她在網路上販售手工藝品。" },
+      { "en": "The vase was crafted from clay.", "zh": "這只花瓶是用黏土手工製成的。" }
+    ],
+    "img": "handmade clay pottery crafts on a shelf",
+    "theme": "藝術設計",
+    "level": 2
+  },
+  {
+    "word": "mural",
+    "kk": "[ˈmjʊrəl]",
+    "pos": "n.",
+    "meaning": "壁畫",
+    "examples": [
+      { "en": "A colorful mural covers the school wall.", "zh": "一幅彩色壁畫覆蓋了學校的牆面。" },
+      { "en": "Local artists painted the giant mural.", "zh": "當地藝術家繪製了這幅巨大的壁畫。" }
+    ],
+    "img": "large colorful mural on a city building wall",
+    "theme": "藝術設計",
+    "level": 3
+  },
+  {
+    "word": "logo",
+    "kk": "[ˈlogo]",
+    "pos": "n.",
+    "meaning": "標誌;商標",
+    "examples": [
+      { "en": "The new logo uses a simple blue shape.", "zh": "新標誌採用簡單的藍色圖形。" },
+      { "en": "A good logo is easy to remember.", "zh": "好的標誌容易讓人記住。" }
+    ],
+    "img": "clean minimalist blue brand logo design",
+    "theme": "藝術設計",
+    "level": 2
+  },
+  {
+    "word": "font",
+    "kk": "[fɑnt]",
+    "pos": "n.",
+    "meaning": "字體;字型",
+    "examples": [
+      { "en": "This font looks friendly and round.", "zh": "這款字體看起來友善又圓潤。" },
+      { "en": "Choose a clear font for the poster.", "zh": "為海報選一個清楚的字體。" }
+    ],
+    "img": "typography samples of different fonts",
+    "theme": "藝術設計",
+    "level": 2
+  },
+  {
+    "word": "symbol",
+    "kk": "[ˈsɪmb!]",
+    "pos": "n.",
+    "meaning": "符號;象徵",
+    "examples": [
+      { "en": "The heart is a symbol of love.", "zh": "愛心是愛的象徵。" },
+      { "en": "Each color in the design has a symbol meaning.", "zh": "設計中每種顏色都有象徵意義。" }
+    ],
+    "img": "simple graphic symbols on colored squares",
+    "theme": "藝術設計",
+    "level": 2
+  },
+  {
+    "word": "curator",
+    "kk": "[kjʊˈretɚ]",
+    "pos": "n.",
+    "meaning": "策展人;館長",
+    "examples": [
+      { "en": "The curator chose fifty works for the show.", "zh": "策展人為這場展覽挑選了五十件作品。" },
+      { "en": "She works as a curator at the museum.", "zh": "她在博物館擔任策展人。" }
+    ],
+    "img": "curator arranging paintings in a gallery",
+    "theme": "藝術設計",
+    "level": 3
+  },
+  {
+    "word": "aesthetic",
+    "kk": "[ɛsˈθɛtɪk]",
+    "pos": "n./adj.",
+    "meaning": "美學;美感的",
+    "examples": [
+      { "en": "The café has a calm, natural aesthetic.", "zh": "這間咖啡館有著平靜的自然美感。" },
+      { "en": "Her designs follow a clean aesthetic.", "zh": "她的設計走簡潔的美學風格。" }
+    ],
+    "img": "minimalist aesthetic interior with neutral tones",
+    "theme": "藝術設計",
+    "level": 3
+  }
+]

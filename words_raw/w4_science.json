@@ -1,0 +1,652 @@
+[
+  {
+    "word": "experiment",
+    "kk": "[ɪkˋspɛrəmənt]",
+    "pos": "n.",
+    "meaning": "實驗",
+    "examples": [
+      { "en": "We did an experiment to test the idea.", "zh": "我們做了一個實驗來驗證這個想法。" },
+      { "en": "The experiment took two hours to finish.", "zh": "這個實驗花了兩個小時才完成。" }
+    ],
+    "img": "scientist mixing liquids in test tubes",
+    "theme": "科學實驗",
+    "level": 2
+  },
+  {
+    "word": "observe",
+    "kk": "[əbˋzɝv]",
+    "pos": "v.",
+    "meaning": "觀察",
+    "examples": [
+      { "en": "Students observe the plant every day.", "zh": "學生每天觀察這株植物。" },
+      { "en": "We observed how the water changed color.", "zh": "我們觀察水如何變色。" }
+    ],
+    "img": "person looking through a magnifying glass",
+    "theme": "科學實驗",
+    "level": 2
+  },
+  {
+    "word": "hypothesis",
+    "kk": "[haɪˋpɑθəsɪs]",
+    "pos": "n.",
+    "meaning": "假設",
+    "examples": [
+      { "en": "Our hypothesis was that heat speeds it up.", "zh": "我們的假設是熱能加快它的速度。" },
+      { "en": "The results support the hypothesis.", "zh": "結果支持這個假設。" }
+    ],
+    "img": "notebook with a question mark and diagram",
+    "theme": "科學實驗",
+    "level": 3
+  },
+  {
+    "word": "data",
+    "kk": "[ˋdetə]",
+    "pos": "n.",
+    "meaning": "數據；資料",
+    "examples": [
+      { "en": "We collected data during the test.", "zh": "我們在測試時收集了數據。" },
+      { "en": "The data shows a clear pattern.", "zh": "這些數據顯示出明顯的規律。" }
+    ],
+    "img": "spreadsheet with numbers and charts",
+    "theme": "科學實驗",
+    "level": 2
+  },
+  {
+    "word": "measure",
+    "kk": "[ˋmɛʒɚ]",
+    "pos": "v.",
+    "meaning": "測量",
+    "examples": [
+      { "en": "Please measure the length of the wire.", "zh": "請測量這條電線的長度。" },
+      { "en": "We measure the temperature every hour.", "zh": "我們每小時測量一次溫度。" }
+    ],
+    "img": "hand using a ruler on a bench",
+    "theme": "科學實驗",
+    "level": 2
+  },
+  {
+    "word": "molecule",
+    "kk": "[ˋmɑləkjul]",
+    "pos": "n.",
+    "meaning": "分子",
+    "examples": [
+      { "en": "A water molecule has three atoms.", "zh": "一個水分子有三個原子。" },
+      { "en": "Heat makes the molecules move faster.", "zh": "熱使分子移動得更快。" }
+    ],
+    "img": "colorful ball-and-stick molecule model",
+    "theme": "科學實驗",
+    "level": 3
+  },
+  {
+    "word": "atom",
+    "kk": "[ˋætəm]",
+    "pos": "n.",
+    "meaning": "原子",
+    "examples": [
+      { "en": "Everything is made of tiny atoms.", "zh": "萬物都是由微小的原子組成。" },
+      { "en": "An atom has a center called a nucleus.", "zh": "原子有個中心叫做原子核。" }
+    ],
+    "img": "atom with orbiting electrons diagram",
+    "theme": "科學實驗",
+    "level": 3
+  },
+  {
+    "word": "chemical",
+    "kk": "[ˋkɛmɪk!]",
+    "pos": "n.",
+    "meaning": "化學物質",
+    "examples": [
+      { "en": "Wear gloves when you touch chemicals.", "zh": "碰化學物質時要戴手套。" },
+      { "en": "The two chemicals reacted quickly.", "zh": "這兩種化學物質很快就起反應。" }
+    ],
+    "img": "labeled glass bottles on a lab shelf",
+    "theme": "科學實驗",
+    "level": 2
+  },
+  {
+    "word": "reaction",
+    "kk": "[rɪˋækʃən]",
+    "pos": "n.",
+    "meaning": "反應",
+    "examples": [
+      { "en": "The reaction gave off a lot of heat.", "zh": "這個反應放出大量的熱。" },
+      { "en": "Mixing them starts a fast reaction.", "zh": "把它們混合會引發快速反應。" }
+    ],
+    "img": "bubbling flask with colored liquid",
+    "theme": "科學實驗",
+    "level": 2
+  },
+  {
+    "word": "element",
+    "kk": "[ˋɛləmənt]",
+    "pos": "n.",
+    "meaning": "元素",
+    "examples": [
+      { "en": "Oxygen is a common element in air.", "zh": "氧是空氣中常見的元素。" },
+      { "en": "Each element has its own symbol.", "zh": "每個元素都有自己的符號。" }
+    ],
+    "img": "periodic table of elements chart",
+    "theme": "科學實驗",
+    "level": 2
+  },
+  {
+    "word": "cell",
+    "kk": "[sɛl]",
+    "pos": "n.",
+    "meaning": "細胞",
+    "examples": [
+      { "en": "Every living thing is made of cells.", "zh": "每個生物都是由細胞構成。" },
+      { "en": "We looked at plant cells under a microscope.", "zh": "我們用顯微鏡觀察植物細胞。" }
+    ],
+    "img": "plant cell diagram with nucleus",
+    "theme": "科學實驗",
+    "level": 2
+  },
+  {
+    "word": "organism",
+    "kk": "[ˋɔrgən͵ɪzəm]",
+    "pos": "n.",
+    "meaning": "生物；有機體",
+    "examples": [
+      { "en": "A tiny organism can live in one drop of water.", "zh": "一滴水裡就能住著微小的生物。" },
+      { "en": "Some organisms need sunlight to grow.", "zh": "有些生物需要陽光才能生長。" }
+    ],
+    "img": "microscope view of tiny living creatures",
+    "theme": "科學實驗",
+    "level": 3
+  },
+  {
+    "word": "species",
+    "kk": "[ˋspiʃiz]",
+    "pos": "n.",
+    "meaning": "物種",
+    "examples": [
+      { "en": "This forest has many bird species.", "zh": "這座森林有許多鳥類物種。" },
+      { "en": "Scientists found a new species of fish.", "zh": "科學家發現了一種新的魚類物種。" }
+    ],
+    "img": "row of different animal species illustrations",
+    "theme": "科學實驗",
+    "level": 3
+  },
+  {
+    "word": "microscope",
+    "kk": "[ˋmaɪkrə͵skop]",
+    "pos": "n.",
+    "meaning": "顯微鏡",
+    "examples": [
+      { "en": "Put the sample under the microscope.", "zh": "把樣本放到顯微鏡下。" },
+      { "en": "The microscope makes small things look big.", "zh": "顯微鏡讓小東西看起來變大。" }
+    ],
+    "img": "student looking into a lab microscope",
+    "theme": "科學實驗",
+    "level": 2
+  },
+  {
+    "word": "laboratory",
+    "kk": "[ˋlæbrə͵tɔrɪ]",
+    "pos": "n.",
+    "meaning": "實驗室",
+    "examples": [
+      { "en": "No food is allowed in the laboratory.", "zh": "實驗室裡不准吃東西。" },
+      { "en": "She works in a science laboratory.", "zh": "她在科學實驗室工作。" }
+    ],
+    "img": "modern lab with benches and equipment",
+    "theme": "科學實驗",
+    "level": 2
+  },
+  {
+    "word": "temperature",
+    "kk": "[ˋtɛmprətʃɚ]",
+    "pos": "n.",
+    "meaning": "溫度",
+    "examples": [
+      { "en": "The temperature rose after ten minutes.", "zh": "十分鐘後溫度上升了。" },
+      { "en": "We record the temperature in a chart.", "zh": "我們把溫度記錄在表格裡。" }
+    ],
+    "img": "thermometer showing rising red line",
+    "theme": "科學實驗",
+    "level": 2
+  },
+  {
+    "word": "energy",
+    "kk": "[ˋɛnɚdʒɪ]",
+    "pos": "n.",
+    "meaning": "能量",
+    "examples": [
+      { "en": "The sun gives us light and energy.", "zh": "太陽給我們光和能量。" },
+      { "en": "Moving objects have energy.", "zh": "運動中的物體具有能量。" }
+    ],
+    "img": "glowing lightning bolt and battery",
+    "theme": "科學實驗",
+    "level": 2
+  },
+  {
+    "word": "force",
+    "kk": "[fors]",
+    "pos": "n.",
+    "meaning": "力",
+    "examples": [
+      { "en": "A push is a kind of force.", "zh": "推是一種力。" },
+      { "en": "The force moved the box across the floor.", "zh": "這個力把箱子推過地板。" }
+    ],
+    "img": "hand pushing a box with arrow",
+    "theme": "科學實驗",
+    "level": 2
+  },
+  {
+    "word": "gravity",
+    "kk": "[ˋgrævətɪ]",
+    "pos": "n.",
+    "meaning": "重力",
+    "examples": [
+      { "en": "Gravity pulls the apple to the ground.", "zh": "重力把蘋果拉向地面。" },
+      { "en": "There is less gravity on the moon.", "zh": "月球上的重力比較小。" }
+    ],
+    "img": "apple falling from tree to ground",
+    "theme": "科學實驗",
+    "level": 3
+  },
+  {
+    "word": "mass",
+    "kk": "[mæs]",
+    "pos": "n.",
+    "meaning": "質量",
+    "examples": [
+      { "en": "We measured the mass of each rock.", "zh": "我們測量了每塊石頭的質量。" },
+      { "en": "A bigger object often has more mass.", "zh": "較大的物體通常質量較大。" }
+    ],
+    "img": "balance scale weighing two objects",
+    "theme": "科學實驗",
+    "level": 3
+  },
+  {
+    "word": "volume",
+    "kk": "[ˋvɑljəm]",
+    "pos": "n.",
+    "meaning": "體積；容量",
+    "examples": [
+      { "en": "The bottle holds a large volume of water.", "zh": "這個瓶子能裝很大體積的水。" },
+      { "en": "We poured it in to check the volume.", "zh": "我們把它倒進去以確認容量。" }
+    ],
+    "img": "measuring cylinder filled with blue liquid",
+    "theme": "科學實驗",
+    "level": 2
+  },
+  {
+    "word": "liquid",
+    "kk": "[ˋlɪkwɪd]",
+    "pos": "n.",
+    "meaning": "液體",
+    "examples": [
+      { "en": "Water is a clear liquid.", "zh": "水是一種透明的液體。" },
+      { "en": "The ice turned into liquid.", "zh": "冰變成了液體。" }
+    ],
+    "img": "clear liquid poured into a beaker",
+    "theme": "科學實驗",
+    "level": 2
+  },
+  {
+    "word": "solid",
+    "kk": "[ˋsɑlɪd]",
+    "pos": "n.",
+    "meaning": "固體",
+    "examples": [
+      { "en": "Ice is water in its solid form.", "zh": "冰是水的固體形態。" },
+      { "en": "A rock is a hard solid.", "zh": "石頭是堅硬的固體。" }
+    ],
+    "img": "ice cube next to a stone",
+    "theme": "科學實驗",
+    "level": 2
+  },
+  {
+    "word": "gas",
+    "kk": "[gæs]",
+    "pos": "n.",
+    "meaning": "氣體",
+    "examples": [
+      { "en": "The water boiled and turned into gas.", "zh": "水沸騰後變成氣體。" },
+      { "en": "Air is a mix of many gases.", "zh": "空氣是多種氣體的混合物。" }
+    ],
+    "img": "steam rising from a hot kettle",
+    "theme": "科學實驗",
+    "level": 2
+  },
+  {
+    "word": "solution",
+    "kk": "[səˋluʃən]",
+    "pos": "n.",
+    "meaning": "溶液",
+    "examples": [
+      { "en": "Stir the salt to make a solution.", "zh": "攪拌鹽以製成溶液。" },
+      { "en": "The solution turned light blue.", "zh": "這個溶液變成淺藍色。" }
+    ],
+    "img": "beaker of blue liquid being stirred",
+    "theme": "科學實驗",
+    "level": 3
+  },
+  {
+    "word": "mixture",
+    "kk": "[ˋmɪkstʃɚ]",
+    "pos": "n.",
+    "meaning": "混合物",
+    "examples": [
+      { "en": "Sand and water make a simple mixture.", "zh": "沙和水構成一種簡單的混合物。" },
+      { "en": "We stirred the mixture slowly.", "zh": "我們慢慢地攪拌這個混合物。" }
+    ],
+    "img": "bowl of sand and water mixed together",
+    "theme": "科學實驗",
+    "level": 2
+  },
+  {
+    "word": "sample",
+    "kk": "[ˋsæmp!]",
+    "pos": "n.",
+    "meaning": "樣本",
+    "examples": [
+      { "en": "We took a water sample from the river.", "zh": "我們從河裡取了一份水樣本。" },
+      { "en": "Label each sample clearly.", "zh": "把每個樣本清楚地標示好。" }
+    ],
+    "img": "small test tubes with labels in a rack",
+    "theme": "科學實驗",
+    "level": 2
+  },
+  {
+    "word": "result",
+    "kk": "[rɪˋzʌlt]",
+    "pos": "n.",
+    "meaning": "結果",
+    "examples": [
+      { "en": "The result surprised the whole class.", "zh": "這個結果讓全班都很驚訝。" },
+      { "en": "We wrote down our results in a table.", "zh": "我們把結果寫進表格裡。" }
+    ],
+    "img": "chart with a highlighted final number",
+    "theme": "科學實驗",
+    "level": 2
+  },
+  {
+    "word": "record",
+    "kk": "[rɪˋkɔrd]",
+    "pos": "v.",
+    "meaning": "記錄",
+    "examples": [
+      { "en": "Record the time when it changes.", "zh": "在它變化時記錄下時間。" },
+      { "en": "She recorded every number carefully.", "zh": "她仔細地記錄下每個數字。" }
+    ],
+    "img": "hand writing numbers on a clipboard",
+    "theme": "科學實驗",
+    "level": 2
+  },
+  {
+    "word": "predict",
+    "kk": "[prɪˋdɪkt]",
+    "pos": "v.",
+    "meaning": "預測",
+    "examples": [
+      { "en": "Can you predict what will happen next?", "zh": "你能預測接下來會發生什麼嗎?" },
+      { "en": "We predicted the ice would melt fast.", "zh": "我們預測冰會很快融化。" }
+    ],
+    "img": "person pointing at a rising graph line",
+    "theme": "科學實驗",
+    "level": 3
+  },
+  {
+    "word": "compare",
+    "kk": "[kəmˋpɛr]",
+    "pos": "v.",
+    "meaning": "比較",
+    "examples": [
+      { "en": "Compare the two samples side by side.", "zh": "把兩個樣本並排比較。" },
+      { "en": "We compared the old and new results.", "zh": "我們比較了舊的和新的結果。" }
+    ],
+    "img": "two beakers placed side by side",
+    "theme": "科學實驗",
+    "level": 2
+  },
+  {
+    "word": "analyze",
+    "kk": "[ˋæn!͵aɪz]",
+    "pos": "v.",
+    "meaning": "分析",
+    "examples": [
+      { "en": "Let's analyze the data together.", "zh": "我們一起來分析這些數據。" },
+      { "en": "She analyzed the test results carefully.", "zh": "她仔細分析了測試結果。" }
+    ],
+    "img": "person studying charts on a screen",
+    "theme": "科學實驗",
+    "level": 3
+  },
+  {
+    "word": "process",
+    "kk": "[ˋprɑsɛs]",
+    "pos": "n.",
+    "meaning": "過程",
+    "examples": [
+      { "en": "The whole process takes three steps.", "zh": "整個過程分成三個步驟。" },
+      { "en": "We watched the growing process daily.", "zh": "我們每天觀察生長的過程。" }
+    ],
+    "img": "flow chart with arrows and steps",
+    "theme": "科學實驗",
+    "level": 2
+  },
+  {
+    "word": "method",
+    "kk": "[ˋmɛθəd]",
+    "pos": "n.",
+    "meaning": "方法",
+    "examples": [
+      { "en": "We used a simple method to test it.", "zh": "我們用一個簡單的方法來測試。" },
+      { "en": "This method gives clear results.", "zh": "這個方法能得到清楚的結果。" }
+    ],
+    "img": "numbered steps written on a whiteboard",
+    "theme": "科學實驗",
+    "level": 2
+  },
+  {
+    "word": "evidence",
+    "kk": "[ˋɛvədəns]",
+    "pos": "n.",
+    "meaning": "證據",
+    "examples": [
+      { "en": "The data gives strong evidence.", "zh": "這些數據提供了有力的證據。" },
+      { "en": "We need more evidence to be sure.", "zh": "我們需要更多證據才能確定。" }
+    ],
+    "img": "magnifying glass over a document",
+    "theme": "科學實驗",
+    "level": 3
+  },
+  {
+    "word": "conclusion",
+    "kk": "[kənˋkluʒən]",
+    "pos": "n.",
+    "meaning": "結論",
+    "examples": [
+      { "en": "Our conclusion was that heat helps.", "zh": "我們的結論是熱能有幫助。" },
+      { "en": "Write your conclusion at the end.", "zh": "在最後寫下你的結論。" }
+    ],
+    "img": "checkmark at bottom of a report page",
+    "theme": "科學實驗",
+    "level": 3
+  },
+  {
+    "word": "theory",
+    "kk": "[ˋθiərɪ]",
+    "pos": "n.",
+    "meaning": "理論",
+    "examples": [
+      { "en": "The theory explains why it happens.", "zh": "這個理論解釋了為什麼會發生。" },
+      { "en": "Many tests support this theory.", "zh": "許多測試支持這個理論。" }
+    ],
+    "img": "chalkboard with equations and diagrams",
+    "theme": "科學實驗",
+    "level": 3
+  },
+  {
+    "word": "structure",
+    "kk": "[ˋstrʌktʃɚ]",
+    "pos": "n.",
+    "meaning": "結構",
+    "examples": [
+      { "en": "We studied the structure of the leaf.", "zh": "我們研究了葉子的結構。" },
+      { "en": "The model shows the structure clearly.", "zh": "這個模型清楚地呈現了結構。" }
+    ],
+    "img": "cross-section diagram of a leaf",
+    "theme": "科學實驗",
+    "level": 3
+  },
+  {
+    "word": "function",
+    "kk": "[ˋfʌŋkʃən]",
+    "pos": "n.",
+    "meaning": "功能;作用",
+    "examples": [
+      { "en": "The function of roots is to take in water.", "zh": "根的功能是吸收水分。" },
+      { "en": "Each part has its own function.", "zh": "每個部分都有它自己的功能。" }
+    ],
+    "img": "labeled plant with roots and arrows",
+    "theme": "科學實驗",
+    "level": 3
+  },
+  {
+    "word": "tissue",
+    "kk": "[ˋtɪʃu]",
+    "pos": "n.",
+    "meaning": "組織",
+    "examples": [
+      { "en": "Muscle tissue helps us move.", "zh": "肌肉組織幫助我們活動。" },
+      { "en": "This tissue is made of many cells.", "zh": "這個組織由許多細胞構成。" }
+    ],
+    "img": "microscope slide of pink tissue",
+    "theme": "科學實驗",
+    "level": 3
+  },
+  {
+    "word": "bacteria",
+    "kk": "[bækˋtɪrɪə]",
+    "pos": "n.",
+    "meaning": "細菌",
+    "examples": [
+      { "en": "Some bacteria can make us sick.", "zh": "有些細菌會讓我們生病。" },
+      { "en": "We grew bacteria in a dish.", "zh": "我們在培養皿裡培養細菌。" }
+    ],
+    "img": "petri dish with growing bacteria",
+    "theme": "科學實驗",
+    "level": 3
+  },
+  {
+    "word": "acid",
+    "kk": "[ˋæsɪd]",
+    "pos": "n.",
+    "meaning": "酸",
+    "examples": [
+      { "en": "Lemon juice is a weak acid.", "zh": "檸檬汁是一種弱酸。" },
+      { "en": "The acid turned the paper red.", "zh": "這個酸讓試紙變成紅色。" }
+    ],
+    "img": "dropper adding liquid to red test paper",
+    "theme": "科學實驗",
+    "level": 3
+  },
+  {
+    "word": "boil",
+    "kk": "[bɔɪl]",
+    "pos": "v.",
+    "meaning": "沸騰;煮沸",
+    "examples": [
+      { "en": "Water boils at one hundred degrees.", "zh": "水在一百度時沸騰。" },
+      { "en": "Boil the liquid until it bubbles.", "zh": "把液體煮到冒泡為止。" }
+    ],
+    "img": "beaker of bubbling water over flame",
+    "theme": "科學實驗",
+    "level": 2
+  },
+  {
+    "word": "melt",
+    "kk": "[mɛlt]",
+    "pos": "v.",
+    "meaning": "融化",
+    "examples": [
+      { "en": "The ice began to melt in the sun.", "zh": "冰在太陽下開始融化。" },
+      { "en": "We timed how fast it melted.", "zh": "我們計算它融化的速度。" }
+    ],
+    "img": "ice cube melting into a puddle",
+    "theme": "科學實驗",
+    "level": 2
+  },
+  {
+    "word": "dissolve",
+    "kk": "[dɪˋzɑlv]",
+    "pos": "v.",
+    "meaning": "溶解",
+    "examples": [
+      { "en": "Salt will dissolve in warm water.", "zh": "鹽會溶解在溫水中。" },
+      { "en": "Stir until the sugar dissolves.", "zh": "攪拌到糖溶解為止。" }
+    ],
+    "img": "sugar disappearing into a glass of water",
+    "theme": "科學實驗",
+    "level": 3
+  },
+  {
+    "word": "absorb",
+    "kk": "[əbˋsɔrb]",
+    "pos": "v.",
+    "meaning": "吸收",
+    "examples": [
+      { "en": "The sponge can absorb a lot of water.", "zh": "這塊海綿能吸收很多水。" },
+      { "en": "Roots absorb water from the soil.", "zh": "根從土壤中吸收水分。" }
+    ],
+    "img": "sponge soaking up spilled water",
+    "theme": "科學實驗",
+    "level": 3
+  },
+  {
+    "word": "flow",
+    "kk": "[flo]",
+    "pos": "v.",
+    "meaning": "流動",
+    "examples": [
+      { "en": "Watch how the water flows down.", "zh": "觀察水如何往下流動。" },
+      { "en": "Electricity flows through the wire.", "zh": "電流流過這條電線。" }
+    ],
+    "img": "water flowing through clear tubes",
+    "theme": "科學實驗",
+    "level": 2
+  },
+  {
+    "word": "current",
+    "kk": "[ˋkɝənt]",
+    "pos": "n.",
+    "meaning": "電流",
+    "examples": [
+      { "en": "The current makes the small bulb light up.", "zh": "電流讓小燈泡亮起來。" },
+      { "en": "We measured the current in the circuit.", "zh": "我們測量了電路中的電流。" }
+    ],
+    "img": "simple circuit with battery and bulb",
+    "theme": "科學實驗",
+    "level": 3
+  },
+  {
+    "word": "average",
+    "kk": "[ˋævərɪdʒ]",
+    "pos": "n.",
+    "meaning": "平均值",
+    "examples": [
+      { "en": "We found the average of all the numbers.", "zh": "我們算出所有數字的平均值。" },
+      { "en": "The average was close to ten.", "zh": "平均值接近十。" }
+    ],
+    "img": "calculator next to a list of numbers",
+    "theme": "科學實驗",
+    "level": 2
+  },
+  {
+    "word": "accurate",
+    "kk": "[ˋækjərɪt]",
+    "pos": "adj.",
+    "meaning": "準確的",
+    "examples": [
+      { "en": "We need an accurate measurement.", "zh": "我們需要準確的測量。" },
+      { "en": "The scale gives accurate numbers.", "zh": "這個秤能給出準確的數字。" }
+    ],
+    "img": "digital scale showing an exact reading",
+    "theme": "科學實驗",
+    "level": 3
+  }
+]

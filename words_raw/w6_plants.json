@@ -1,0 +1,652 @@
+[
+  {
+    "word": "petal",
+    "kk": "[ˋpɛtḷ]",
+    "pos": "n.",
+    "meaning": "花瓣",
+    "examples": [
+      { "en": "The rose lost a petal in the wind.", "zh": "玫瑰在風中掉了一片花瓣。" },
+      { "en": "She pressed a soft petal in her book.", "zh": "她把一片柔軟的花瓣壓在書裡。" }
+    ],
+    "img": "single pink flower petal close-up",
+    "theme": "植物花木",
+    "level": 2
+  },
+  {
+    "word": "blossom",
+    "kk": "[ˋblɑsəm]",
+    "pos": "n./v.",
+    "meaning": "花;開花",
+    "examples": [
+      { "en": "The cherry trees are full of blossom.", "zh": "櫻花樹上開滿了花。" },
+      { "en": "The apple tree blossoms every spring.", "zh": "這棵蘋果樹每年春天開花。" }
+    ],
+    "img": "cherry blossom branch in spring",
+    "theme": "植物花木",
+    "level": 2
+  },
+  {
+    "word": "bloom",
+    "kk": "[blum]",
+    "pos": "v./n.",
+    "meaning": "綻放;花朵",
+    "examples": [
+      { "en": "The tulips bloom in early April.", "zh": "鬱金香在四月初綻放。" },
+      { "en": "The garden is in full bloom now.", "zh": "花園現在正盛開。" }
+    ],
+    "img": "field of blooming tulips",
+    "theme": "植物花木",
+    "level": 2
+  },
+  {
+    "word": "bud",
+    "kk": "[bʌd]",
+    "pos": "n.",
+    "meaning": "花苞;芽",
+    "examples": [
+      { "en": "A tiny bud appeared on the branch.", "zh": "枝條上冒出一個小花苞。" },
+      { "en": "The buds will open in a few days.", "zh": "這些花苞過幾天就會綻開。" }
+    ],
+    "img": "flower bud about to open",
+    "theme": "植物花木",
+    "level": 2
+  },
+  {
+    "word": "stem",
+    "kk": "[stɛm]",
+    "pos": "n.",
+    "meaning": "莖;花梗",
+    "examples": [
+      { "en": "She cut the stem before putting the flower in water.", "zh": "她把花插進水裡前先剪了花梗。" },
+      { "en": "The long stem bent under the heavy flower.", "zh": "長長的莖在沉重的花下彎了。" }
+    ],
+    "img": "green flower stem with leaves",
+    "theme": "植物花木",
+    "level": 2
+  },
+  {
+    "word": "thorn",
+    "kk": "[θɔrn]",
+    "pos": "n.",
+    "meaning": "刺;荊棘",
+    "examples": [
+      { "en": "A thorn pricked her finger.", "zh": "一根刺扎到她的手指。" },
+      { "en": "Every rose has its thorns.", "zh": "每朵玫瑰都有刺。" }
+    ],
+    "img": "sharp thorns on rose stem",
+    "theme": "植物花木",
+    "level": 2
+  },
+  {
+    "word": "root",
+    "kk": "[rut]",
+    "pos": "n.",
+    "meaning": "根",
+    "examples": [
+      { "en": "The tree's roots are deep in the soil.", "zh": "這棵樹的根深入土壤。" },
+      { "en": "Water helps the roots grow strong.", "zh": "水能幫助根長得強壯。" }
+    ],
+    "img": "tree roots spreading underground",
+    "theme": "植物花木",
+    "level": 2
+  },
+  {
+    "word": "trunk",
+    "kk": "[trʌŋk]",
+    "pos": "n.",
+    "meaning": "樹幹",
+    "examples": [
+      { "en": "The old oak has a thick trunk.", "zh": "這棵老橡樹有粗壯的樹幹。" },
+      { "en": "He carved his name into the trunk.", "zh": "他把名字刻在樹幹上。" }
+    ],
+    "img": "thick tree trunk in forest",
+    "theme": "植物花木",
+    "level": 2
+  },
+  {
+    "word": "branch",
+    "kk": "[bræntʃ]",
+    "pos": "n.",
+    "meaning": "樹枝",
+    "examples": [
+      { "en": "A bird sat on the highest branch.", "zh": "一隻鳥停在最高的樹枝上。" },
+      { "en": "The branch broke under the snow.", "zh": "樹枝在雪的重量下折斷了。" }
+    ],
+    "img": "tree branch with green leaves",
+    "theme": "植物花木",
+    "level": 2
+  },
+  {
+    "word": "twig",
+    "kk": "[twɪg]",
+    "pos": "n.",
+    "meaning": "細枝;嫩枝",
+    "examples": [
+      { "en": "The bird built its nest from small twigs.", "zh": "那隻鳥用小細枝築巢。" },
+      { "en": "A dry twig snapped under my foot.", "zh": "一根乾枯的細枝在我腳下折斷。" }
+    ],
+    "img": "small dry twigs on ground",
+    "theme": "植物花木",
+    "level": 3
+  },
+  {
+    "word": "bark",
+    "kk": "[bɑrk]",
+    "pos": "n.",
+    "meaning": "樹皮",
+    "examples": [
+      { "en": "The bark of the pine tree is rough.", "zh": "松樹的樹皮很粗糙。" },
+      { "en": "Insects hide under the loose bark.", "zh": "昆蟲藏在鬆脫的樹皮下。" }
+    ],
+    "img": "rough tree bark texture close-up",
+    "theme": "植物花木",
+    "level": 3
+  },
+  {
+    "word": "leaf",
+    "kk": "[lif]",
+    "pos": "n.",
+    "meaning": "葉子",
+    "examples": [
+      { "en": "A yellow leaf fell to the ground.", "zh": "一片黃葉落到地上。" },
+      { "en": "Each leaf turns red in autumn.", "zh": "每片葉子在秋天都會轉紅。" }
+    ],
+    "img": "single green leaf with veins",
+    "theme": "植物花木",
+    "level": 2
+  },
+  {
+    "word": "seed",
+    "kk": "[sid]",
+    "pos": "n.",
+    "meaning": "種子",
+    "examples": [
+      { "en": "She planted the seeds in a small pot.", "zh": "她把種子種在小盆裡。" },
+      { "en": "Each seed can grow into a plant.", "zh": "每顆種子都能長成一株植物。" }
+    ],
+    "img": "hand holding tiny plant seeds",
+    "theme": "植物花木",
+    "level": 2
+  },
+  {
+    "word": "sprout",
+    "kk": "[spraʊt]",
+    "pos": "v./n.",
+    "meaning": "發芽;嫩芽",
+    "examples": [
+      { "en": "The beans sprouted after three days.", "zh": "豆子三天後就發芽了。" },
+      { "en": "Tiny green sprouts pushed through the soil.", "zh": "小小的綠芽從土裡冒了出來。" }
+    ],
+    "img": "green sprout emerging from soil",
+    "theme": "植物花木",
+    "level": 3
+  },
+  {
+    "word": "seedling",
+    "kk": "[ˋsidlɪŋ]",
+    "pos": "n.",
+    "meaning": "幼苗",
+    "examples": [
+      { "en": "The seedlings need sunlight to grow.", "zh": "幼苗需要陽光才能生長。" },
+      { "en": "He moved the seedlings to the garden.", "zh": "他把幼苗移到花園裡。" }
+    ],
+    "img": "row of young green seedlings in tray",
+    "theme": "植物花木",
+    "level": 3
+  },
+  {
+    "word": "pollen",
+    "kk": "[ˋpɑlən]",
+    "pos": "n.",
+    "meaning": "花粉",
+    "examples": [
+      { "en": "Bees carry pollen from flower to flower.", "zh": "蜜蜂把花粉從一朵花帶到另一朵花。" },
+      { "en": "Yellow pollen covered the car.", "zh": "黃色的花粉蓋滿了車子。" }
+    ],
+    "img": "bee covered in yellow pollen on flower",
+    "theme": "植物花木",
+    "level": 3
+  },
+  {
+    "word": "nectar",
+    "kk": "[ˋnɛktɚ]",
+    "pos": "n.",
+    "meaning": "花蜜",
+    "examples": [
+      { "en": "Butterflies drink nectar from the flowers.", "zh": "蝴蝶從花朵中吸食花蜜。" },
+      { "en": "The nectar is sweet and sticky.", "zh": "花蜜又甜又黏。" }
+    ],
+    "img": "butterfly sipping nectar from flower",
+    "theme": "植物花木",
+    "level": 3
+  },
+  {
+    "word": "vine",
+    "kk": "[vaɪn]",
+    "pos": "n.",
+    "meaning": "藤蔓",
+    "examples": [
+      { "en": "A green vine climbed up the wall.", "zh": "一條綠色藤蔓爬上了牆。" },
+      { "en": "Grapes grow on this vine.", "zh": "葡萄長在這條藤蔓上。" }
+    ],
+    "img": "climbing green vine on wall",
+    "theme": "植物花木",
+    "level": 2
+  },
+  {
+    "word": "bush",
+    "kk": "[bʊʃ]",
+    "pos": "n.",
+    "meaning": "灌木叢",
+    "examples": [
+      { "en": "A rabbit hid behind the bush.", "zh": "一隻兔子躲在灌木叢後面。" },
+      { "en": "The rose bush is by the gate.", "zh": "玫瑰灌木叢在門邊。" }
+    ],
+    "img": "green garden bush with flowers",
+    "theme": "植物花木",
+    "level": 2
+  },
+  {
+    "word": "shrub",
+    "kk": "[ʃrʌb]",
+    "pos": "n.",
+    "meaning": "灌木",
+    "examples": [
+      { "en": "They planted small shrubs along the path.", "zh": "他們沿著小徑種了小灌木。" },
+      { "en": "This shrub keeps its leaves all year.", "zh": "這種灌木整年都有葉子。" }
+    ],
+    "img": "trimmed garden shrub bush",
+    "theme": "植物花木",
+    "level": 3
+  },
+  {
+    "word": "fern",
+    "kk": "[fɝn]",
+    "pos": "n.",
+    "meaning": "蕨類",
+    "examples": [
+      { "en": "Ferns grow well in shady places.", "zh": "蕨類在陰涼的地方長得好。" },
+      { "en": "The green fern hung by the window.", "zh": "綠色的蕨類掛在窗邊。" }
+    ],
+    "img": "green fern leaves in shade",
+    "theme": "植物花木",
+    "level": 3
+  },
+  {
+    "word": "moss",
+    "kk": "[mɔs]",
+    "pos": "n.",
+    "meaning": "苔蘚",
+    "examples": [
+      { "en": "Green moss covered the old stone.", "zh": "綠色的苔蘚蓋滿了老石頭。" },
+      { "en": "Moss grows where it is damp.", "zh": "苔蘚長在潮濕的地方。" }
+    ],
+    "img": "green moss on rock surface",
+    "theme": "植物花木",
+    "level": 3
+  },
+  {
+    "word": "cactus",
+    "kk": "[ˋkæktəs]",
+    "pos": "n.",
+    "meaning": "仙人掌",
+    "examples": [
+      { "en": "A cactus can live with very little water.", "zh": "仙人掌只需要很少的水就能活。" },
+      { "en": "Don't touch the cactus—it has spines.", "zh": "別碰仙人掌，它有刺。" }
+    ],
+    "img": "small potted cactus with spines",
+    "theme": "植物花木",
+    "level": 2
+  },
+  {
+    "word": "sunflower",
+    "kk": "[ˋsʌnͺflaʊɚ]",
+    "pos": "n.",
+    "meaning": "向日葵",
+    "examples": [
+      { "en": "The sunflower turns to face the sun.", "zh": "向日葵會轉向面對太陽。" },
+      { "en": "Tall sunflowers filled the field.", "zh": "高大的向日葵開滿了田野。" }
+    ],
+    "img": "bright yellow sunflower in field",
+    "theme": "植物花木",
+    "level": 2
+  },
+  {
+    "word": "daisy",
+    "kk": "[ˋdezɪ]",
+    "pos": "n.",
+    "meaning": "雛菊",
+    "examples": [
+      { "en": "She picked a white daisy from the lawn.", "zh": "她從草坪上摘了一朵白雛菊。" },
+      { "en": "Daisies grow easily in the yard.", "zh": "雛菊在院子裡很容易生長。" }
+    ],
+    "img": "white daisy flower on grass",
+    "theme": "植物花木",
+    "level": 2
+  },
+  {
+    "word": "tulip",
+    "kk": "[ˋtjulɪp]",
+    "pos": "n.",
+    "meaning": "鬱金香",
+    "examples": [
+      { "en": "Red tulips lined the garden path.", "zh": "紅色的鬱金香排在花園小徑兩旁。" },
+      { "en": "Tulips bloom in the spring.", "zh": "鬱金香在春天綻放。" }
+    ],
+    "img": "colorful tulips in a garden",
+    "theme": "植物花木",
+    "level": 2
+  },
+  {
+    "word": "lily",
+    "kk": "[ˋlɪlɪ]",
+    "pos": "n.",
+    "meaning": "百合",
+    "examples": [
+      { "en": "The white lily has a sweet smell.", "zh": "白百合有香甜的氣味。" },
+      { "en": "She placed a lily in the vase.", "zh": "她把一朵百合放進花瓶裡。" }
+    ],
+    "img": "white lily flower close-up",
+    "theme": "植物花木",
+    "level": 2
+  },
+  {
+    "word": "orchid",
+    "kk": "[ˋɔrkɪd]",
+    "pos": "n.",
+    "meaning": "蘭花",
+    "examples": [
+      { "en": "The orchid needs careful watering.", "zh": "蘭花需要小心澆水。" },
+      { "en": "A purple orchid sat on her desk.", "zh": "一盆紫色蘭花放在她桌上。" }
+    ],
+    "img": "purple orchid flower in pot",
+    "theme": "植物花木",
+    "level": 3
+  },
+  {
+    "word": "jasmine",
+    "kk": "[ˋdʒæsmɪn]",
+    "pos": "n.",
+    "meaning": "茉莉花",
+    "examples": [
+      { "en": "The jasmine smells wonderful at night.", "zh": "茉莉花在夜裡香氣宜人。" },
+      { "en": "White jasmine climbed the fence.", "zh": "白色的茉莉花爬上了籬笆。" }
+    ],
+    "img": "white jasmine flowers on vine",
+    "theme": "植物花木",
+    "level": 3
+  },
+  {
+    "word": "maple",
+    "kk": "[ˋmepḷ]",
+    "pos": "n.",
+    "meaning": "楓樹",
+    "examples": [
+      { "en": "The maple leaves turn red in fall.", "zh": "楓葉在秋天轉紅。" },
+      { "en": "We sat under a tall maple tree.", "zh": "我們坐在一棵高大的楓樹下。" }
+    ],
+    "img": "red maple tree in autumn",
+    "theme": "植物花木",
+    "level": 2
+  },
+  {
+    "word": "oak",
+    "kk": "[ok]",
+    "pos": "n.",
+    "meaning": "橡樹",
+    "examples": [
+      { "en": "The old oak stood by the river.", "zh": "那棵老橡樹立在河邊。" },
+      { "en": "Oak wood is very strong.", "zh": "橡木非常堅固。" }
+    ],
+    "img": "large oak tree with wide branches",
+    "theme": "植物花木",
+    "level": 2
+  },
+  {
+    "word": "pine",
+    "kk": "[paɪn]",
+    "pos": "n.",
+    "meaning": "松樹",
+    "examples": [
+      { "en": "Pine trees stay green all winter.", "zh": "松樹整個冬天都是綠的。" },
+      { "en": "The air smelled of fresh pine.", "zh": "空氣中有清新的松樹味。" }
+    ],
+    "img": "tall pine trees in forest",
+    "theme": "植物花木",
+    "level": 2
+  },
+  {
+    "word": "willow",
+    "kk": "[ˋwɪlo]",
+    "pos": "n.",
+    "meaning": "柳樹",
+    "examples": [
+      { "en": "The willow's branches hang over the pond.", "zh": "柳樹的枝條垂在池塘上方。" },
+      { "en": "A soft wind moved the willow leaves.", "zh": "微風吹動柳樹的葉子。" }
+    ],
+    "img": "weeping willow tree by water",
+    "theme": "植物花木",
+    "level": 3
+  },
+  {
+    "word": "bamboo",
+    "kk": "[bæmˋbu]",
+    "pos": "n.",
+    "meaning": "竹子",
+    "examples": [
+      { "en": "Bamboo grows very quickly.", "zh": "竹子長得很快。" },
+      { "en": "Pandas love to eat bamboo.", "zh": "熊貓喜歡吃竹子。" }
+    ],
+    "img": "green bamboo forest stalks",
+    "theme": "植物花木",
+    "level": 2
+  },
+  {
+    "word": "palm",
+    "kk": "[pɑm]",
+    "pos": "n.",
+    "meaning": "棕櫚樹",
+    "examples": [
+      { "en": "Palm trees grow along the beach.", "zh": "棕櫚樹沿著海灘生長。" },
+      { "en": "We rested under a shady palm.", "zh": "我們在一棵遮陰的棕櫚樹下休息。" }
+    ],
+    "img": "palm trees on tropical beach",
+    "theme": "植物花木",
+    "level": 2
+  },
+  {
+    "word": "ivy",
+    "kk": "[ˋaɪvɪ]",
+    "pos": "n.",
+    "meaning": "常春藤",
+    "examples": [
+      { "en": "Ivy covered the whole brick wall.", "zh": "常春藤蓋滿了整面磚牆。" },
+      { "en": "Green ivy grows around the window.", "zh": "綠色的常春藤爬滿窗戶四周。" }
+    ],
+    "img": "green ivy climbing brick wall",
+    "theme": "植物花木",
+    "level": 3
+  },
+  {
+    "word": "plant",
+    "kk": "[plænt]",
+    "pos": "v./n.",
+    "meaning": "種植;植物",
+    "examples": [
+      { "en": "We plant flowers every spring.", "zh": "我們每年春天種花。" },
+      { "en": "She keeps a small plant on her desk.", "zh": "她桌上養了一株小植物。" }
+    ],
+    "img": "person planting flowers in garden",
+    "theme": "植物花木",
+    "level": 2
+  },
+  {
+    "word": "water",
+    "kk": "[ˋwɔtɚ]",
+    "pos": "v.",
+    "meaning": "澆水",
+    "examples": [
+      { "en": "Remember to water the plants daily.", "zh": "記得每天為植物澆水。" },
+      { "en": "He waters the garden every morning.", "zh": "他每天早上為花園澆水。" }
+    ],
+    "img": "watering can pouring on plants",
+    "theme": "植物花木",
+    "level": 2
+  },
+  {
+    "word": "prune",
+    "kk": "[prun]",
+    "pos": "v.",
+    "meaning": "修剪(枝葉)",
+    "examples": [
+      { "en": "You should prune the tree in winter.", "zh": "你應該在冬天修剪這棵樹。" },
+      { "en": "She pruned the dead branches away.", "zh": "她把枯枝修剪掉了。" }
+    ],
+    "img": "gardener pruning branches with shears",
+    "theme": "植物花木",
+    "level": 3
+  },
+  {
+    "word": "weed",
+    "kk": "[wid]",
+    "pos": "n./v.",
+    "meaning": "雜草;除草",
+    "examples": [
+      { "en": "Pull the weeds out of the flower bed.", "zh": "把花圃裡的雜草拔掉。" },
+      { "en": "He weeds the garden on weekends.", "zh": "他週末會替花園除草。" }
+    ],
+    "img": "hands pulling weeds from soil",
+    "theme": "植物花木",
+    "level": 2
+  },
+  {
+    "word": "transplant",
+    "kk": "[trænsˋplænt]",
+    "pos": "v.",
+    "meaning": "移植",
+    "examples": [
+      { "en": "We need to transplant the tree to a bigger spot.", "zh": "我們需要把這棵樹移植到更大的地方。" },
+      { "en": "She transplanted the seedlings into pots.", "zh": "她把幼苗移植到盆子裡。" }
+    ],
+    "img": "hands transplanting seedling into pot",
+    "theme": "植物花木",
+    "level": 3
+  },
+  {
+    "word": "wilt",
+    "kk": "[wɪlt]",
+    "pos": "v.",
+    "meaning": "枯萎;凋謝",
+    "examples": [
+      { "en": "The flowers wilt without water.", "zh": "花朵沒有水就會枯萎。" },
+      { "en": "The leaves wilted in the hot sun.", "zh": "葉子在烈日下凋萎了。" }
+    ],
+    "img": "wilting flower drooping in vase",
+    "theme": "植物花木",
+    "level": 3
+  },
+  {
+    "word": "greenhouse",
+    "kk": "[ˋgrinͺhaʊs]",
+    "pos": "n.",
+    "meaning": "溫室",
+    "examples": [
+      { "en": "They grow tomatoes in the greenhouse.", "zh": "他們在溫室裡種番茄。" },
+      { "en": "The greenhouse stays warm in winter.", "zh": "溫室在冬天保持溫暖。" }
+    ],
+    "img": "glass greenhouse full of plants",
+    "theme": "植物花木",
+    "level": 3
+  },
+  {
+    "word": "soil",
+    "kk": "[sɔɪl]",
+    "pos": "n.",
+    "meaning": "土壤",
+    "examples": [
+      { "en": "Good soil helps plants grow.", "zh": "好的土壤能幫助植物生長。" },
+      { "en": "She dug a hole in the soft soil.", "zh": "她在鬆軟的土壤裡挖了個洞。" }
+    ],
+    "img": "hands holding dark garden soil",
+    "theme": "植物花木",
+    "level": 2
+  },
+  {
+    "word": "pot",
+    "kk": "[pɑt]",
+    "pos": "n.",
+    "meaning": "花盆",
+    "examples": [
+      { "en": "She put the plant in a clay pot.", "zh": "她把植物放進陶盆裡。" },
+      { "en": "The pot was too small for the roots.", "zh": "這個花盆對根來說太小了。" }
+    ],
+    "img": "clay flower pot with plant",
+    "theme": "植物花木",
+    "level": 2
+  },
+  {
+    "word": "blossoming",
+    "kk": "[ˋblɑsəmɪŋ]",
+    "pos": "adj.",
+    "meaning": "開花的;盛開的",
+    "examples": [
+      { "en": "We walked past the blossoming trees.", "zh": "我們走過那些盛開的樹木。" },
+      { "en": "The blossoming garden looked beautiful.", "zh": "盛開的花園看起來很美。" }
+    ],
+    "img": "blossoming trees along a path",
+    "theme": "植物花木",
+    "level": 3
+  },
+  {
+    "word": "fragrant",
+    "kk": "[ˋfregrənt]",
+    "pos": "adj.",
+    "meaning": "芳香的",
+    "examples": [
+      { "en": "The fragrant roses filled the room.", "zh": "芳香的玫瑰充滿了整個房間。" },
+      { "en": "She loves fragrant flowers like lilies.", "zh": "她喜歡像百合這樣芳香的花。" }
+    ],
+    "img": "fragrant blooming flowers in vase",
+    "theme": "植物花木",
+    "level": 3
+  },
+  {
+    "word": "florist",
+    "kk": "[ˋflɔrɪst]",
+    "pos": "n.",
+    "meaning": "花商;花店店員",
+    "examples": [
+      { "en": "The florist made a lovely bouquet.", "zh": "花店店員做了一束可愛的花束。" },
+      { "en": "I bought roses from the florist.", "zh": "我在花店買了玫瑰。" }
+    ],
+    "img": "florist arranging flowers in shop",
+    "theme": "植物花木",
+    "level": 3
+  },
+  {
+    "word": "bouquet",
+    "kk": "[buˋke]",
+    "pos": "n.",
+    "meaning": "花束",
+    "examples": [
+      { "en": "He gave her a bouquet of roses.", "zh": "他送了她一束玫瑰。" },
+      { "en": "The bride held a white bouquet.", "zh": "新娘手捧著一束白花。" }
+    ],
+    "img": "colorful flower bouquet wrapped",
+    "theme": "植物花木",
+    "level": 3
+  },
+  {
+    "word": "grass",
+    "kk": "[græs]",
+    "pos": "n.",
+    "meaning": "草;草地",
+    "examples": [
+      { "en": "The children ran across the green grass.", "zh": "孩子們跑過綠色的草地。" },
+      { "en": "He cut the grass on Sunday.", "zh": "他星期天割了草。" }
+    ],
+    "img": "green grass lawn close-up",
+    "theme": "植物花木",
+    "level": 2
+  }
+]

@@ -1,0 +1,652 @@
+[
+  {
+    "word": "element",
+    "kk": "[ˈɛləmənt]",
+    "pos": "n.",
+    "meaning": "元素",
+    "examples": [
+      {"en": "Oxygen is a common element in the air.", "zh": "氧是空氣中常見的元素。"},
+      {"en": "Every element has its own symbol.", "zh": "每個元素都有自己的符號。"}
+    ],
+    "img": "periodic table element tile",
+    "theme": "化學材料",
+    "level": 2
+  },
+  {
+    "word": "compound",
+    "kk": "[ˈkɑmpaʊnd]",
+    "pos": "n.",
+    "meaning": "化合物",
+    "examples": [
+      {"en": "Water is a compound of hydrogen and oxygen.", "zh": "水是氫和氧的化合物。"},
+      {"en": "Salt is a simple chemical compound.", "zh": "鹽是一種簡單的化合物。"}
+    ],
+    "img": "molecule model balls and sticks",
+    "theme": "化學材料",
+    "level": 3
+  },
+  {
+    "word": "molecule",
+    "kk": "[ˈmɑləˌkjul]",
+    "pos": "n.",
+    "meaning": "分子",
+    "examples": [
+      {"en": "A water molecule has three atoms.", "zh": "一個水分子有三個原子。"},
+      {"en": "Sugar molecules dissolve in hot tea.", "zh": "糖分子溶解在熱茶裡。"}
+    ],
+    "img": "colorful molecule 3d structure",
+    "theme": "化學材料",
+    "level": 3
+  },
+  {
+    "word": "atom",
+    "kk": "[ˈætəm]",
+    "pos": "n.",
+    "meaning": "原子",
+    "examples": [
+      {"en": "An atom is too small to see.", "zh": "原子太小了，看不見。"},
+      {"en": "Everything is made of atoms.", "zh": "萬物都由原子構成。"}
+    ],
+    "img": "atom nucleus electron orbit diagram",
+    "theme": "化學材料",
+    "level": 2
+  },
+  {
+    "word": "oxygen",
+    "kk": "[ˈɑksədʒən]",
+    "pos": "n.",
+    "meaning": "氧氣",
+    "examples": [
+      {"en": "We need oxygen to breathe.", "zh": "我們需要氧氣才能呼吸。"},
+      {"en": "Fire cannot burn without oxygen.", "zh": "沒有氧氣，火無法燃燒。"}
+    ],
+    "img": "oxygen gas O2 blue bubbles",
+    "theme": "化學材料",
+    "level": 2
+  },
+  {
+    "word": "hydrogen",
+    "kk": "[ˈhaɪdrədʒən]",
+    "pos": "n.",
+    "meaning": "氫氣",
+    "examples": [
+      {"en": "Hydrogen is the lightest gas.", "zh": "氫是最輕的氣體。"},
+      {"en": "Some cars run on hydrogen fuel.", "zh": "有些車用氫燃料驅動。"}
+    ],
+    "img": "hydrogen fuel cell tank",
+    "theme": "化學材料",
+    "level": 3
+  },
+  {
+    "word": "carbon",
+    "kk": "[ˈkɑrbən]",
+    "pos": "n.",
+    "meaning": "碳",
+    "examples": [
+      {"en": "Diamonds are made of carbon.", "zh": "鑽石是由碳構成的。"},
+      {"en": "Carbon is found in all living things.", "zh": "所有生物體內都含有碳。"}
+    ],
+    "img": "black carbon lumps charcoal",
+    "theme": "化學材料",
+    "level": 2
+  },
+  {
+    "word": "nitrogen",
+    "kk": "[ˈnaɪtrədʒən]",
+    "pos": "n.",
+    "meaning": "氮氣",
+    "examples": [
+      {"en": "Most of the air is nitrogen.", "zh": "空氣大部分是氮氣。"},
+      {"en": "Plants need nitrogen to grow.", "zh": "植物需要氮才能生長。"}
+    ],
+    "img": "nitrogen gas tank blue label",
+    "theme": "化學材料",
+    "level": 3
+  },
+  {
+    "word": "chemical",
+    "kk": "[ˈkɛmɪkl]",
+    "pos": "n.",
+    "meaning": "化學物質",
+    "examples": [
+      {"en": "Keep the chemicals away from children.", "zh": "把化學物質放在孩子拿不到的地方。"},
+      {"en": "This cleaner has strong chemicals.", "zh": "這種清潔劑含有強效化學物質。"}
+    ],
+    "img": "chemical bottles warning labels",
+    "theme": "化學材料",
+    "level": 2
+  },
+  {
+    "word": "reaction",
+    "kk": "[rɪˈækʃən]",
+    "pos": "n.",
+    "meaning": "反應",
+    "examples": [
+      {"en": "Mixing them caused a fast reaction.", "zh": "把它們混合引起快速反應。"},
+      {"en": "The reaction gave off a lot of heat.", "zh": "這個反應放出大量的熱。"}
+    ],
+    "img": "chemical reaction bubbling flask",
+    "theme": "化學材料",
+    "level": 3
+  },
+  {
+    "word": "acid",
+    "kk": "[ˈæsɪd]",
+    "pos": "n.",
+    "meaning": "酸",
+    "examples": [
+      {"en": "Lemon juice is a weak acid.", "zh": "檸檬汁是一種弱酸。"},
+      {"en": "Strong acid can burn your skin.", "zh": "強酸會灼傷你的皮膚。"}
+    ],
+    "img": "acid dropper test tube green",
+    "theme": "化學材料",
+    "level": 2
+  },
+  {
+    "word": "metal",
+    "kk": "[ˈmɛtl]",
+    "pos": "n.",
+    "meaning": "金屬",
+    "examples": [
+      {"en": "The spoon is made of metal.", "zh": "這支湯匙是金屬做的。"},
+      {"en": "Metal feels cold to the touch.", "zh": "金屬摸起來冰冰的。"}
+    ],
+    "img": "shiny metal bars stacked",
+    "theme": "化學材料",
+    "level": 2
+  },
+  {
+    "word": "iron",
+    "kk": "[ˈaɪɚn]",
+    "pos": "n.",
+    "meaning": "鐵",
+    "examples": [
+      {"en": "The gate is made of iron.", "zh": "這道門是鐵做的。"},
+      {"en": "Old iron tools can rust.", "zh": "舊的鐵製工具會生鏽。"}
+    ],
+    "img": "iron metal bar rusty",
+    "theme": "化學材料",
+    "level": 2
+  },
+  {
+    "word": "steel",
+    "kk": "[stil]",
+    "pos": "n.",
+    "meaning": "鋼",
+    "examples": [
+      {"en": "The bridge is built from steel.", "zh": "這座橋是用鋼建造的。"},
+      {"en": "Steel is very strong and hard.", "zh": "鋼非常堅固又硬。"}
+    ],
+    "img": "steel beams construction site",
+    "theme": "化學材料",
+    "level": 2
+  },
+  {
+    "word": "copper",
+    "kk": "[ˈkɑpɚ]",
+    "pos": "n.",
+    "meaning": "銅",
+    "examples": [
+      {"en": "Copper wires carry electricity.", "zh": "銅線傳導電力。"},
+      {"en": "The old coin is made of copper.", "zh": "這枚舊硬幣是銅製的。"}
+    ],
+    "img": "copper wire coil orange",
+    "theme": "化學材料",
+    "level": 3
+  },
+  {
+    "word": "gold",
+    "kk": "[ɡold]",
+    "pos": "n.",
+    "meaning": "黃金",
+    "examples": [
+      {"en": "She wears a gold ring.", "zh": "她戴著一枚金戒指。"},
+      {"en": "Gold does not rust over time.", "zh": "黃金不會隨時間生鏽。"}
+    ],
+    "img": "gold bars shiny stacked",
+    "theme": "化學材料",
+    "level": 2
+  },
+  {
+    "word": "silver",
+    "kk": "[ˈsɪlvɚ]",
+    "pos": "n.",
+    "meaning": "銀",
+    "examples": [
+      {"en": "The necklace is made of silver.", "zh": "這條項鍊是銀做的。"},
+      {"en": "Silver turns dark if not cleaned.", "zh": "銀如果不清潔會變暗。"}
+    ],
+    "img": "silver jewelry shiny metal",
+    "theme": "化學材料",
+    "level": 2
+  },
+  {
+    "word": "aluminum",
+    "kk": "[əˈlumɪnəm]",
+    "pos": "n.",
+    "meaning": "鋁",
+    "examples": [
+      {"en": "The can is made of aluminum.", "zh": "這個罐子是鋁做的。"},
+      {"en": "Aluminum is light but strong.", "zh": "鋁很輕但很堅固。"}
+    ],
+    "img": "aluminum cans crushed pile",
+    "theme": "化學材料",
+    "level": 3
+  },
+  {
+    "word": "rust",
+    "kk": "[rʌst]",
+    "pos": "n.",
+    "meaning": "鏽",
+    "examples": [
+      {"en": "There is rust on the old nail.", "zh": "舊釘子上有鏽。"},
+      {"en": "Rust makes metal weak.", "zh": "鏽會讓金屬變脆弱。"}
+    ],
+    "img": "rusty metal orange brown surface",
+    "theme": "化學材料",
+    "level": 2
+  },
+  {
+    "word": "plastic",
+    "kk": "[ˈplæstɪk]",
+    "pos": "n.",
+    "meaning": "塑膠",
+    "examples": [
+      {"en": "The bottle is made of plastic.", "zh": "這個瓶子是塑膠做的。"},
+      {"en": "Plastic waste harms the ocean.", "zh": "塑膠垃圾傷害海洋。"}
+    ],
+    "img": "plastic bottles colorful pile",
+    "theme": "化學材料",
+    "level": 2
+  },
+  {
+    "word": "rubber",
+    "kk": "[ˈrʌbɚ]",
+    "pos": "n.",
+    "meaning": "橡膠",
+    "examples": [
+      {"en": "Car tires are made of rubber.", "zh": "汽車輪胎是橡膠做的。"},
+      {"en": "Rubber can bend without breaking.", "zh": "橡膠可以彎曲而不斷裂。"}
+    ],
+    "img": "rubber tire black rings",
+    "theme": "化學材料",
+    "level": 2
+  },
+  {
+    "word": "glass",
+    "kk": "[ɡlæs]",
+    "pos": "n.",
+    "meaning": "玻璃",
+    "examples": [
+      {"en": "The window is made of glass.", "zh": "這扇窗戶是玻璃做的。"},
+      {"en": "Be careful, the glass can break.", "zh": "小心，玻璃會破。"}
+    ],
+    "img": "clear glass sheets stacked",
+    "theme": "化學材料",
+    "level": 2
+  },
+  {
+    "word": "ceramic",
+    "kk": "[səˈræmɪk]",
+    "pos": "n.",
+    "meaning": "陶瓷",
+    "examples": [
+      {"en": "The cup is made of ceramic.", "zh": "這個杯子是陶瓷做的。"},
+      {"en": "Ceramic tiles cover the floor.", "zh": "陶瓷磚鋪滿地板。"}
+    ],
+    "img": "ceramic pottery bowls white",
+    "theme": "化學材料",
+    "level": 3
+  },
+  {
+    "word": "fiber",
+    "kk": "[ˈfaɪbɚ]",
+    "pos": "n.",
+    "meaning": "纖維",
+    "examples": [
+      {"en": "Cotton fiber is soft and warm.", "zh": "棉纖維柔軟又保暖。"},
+      {"en": "This cloth is made of natural fiber.", "zh": "這塊布是天然纖維做的。"}
+    ],
+    "img": "textile fiber threads close up",
+    "theme": "化學材料",
+    "level": 3
+  },
+  {
+    "word": "fabric",
+    "kk": "[ˈfæbrɪk]",
+    "pos": "n.",
+    "meaning": "布料",
+    "examples": [
+      {"en": "She chose a soft fabric for the dress.", "zh": "她為洋裝選了柔軟的布料。"},
+      {"en": "This fabric feels smooth.", "zh": "這種布料摸起來很滑順。"}
+    ],
+    "img": "folded fabric rolls colorful",
+    "theme": "化學材料",
+    "level": 2
+  },
+  {
+    "word": "cotton",
+    "kk": "[ˈkɑtn]",
+    "pos": "n.",
+    "meaning": "棉",
+    "examples": [
+      {"en": "The shirt is made of cotton.", "zh": "這件襯衫是棉做的。"},
+      {"en": "Cotton is soft on the skin.", "zh": "棉對皮膚很柔軟。"}
+    ],
+    "img": "cotton fluffy white plant",
+    "theme": "化學材料",
+    "level": 2
+  },
+  {
+    "word": "wool",
+    "kk": "[wʊl]",
+    "pos": "n.",
+    "meaning": "羊毛",
+    "examples": [
+      {"en": "The sweater is made of wool.", "zh": "這件毛衣是羊毛做的。"},
+      {"en": "Wool keeps us warm in winter.", "zh": "羊毛讓我們冬天保暖。"}
+    ],
+    "img": "wool yarn balls soft",
+    "theme": "化學材料",
+    "level": 2
+  },
+  {
+    "word": "leather",
+    "kk": "[ˈlɛðɚ]",
+    "pos": "n.",
+    "meaning": "皮革",
+    "examples": [
+      {"en": "The bag is made of leather.", "zh": "這個包包是皮革做的。"},
+      {"en": "Leather shoes last a long time.", "zh": "皮鞋可以穿很久。"}
+    ],
+    "img": "brown leather texture surface",
+    "theme": "化學材料",
+    "level": 3
+  },
+  {
+    "word": "wood",
+    "kk": "[wʊd]",
+    "pos": "n.",
+    "meaning": "木材",
+    "examples": [
+      {"en": "The table is made of wood.", "zh": "這張桌子是木材做的。"},
+      {"en": "Wood floats on water.", "zh": "木材會浮在水面上。"}
+    ],
+    "img": "wooden planks stacked brown",
+    "theme": "化學材料",
+    "level": 2
+  },
+  {
+    "word": "concrete",
+    "kk": "[ˈkɑnkrit]",
+    "pos": "n.",
+    "meaning": "混凝土",
+    "examples": [
+      {"en": "The wall is made of concrete.", "zh": "這道牆是混凝土做的。"},
+      {"en": "Concrete is hard and strong.", "zh": "混凝土又硬又堅固。"}
+    ],
+    "img": "gray concrete wall texture",
+    "theme": "化學材料",
+    "level": 3
+  },
+  {
+    "word": "liquid",
+    "kk": "[ˈlɪkwɪd]",
+    "pos": "n.",
+    "meaning": "液體",
+    "examples": [
+      {"en": "Water is a clear liquid.", "zh": "水是透明的液體。"},
+      {"en": "Pour the liquid into the cup.", "zh": "把液體倒進杯子裡。"}
+    ],
+    "img": "clear liquid glass beaker",
+    "theme": "化學材料",
+    "level": 2
+  },
+  {
+    "word": "gas",
+    "kk": "[ɡæs]",
+    "pos": "n.",
+    "meaning": "氣體",
+    "examples": [
+      {"en": "The balloon is full of gas.", "zh": "氣球裡充滿氣體。"},
+      {"en": "Some gases have no smell.", "zh": "有些氣體沒有味道。"}
+    ],
+    "img": "gas bubbles rising clear",
+    "theme": "化學材料",
+    "level": 2
+  },
+  {
+    "word": "solid",
+    "kk": "[ˈsɑlɪd]",
+    "pos": "n.",
+    "meaning": "固體",
+    "examples": [
+      {"en": "Ice is water in solid form.", "zh": "冰是水的固體形態。"},
+      {"en": "A rock is a hard solid.", "zh": "石頭是堅硬的固體。"}
+    ],
+    "img": "ice cube solid block clear",
+    "theme": "化學材料",
+    "level": 2
+  },
+  {
+    "word": "powder",
+    "kk": "[ˈpaʊdɚ]",
+    "pos": "n.",
+    "meaning": "粉末",
+    "examples": [
+      {"en": "Add a spoon of the white powder.", "zh": "加一匙白色粉末。"},
+      {"en": "The powder dissolves in water.", "zh": "這種粉末溶於水。"}
+    ],
+    "img": "white powder pile spoon",
+    "theme": "化學材料",
+    "level": 2
+  },
+  {
+    "word": "crystal",
+    "kk": "[ˈkrɪstl]",
+    "pos": "n.",
+    "meaning": "晶體",
+    "examples": [
+      {"en": "Salt forms tiny crystals.", "zh": "鹽會形成小晶體。"},
+      {"en": "The crystal shines in the light.", "zh": "晶體在光線下閃閃發亮。"}
+    ],
+    "img": "clear crystal shiny formation",
+    "theme": "化學材料",
+    "level": 3
+  },
+  {
+    "word": "mixture",
+    "kk": "[ˈmɪkstʃɚ]",
+    "pos": "n.",
+    "meaning": "混合物",
+    "examples": [
+      {"en": "Air is a mixture of gases.", "zh": "空氣是氣體的混合物。"},
+      {"en": "Stir the mixture until smooth.", "zh": "攪拌混合物直到均勻。"}
+    ],
+    "img": "mixed liquids swirl beaker",
+    "theme": "化學材料",
+    "level": 3
+  },
+  {
+    "word": "melt",
+    "kk": "[mɛlt]",
+    "pos": "v.",
+    "meaning": "融化",
+    "examples": [
+      {"en": "Ice will melt in the sun.", "zh": "冰在陽光下會融化。"},
+      {"en": "The metal melts at high heat.", "zh": "金屬在高溫下融化。"}
+    ],
+    "img": "melting ice water drops",
+    "theme": "化學材料",
+    "level": 2
+  },
+  {
+    "word": "dissolve",
+    "kk": "[dɪˈzɑlv]",
+    "pos": "v.",
+    "meaning": "溶解",
+    "examples": [
+      {"en": "Sugar will dissolve in hot water.", "zh": "糖會溶解在熱水裡。"},
+      {"en": "The pill dissolves quickly.", "zh": "藥丸很快就溶解了。"}
+    ],
+    "img": "sugar dissolving in water swirl",
+    "theme": "化學材料",
+    "level": 3
+  },
+  {
+    "word": "freeze",
+    "kk": "[friz]",
+    "pos": "v.",
+    "meaning": "結冰；凍結",
+    "examples": [
+      {"en": "Water will freeze in cold air.", "zh": "水在冷空氣中會結冰。"},
+      {"en": "The lake freezes every winter.", "zh": "湖每年冬天都會結冰。"}
+    ],
+    "img": "frozen ice surface blue",
+    "theme": "化學材料",
+    "level": 2
+  },
+  {
+    "word": "burn",
+    "kk": "[bɝn]",
+    "pos": "v.",
+    "meaning": "燃燒",
+    "examples": [
+      {"en": "Paper burns very fast.", "zh": "紙燃燒得很快。"},
+      {"en": "The wood burned all night.", "zh": "木頭燒了一整夜。"}
+    ],
+    "img": "burning flame orange fire",
+    "theme": "化學材料",
+    "level": 2
+  },
+  {
+    "word": "material",
+    "kk": "[məˈtɪriəl]",
+    "pos": "n.",
+    "meaning": "材料",
+    "examples": [
+      {"en": "We need strong material for the roof.", "zh": "我們需要堅固的材料來做屋頂。"},
+      {"en": "This material is easy to recycle.", "zh": "這種材料容易回收。"}
+    ],
+    "img": "building materials samples row",
+    "theme": "化學材料",
+    "level": 2
+  },
+  {
+    "word": "substance",
+    "kk": "[ˈsʌbstəns]",
+    "pos": "n.",
+    "meaning": "物質",
+    "examples": [
+      {"en": "Water is a pure substance.", "zh": "水是純物質。"},
+      {"en": "This substance has a strong smell.", "zh": "這種物質有強烈的氣味。"}
+    ],
+    "img": "unknown substance jar lab",
+    "theme": "化學材料",
+    "level": 3
+  },
+  {
+    "word": "salt",
+    "kk": "[sɔlt]",
+    "pos": "n.",
+    "meaning": "鹽",
+    "examples": [
+      {"en": "Add a little salt to the soup.", "zh": "在湯裡加一點鹽。"},
+      {"en": "Salt is made of two elements.", "zh": "鹽由兩種元素構成。"}
+    ],
+    "img": "white salt crystals pile",
+    "theme": "化學材料",
+    "level": 2
+  },
+  {
+    "word": "solution",
+    "kk": "[səˈluʃən]",
+    "pos": "n.",
+    "meaning": "溶液",
+    "examples": [
+      {"en": "The salt solution is clear.", "zh": "這鹽溶液是透明的。"},
+      {"en": "Mix the solution before use.", "zh": "使用前先搖勻溶液。"}
+    ],
+    "img": "liquid solution flask clear",
+    "theme": "化學材料",
+    "level": 3
+  },
+  {
+    "word": "flexible",
+    "kk": "[ˈflɛksəbl]",
+    "pos": "adj.",
+    "meaning": "有彈性的；可彎曲的",
+    "examples": [
+      {"en": "Rubber is very flexible.", "zh": "橡膠非常有彈性。"},
+      {"en": "The wire is thin and flexible.", "zh": "這條電線又細又能彎曲。"}
+    ],
+    "img": "bending flexible plastic strip",
+    "theme": "化學材料",
+    "level": 3
+  },
+  {
+    "word": "solid-state",
+    "kk": "[ˈsɑlɪd stet]",
+    "pos": "adj.",
+    "meaning": "固態的",
+    "examples": [
+      {"en": "The battery uses solid-state parts.", "zh": "這電池使用固態零件。"},
+      {"en": "Solid-state drives are very fast.", "zh": "固態硬碟速度很快。"}
+    ],
+    "img": "solid state battery cell diagram",
+    "theme": "化學材料",
+    "level": 3
+  },
+  {
+    "word": "waterproof",
+    "kk": "[ˈwɔtɚˌpruf]",
+    "pos": "adj.",
+    "meaning": "防水的",
+    "examples": [
+      {"en": "This jacket is fully waterproof.", "zh": "這件外套完全防水。"},
+      {"en": "We used waterproof paint outside.", "zh": "我們在外面用了防水漆。"}
+    ],
+    "img": "water drops on waterproof coat",
+    "theme": "化學材料",
+    "level": 3
+  },
+  {
+    "word": "toxic",
+    "kk": "[ˈtɑksɪk]",
+    "pos": "adj.",
+    "meaning": "有毒的",
+    "examples": [
+      {"en": "Some gases are very toxic.", "zh": "有些氣體毒性很強。"},
+      {"en": "Keep toxic liquids in safe bottles.", "zh": "把有毒液體放在安全的瓶子裡。"}
+    ],
+    "img": "toxic warning skull symbol bottle",
+    "theme": "化學材料",
+    "level": 3
+  },
+  {
+    "word": "recycle",
+    "kk": "[riˈsaɪkl]",
+    "pos": "v.",
+    "meaning": "回收",
+    "examples": [
+      {"en": "We recycle glass and plastic.", "zh": "我們回收玻璃和塑膠。"},
+      {"en": "Please recycle these cans.", "zh": "請回收這些罐子。"}
+    ],
+    "img": "recycle bins green plastic bottles",
+    "theme": "化學材料",
+    "level": 2
+  },
+  {
+    "word": "coating",
+    "kk": "[ˈkotɪŋ]",
+    "pos": "n.",
+    "meaning": "塗層；鍍膜",
+    "examples": [
+      {"en": "The pan has a smooth coating.", "zh": "這鍋子有一層滑順的塗層。"},
+      {"en": "A metal coating stops rust.", "zh": "金屬鍍膜能防止生鏽。"}
+    ],
+    "img": "non-stick pan coating surface",
+    "theme": "化學材料",
+    "level": 3
+  }
+]

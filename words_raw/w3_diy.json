@@ -1,0 +1,652 @@
+[
+  {
+    "word": "tool",
+    "kk": "[tul]",
+    "pos": "n.",
+    "meaning": "工具",
+    "examples": [
+      { "en": "Can I borrow that tool for a second?", "zh": "我可以借用一下那個工具嗎?" },
+      { "en": "Grab the right tool for the job.", "zh": "拿對的工具來做這件事。" }
+    ],
+    "img": "hand tool on workbench",
+    "theme": "工具DIY",
+    "level": 1
+  },
+  {
+    "word": "hammer",
+    "kk": "[ˈhæmɚ]",
+    "pos": "n.",
+    "meaning": "鎚子",
+    "examples": [
+      { "en": "Pass me the hammer, please.", "zh": "請把鎚子遞給我。" },
+      { "en": "He used a hammer to hang the picture.", "zh": "他用鎚子掛那幅畫。" }
+    ],
+    "img": "claw hammer with nails",
+    "theme": "工具DIY",
+    "level": 1
+  },
+  {
+    "word": "nail",
+    "kk": "[nel]",
+    "pos": "n.",
+    "meaning": "釘子",
+    "examples": [
+      { "en": "This nail is too short for the board.", "zh": "這根釘子對這塊板子來說太短了。" },
+      { "en": "Hammer the nail in straight.", "zh": "把釘子敲直進去。" }
+    ],
+    "img": "steel nails scattered",
+    "theme": "工具DIY",
+    "level": 1
+  },
+  {
+    "word": "screw",
+    "kk": "[skru]",
+    "pos": "n.",
+    "meaning": "螺絲",
+    "examples": [
+      { "en": "One screw is missing from the shelf.", "zh": "架子少了一顆螺絲。" },
+      { "en": "Tighten that screw a bit more.", "zh": "把那顆螺絲再鎖緊一點。" }
+    ],
+    "img": "metal screws close up",
+    "theme": "工具DIY",
+    "level": 1
+  },
+  {
+    "word": "screwdriver",
+    "kk": "[ˈskruˌdraɪvɚ]",
+    "pos": "n.",
+    "meaning": "螺絲起子",
+    "examples": [
+      { "en": "Do you have a small screwdriver?", "zh": "你有小的螺絲起子嗎?" },
+      { "en": "Use a screwdriver, not a knife.", "zh": "用螺絲起子,別用刀子。" }
+    ],
+    "img": "phillips screwdriver on table",
+    "theme": "工具DIY",
+    "level": 2
+  },
+  {
+    "word": "drill",
+    "kk": "[drɪl]",
+    "pos": "n.",
+    "meaning": "電鑽;鑽孔機",
+    "examples": [
+      { "en": "The drill needs a new battery.", "zh": "這台電鑽需要新電池。" },
+      { "en": "Be careful with the drill.", "zh": "使用電鑽時要小心。" }
+    ],
+    "img": "cordless power drill",
+    "theme": "工具DIY",
+    "level": 2
+  },
+  {
+    "word": "saw",
+    "kk": "[sɔ]",
+    "pos": "n.",
+    "meaning": "鋸子",
+    "examples": [
+      { "en": "The saw cut through the wood easily.", "zh": "鋸子輕鬆鋸開了木頭。" },
+      { "en": "Keep the saw away from the kids.", "zh": "把鋸子放在孩子拿不到的地方。" }
+    ],
+    "img": "hand saw cutting wood",
+    "theme": "工具DIY",
+    "level": 1
+  },
+  {
+    "word": "wrench",
+    "kk": "[rɛntʃ]",
+    "pos": "n.",
+    "meaning": "扳手",
+    "examples": [
+      { "en": "I need a wrench to loosen this bolt.", "zh": "我需要扳手來鬆開這顆螺栓。" },
+      { "en": "Where did you put the wrench?", "zh": "你把扳手放到哪裡了?" }
+    ],
+    "img": "adjustable wrench on bolt",
+    "theme": "工具DIY",
+    "level": 2
+  },
+  {
+    "word": "pliers",
+    "kk": "[ˈplaɪɚz]",
+    "pos": "n.",
+    "meaning": "鉗子",
+    "examples": [
+      { "en": "Grab the pliers to pull that nail.", "zh": "拿鉗子來拔那根釘子。" },
+      { "en": "These pliers are a bit rusty.", "zh": "這把鉗子有點生鏽了。" }
+    ],
+    "img": "needle nose pliers",
+    "theme": "工具DIY",
+    "level": 2
+  },
+  {
+    "word": "tape measure",
+    "kk": "[tep ˈmɛʒɚ]",
+    "pos": "n.",
+    "meaning": "捲尺",
+    "examples": [
+      { "en": "Hand me the tape measure.", "zh": "把捲尺遞給我。" },
+      { "en": "Use the tape measure to check the width.", "zh": "用捲尺量一下寬度。" }
+    ],
+    "img": "yellow tape measure retractable",
+    "theme": "工具DIY",
+    "level": 2
+  },
+  {
+    "word": "level",
+    "kk": "[ˈlɛvl̩]",
+    "pos": "n.",
+    "meaning": "水平儀",
+    "examples": [
+      { "en": "Use a level so the shelf is straight.", "zh": "用水平儀讓架子保持水平。" },
+      { "en": "The bubble on the level is centered.", "zh": "水平儀上的氣泡在正中間。" }
+    ],
+    "img": "spirit level bubble tool",
+    "theme": "工具DIY",
+    "level": 3
+  },
+  {
+    "word": "bolt",
+    "kk": "[bolt]",
+    "pos": "n.",
+    "meaning": "螺栓",
+    "examples": [
+      { "en": "This bolt won't turn.", "zh": "這顆螺栓轉不動。" },
+      { "en": "We need a longer bolt here.", "zh": "這裡需要更長的螺栓。" }
+    ],
+    "img": "hex bolt hardware",
+    "theme": "工具DIY",
+    "level": 2
+  },
+  {
+    "word": "nut",
+    "kk": "[nʌt]",
+    "pos": "n.",
+    "meaning": "螺帽",
+    "examples": [
+      { "en": "The nut fell under the table.", "zh": "螺帽掉到桌子底下了。" },
+      { "en": "Screw the nut onto the bolt.", "zh": "把螺帽鎖到螺栓上。" }
+    ],
+    "img": "metal hex nut",
+    "theme": "工具DIY",
+    "level": 2
+  },
+  {
+    "word": "washer",
+    "kk": "[ˈwɑʃɚ]",
+    "pos": "n.",
+    "meaning": "墊圈",
+    "examples": [
+      { "en": "Don't forget to add a washer.", "zh": "別忘了加一個墊圈。" },
+      { "en": "The washer keeps the bolt tight.", "zh": "墊圈能讓螺栓保持緊固。" }
+    ],
+    "img": "flat metal washer ring",
+    "theme": "工具DIY",
+    "level": 3
+  },
+  {
+    "word": "tape",
+    "kk": "[tep]",
+    "pos": "n.",
+    "meaning": "膠帶",
+    "examples": [
+      { "en": "Cover the crack with some tape.", "zh": "用膠帶把裂縫貼起來。" },
+      { "en": "The tape isn't sticky anymore.", "zh": "這膠帶不黏了。" }
+    ],
+    "img": "roll of duct tape",
+    "theme": "工具DIY",
+    "level": 1
+  },
+  {
+    "word": "glue",
+    "kk": "[glu]",
+    "pos": "n.",
+    "meaning": "膠水",
+    "examples": [
+      { "en": "A little glue will hold it together.", "zh": "一點膠水就能把它黏牢。" },
+      { "en": "Wait for the glue to dry.", "zh": "等膠水乾了再說。" }
+    ],
+    "img": "bottle of wood glue",
+    "theme": "工具DIY",
+    "level": 1
+  },
+  {
+    "word": "nut driver",
+    "kk": "[nʌt ˈdraɪvɚ]",
+    "pos": "n.",
+    "meaning": "套筒起子",
+    "examples": [
+      { "en": "A nut driver makes this way faster.", "zh": "用套筒起子做這個快多了。" },
+      { "en": "Grab the nut driver from the box.", "zh": "從盒子裡拿套筒起子。" }
+    ],
+    "img": "nut driver hand tool",
+    "theme": "工具DIY",
+    "level": 3
+  },
+  {
+    "word": "sandpaper",
+    "kk": "[ˈsændˌpepɚ]",
+    "pos": "n.",
+    "meaning": "砂紙",
+    "examples": [
+      { "en": "Smooth the edge with sandpaper.", "zh": "用砂紙把邊緣磨平。" },
+      { "en": "This sandpaper is too rough.", "zh": "這張砂紙太粗了。" }
+    ],
+    "img": "sheet of sandpaper",
+    "theme": "工具DIY",
+    "level": 2
+  },
+  {
+    "word": "paint",
+    "kk": "[pent]",
+    "pos": "n.",
+    "meaning": "油漆",
+    "examples": [
+      { "en": "The paint is still wet.", "zh": "油漆還沒乾。" },
+      { "en": "We need one more can of paint.", "zh": "我們還需要一罐油漆。" }
+    ],
+    "img": "open paint can with brush",
+    "theme": "工具DIY",
+    "level": 1
+  },
+  {
+    "word": "brush",
+    "kk": "[brʌʃ]",
+    "pos": "n.",
+    "meaning": "刷子",
+    "examples": [
+      { "en": "Clean the brush after painting.", "zh": "油漆完後把刷子洗乾淨。" },
+      { "en": "Use a smaller brush for the corners.", "zh": "角落用小一點的刷子。" }
+    ],
+    "img": "paint brush with bristles",
+    "theme": "工具DIY",
+    "level": 1
+  },
+  {
+    "word": "ladder",
+    "kk": "[ˈlædɚ]",
+    "pos": "n.",
+    "meaning": "梯子",
+    "examples": [
+      { "en": "Hold the ladder while I climb up.", "zh": "我爬上去時幫我扶著梯子。" },
+      { "en": "The ladder is in the garage.", "zh": "梯子在車庫裡。" }
+    ],
+    "img": "aluminum step ladder",
+    "theme": "工具DIY",
+    "level": 1
+  },
+  {
+    "word": "toolbox",
+    "kk": "[ˈtulˌbɑks]",
+    "pos": "n.",
+    "meaning": "工具箱",
+    "examples": [
+      { "en": "Everything is in the toolbox.", "zh": "東西全在工具箱裡。" },
+      { "en": "My toolbox is getting heavy.", "zh": "我的工具箱越來越重了。" }
+    ],
+    "img": "red metal toolbox open",
+    "theme": "工具DIY",
+    "level": 2
+  },
+  {
+    "word": "clamp",
+    "kk": "[klæmp]",
+    "pos": "n.",
+    "meaning": "夾具",
+    "examples": [
+      { "en": "Use a clamp to hold the boards.", "zh": "用夾具固定住木板。" },
+      { "en": "Loosen the clamp when the glue dries.", "zh": "膠水乾了就鬆開夾具。" }
+    ],
+    "img": "C-clamp gripping wood",
+    "theme": "工具DIY",
+    "level": 3
+  },
+  {
+    "word": "chisel",
+    "kk": "[ˈtʃɪzl̩]",
+    "pos": "n.",
+    "meaning": "鑿子",
+    "examples": [
+      { "en": "He carved the wood with a chisel.", "zh": "他用鑿子雕刻木頭。" },
+      { "en": "Keep the chisel sharp.", "zh": "把鑿子保持鋒利。" }
+    ],
+    "img": "wood chisel tool",
+    "theme": "工具DIY",
+    "level": 3
+  },
+  {
+    "word": "fix",
+    "kk": "[fɪks]",
+    "pos": "v.",
+    "meaning": "修理",
+    "examples": [
+      { "en": "Can you fix this leaky faucet?", "zh": "你能修好這個漏水的水龍頭嗎?" },
+      { "en": "I'll fix it this weekend.", "zh": "我這週末會把它修好。" }
+    ],
+    "img": "person fixing a pipe",
+    "theme": "工具DIY",
+    "level": 1
+  },
+  {
+    "word": "repair",
+    "kk": "[rɪˈpɛr]",
+    "pos": "v.",
+    "meaning": "修繕;維修",
+    "examples": [
+      { "en": "The roof needs repair.", "zh": "屋頂需要維修。" },
+      { "en": "They repaired the fence yesterday.", "zh": "他們昨天修好了圍籬。" }
+    ],
+    "img": "repairing wooden fence",
+    "theme": "工具DIY",
+    "level": 2
+  },
+  {
+    "word": "tighten",
+    "kk": "[ˈtaɪtn̩]",
+    "pos": "v.",
+    "meaning": "鎖緊;旋緊",
+    "examples": [
+      { "en": "Tighten the screws before you sit on it.", "zh": "坐上去前先把螺絲鎖緊。" },
+      { "en": "Don't tighten it too much.", "zh": "別鎖得太緊。" }
+    ],
+    "img": "tightening a screw",
+    "theme": "工具DIY",
+    "level": 2
+  },
+  {
+    "word": "loosen",
+    "kk": "[ˈlusn̩]",
+    "pos": "v.",
+    "meaning": "鬆開",
+    "examples": [
+      { "en": "Loosen the bolt with a wrench.", "zh": "用扳手鬆開螺栓。" },
+      { "en": "The knob won't loosen.", "zh": "這個旋鈕鬆不開。" }
+    ],
+    "img": "loosening a bolt wrench",
+    "theme": "工具DIY",
+    "level": 3
+  },
+  {
+    "word": "assemble",
+    "kk": "[əˈsɛmbl̩]",
+    "pos": "v.",
+    "meaning": "組裝",
+    "examples": [
+      { "en": "It took an hour to assemble the desk.", "zh": "組裝這張桌子花了一小時。" },
+      { "en": "Read the manual before you assemble it.", "zh": "組裝前先看說明書。" }
+    ],
+    "img": "assembling flat pack furniture",
+    "theme": "工具DIY",
+    "level": 3
+  },
+  {
+    "word": "measure",
+    "kk": "[ˈmɛʒɚ]",
+    "pos": "v.",
+    "meaning": "測量",
+    "examples": [
+      { "en": "Measure twice, cut once.", "zh": "量兩次,鋸一次。" },
+      { "en": "Let me measure the gap first.", "zh": "讓我先量一下這個縫隙。" }
+    ],
+    "img": "measuring a plank",
+    "theme": "工具DIY",
+    "level": 1
+  },
+  {
+    "word": "cut",
+    "kk": "[kʌt]",
+    "pos": "v.",
+    "meaning": "切;鋸",
+    "examples": [
+      { "en": "Cut the board along this line.", "zh": "沿著這條線鋸木板。" },
+      { "en": "Be careful not to cut yourself.", "zh": "小心別割到自己。" }
+    ],
+    "img": "cutting board with saw",
+    "theme": "工具DIY",
+    "level": 1
+  },
+  {
+    "word": "drill",
+    "kk": "[drɪl]",
+    "pos": "v.",
+    "meaning": "鑽(孔)",
+    "examples": [
+      { "en": "Drill a hole here for the screw.", "zh": "在這裡鑽個孔給螺絲用。" },
+      { "en": "Drill slowly through the metal.", "zh": "慢慢地鑽穿金屬。" }
+    ],
+    "img": "drilling a hole in wall",
+    "theme": "工具DIY",
+    "level": 2
+  },
+  {
+    "word": "sand",
+    "kk": "[sænd]",
+    "pos": "v.",
+    "meaning": "打磨",
+    "examples": [
+      { "en": "Sand the surface before painting.", "zh": "上漆前先把表面打磨一下。" },
+      { "en": "Sand it until it feels smooth.", "zh": "打磨到摸起來平滑為止。" }
+    ],
+    "img": "sanding a wooden surface",
+    "theme": "工具DIY",
+    "level": 2
+  },
+  {
+    "word": "paint",
+    "kk": "[pent]",
+    "pos": "v.",
+    "meaning": "上漆;油漆",
+    "examples": [
+      { "en": "Let's paint the door white.", "zh": "我們把門漆成白色吧。" },
+      { "en": "I painted the wall last night.", "zh": "我昨晚把牆漆好了。" }
+    ],
+    "img": "painting a wall roller",
+    "theme": "工具DIY",
+    "level": 1
+  },
+  {
+    "word": "hardware",
+    "kk": "[ˈhɑrdˌwɛr]",
+    "pos": "n.",
+    "meaning": "五金",
+    "examples": [
+      { "en": "Buy the hardware at the store.", "zh": "去店裡買五金零件。" },
+      { "en": "The kit comes with all the hardware.", "zh": "這組件附了所有五金配件。" }
+    ],
+    "img": "assorted hardware screws bolts",
+    "theme": "工具DIY",
+    "level": 2
+  },
+  {
+    "word": "hinge",
+    "kk": "[hɪndʒ]",
+    "pos": "n.",
+    "meaning": "鉸鏈;合頁",
+    "examples": [
+      { "en": "The door hinge is squeaky.", "zh": "門的鉸鏈在吱吱作響。" },
+      { "en": "Screw the hinge onto the frame.", "zh": "把鉸鏈鎖到門框上。" }
+    ],
+    "img": "metal door hinge",
+    "theme": "工具DIY",
+    "level": 3
+  },
+  {
+    "word": "bracket",
+    "kk": "[ˈbrækɪt]",
+    "pos": "n.",
+    "meaning": "支架;托架",
+    "examples": [
+      { "en": "The shelf sits on two brackets.", "zh": "架子架在兩個托架上。" },
+      { "en": "One bracket is loose.", "zh": "有一個支架鬆了。" }
+    ],
+    "img": "L-shaped metal bracket",
+    "theme": "工具DIY",
+    "level": 3
+  },
+  {
+    "word": "plank",
+    "kk": "[plæŋk]",
+    "pos": "n.",
+    "meaning": "木板",
+    "examples": [
+      { "en": "Lay the plank across the gap.", "zh": "把木板橫放在縫隙上。" },
+      { "en": "This plank is a bit warped.", "zh": "這塊木板有點翹曲。" }
+    ],
+    "img": "wooden plank board",
+    "theme": "工具DIY",
+    "level": 2
+  },
+  {
+    "word": "wood",
+    "kk": "[wʊd]",
+    "pos": "n.",
+    "meaning": "木材",
+    "examples": [
+      { "en": "This wood is really solid.", "zh": "這木材很結實。" },
+      { "en": "We ran out of wood.", "zh": "我們的木材用完了。" }
+    ],
+    "img": "stack of lumber wood",
+    "theme": "工具DIY",
+    "level": 1
+  },
+  {
+    "word": "metal",
+    "kk": "[ˈmɛtl̩]",
+    "pos": "n.",
+    "meaning": "金屬",
+    "examples": [
+      { "en": "The frame is made of metal.", "zh": "這框架是金屬做的。" },
+      { "en": "Metal is stronger than plastic here.", "zh": "這裡金屬比塑膠堅固。" }
+    ],
+    "img": "sheet of metal material",
+    "theme": "工具DIY",
+    "level": 1
+  },
+  {
+    "word": "wire",
+    "kk": "[waɪr]",
+    "pos": "n.",
+    "meaning": "電線;金屬線",
+    "examples": [
+      { "en": "Don't touch that loose wire.", "zh": "別碰那條鬆脫的電線。" },
+      { "en": "Cut the wire to length.", "zh": "把電線剪成需要的長度。" }
+    ],
+    "img": "copper electrical wire coil",
+    "theme": "工具DIY",
+    "level": 2
+  },
+  {
+    "word": "putty",
+    "kk": "[ˈpʌti]",
+    "pos": "n.",
+    "meaning": "膩子;油灰",
+    "examples": [
+      { "en": "Fill the hole with putty.", "zh": "用膩子把洞填起來。" },
+      { "en": "Let the putty set overnight.", "zh": "讓膩子放置一晚變硬。" }
+    ],
+    "img": "wall putty filling hole",
+    "theme": "工具DIY",
+    "level": 3
+  },
+  {
+    "word": "caulk",
+    "kk": "[kɔk]",
+    "pos": "n.",
+    "meaning": "填縫膠",
+    "examples": [
+      { "en": "Apply caulk around the sink.", "zh": "在水槽周圍打填縫膠。" },
+      { "en": "The old caulk is peeling.", "zh": "舊的填縫膠在剝落。" }
+    ],
+    "img": "caulk gun sealing edge",
+    "theme": "工具DIY",
+    "level": 3
+  },
+  {
+    "word": "gloves",
+    "kk": "[ɡlʌvz]",
+    "pos": "n.",
+    "meaning": "手套",
+    "examples": [
+      { "en": "Put on gloves before you start.", "zh": "開始前先戴上手套。" },
+      { "en": "These gloves protect your hands.", "zh": "這副手套能保護你的手。" }
+    ],
+    "img": "work gloves pair",
+    "theme": "工具DIY",
+    "level": 1
+  },
+  {
+    "word": "goggles",
+    "kk": "[ˈɡɑɡl̩z]",
+    "pos": "n.",
+    "meaning": "護目鏡",
+    "examples": [
+      { "en": "Wear goggles when you drill.", "zh": "鑽孔時戴上護目鏡。" },
+      { "en": "The goggles kept dust out of my eyes.", "zh": "護目鏡擋住了灰塵進眼睛。" }
+    ],
+    "img": "safety goggles eyewear",
+    "theme": "工具DIY",
+    "level": 2
+  },
+  {
+    "word": "battery",
+    "kk": "[ˈbætəri]",
+    "pos": "n.",
+    "meaning": "電池",
+    "examples": [
+      { "en": "The drill's battery is dead.", "zh": "電鑽的電池沒電了。" },
+      { "en": "Charge the battery overnight.", "zh": "把電池充一整晚。" }
+    ],
+    "img": "power tool battery pack",
+    "theme": "工具DIY",
+    "level": 1
+  },
+  {
+    "word": "socket",
+    "kk": "[ˈsɑkɪt]",
+    "pos": "n.",
+    "meaning": "套筒;插座",
+    "examples": [
+      { "en": "Pick the right socket size.", "zh": "選對套筒尺寸。" },
+      { "en": "The socket snaps onto the wrench.", "zh": "套筒卡到扳手上。" }
+    ],
+    "img": "socket wrench set",
+    "theme": "工具DIY",
+    "level": 3
+  },
+  {
+    "word": "utility knife",
+    "kk": "[juˈtɪləti naɪf]",
+    "pos": "n.",
+    "meaning": "美工刀",
+    "examples": [
+      { "en": "Open the box with a utility knife.", "zh": "用美工刀把箱子割開。" },
+      { "en": "Change the blade on the utility knife.", "zh": "換掉美工刀的刀片。" }
+    ],
+    "img": "utility knife retractable blade",
+    "theme": "工具DIY",
+    "level": 2
+  },
+  {
+    "word": "sander",
+    "kk": "[ˈsændɚ]",
+    "pos": "n.",
+    "meaning": "砂磨機",
+    "examples": [
+      { "en": "The sander saves a lot of time.", "zh": "砂磨機省下很多時間。" },
+      { "en": "Plug in the sander over there.", "zh": "把砂磨機插到那邊的插座。" }
+    ],
+    "img": "electric orbital sander",
+    "theme": "工具DIY",
+    "level": 3
+  },
+  {
+    "word": "workbench",
+    "kk": "[ˈwɝkˌbɛntʃ]",
+    "pos": "n.",
+    "meaning": "工作檯",
+    "examples": [
+      { "en": "Clear off the workbench first.", "zh": "先把工作檯清乾淨。" },
+      { "en": "All my tools hang above the workbench.", "zh": "我的工具都掛在工作檯上方。" }
+    ],
+    "img": "garage workbench with tools",
+    "theme": "工具DIY",
+    "level": 3
+  }
+]

@@ -1,0 +1,639 @@
+[
+  {
+    "word": "news",
+    "kk": "[njuz]",
+    "pos": "n.",
+    "meaning": "新聞;消息",
+    "examples": [
+      { "en": "Did you hear the news today?", "zh": "你聽到今天的新聞了嗎?" },
+      { "en": "That's great news for everyone.", "zh": "這對大家來說是好消息。" }
+    ],
+    "img": "TV news broadcast screen",
+    "theme": "新聞社會",
+    "level": 1
+  },
+  {
+    "word": "report",
+    "kk": "[rɪˈport]",
+    "pos": "n./v.",
+    "meaning": "報導;報告",
+    "examples": [
+      { "en": "The report came out this morning.", "zh": "這份報導今天早上出爐。" },
+      { "en": "She reports the news every night.", "zh": "她每晚播報新聞。" }
+    ],
+    "img": "journalist writing a report",
+    "theme": "新聞社會",
+    "level": 1
+  },
+  {
+    "word": "event",
+    "kk": "[ɪˈvɛnt]",
+    "pos": "n.",
+    "meaning": "事件;活動",
+    "examples": [
+      { "en": "It was a big event in the city.", "zh": "那是城裡的一件大事。" },
+      { "en": "The event starts at noon.", "zh": "活動中午開始。" }
+    ],
+    "img": "crowd at a public event",
+    "theme": "新聞社會",
+    "level": 1
+  },
+  {
+    "word": "story",
+    "kk": "[ˈstɔri]",
+    "pos": "n.",
+    "meaning": "報導;故事",
+    "examples": [
+      { "en": "This story is on the front page.", "zh": "這則報導在頭版。" },
+      { "en": "Tell me the whole story.", "zh": "把整件事告訴我。" }
+    ],
+    "img": "newspaper front page headline",
+    "theme": "新聞社會",
+    "level": 1
+  },
+  {
+    "word": "public",
+    "kk": "[ˈpʌblɪk]",
+    "pos": "adj./n.",
+    "meaning": "公眾的;大眾",
+    "examples": [
+      { "en": "This is a public park.", "zh": "這是一座公園。" },
+      { "en": "The public wants answers.", "zh": "大眾想要答案。" }
+    ],
+    "img": "people gathered in public square",
+    "theme": "新聞社會",
+    "level": 1
+  },
+  {
+    "word": "society",
+    "kk": "[səˈsaɪətɪ]",
+    "pos": "n.",
+    "meaning": "社會",
+    "examples": [
+      { "en": "Society is changing fast.", "zh": "社會正在快速改變。" },
+      { "en": "We all live in the same society.", "zh": "我們都生活在同一個社會裡。" }
+    ],
+    "img": "diverse crowd of people together",
+    "theme": "新聞社會",
+    "level": 1
+  },
+  {
+    "word": "issue",
+    "kk": "[ˈɪʃju]",
+    "pos": "n.",
+    "meaning": "議題;問題",
+    "examples": [
+      { "en": "This is a serious issue.", "zh": "這是一個嚴肅的議題。" },
+      { "en": "We need to talk about this issue.", "zh": "我們得談談這個問題。" }
+    ],
+    "img": "people debating a social issue",
+    "theme": "新聞社會",
+    "level": 1
+  },
+  {
+    "word": "problem",
+    "kk": "[ˈprɑbləm]",
+    "pos": "n.",
+    "meaning": "問題;難題",
+    "examples": [
+      { "en": "That's a big problem for the city.", "zh": "那對這座城市是個大問題。" },
+      { "en": "We can solve this problem together.", "zh": "我們可以一起解決這個問題。" }
+    ],
+    "img": "person facing a problem sign",
+    "theme": "新聞社會",
+    "level": 1
+  },
+  {
+    "word": "change",
+    "kk": "[tʃendʒ]",
+    "pos": "n./v.",
+    "meaning": "改變;變化",
+    "examples": [
+      { "en": "People want real change.", "zh": "人們想要真正的改變。" },
+      { "en": "Things are starting to change.", "zh": "事情開始有了變化。" }
+    ],
+    "img": "arrows showing change direction",
+    "theme": "新聞社會",
+    "level": 1
+  },
+  {
+    "word": "vote",
+    "kk": "[vot]",
+    "pos": "n./v.",
+    "meaning": "投票;選票",
+    "examples": [
+      { "en": "Don't forget to vote today.", "zh": "別忘了今天去投票。" },
+      { "en": "Every vote counts.", "zh": "每一票都很重要。" }
+    ],
+    "img": "hand dropping ballot in box",
+    "theme": "新聞社會",
+    "level": 1
+  },
+  {
+    "word": "leader",
+    "kk": "[ˈlidɚ]",
+    "pos": "n.",
+    "meaning": "領袖;領導者",
+    "examples": [
+      { "en": "She is a strong leader.", "zh": "她是一位堅強的領袖。" },
+      { "en": "The leader gave a speech.", "zh": "領導者發表了演說。" }
+    ],
+    "img": "leader speaking at podium",
+    "theme": "新聞社會",
+    "level": 1
+  },
+  {
+    "word": "protest",
+    "kk": "[ˈprotɛst]",
+    "pos": "n./v.",
+    "meaning": "抗議;示威",
+    "examples": [
+      { "en": "Thousands joined the protest.", "zh": "數千人加入了抗議。" },
+      { "en": "They protest against the new law.", "zh": "他們抗議這條新法律。" }
+    ],
+    "img": "crowd holding protest signs",
+    "theme": "新聞社會",
+    "level": 2
+  },
+  {
+    "word": "media",
+    "kk": "[ˈmidɪə]",
+    "pos": "n.",
+    "meaning": "媒體",
+    "examples": [
+      { "en": "The media covered the story widely.", "zh": "媒體廣泛報導了這件事。" },
+      { "en": "Social media spreads news fast.", "zh": "社群媒體傳播新聞很快。" }
+    ],
+    "img": "microphones and cameras of media",
+    "theme": "新聞社會",
+    "level": 2
+  },
+  {
+    "word": "opinion",
+    "kk": "[əˈpɪnjən]",
+    "pos": "n.",
+    "meaning": "意見;看法",
+    "examples": [
+      { "en": "What's your opinion on this?", "zh": "你對這件事有什麼看法?" },
+      { "en": "Everyone has a different opinion.", "zh": "每個人的意見都不同。" }
+    ],
+    "img": "speech bubbles with opinions",
+    "theme": "新聞社會",
+    "level": 2
+  },
+  {
+    "word": "trend",
+    "kk": "[trɛnd]",
+    "pos": "n.",
+    "meaning": "趨勢;潮流",
+    "examples": [
+      { "en": "This is a growing trend.", "zh": "這是一個逐漸增長的趨勢。" },
+      { "en": "The topic is trending online.", "zh": "這個話題在網路上很熱門。" }
+    ],
+    "img": "rising trend line graph",
+    "theme": "新聞社會",
+    "level": 2
+  },
+  {
+    "word": "headline",
+    "kk": "[ˈhɛdˌlaɪn]",
+    "pos": "n.",
+    "meaning": "頭條;標題",
+    "examples": [
+      { "en": "The headline caught my eye.", "zh": "那個頭條吸引了我的注意。" },
+      { "en": "It made headlines everywhere.", "zh": "它成了各地的頭條新聞。" }
+    ],
+    "img": "bold newspaper headline text",
+    "theme": "新聞社會",
+    "level": 2
+  },
+  {
+    "word": "government",
+    "kk": "[ˈgʌvɚnmənt]",
+    "pos": "n.",
+    "meaning": "政府",
+    "examples": [
+      { "en": "The government made a new plan.", "zh": "政府制定了新計畫。" },
+      { "en": "People trust the government less now.", "zh": "現在人們比較不信任政府了。" }
+    ],
+    "img": "government parliament building",
+    "theme": "新聞社會",
+    "level": 2
+  },
+  {
+    "word": "policy",
+    "kk": "[ˈpɑləsɪ]",
+    "pos": "n.",
+    "meaning": "政策",
+    "examples": [
+      { "en": "The new policy starts next month.", "zh": "新政策下個月開始實施。" },
+      { "en": "Many people oppose this policy.", "zh": "許多人反對這項政策。" }
+    ],
+    "img": "policy document with stamp",
+    "theme": "新聞社會",
+    "level": 2
+  },
+  {
+    "word": "economy",
+    "kk": "[ɪˈkɑnəmɪ]",
+    "pos": "n.",
+    "meaning": "經濟",
+    "examples": [
+      { "en": "The economy is slowly recovering.", "zh": "經濟正在緩慢復甦。" },
+      { "en": "A strong economy helps everyone.", "zh": "強勁的經濟對大家都有好處。" }
+    ],
+    "img": "stock market chart and coins",
+    "theme": "新聞社會",
+    "level": 2
+  },
+  {
+    "word": "election",
+    "kk": "[ɪˈlɛkʃən]",
+    "pos": "n.",
+    "meaning": "選舉",
+    "examples": [
+      { "en": "The election is next week.", "zh": "選舉在下週舉行。" },
+      { "en": "She won the election easily.", "zh": "她輕鬆贏得了選舉。" }
+    ],
+    "img": "voting booths on election day",
+    "theme": "新聞社會",
+    "level": 2
+  },
+  {
+    "word": "crisis",
+    "kk": "[ˈkraɪsɪs]",
+    "pos": "n.",
+    "meaning": "危機",
+    "examples": [
+      { "en": "The country is facing a crisis.", "zh": "這個國家正面臨一場危機。" },
+      { "en": "They handled the crisis well.", "zh": "他們把危機處理得很好。" }
+    ],
+    "img": "emergency warning red alert",
+    "theme": "新聞社會",
+    "level": 2
+  },
+  {
+    "word": "reform",
+    "kk": "[rɪˈfɔrm]",
+    "pos": "n./v.",
+    "meaning": "改革",
+    "examples": [
+      { "en": "They are calling for reform.", "zh": "他們正在呼籲改革。" },
+      { "en": "The law needs to be reformed.", "zh": "這條法律需要改革。" }
+    ],
+    "img": "gears turning for reform",
+    "theme": "新聞社會",
+    "level": 2
+  },
+  {
+    "word": "protect",
+    "kk": "[prəˈtɛkt]",
+    "pos": "v.",
+    "meaning": "保護",
+    "examples": [
+      { "en": "We must protect the environment.", "zh": "我們必須保護環境。" },
+      { "en": "Laws protect our rights.", "zh": "法律保護我們的權利。" }
+    ],
+    "img": "shield protecting people icon",
+    "theme": "新聞社會",
+    "level": 2
+  },
+  {
+    "word": "rights",
+    "kk": "[raɪts]",
+    "pos": "n.",
+    "meaning": "權利",
+    "examples": [
+      { "en": "Everyone has equal rights.", "zh": "每個人都有平等的權利。" },
+      { "en": "They fought for their rights.", "zh": "他們為自己的權利而奮鬥。" }
+    ],
+    "img": "raised fists for human rights",
+    "theme": "新聞社會",
+    "level": 2
+  },
+  {
+    "word": "victim",
+    "kk": "[ˈvɪktɪm]",
+    "pos": "n.",
+    "meaning": "受害者",
+    "examples": [
+      { "en": "The victim received help quickly.", "zh": "受害者很快得到了幫助。" },
+      { "en": "They支持 the victims of the flood.", "zh": "他們支援水災的受害者。" }
+    ],
+    "img": "person receiving aid support",
+    "theme": "新聞社會",
+    "level": 2
+  },
+  {
+    "word": "witness",
+    "kk": "[ˈwɪtnɪs]",
+    "pos": "n./v.",
+    "meaning": "目擊者;目擊",
+    "examples": [
+      { "en": "A witness saw the accident.", "zh": "一名目擊者看到了事故。" },
+      { "en": "She witnessed the whole thing.", "zh": "她目睹了整件事。" }
+    ],
+    "img": "person watching an incident",
+    "theme": "新聞社會",
+    "level": 2
+  },
+  {
+    "word": "spread",
+    "kk": "[sprɛd]",
+    "pos": "v.",
+    "meaning": "散播;傳播",
+    "examples": [
+      { "en": "The news spread quickly.", "zh": "消息傳得很快。" },
+      { "en": "Rumors spread across the town.", "zh": "謠言傳遍了整個城鎮。" }
+    ],
+    "img": "network spreading information",
+    "theme": "新聞社會",
+    "level": 2
+  },
+  {
+    "word": "impact",
+    "kk": "[ˈɪmpækt]",
+    "pos": "n.",
+    "meaning": "影響;衝擊",
+    "examples": [
+      { "en": "The storm had a huge impact.", "zh": "這場暴風雨造成了巨大衝擊。" },
+      { "en": "It made a real impact on society.", "zh": "它對社會造成了真正的影響。" }
+    ],
+    "img": "ripple effect in water",
+    "theme": "新聞社會",
+    "level": 2
+  },
+  {
+    "word": "support",
+    "kk": "[səˈport]",
+    "pos": "n./v.",
+    "meaning": "支持",
+    "examples": [
+      { "en": "Many people support the plan.", "zh": "許多人支持這個計畫。" },
+      { "en": "We need your support.", "zh": "我們需要你的支持。" }
+    ],
+    "img": "hands raised in support",
+    "theme": "新聞社會",
+    "level": 2
+  },
+  {
+    "word": "debate",
+    "kk": "[dɪˈbet]",
+    "pos": "n./v.",
+    "meaning": "辯論;爭論",
+    "examples": [
+      { "en": "The debate lasted two hours.", "zh": "這場辯論持續了兩小時。" },
+      { "en": "People still debate this topic.", "zh": "人們仍在爭論這個話題。" }
+    ],
+    "img": "two people debating on stage",
+    "theme": "新聞社會",
+    "level": 2
+  },
+  {
+    "word": "conflict",
+    "kk": "[ˈkɑnflɪkt]",
+    "pos": "n.",
+    "meaning": "衝突;紛爭",
+    "examples": [
+      { "en": "The conflict lasted for years.", "zh": "這場衝突持續了好幾年。" },
+      { "en": "They tried to end the conflict.", "zh": "他們試圖結束這場衝突。" }
+    ],
+    "img": "two opposing arrows clashing",
+    "theme": "新聞社會",
+    "level": 2
+  },
+  {
+    "word": "aware",
+    "kk": "[əˈwɛr]",
+    "pos": "adj.",
+    "meaning": "意識到的;察覺的",
+    "examples": [
+      { "en": "People are more aware of the issue now.", "zh": "現在人們更意識到這個問題了。" },
+      { "en": "Are you aware of the risks?", "zh": "你有意識到這些風險嗎?" }
+    ],
+    "img": "lightbulb of awareness",
+    "theme": "新聞社會",
+    "level": 2
+  },
+  {
+    "word": "concern",
+    "kk": "[kənˈsɝn]",
+    "pos": "n./v.",
+    "meaning": "擔憂;關切",
+    "examples": [
+      { "en": "Safety is our main concern.", "zh": "安全是我們最主要的關切。" },
+      { "en": "Many people are concerned about it.", "zh": "許多人對此感到擔憂。" }
+    ],
+    "img": "worried face thinking",
+    "theme": "新聞社會",
+    "level": 2
+  },
+  {
+    "word": "announce",
+    "kk": "[əˈnaʊns]",
+    "pos": "v.",
+    "meaning": "宣布;公布",
+    "examples": [
+      { "en": "The mayor announced a new rule.", "zh": "市長宣布了一項新規定。" },
+      { "en": "They will announce the results soon.", "zh": "他們很快會公布結果。" }
+    ],
+    "img": "person speaking into megaphone",
+    "theme": "新聞社會",
+    "level": 2
+  },
+  {
+    "word": "authority",
+    "kk": "[əˈθɔrətɪ]",
+    "pos": "n.",
+    "meaning": "當局;權威",
+    "examples": [
+      { "en": "The authorities are investigating.", "zh": "當局正在調查。" },
+      { "en": "He is an authority on the subject.", "zh": "他是這個領域的權威。" }
+    ],
+    "img": "official government officer badge",
+    "theme": "新聞社會",
+    "level": 3
+  },
+  {
+    "word": "controversy",
+    "kk": "[ˈkɑntrəˌvɝsɪ]",
+    "pos": "n.",
+    "meaning": "爭議",
+    "examples": [
+      { "en": "The plan caused a lot of controversy.", "zh": "這項計畫引發了許多爭議。" },
+      { "en": "The topic remains a controversy.", "zh": "這個話題仍充滿爭議。" }
+    ],
+    "img": "people arguing over topic",
+    "theme": "新聞社會",
+    "level": 3
+  },
+  {
+    "word": "coverage",
+    "kk": "[ˈkʌvərɪdʒ]",
+    "pos": "n.",
+    "meaning": "報導;新聞報導範圍",
+    "examples": [
+      { "en": "The event got wide coverage.", "zh": "這場活動得到了廣泛報導。" },
+      { "en": "News coverage was live all day.", "zh": "新聞報導整天都在直播。" }
+    ],
+    "img": "camera crew filming news",
+    "theme": "新聞社會",
+    "level": 3
+  },
+  {
+    "word": "inequality",
+    "kk": "[ˌɪnɪˈkwɑlətɪ]",
+    "pos": "n.",
+    "meaning": "不平等",
+    "examples": [
+      { "en": "Inequality is a serious social issue.", "zh": "不平等是嚴重的社會議題。" },
+      { "en": "They want to reduce inequality.", "zh": "他們想減少不平等。" }
+    ],
+    "img": "unbalanced scale of wealth",
+    "theme": "新聞社會",
+    "level": 3
+  },
+  {
+    "word": "corruption",
+    "kk": "[kəˈrʌpʃən]",
+    "pos": "n.",
+    "meaning": "貪腐",
+    "examples": [
+      { "en": "The scandal exposed corruption.", "zh": "這樁醜聞揭露了貪腐。" },
+      { "en": "They are fighting corruption.", "zh": "他們正在打擊貪腐。" }
+    ],
+    "img": "money passed under table",
+    "theme": "新聞社會",
+    "level": 3
+  },
+  {
+    "word": "poverty",
+    "kk": "[ˈpɑvɚtɪ]",
+    "pos": "n.",
+    "meaning": "貧窮",
+    "examples": [
+      { "en": "Many families live in poverty.", "zh": "許多家庭生活在貧窮之中。" },
+      { "en": "The program helps end poverty.", "zh": "這個計畫幫助終結貧窮。" }
+    ],
+    "img": "empty wallet and worn shoes",
+    "theme": "新聞社會",
+    "level": 3
+  },
+  {
+    "word": "discrimination",
+    "kk": "[dɪˌskrɪməˈneʃən]",
+    "pos": "n.",
+    "meaning": "歧視",
+    "examples": [
+      { "en": "Discrimination is against the law.", "zh": "歧視是違法的。" },
+      { "en": "They spoke out against discrimination.", "zh": "他們公開反對歧視。" }
+    ],
+    "img": "divided groups of people",
+    "theme": "新聞社會",
+    "level": 3
+  },
+  {
+    "word": "immigration",
+    "kk": "[ˌɪməˈgreʃən]",
+    "pos": "n.",
+    "meaning": "移民;移入",
+    "examples": [
+      { "en": "Immigration is a hot topic.", "zh": "移民是個熱門話題。" },
+      { "en": "The country changed its immigration rules.", "zh": "這個國家改變了移民規定。" }
+    ],
+    "img": "people crossing border checkpoint",
+    "theme": "新聞社會",
+    "level": 3
+  },
+  {
+    "word": "legislation",
+    "kk": "[ˌlɛdʒɪsˈleʃən]",
+    "pos": "n.",
+    "meaning": "立法;法律",
+    "examples": [
+      { "en": "New legislation was passed today.", "zh": "今天通過了新的立法。" },
+      { "en": "The legislation protects workers.", "zh": "這項立法保護勞工。" }
+    ],
+    "img": "gavel over law book",
+    "theme": "新聞社會",
+    "level": 3
+  },
+  {
+    "word": "demonstration",
+    "kk": "[ˌdɛmənˈstreʃən]",
+    "pos": "n.",
+    "meaning": "示威;遊行",
+    "examples": [
+      { "en": "A peaceful demonstration took place.", "zh": "一場和平示威舉行了。" },
+      { "en": "The demonstration blocked the street.", "zh": "示威遊行封鎖了街道。" }
+    ],
+    "img": "large street demonstration march",
+    "theme": "新聞社會",
+    "level": 3
+  },
+  {
+    "word": "consequence",
+    "kk": "[ˈkɑnsəˌkwɛns]",
+    "pos": "n.",
+    "meaning": "後果;結果",
+    "examples": [
+      { "en": "Every choice has consequences.", "zh": "每個選擇都有後果。" },
+      { "en": "They faced serious consequences.", "zh": "他們面臨了嚴重的後果。" }
+    ],
+    "img": "domino chain falling",
+    "theme": "新聞社會",
+    "level": 3
+  },
+  {
+    "word": "perspective",
+    "kk": "[pɚˈspɛktɪv]",
+    "pos": "n.",
+    "meaning": "觀點;角度",
+    "examples": [
+      { "en": "Try to see it from another perspective.", "zh": "試著從另一個角度來看它。" },
+      { "en": "Her perspective changed my mind.", "zh": "她的觀點改變了我的想法。" }
+    ],
+    "img": "eye viewing from angle",
+    "theme": "新聞社會",
+    "level": 3
+  },
+  {
+    "word": "transparency",
+    "kk": "[trænsˈpɛrənsɪ]",
+    "pos": "n.",
+    "meaning": "透明度;公開",
+    "examples": [
+      { "en": "People demand more transparency.", "zh": "人們要求更多的透明度。" },
+      { "en": "Transparency builds public trust.", "zh": "透明度能建立大眾的信任。" }
+    ],
+    "img": "clear glass document window",
+    "theme": "新聞社會",
+    "level": 3
+  },
+  {
+    "word": "sustainable",
+    "kk": "[səˈstenəbḷ]",
+    "pos": "adj.",
+    "meaning": "永續的;可持續的",
+    "examples": [
+      { "en": "We need a sustainable future.", "zh": "我們需要一個永續的未來。" },
+      { "en": "Sustainable energy is growing fast.", "zh": "永續能源正快速增長。" }
+    ],
+    "img": "green leaf recycling symbol",
+    "theme": "新聞社會",
+    "level": 3
+  },
+  {
+    "word": "accountable",
+    "kk": "[əˈkaʊntəbḷ]",
+    "pos": "adj.",
+    "meaning": "應負責的;有責任的",
+    "examples": [
+      { "en": "Leaders should be accountable.", "zh": "領導者應該負起責任。" },
+      { "en": "We hold them accountable for it.", "zh": "我們要他們為此負責。" }
+    ],
+    "img": "finger pointing at official",
+    "theme": "新聞社會",
+    "level": 3
+  }
+]

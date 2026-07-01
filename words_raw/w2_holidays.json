@@ -1,0 +1,652 @@
+[
+  {
+    "word": "holiday",
+    "kk": "[ˈhɑləˌde]",
+    "pos": "n.",
+    "meaning": "節日;假日",
+    "examples": [
+      { "en": "We have a long holiday next week.", "zh": "我們下週有個長假。" },
+      { "en": "My favorite holiday is New Year.", "zh": "我最喜歡的節日是新年。" }
+    ],
+    "img": "calendar with red holiday date",
+    "theme": "節日慶祝",
+    "level": 1
+  },
+  {
+    "word": "party",
+    "kk": "[ˈpɑrtɪ]",
+    "pos": "n.",
+    "meaning": "派對;聚會",
+    "examples": [
+      { "en": "Let's have a party this weekend.", "zh": "我們這週末辦個派對吧。" },
+      { "en": "The party was so much fun.", "zh": "那個派對超好玩。" }
+    ],
+    "img": "people dancing at party with balloons",
+    "theme": "節日慶祝",
+    "level": 1
+  },
+  {
+    "word": "gift",
+    "kk": "[ɡɪft]",
+    "pos": "n.",
+    "meaning": "禮物",
+    "examples": [
+      { "en": "This gift is for you.", "zh": "這個禮物是給你的。" },
+      { "en": "She loves opening gifts.", "zh": "她喜歡拆禮物。" }
+    ],
+    "img": "wrapped gift box with ribbon",
+    "theme": "節日慶祝",
+    "level": 1
+  },
+  {
+    "word": "present",
+    "kk": "[ˈprɛznt]",
+    "pos": "n.",
+    "meaning": "禮物",
+    "examples": [
+      { "en": "I got a birthday present.", "zh": "我收到一份生日禮物。" },
+      { "en": "What present should I buy?", "zh": "我該買什麼禮物？" }
+    ],
+    "img": "colorful present with bow",
+    "theme": "節日慶祝",
+    "level": 1
+  },
+  {
+    "word": "cake",
+    "kk": "[kek]",
+    "pos": "n.",
+    "meaning": "蛋糕",
+    "examples": [
+      { "en": "Let's cut the birthday cake.", "zh": "我們來切生日蛋糕吧。" },
+      { "en": "The cake tastes really sweet.", "zh": "這蛋糕嚐起來很甜。" }
+    ],
+    "img": "birthday cake with candles",
+    "theme": "節日慶祝",
+    "level": 1
+  },
+  {
+    "word": "candle",
+    "kk": "[ˈkændl]",
+    "pos": "n.",
+    "meaning": "蠟燭",
+    "examples": [
+      { "en": "Blow out the candles!", "zh": "把蠟燭吹熄吧！" },
+      { "en": "There are ten candles on the cake.", "zh": "蛋糕上有十根蠟燭。" }
+    ],
+    "img": "lit candles on cake",
+    "theme": "節日慶祝",
+    "level": 1
+  },
+  {
+    "word": "balloon",
+    "kk": "[bəˈlun]",
+    "pos": "n.",
+    "meaning": "氣球",
+    "examples": [
+      { "en": "The kids love the red balloon.", "zh": "孩子們喜歡那顆紅氣球。" },
+      { "en": "We hung balloons on the wall.", "zh": "我們把氣球掛在牆上。" }
+    ],
+    "img": "colorful party balloons floating",
+    "theme": "節日慶祝",
+    "level": 1
+  },
+  {
+    "word": "birthday",
+    "kk": "[ˈbɝθˌde]",
+    "pos": "n.",
+    "meaning": "生日",
+    "examples": [
+      { "en": "Happy birthday to you!", "zh": "祝你生日快樂！" },
+      { "en": "When is your birthday?", "zh": "你的生日是什麼時候？" }
+    ],
+    "img": "birthday cake balloons celebration",
+    "theme": "節日慶祝",
+    "level": 1
+  },
+  {
+    "word": "wedding",
+    "kk": "[ˈwɛdɪŋ]",
+    "pos": "n.",
+    "meaning": "婚禮",
+    "examples": [
+      { "en": "Their wedding was beautiful.", "zh": "他們的婚禮很美。" },
+      { "en": "I'm going to a wedding tomorrow.", "zh": "我明天要去參加婚禮。" }
+    ],
+    "img": "bride and groom at wedding",
+    "theme": "節日慶祝",
+    "level": 1
+  },
+  {
+    "word": "flower",
+    "kk": "[ˈflaʊɚ]",
+    "pos": "n.",
+    "meaning": "花",
+    "examples": [
+      { "en": "He gave her red flowers.", "zh": "他送她紅色的花。" },
+      { "en": "These flowers smell nice.", "zh": "這些花聞起來很香。" }
+    ],
+    "img": "bouquet of fresh flowers",
+    "theme": "節日慶祝",
+    "level": 1
+  },
+  {
+    "word": "music",
+    "kk": "[ˈmjuzɪk]",
+    "pos": "n.",
+    "meaning": "音樂",
+    "examples": [
+      { "en": "Turn up the music, please.", "zh": "請把音樂開大聲點。" },
+      { "en": "We danced to the music.", "zh": "我們隨著音樂跳舞。" }
+    ],
+    "img": "speaker playing party music",
+    "theme": "節日慶祝",
+    "level": 1
+  },
+  {
+    "word": "guest",
+    "kk": "[ɡɛst]",
+    "pos": "n.",
+    "meaning": "客人;賓客",
+    "examples": [
+      { "en": "All the guests arrived on time.", "zh": "所有賓客都準時到了。" },
+      { "en": "We invited fifty guests.", "zh": "我們邀請了五十位客人。" }
+    ],
+    "img": "guests arriving at party",
+    "theme": "節日慶祝",
+    "level": 1
+  },
+  {
+    "word": "invite",
+    "kk": "[ɪnˈvaɪt]",
+    "pos": "v.",
+    "meaning": "邀請",
+    "examples": [
+      { "en": "I'll invite you to my party.", "zh": "我會邀請你來我的派對。" },
+      { "en": "Did she invite everyone?", "zh": "她邀請了每個人嗎？" }
+    ],
+    "img": "handing out party invitation",
+    "theme": "節日慶祝",
+    "level": 1
+  },
+  {
+    "word": "celebrate",
+    "kk": "[ˈsɛləˌbret]",
+    "pos": "v.",
+    "meaning": "慶祝",
+    "examples": [
+      { "en": "Let's celebrate your success!", "zh": "我們來慶祝你的成功！" },
+      { "en": "We celebrate New Year together.", "zh": "我們一起慶祝新年。" }
+    ],
+    "img": "people celebrating with confetti",
+    "theme": "節日慶祝",
+    "level": 1
+  },
+  {
+    "word": "wish",
+    "kk": "[wɪʃ]",
+    "pos": "v.",
+    "meaning": "祝願;希望",
+    "examples": [
+      { "en": "I wish you good luck.", "zh": "我祝你好運。" },
+      { "en": "Make a wish before blowing.", "zh": "吹之前先許個願。" }
+    ],
+    "img": "person making a wish",
+    "theme": "節日慶祝",
+    "level": 1
+  },
+  {
+    "word": "card",
+    "kk": "[kɑrd]",
+    "pos": "n.",
+    "meaning": "卡片",
+    "examples": [
+      { "en": "I sent her a birthday card.", "zh": "我寄給她一張生日卡片。" },
+      { "en": "This card has a sweet message.", "zh": "這張卡片有句溫馨的話。" }
+    ],
+    "img": "greeting card with message",
+    "theme": "節日慶祝",
+    "level": 1
+  },
+  {
+    "word": "dinner",
+    "kk": "[ˈdɪnɚ]",
+    "pos": "n.",
+    "meaning": "晚餐;晚宴",
+    "examples": [
+      { "en": "We had a big family dinner.", "zh": "我們吃了頓豐盛的家庭晚餐。" },
+      { "en": "Dinner is ready now.", "zh": "晚餐現在準備好了。" }
+    ],
+    "img": "festive dinner table with food",
+    "theme": "節日慶祝",
+    "level": 1
+  },
+  {
+    "word": "surprise",
+    "kk": "[sɚˈpraɪz]",
+    "pos": "n.",
+    "meaning": "驚喜;驚訝",
+    "examples": [
+      { "en": "It was a big surprise!", "zh": "那真是個大驚喜！" },
+      { "en": "We planned a surprise party.", "zh": "我們計劃了一場驚喜派對。" }
+    ],
+    "img": "surprise party people jumping out",
+    "theme": "節日慶祝",
+    "level": 1
+  },
+  {
+    "word": "candy",
+    "kk": "[ˈkændɪ]",
+    "pos": "n.",
+    "meaning": "糖果",
+    "examples": [
+      { "en": "The kids ate all the candy.", "zh": "孩子們把糖果都吃光了。" },
+      { "en": "I bought candy for Halloween.", "zh": "我為萬聖節買了糖果。" }
+    ],
+    "img": "colorful candy in a bowl",
+    "theme": "節日慶祝",
+    "level": 1
+  },
+  {
+    "word": "fireworks",
+    "kk": "[ˈfaɪrˌwɝks]",
+    "pos": "n.",
+    "meaning": "煙火",
+    "examples": [
+      { "en": "The fireworks were amazing.", "zh": "煙火很壯觀。" },
+      { "en": "We watched fireworks at midnight.", "zh": "我們在午夜看了煙火。" }
+    ],
+    "img": "colorful fireworks in night sky",
+    "theme": "節日慶祝",
+    "level": 2
+  },
+  {
+    "word": "festival",
+    "kk": "[ˈfɛstəvl]",
+    "pos": "n.",
+    "meaning": "節慶;慶典",
+    "examples": [
+      { "en": "The music festival lasts three days.", "zh": "這個音樂節持續三天。" },
+      { "en": "We joined the lantern festival.", "zh": "我們參加了燈籠節。" }
+    ],
+    "img": "crowd at colorful festival",
+    "theme": "節日慶祝",
+    "level": 2
+  },
+  {
+    "word": "decorate",
+    "kk": "[ˈdɛkəˌret]",
+    "pos": "v.",
+    "meaning": "裝飾;佈置",
+    "examples": [
+      { "en": "Let's decorate the room together.", "zh": "我們一起佈置房間吧。" },
+      { "en": "They decorate the tree every year.", "zh": "他們每年都裝飾聖誕樹。" }
+    ],
+    "img": "people decorating festive room",
+    "theme": "節日慶祝",
+    "level": 2
+  },
+  {
+    "word": "decoration",
+    "kk": "[ˌdɛkəˈreʃən]",
+    "pos": "n.",
+    "meaning": "裝飾品",
+    "examples": [
+      { "en": "The decorations look lovely.", "zh": "這些裝飾品看起來很可愛。" },
+      { "en": "We put up party decorations.", "zh": "我們掛上了派對裝飾。" }
+    ],
+    "img": "hanging festive decorations",
+    "theme": "節日慶祝",
+    "level": 2
+  },
+  {
+    "word": "invitation",
+    "kk": "[ˌɪnvəˈteʃən]",
+    "pos": "n.",
+    "meaning": "邀請函;請帖",
+    "examples": [
+      { "en": "I received a wedding invitation.", "zh": "我收到一張婚禮請帖。" },
+      { "en": "The invitation says seven o'clock.", "zh": "請帖上寫著七點。" }
+    ],
+    "img": "elegant invitation card envelope",
+    "theme": "節日慶祝",
+    "level": 2
+  },
+  {
+    "word": "anniversary",
+    "kk": "[ˌænəˈvɝsərɪ]",
+    "pos": "n.",
+    "meaning": "週年紀念日",
+    "examples": [
+      { "en": "Today is our wedding anniversary.", "zh": "今天是我們的結婚紀念日。" },
+      { "en": "They celebrate their anniversary yearly.", "zh": "他們每年慶祝結婚週年。" }
+    ],
+    "img": "couple celebrating anniversary dinner",
+    "theme": "節日慶祝",
+    "level": 2
+  },
+  {
+    "word": "ceremony",
+    "kk": "[ˈsɛrəˌmonɪ]",
+    "pos": "n.",
+    "meaning": "典禮;儀式",
+    "examples": [
+      { "en": "The ceremony starts at noon.", "zh": "典禮中午開始。" },
+      { "en": "It was a lovely wedding ceremony.", "zh": "那是場美好的婚禮儀式。" }
+    ],
+    "img": "formal ceremony with guests",
+    "theme": "節日慶祝",
+    "level": 2
+  },
+  {
+    "word": "bride",
+    "kk": "[braɪd]",
+    "pos": "n.",
+    "meaning": "新娘",
+    "examples": [
+      { "en": "The bride looks stunning.", "zh": "新娘看起來很美。" },
+      { "en": "Everyone smiled at the bride.", "zh": "大家都對新娘微笑。" }
+    ],
+    "img": "bride in white wedding dress",
+    "theme": "節日慶祝",
+    "level": 2
+  },
+  {
+    "word": "groom",
+    "kk": "[ɡrum]",
+    "pos": "n.",
+    "meaning": "新郎",
+    "examples": [
+      { "en": "The groom wore a black suit.", "zh": "新郎穿了黑色西裝。" },
+      { "en": "The groom looked very happy.", "zh": "新郎看起來很開心。" }
+    ],
+    "img": "groom in suit at wedding",
+    "theme": "節日慶祝",
+    "level": 2
+  },
+  {
+    "word": "toast",
+    "kk": "[tost]",
+    "pos": "n.",
+    "meaning": "敬酒;祝酒",
+    "examples": [
+      { "en": "Let's make a toast to the couple.", "zh": "讓我們為這對新人乾杯。" },
+      { "en": "He gave a short toast.", "zh": "他說了段簡短的祝酒詞。" }
+    ],
+    "img": "people raising glasses for toast",
+    "theme": "節日慶祝",
+    "level": 2
+  },
+  {
+    "word": "congratulate",
+    "kk": "[kənˈɡrætʃəˌlet]",
+    "pos": "v.",
+    "meaning": "恭喜;祝賀",
+    "examples": [
+      { "en": "I want to congratulate you.", "zh": "我想恭喜你。" },
+      { "en": "They congratulated the new couple.", "zh": "他們祝賀這對新人。" }
+    ],
+    "img": "people shaking hands congratulating",
+    "theme": "節日慶祝",
+    "level": 2
+  },
+  {
+    "word": "greeting",
+    "kk": "[ˈɡritɪŋ]",
+    "pos": "n.",
+    "meaning": "問候;賀詞",
+    "examples": [
+      { "en": "She sent warm holiday greetings.", "zh": "她送上溫暖的節日問候。" },
+      { "en": "We exchanged greetings at the door.", "zh": "我們在門口互相問候。" }
+    ],
+    "img": "greeting card with festive words",
+    "theme": "節日慶祝",
+    "level": 2
+  },
+  {
+    "word": "gather",
+    "kk": "[ˈɡæðɚ]",
+    "pos": "v.",
+    "meaning": "聚集;團聚",
+    "examples": [
+      { "en": "The family gathers every holiday.", "zh": "家人每逢節日就團聚。" },
+      { "en": "People gathered in the square.", "zh": "人們聚集在廣場上。" }
+    ],
+    "img": "family gathering around table",
+    "theme": "節日慶祝",
+    "level": 2
+  },
+  {
+    "word": "tradition",
+    "kk": "[trəˈdɪʃən]",
+    "pos": "n.",
+    "meaning": "傳統;習俗",
+    "examples": [
+      { "en": "It's a family tradition.", "zh": "這是家族傳統。" },
+      { "en": "We keep this holiday tradition.", "zh": "我們保留這個節日習俗。" }
+    ],
+    "img": "traditional festival customs scene",
+    "theme": "節日慶祝",
+    "level": 2
+  },
+  {
+    "word": "costume",
+    "kk": "[ˈkɑstjum]",
+    "pos": "n.",
+    "meaning": "服裝;裝扮",
+    "examples": [
+      { "en": "Her Halloween costume is scary.", "zh": "她的萬聖節裝扮很嚇人。" },
+      { "en": "We wore matching costumes.", "zh": "我們穿了成對的服裝。" }
+    ],
+    "img": "person in Halloween costume",
+    "theme": "節日慶祝",
+    "level": 2
+  },
+  {
+    "word": "parade",
+    "kk": "[pəˈred]",
+    "pos": "n.",
+    "meaning": "遊行",
+    "examples": [
+      { "en": "The parade goes down Main Street.", "zh": "遊行沿著主街進行。" },
+      { "en": "We watched the holiday parade.", "zh": "我們看了節日遊行。" }
+    ],
+    "img": "colorful street parade with floats",
+    "theme": "節日慶祝",
+    "level": 2
+  },
+  {
+    "word": "lantern",
+    "kk": "[ˈlæntɚn]",
+    "pos": "n.",
+    "meaning": "燈籠",
+    "examples": [
+      { "en": "Red lanterns hang in the street.", "zh": "紅燈籠掛在街上。" },
+      { "en": "We lit a paper lantern.", "zh": "我們點亮了一盞紙燈籠。" }
+    ],
+    "img": "glowing red lanterns at night",
+    "theme": "節日慶祝",
+    "level": 2
+  },
+  {
+    "word": "feast",
+    "kk": "[fist]",
+    "pos": "n.",
+    "meaning": "盛宴;大餐",
+    "examples": [
+      { "en": "We enjoyed a holiday feast.", "zh": "我們享用了一頓節日盛宴。" },
+      { "en": "The table was full of feast dishes.", "zh": "桌上擺滿了盛宴的菜餚。" }
+    ],
+    "img": "large festive feast table",
+    "theme": "節日慶祝",
+    "level": 2
+  },
+  {
+    "word": "reunion",
+    "kk": "[riˈjunjən]",
+    "pos": "n.",
+    "meaning": "團聚;重聚",
+    "examples": [
+      { "en": "The family reunion was joyful.", "zh": "這場家庭團聚很歡樂。" },
+      { "en": "We hold a reunion each year.", "zh": "我們每年舉辦一次重聚。" }
+    ],
+    "img": "big family reunion photo",
+    "theme": "節日慶祝",
+    "level": 2
+  },
+  {
+    "word": "greet",
+    "kk": "[ɡrit]",
+    "pos": "v.",
+    "meaning": "問候;迎接",
+    "examples": [
+      { "en": "She greeted every guest warmly.", "zh": "她熱情地迎接每位客人。" },
+      { "en": "We greet friends with a hug.", "zh": "我們用擁抱問候朋友。" }
+    ],
+    "img": "host greeting guests at door",
+    "theme": "節日慶祝",
+    "level": 2
+  },
+  {
+    "word": "cheer",
+    "kk": "[tʃɪr]",
+    "pos": "v.",
+    "meaning": "歡呼;喝采",
+    "examples": [
+      { "en": "The crowd began to cheer.", "zh": "人群開始歡呼。" },
+      { "en": "We cheered for the winners.", "zh": "我們為贏家喝采。" }
+    ],
+    "img": "crowd cheering with raised hands",
+    "theme": "節日慶祝",
+    "level": 2
+  },
+  {
+    "word": "occasion",
+    "kk": "[əˈkeʒən]",
+    "pos": "n.",
+    "meaning": "場合;特殊時刻",
+    "examples": [
+      { "en": "It's a special occasion today.", "zh": "今天是個特別的日子。" },
+      { "en": "Wear something nice for the occasion.", "zh": "為這場合穿得體面點。" }
+    ],
+    "img": "elegant formal occasion setting",
+    "theme": "節日慶祝",
+    "level": 2
+  },
+  {
+    "word": "banquet",
+    "kk": "[ˈbæŋkwɪt]",
+    "pos": "n.",
+    "meaning": "宴會;筵席",
+    "examples": [
+      { "en": "The wedding banquet had ten courses.", "zh": "婚宴有十道菜。" },
+      { "en": "A grand banquet was held tonight.", "zh": "今晚舉辦了一場盛大宴會。" }
+    ],
+    "img": "grand banquet hall with tables",
+    "theme": "節日慶祝",
+    "level": 3
+  },
+  {
+    "word": "commemorate",
+    "kk": "[kəˈmɛməˌret]",
+    "pos": "v.",
+    "meaning": "紀念",
+    "examples": [
+      { "en": "This day commemorates our heroes.", "zh": "這一天是為了紀念我們的英雄。" },
+      { "en": "The festival commemorates an old legend.", "zh": "這節慶紀念一個古老傳說。" }
+    ],
+    "img": "memorial ceremony with wreath",
+    "theme": "節日慶祝",
+    "level": 3
+  },
+  {
+    "word": "festivity",
+    "kk": "[fɛsˈtɪvətɪ]",
+    "pos": "n.",
+    "meaning": "歡慶;慶祝活動",
+    "examples": [
+      { "en": "The whole town joined the festivity.", "zh": "全鎮都加入了歡慶。" },
+      { "en": "Festivities lasted all weekend.", "zh": "慶祝活動持續了整個週末。" }
+    ],
+    "img": "town square full of festivity",
+    "theme": "節日慶祝",
+    "level": 3
+  },
+  {
+    "word": "housewarming",
+    "kk": "[ˈhaʊsˌwɔrmɪŋ]",
+    "pos": "n.",
+    "meaning": "喬遷派對;入厝",
+    "examples": [
+      { "en": "They threw a housewarming party.", "zh": "他們辦了場喬遷派對。" },
+      { "en": "I brought a gift to the housewarming.", "zh": "我帶了禮物去喬遷派對。" }
+    ],
+    "img": "friends at housewarming party",
+    "theme": "節日慶祝",
+    "level": 3
+  },
+  {
+    "word": "congratulations",
+    "kk": "[kənˌɡrætʃəˈleʃənz]",
+    "pos": "n.",
+    "meaning": "恭喜;祝賀語",
+    "examples": [
+      { "en": "Congratulations on your new job!", "zh": "恭喜你有了新工作！" },
+      { "en": "She said congratulations warmly.", "zh": "她溫暖地說了聲恭喜。" }
+    ],
+    "img": "congratulations banner and confetti",
+    "theme": "節日慶祝",
+    "level": 3
+  },
+  {
+    "word": "bouquet",
+    "kk": "[buˈke]",
+    "pos": "n.",
+    "meaning": "花束",
+    "examples": [
+      { "en": "The bride tossed her bouquet.", "zh": "新娘拋出她的捧花。" },
+      { "en": "He handed her a lovely bouquet.", "zh": "他遞給她一束可愛的花。" }
+    ],
+    "img": "wedding bouquet of roses",
+    "theme": "節日慶祝",
+    "level": 3
+  },
+  {
+    "word": "confetti",
+    "kk": "[kənˈfɛtɪ]",
+    "pos": "n.",
+    "meaning": "五彩紙屑",
+    "examples": [
+      { "en": "Confetti fell from the ceiling.", "zh": "五彩紙屑從天花板落下。" },
+      { "en": "We threw confetti at midnight.", "zh": "我們在午夜撒下紙屑。" }
+    ],
+    "img": "colorful confetti raining down",
+    "theme": "節日慶祝",
+    "level": 3
+  },
+  {
+    "word": "milestone",
+    "kk": "[ˈmaɪlˌston]",
+    "pos": "n.",
+    "meaning": "里程碑;重要時刻",
+    "examples": [
+      { "en": "Graduation is a big milestone.", "zh": "畢業是個重要的里程碑。" },
+      { "en": "We celebrated this milestone together.", "zh": "我們一起慶祝這個重要時刻。" }
+    ],
+    "img": "milestone celebration with cake",
+    "theme": "節日慶祝",
+    "level": 3
+  },
+  {
+    "word": "farewell",
+    "kk": "[ˌfɛrˈwɛl]",
+    "pos": "n.",
+    "meaning": "告別;歡送",
+    "examples": [
+      { "en": "We held a farewell party for her.", "zh": "我們為她辦了場歡送會。" },
+      { "en": "It was a warm farewell.", "zh": "那是場溫馨的告別。" }
+    ],
+    "img": "farewell party with banner",
+    "theme": "節日慶祝",
+    "level": 3
+  }
+]

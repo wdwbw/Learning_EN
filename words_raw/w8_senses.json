@@ -1,0 +1,652 @@
+[
+  {
+    "word": "whisper",
+    "kk": "[ˈhwɪspɚ]",
+    "pos": "v.",
+    "meaning": "低聲說；耳語",
+    "examples": [
+      { "en": "She leaned over to whisper a secret in my ear.", "zh": "她靠過來在我耳邊低聲說了個祕密。" },
+      { "en": "Please whisper so you don't wake the baby.", "zh": "請小聲點，別吵醒寶寶。" }
+    ],
+    "img": "person whispering into ear",
+    "theme": "聲音感官",
+    "level": 2
+  },
+  {
+    "word": "shout",
+    "kk": "[ʃaʊt]",
+    "pos": "v.",
+    "meaning": "大叫；喊叫",
+    "examples": [
+      { "en": "He had to shout to be heard over the loud music.", "zh": "他得大叫才能蓋過吵鬧的音樂被聽見。" },
+      { "en": "Don't shout at me; I can hear you fine.", "zh": "別對我吼，我聽得很清楚。" }
+    ],
+    "img": "man shouting with open mouth",
+    "theme": "聲音感官",
+    "level": 2
+  },
+  {
+    "word": "buzz",
+    "kk": "[bʌz]",
+    "pos": "v.",
+    "meaning": "發出嗡嗡聲",
+    "examples": [
+      { "en": "A fly kept buzzing around my head all afternoon.", "zh": "一隻蒼蠅整個下午在我頭邊嗡嗡飛。" },
+      { "en": "My phone buzzed with a new message.", "zh": "我的手機嗡嗡響，來了新訊息。" }
+    ],
+    "img": "bee buzzing near flower",
+    "theme": "聲音感官",
+    "level": 2
+  },
+  {
+    "word": "crunch",
+    "kk": "[krʌntʃ]",
+    "pos": "v.",
+    "meaning": "嘎吱嘎吱地咬或踩",
+    "examples": [
+      { "en": "The dry leaves crunched under our boots.", "zh": "乾葉子在我們的靴子下嘎吱作響。" },
+      { "en": "She crunched loudly on the fresh apple.", "zh": "她大聲地咬著新鮮的蘋果。" }
+    ],
+    "img": "boot stepping on dry leaves",
+    "theme": "聲音感官",
+    "level": 2
+  },
+  {
+    "word": "squeak",
+    "kk": "[skwik]",
+    "pos": "v.",
+    "meaning": "發出吱吱聲",
+    "examples": [
+      { "en": "The old door squeaked as I opened it.", "zh": "那扇舊門一打開就吱吱作響。" },
+      { "en": "The mouse squeaked and ran under the table.", "zh": "老鼠吱吱叫著跑到桌子底下。" }
+    ],
+    "img": "squeaky old wooden door",
+    "theme": "聲音感官",
+    "level": 3
+  },
+  {
+    "word": "roar",
+    "kk": "[ror]",
+    "pos": "v.",
+    "meaning": "吼叫；轟鳴",
+    "examples": [
+      { "en": "The lion roared loudly across the plain.", "zh": "獅子在草原上大聲吼叫。" },
+      { "en": "The crowd roared when the team scored.", "zh": "球隊得分時觀眾轟然歡呼。" }
+    ],
+    "img": "lion roaring open mouth",
+    "theme": "聲音感官",
+    "level": 3
+  },
+  {
+    "word": "hum",
+    "kk": "[hʌm]",
+    "pos": "v.",
+    "meaning": "哼唱；發出低鳴",
+    "examples": [
+      { "en": "She hummed a tune while washing the dishes.", "zh": "她洗碗時哼著一首曲子。" },
+      { "en": "The refrigerator hums quietly at night.", "zh": "冰箱在夜裡低低地嗡鳴。" }
+    ],
+    "img": "person humming while cooking",
+    "theme": "聲音感官",
+    "level": 2
+  },
+  {
+    "word": "rustle",
+    "kk": "[ˈrʌsl̩]",
+    "pos": "v.",
+    "meaning": "發出沙沙聲",
+    "examples": [
+      { "en": "The wind made the trees rustle softly.", "zh": "風讓樹葉輕輕地沙沙作響。" },
+      { "en": "I heard papers rustling in the next room.", "zh": "我聽見隔壁房間紙張的沙沙聲。" }
+    ],
+    "img": "leaves rustling in wind",
+    "theme": "聲音感官",
+    "level": 3
+  },
+  {
+    "word": "creak",
+    "kk": "[krik]",
+    "pos": "v.",
+    "meaning": "發出嘎吱聲",
+    "examples": [
+      { "en": "The wooden stairs creaked under his weight.", "zh": "木樓梯在他的重量下嘎吱作響。" },
+      { "en": "The old chair creaks whenever I sit down.", "zh": "每次我坐下，那把舊椅子就嘎吱響。" }
+    ],
+    "img": "creaking wooden staircase",
+    "theme": "聲音感官",
+    "level": 3
+  },
+  {
+    "word": "echo",
+    "kk": "[ˈɛko]",
+    "pos": "n.",
+    "meaning": "回音；回聲",
+    "examples": [
+      { "en": "We heard an echo when we shouted in the cave.", "zh": "我們在洞穴裡喊叫時聽到回音。" },
+      { "en": "Her voice left an echo in the empty hall.", "zh": "她的聲音在空蕩的大廳留下回音。" }
+    ],
+    "img": "sound echo in cave",
+    "theme": "聲音感官",
+    "level": 3
+  },
+  {
+    "word": "silence",
+    "kk": "[ˈsaɪləns]",
+    "pos": "n.",
+    "meaning": "寂靜；沉默",
+    "examples": [
+      { "en": "There was a long silence after his question.", "zh": "他問完問題後一陣長長的沉默。" },
+      { "en": "I enjoy the silence of the early morning.", "zh": "我喜歡清晨的寂靜。" }
+    ],
+    "img": "quiet empty room morning",
+    "theme": "聲音感官",
+    "level": 2
+  },
+  {
+    "word": "noise",
+    "kk": "[nɔɪz]",
+    "pos": "n.",
+    "meaning": "噪音；聲響",
+    "examples": [
+      { "en": "The traffic noise kept me awake all night.", "zh": "車流的噪音讓我整晚沒睡。" },
+      { "en": "What's that strange noise coming from the engine?", "zh": "引擎傳來的那個奇怪聲響是什麼？" }
+    ],
+    "img": "busy noisy city street",
+    "theme": "聲音感官",
+    "level": 2
+  },
+  {
+    "word": "loud",
+    "kk": "[laʊd]",
+    "pos": "adj.",
+    "meaning": "大聲的；響亮的",
+    "examples": [
+      { "en": "The music was too loud, so I turned it down.", "zh": "音樂太大聲，所以我把它調小。" },
+      { "en": "A loud bang made everyone jump.", "zh": "一聲巨響嚇得大家跳起來。" }
+    ],
+    "img": "loud speaker sound waves",
+    "theme": "聲音感官",
+    "level": 2
+  },
+  {
+    "word": "quiet",
+    "kk": "[ˈkwaɪət]",
+    "pos": "adj.",
+    "meaning": "安靜的；輕聲的",
+    "examples": [
+      { "en": "Please be quiet during the movie.", "zh": "看電影時請保持安靜。" },
+      { "en": "We found a quiet corner to talk.", "zh": "我們找了個安靜的角落聊天。" }
+    ],
+    "img": "quiet library reading corner",
+    "theme": "聲音感官",
+    "level": 2
+  },
+  {
+    "word": "scent",
+    "kk": "[sɛnt]",
+    "pos": "n.",
+    "meaning": "香味；氣味",
+    "examples": [
+      { "en": "The scent of fresh flowers filled the room.", "zh": "新鮮花朵的香味充滿整個房間。" },
+      { "en": "I love the scent of coffee in the morning.", "zh": "我喜歡早晨咖啡的香味。" }
+    ],
+    "img": "flowers giving off scent",
+    "theme": "聲音感官",
+    "level": 3
+  },
+  {
+    "word": "aroma",
+    "kk": "[əˈromə]",
+    "pos": "n.",
+    "meaning": "芳香；香氣",
+    "examples": [
+      { "en": "The aroma of fresh bread came from the bakery.", "zh": "麵包店飄來新鮮麵包的香氣。" },
+      { "en": "This tea has a rich, sweet aroma.", "zh": "這茶有濃郁甜美的香氣。" }
+    ],
+    "img": "steaming coffee cup aroma",
+    "theme": "聲音感官",
+    "level": 3
+  },
+  {
+    "word": "stink",
+    "kk": "[stɪŋk]",
+    "pos": "v.",
+    "meaning": "發出臭味",
+    "examples": [
+      { "en": "The garbage stinks in the summer heat.", "zh": "垃圾在夏天的高溫下發臭。" },
+      { "en": "His shoes stink after the long hike.", "zh": "長途健行後他的鞋子臭臭的。" }
+    ],
+    "img": "smelly garbage bin flies",
+    "theme": "聲音感官",
+    "level": 2
+  },
+  {
+    "word": "fragrant",
+    "kk": "[ˈfregrənt]",
+    "pos": "adj.",
+    "meaning": "芳香的；香的",
+    "examples": [
+      { "en": "The garden was full of fragrant roses.", "zh": "花園裡滿是芬芳的玫瑰。" },
+      { "en": "She wore a fragrant perfume to the party.", "zh": "她擦了香香的香水去派對。" }
+    ],
+    "img": "blooming fragrant rose garden",
+    "theme": "聲音感官",
+    "level": 3
+  },
+  {
+    "word": "sniff",
+    "kk": "[snɪf]",
+    "pos": "v.",
+    "meaning": "嗅；用鼻子聞",
+    "examples": [
+      { "en": "The dog sniffed the ground for a scent.", "zh": "狗嗅著地面尋找氣味。" },
+      { "en": "She sniffed the milk to check if it was fresh.", "zh": "她聞了聞牛奶，確認是否新鮮。" }
+    ],
+    "img": "dog sniffing the ground",
+    "theme": "聲音感官",
+    "level": 2
+  },
+  {
+    "word": "smell",
+    "kk": "[smɛl]",
+    "pos": "v.",
+    "meaning": "聞到；嗅出",
+    "examples": [
+      { "en": "Can you smell something burning?", "zh": "你聞到什麼東西燒焦了嗎？" },
+      { "en": "The kitchen smells wonderful right now.", "zh": "廚房現在聞起來香極了。" }
+    ],
+    "img": "nose smelling food steam",
+    "theme": "聲音感官",
+    "level": 2
+  },
+  {
+    "word": "taste",
+    "kk": "[test]",
+    "pos": "v.",
+    "meaning": "嚐；品嚐；嚐起來",
+    "examples": [
+      { "en": "Taste the soup and tell me if it needs salt.", "zh": "嚐嚐這湯，告訴我需不需要加鹽。" },
+      { "en": "This cake tastes better than it looks.", "zh": "這蛋糕嚐起來比看起來還好吃。" }
+    ],
+    "img": "person tasting soup spoon",
+    "theme": "聲音感官",
+    "level": 2
+  },
+  {
+    "word": "sweet",
+    "kk": "[swit]",
+    "pos": "adj.",
+    "meaning": "甜的",
+    "examples": [
+      { "en": "The mango was juicy and very sweet.", "zh": "那芒果多汁又非常甜。" },
+      { "en": "I prefer my coffee less sweet.", "zh": "我喜歡咖啡別太甜。" }
+    ],
+    "img": "sweet ripe mango slices",
+    "theme": "聲音感官",
+    "level": 2
+  },
+  {
+    "word": "sour",
+    "kk": "[saʊr]",
+    "pos": "adj.",
+    "meaning": "酸的",
+    "examples": [
+      { "en": "The lemon was so sour it made me pucker.", "zh": "那顆檸檬酸到讓我皺起臉。" },
+      { "en": "The milk went sour after a week.", "zh": "牛奶放了一週就變酸了。" }
+    ],
+    "img": "sour yellow lemon slice",
+    "theme": "聲音感官",
+    "level": 2
+  },
+  {
+    "word": "bitter",
+    "kk": "[ˈbɪtɚ]",
+    "pos": "adj.",
+    "meaning": "苦的",
+    "examples": [
+      { "en": "Black coffee tastes bitter without sugar.", "zh": "黑咖啡不加糖嚐起來很苦。" },
+      { "en": "The medicine had a bitter taste.", "zh": "那藥有苦味。" }
+    ],
+    "img": "bitter dark coffee cup",
+    "theme": "聲音感官",
+    "level": 3
+  },
+  {
+    "word": "salty",
+    "kk": "[ˈsɔltɪ]",
+    "pos": "adj.",
+    "meaning": "鹹的",
+    "examples": [
+      { "en": "These chips are a bit too salty for me.", "zh": "這些洋芋片對我來說有點太鹹了。" },
+      { "en": "The sea air tasted salty on my lips.", "zh": "海風在我唇上嚐起來鹹鹹的。" }
+    ],
+    "img": "salty potato chips bowl",
+    "theme": "聲音感官",
+    "level": 2
+  },
+  {
+    "word": "spicy",
+    "kk": "[ˈspaɪsɪ]",
+    "pos": "adj.",
+    "meaning": "辛辣的",
+    "examples": [
+      { "en": "The curry was so spicy my eyes watered.", "zh": "那咖哩辣到我眼睛都流淚了。" },
+      { "en": "Do you like spicy food?", "zh": "你喜歡吃辣的食物嗎？" }
+    ],
+    "img": "spicy red chili peppers",
+    "theme": "聲音感官",
+    "level": 2
+  },
+  {
+    "word": "juicy",
+    "kk": "[ˈdʒusɪ]",
+    "pos": "adj.",
+    "meaning": "多汁的",
+    "examples": [
+      { "en": "She bit into a juicy peach.", "zh": "她咬了一口多汁的桃子。" },
+      { "en": "The steak was tender and juicy.", "zh": "那牛排既嫩又多汁。" }
+    ],
+    "img": "juicy peach dripping juice",
+    "theme": "聲音感官",
+    "level": 3
+  },
+  {
+    "word": "smooth",
+    "kk": "[smuð]",
+    "pos": "adj.",
+    "meaning": "光滑的；平順的",
+    "examples": [
+      { "en": "The baby's skin felt soft and smooth.", "zh": "寶寶的皮膚摸起來又軟又滑。" },
+      { "en": "The table has a smooth wooden surface.", "zh": "這桌子有光滑的木頭表面。" }
+    ],
+    "img": "smooth polished wood surface",
+    "theme": "聲音感官",
+    "level": 2
+  },
+  {
+    "word": "rough",
+    "kk": "[rʌf]",
+    "pos": "adj.",
+    "meaning": "粗糙的",
+    "examples": [
+      { "en": "The rock felt rough against my hand.", "zh": "那石頭摸起來粗糙刺手。" },
+      { "en": "His hands were rough from hard work.", "zh": "他的手因辛勞而粗糙。" }
+    ],
+    "img": "rough stone surface texture",
+    "theme": "聲音感官",
+    "level": 2
+  },
+  {
+    "word": "soft",
+    "kk": "[sɔft]",
+    "pos": "adj.",
+    "meaning": "柔軟的",
+    "examples": [
+      { "en": "The pillow is nice and soft.", "zh": "這枕頭又好又軟。" },
+      { "en": "She stroked the soft fur of the cat.", "zh": "她撫摸著貓咪柔軟的毛。" }
+    ],
+    "img": "soft fluffy white pillow",
+    "theme": "聲音感官",
+    "level": 2
+  },
+  {
+    "word": "sticky",
+    "kk": "[ˈstɪkɪ]",
+    "pos": "adj.",
+    "meaning": "黏的",
+    "examples": [
+      { "en": "My fingers got sticky from the honey.", "zh": "我的手指沾到蜂蜜變得黏黏的。" },
+      { "en": "The floor is sticky where the juice spilled.", "zh": "果汁灑到的地板黏黏的。" }
+    ],
+    "img": "sticky honey dripping fingers",
+    "theme": "聲音感官",
+    "level": 3
+  },
+  {
+    "word": "slippery",
+    "kk": "[ˈslɪpərɪ]",
+    "pos": "adj.",
+    "meaning": "滑的；易滑的",
+    "examples": [
+      { "en": "Be careful, the wet floor is slippery.", "zh": "小心，濕地板很滑。" },
+      { "en": "The fish was too slippery to hold.", "zh": "那魚太滑了抓不住。" }
+    ],
+    "img": "wet slippery floor sign",
+    "theme": "聲音感官",
+    "level": 3
+  },
+  {
+    "word": "warm",
+    "kk": "[wɔrm]",
+    "pos": "adj.",
+    "meaning": "溫暖的",
+    "examples": [
+      { "en": "The soup felt warm on a cold day.", "zh": "在寒冷的日子裡，這湯暖暖的。" },
+      { "en": "She wrapped herself in a warm blanket.", "zh": "她用溫暖的毯子把自己裹起來。" }
+    ],
+    "img": "warm blanket by fireplace",
+    "theme": "聲音感官",
+    "level": 2
+  },
+  {
+    "word": "cool",
+    "kk": "[kul]",
+    "pos": "adj.",
+    "meaning": "涼的；涼爽的",
+    "examples": [
+      { "en": "A cool breeze blew in from the sea.", "zh": "一陣涼爽的微風從海上吹來。" },
+      { "en": "The water felt cool and refreshing.", "zh": "水摸起來涼爽又清新。" }
+    ],
+    "img": "cool ocean breeze beach",
+    "theme": "聲音感官",
+    "level": 2
+  },
+  {
+    "word": "damp",
+    "kk": "[dæmp]",
+    "pos": "adj.",
+    "meaning": "潮濕的",
+    "examples": [
+      { "en": "The towel was still damp from the morning.", "zh": "毛巾從早上到現在還是濕濕的。" },
+      { "en": "The basement smells damp and musty.", "zh": "地下室聞起來又濕又霉。" }
+    ],
+    "img": "damp towel on rack",
+    "theme": "聲音感官",
+    "level": 3
+  },
+  {
+    "word": "gaze",
+    "kk": "[gez]",
+    "pos": "v.",
+    "meaning": "凝視；注視",
+    "examples": [
+      { "en": "They gazed at the stars for hours.", "zh": "他們凝視著星星好幾個小時。" },
+      { "en": "She gazed out of the window, lost in thought.", "zh": "她望著窗外，陷入沉思。" }
+    ],
+    "img": "person gazing at night sky",
+    "theme": "聲音感官",
+    "level": 3
+  },
+  {
+    "word": "glance",
+    "kk": "[glæns]",
+    "pos": "v.",
+    "meaning": "瞥；匆匆一看",
+    "examples": [
+      { "en": "He glanced at his watch and hurried off.", "zh": "他瞥了一眼手錶就匆匆離開。" },
+      { "en": "She glanced over her shoulder nervously.", "zh": "她緊張地回頭瞥了一眼。" }
+    ],
+    "img": "person glancing at watch",
+    "theme": "聲音感官",
+    "level": 3
+  },
+  {
+    "word": "stare",
+    "kk": "[stɛr]",
+    "pos": "v.",
+    "meaning": "盯著看",
+    "examples": [
+      { "en": "It's rude to stare at strangers.", "zh": "盯著陌生人看是不禮貌的。" },
+      { "en": "He stared at the screen in disbelief.", "zh": "他難以置信地盯著螢幕。" }
+    ],
+    "img": "wide eyes staring closeup",
+    "theme": "聲音感官",
+    "level": 2
+  },
+  {
+    "word": "touch",
+    "kk": "[tʌtʃ]",
+    "pos": "v.",
+    "meaning": "觸摸；碰",
+    "examples": [
+      { "en": "Please don't touch the wet paint.", "zh": "請別碰未乾的油漆。" },
+      { "en": "She gently touched his arm to comfort him.", "zh": "她輕輕碰他的手臂安慰他。" }
+    ],
+    "img": "finger touching soft surface",
+    "theme": "聲音感官",
+    "level": 2
+  },
+  {
+    "word": "brush",
+    "kk": "[brʌʃ]",
+    "pos": "v.",
+    "meaning": "輕拂；擦過",
+    "examples": [
+      { "en": "A leaf brushed against my cheek.", "zh": "一片葉子輕拂過我的臉頰。" },
+      { "en": "She brushed the crumbs off the table.", "zh": "她把桌上的碎屑撥掉。" }
+    ],
+    "img": "leaf brushing against cheek",
+    "theme": "聲音感官",
+    "level": 3
+  },
+  {
+    "word": "tremble",
+    "kk": "[ˈtrɛmbl̩]",
+    "pos": "v.",
+    "meaning": "顫抖；發抖",
+    "examples": [
+      { "en": "Her hands trembled with cold.", "zh": "她的手因寒冷而顫抖。" },
+      { "en": "His voice trembled as he spoke.", "zh": "他說話時聲音顫抖。" }
+    ],
+    "img": "trembling cold hands",
+    "theme": "聲音感官",
+    "level": 3
+  },
+  {
+    "word": "tingle",
+    "kk": "[ˈtɪŋgl̩]",
+    "pos": "v.",
+    "meaning": "感到刺痛；發麻",
+    "examples": [
+      { "en": "My fingers tingled in the cold air.", "zh": "我的手指在冷空氣中發麻刺痛。" },
+      { "en": "The spicy sauce made my tongue tingle.", "zh": "辣醬讓我的舌頭發麻。" }
+    ],
+    "img": "cold tingling fingertips",
+    "theme": "聲音感官",
+    "level": 3
+  },
+  {
+    "word": "itch",
+    "kk": "[ɪtʃ]",
+    "pos": "v.",
+    "meaning": "發癢",
+    "examples": [
+      { "en": "The wool sweater made my skin itch.", "zh": "羊毛衣讓我的皮膚發癢。" },
+      { "en": "My eyes itch during allergy season.", "zh": "過敏季節我的眼睛會癢。" }
+    ],
+    "img": "person scratching itchy arm",
+    "theme": "聲音感官",
+    "level": 3
+  },
+  {
+    "word": "bright",
+    "kk": "[braɪt]",
+    "pos": "adj.",
+    "meaning": "明亮的",
+    "examples": [
+      { "en": "The sun was too bright to look at.", "zh": "太陽太刺眼，無法直視。" },
+      { "en": "She painted the room a bright yellow.", "zh": "她把房間漆成明亮的黃色。" }
+    ],
+    "img": "bright sunlight through window",
+    "theme": "聲音感官",
+    "level": 2
+  },
+  {
+    "word": "dim",
+    "kk": "[dɪm]",
+    "pos": "adj.",
+    "meaning": "昏暗的；微弱的",
+    "examples": [
+      { "en": "The room was too dim to read in.", "zh": "房間太昏暗，無法閱讀。" },
+      { "en": "A dim light glowed in the hallway.", "zh": "走廊裡透出微弱的燈光。" }
+    ],
+    "img": "dim candle lit room",
+    "theme": "聲音感官",
+    "level": 3
+  },
+  {
+    "word": "glow",
+    "kk": "[glo]",
+    "pos": "v.",
+    "meaning": "發光；發熱",
+    "examples": [
+      { "en": "The fireflies glowed in the dark garden.", "zh": "螢火蟲在暗暗的花園裡發光。" },
+      { "en": "Her face glowed with happiness.", "zh": "她的臉因幸福而容光煥發。" }
+    ],
+    "img": "glowing fireflies at night",
+    "theme": "聲音感官",
+    "level": 3
+  },
+  {
+    "word": "flash",
+    "kk": "[flæʃ]",
+    "pos": "v.",
+    "meaning": "閃光；閃現",
+    "examples": [
+      { "en": "Lightning flashed across the dark sky.", "zh": "閃電劃過黑暗的天空。" },
+      { "en": "The camera flashed as she smiled.", "zh": "她微笑時相機閃了一下。" }
+    ],
+    "img": "lightning flash night sky",
+    "theme": "聲音感官",
+    "level": 2
+  },
+  {
+    "word": "blurry",
+    "kk": "[ˈblɝɪ]",
+    "pos": "adj.",
+    "meaning": "模糊的",
+    "examples": [
+      { "en": "Without my glasses, everything looks blurry.", "zh": "沒戴眼鏡，一切看起來都很模糊。" },
+      { "en": "The old photo was faded and blurry.", "zh": "那張舊照片褪色又模糊。" }
+    ],
+    "img": "blurry out of focus lights",
+    "theme": "聲音感官",
+    "level": 3
+  },
+  {
+    "word": "tender",
+    "kk": "[ˈtɛndɚ]",
+    "pos": "adj.",
+    "meaning": "軟嫩的；柔嫩的",
+    "examples": [
+      { "en": "The beef was so tender it melted in my mouth.", "zh": "那牛肉軟嫩到入口即化。" },
+      { "en": "Cook the vegetables until they are tender.", "zh": "把蔬菜煮到軟嫩為止。" }
+    ],
+    "img": "tender cooked beef slice",
+    "theme": "聲音感官",
+    "level": 3
+  },
+  {
+    "word": "vivid",
+    "kk": "[ˈvɪvɪd]",
+    "pos": "adj.",
+    "meaning": "鮮明的；生動的",
+    "examples": [
+      { "en": "The sunset painted the sky in vivid colors.", "zh": "夕陽把天空染上鮮明的色彩。" },
+      { "en": "I had a vivid dream last night.", "zh": "我昨晚做了個很生動的夢。" }
+    ],
+    "img": "vivid colorful sunset sky",
+    "theme": "聲音感官",
+    "level": 3
+  }
+]

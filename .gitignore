@@ -1,0 +1,4 @@
+# 建置工具/資料(App 執行時不需要,不必上傳)
+tools/cmudict.dict
+node_modules/
+.DS_Store

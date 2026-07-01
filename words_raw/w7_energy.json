@@ -1,0 +1,652 @@
+[
+  {
+    "word": "renewable",
+    "kk": "[rɪˋnjuəbḷ]",
+    "pos": "adj.",
+    "meaning": "可再生的",
+    "examples": [
+      { "en": "Solar power is a renewable source of energy.", "zh": "太陽能是一種可再生的能源。" },
+      { "en": "Taiwan is investing more in renewable energy.", "zh": "台灣正在增加對再生能源的投資。" }
+    ],
+    "img": "wind turbines and solar panels field",
+    "theme": "能源永續",
+    "level": 2
+  },
+  {
+    "word": "solar panel",
+    "kk": "[ˋsolɚ ˋpænḷ]",
+    "pos": "n.",
+    "meaning": "太陽能板",
+    "examples": [
+      { "en": "They installed solar panels on the roof.", "zh": "他們在屋頂上裝了太陽能板。" },
+      { "en": "Solar panels turn sunlight into electricity.", "zh": "太陽能板把陽光轉換成電力。" }
+    ],
+    "img": "rooftop solar panels under blue sky",
+    "theme": "能源永續",
+    "level": 2
+  },
+  {
+    "word": "wind turbine",
+    "kk": "[wɪnd ˋtɝbaɪn]",
+    "pos": "n.",
+    "meaning": "風力發電機",
+    "examples": [
+      { "en": "The wind turbine spins in the strong breeze.", "zh": "風力發電機在強風中轉動。" },
+      { "en": "Offshore wind turbines produce clean power.", "zh": "離岸風力發電機產生乾淨的電力。" }
+    ],
+    "img": "large white wind turbine on hill",
+    "theme": "能源永續",
+    "level": 2
+  },
+  {
+    "word": "sustainable",
+    "kk": "[səˋstenəbḷ]",
+    "pos": "adj.",
+    "meaning": "永續的、可持續的",
+    "examples": [
+      { "en": "We need a sustainable way to use resources.", "zh": "我們需要一種永續利用資源的方式。" },
+      { "en": "Sustainable farming protects the soil.", "zh": "永續農業能保護土壤。" }
+    ],
+    "img": "green city with plants and solar energy",
+    "theme": "能源永續",
+    "level": 3
+  },
+  {
+    "word": "carbon emission",
+    "kk": "[ˋkɑrbən ɪˋmɪʃən]",
+    "pos": "n.",
+    "meaning": "碳排放",
+    "examples": [
+      { "en": "Cars produce a lot of carbon emissions.", "zh": "汽車會產生大量的碳排放。" },
+      { "en": "The country wants to cut carbon emissions.", "zh": "這個國家想要減少碳排放。" }
+    ],
+    "img": "factory chimneys releasing smoke",
+    "theme": "能源永續",
+    "level": 3
+  },
+  {
+    "word": "carbon footprint",
+    "kk": "[ˋkɑrbən ˋfʊtˏprɪnt]",
+    "pos": "n.",
+    "meaning": "碳足跡",
+    "examples": [
+      { "en": "Flying less can reduce your carbon footprint.", "zh": "少搭飛機可以減少你的碳足跡。" },
+      { "en": "This app measures your daily carbon footprint.", "zh": "這個應用程式會測量你每天的碳足跡。" }
+    ],
+    "img": "green footprint made of leaves",
+    "theme": "能源永續",
+    "level": 3
+  },
+  {
+    "word": "fossil fuel",
+    "kk": "[ˋfɑsḷ ˋfjuəl]",
+    "pos": "n.",
+    "meaning": "化石燃料",
+    "examples": [
+      { "en": "Coal and oil are fossil fuels.", "zh": "煤和石油都是化石燃料。" },
+      { "en": "Burning fossil fuels pollutes the air.", "zh": "燃燒化石燃料會污染空氣。" }
+    ],
+    "img": "coal pile and oil barrels",
+    "theme": "能源永續",
+    "level": 2
+  },
+  {
+    "word": "greenhouse gas",
+    "kk": "[ˋgrinˏhaʊs gæs]",
+    "pos": "n.",
+    "meaning": "溫室氣體",
+    "examples": [
+      { "en": "Greenhouse gases trap heat in the air.", "zh": "溫室氣體會把熱能留在空氣中。" },
+      { "en": "Factories release many greenhouse gases.", "zh": "工廠排放許多溫室氣體。" }
+    ],
+    "img": "earth surrounded by heat and smoke",
+    "theme": "能源永續",
+    "level": 3
+  },
+  {
+    "word": "climate change",
+    "kk": "[ˋklaɪmɪt tʃendʒ]",
+    "pos": "n.",
+    "meaning": "氣候變遷",
+    "examples": [
+      { "en": "Climate change is a serious global problem.", "zh": "氣候變遷是嚴重的全球問題。" },
+      { "en": "Rising seas are a sign of climate change.", "zh": "海平面上升是氣候變遷的徵兆。" }
+    ],
+    "img": "melting glacier and dry cracked land",
+    "theme": "能源永續",
+    "level": 2
+  },
+  {
+    "word": "global warming",
+    "kk": "[ˋglobḷ ˋwɔrmɪŋ]",
+    "pos": "n.",
+    "meaning": "全球暖化",
+    "examples": [
+      { "en": "Global warming makes summers hotter.", "zh": "全球暖化讓夏天變得更熱。" },
+      { "en": "Scientists warn about global warming.", "zh": "科學家警告全球暖化的問題。" }
+    ],
+    "img": "hot sun over melting ice caps",
+    "theme": "能源永續",
+    "level": 2
+  },
+  {
+    "word": "power plant",
+    "kk": "[ˋpaʊɚ plænt]",
+    "pos": "n.",
+    "meaning": "發電廠",
+    "examples": [
+      { "en": "The power plant supplies electricity to the city.", "zh": "這座發電廠供應城市的電力。" },
+      { "en": "A new power plant was built near the coast.", "zh": "海岸邊蓋了一座新的發電廠。" }
+    ],
+    "img": "large industrial power plant with towers",
+    "theme": "能源永續",
+    "level": 2
+  },
+  {
+    "word": "electricity",
+    "kk": "[ɪˏlɛkˋtrɪsətɪ]",
+    "pos": "n.",
+    "meaning": "電力、電",
+    "examples": [
+      { "en": "We use electricity to run our home.", "zh": "我們用電力來維持家中運作。" },
+      { "en": "The storm cut off the electricity.", "zh": "暴風雨中斷了電力供應。" }
+    ],
+    "img": "glowing light bulb with power lines",
+    "theme": "能源永續",
+    "level": 2
+  },
+  {
+    "word": "generate",
+    "kk": "[ˋdʒɛnəˏret]",
+    "pos": "v.",
+    "meaning": "產生、發（電）",
+    "examples": [
+      { "en": "Wind can generate a lot of power.", "zh": "風可以產生大量的電力。" },
+      { "en": "The dam generates electricity for the region.", "zh": "這座水壩為該地區發電。" }
+    ],
+    "img": "spinning generator producing sparks",
+    "theme": "能源永續",
+    "level": 3
+  },
+  {
+    "word": "hydropower",
+    "kk": "[ˋhaɪdroˏpaʊɚ]",
+    "pos": "n.",
+    "meaning": "水力發電",
+    "examples": [
+      { "en": "Hydropower comes from flowing water.", "zh": "水力發電來自流動的水。" },
+      { "en": "The dam is used for hydropower.", "zh": "這座水壩用來進行水力發電。" }
+    ],
+    "img": "hydroelectric dam with rushing water",
+    "theme": "能源永續",
+    "level": 3
+  },
+  {
+    "word": "nuclear energy",
+    "kk": "[ˋnjuklɪɚ ˋɛnɚdʒɪ]",
+    "pos": "n.",
+    "meaning": "核能",
+    "examples": [
+      { "en": "Nuclear energy produces very little carbon.", "zh": "核能產生的碳非常少。" },
+      { "en": "Some people worry about nuclear energy safety.", "zh": "有些人擔心核能的安全性。" }
+    ],
+    "img": "nuclear power plant cooling towers",
+    "theme": "能源永續",
+    "level": 3
+  },
+  {
+    "word": "geothermal",
+    "kk": "[ˏdʒioˋθɝmḷ]",
+    "pos": "adj.",
+    "meaning": "地熱的",
+    "examples": [
+      { "en": "Geothermal energy comes from underground heat.", "zh": "地熱能來自地底下的熱能。" },
+      { "en": "Iceland uses geothermal power widely.", "zh": "冰島廣泛使用地熱發電。" }
+    ],
+    "img": "steam rising from geothermal plant",
+    "theme": "能源永續",
+    "level": 3
+  },
+  {
+    "word": "biomass",
+    "kk": "[ˋbaɪoˏmæs]",
+    "pos": "n.",
+    "meaning": "生質能、生物質",
+    "examples": [
+      { "en": "Biomass can be burned to make energy.", "zh": "生物質可以燃燒來製造能源。" },
+      { "en": "Wood is a common type of biomass.", "zh": "木材是常見的一種生物質。" }
+    ],
+    "img": "wood chips and plant waste pile",
+    "theme": "能源永續",
+    "level": 3
+  },
+  {
+    "word": "energy-saving",
+    "kk": "[ˋɛnɚdʒɪ ˋsevɪŋ]",
+    "pos": "adj.",
+    "meaning": "節能的",
+    "examples": [
+      { "en": "We bought an energy-saving fridge.", "zh": "我們買了一台節能冰箱。" },
+      { "en": "Energy-saving bulbs use less power.", "zh": "節能燈泡用電較少。" }
+    ],
+    "img": "energy efficient light bulb with leaf",
+    "theme": "能源永續",
+    "level": 2
+  },
+  {
+    "word": "efficient",
+    "kk": "[ɪˋfɪʃənt]",
+    "pos": "adj.",
+    "meaning": "有效率的、節能的",
+    "examples": [
+      { "en": "This car is very fuel efficient.", "zh": "這台車非常省油。" },
+      { "en": "Efficient machines waste less energy.", "zh": "有效率的機器浪費較少能源。" }
+    ],
+    "img": "efficiency gauge pointing to green",
+    "theme": "能源永續",
+    "level": 3
+  },
+  {
+    "word": "consume",
+    "kk": "[kənˋsjum]",
+    "pos": "v.",
+    "meaning": "消耗、耗用",
+    "examples": [
+      { "en": "Air conditioners consume a lot of power.", "zh": "冷氣機耗用大量電力。" },
+      { "en": "The city consumes more energy in summer.", "zh": "這座城市在夏天消耗更多能源。" }
+    ],
+    "img": "electric meter spinning fast",
+    "theme": "能源永續",
+    "level": 3
+  },
+  {
+    "word": "consumption",
+    "kk": "[kənˋsʌmpʃən]",
+    "pos": "n.",
+    "meaning": "消耗量、消費",
+    "examples": [
+      { "en": "We tracked our energy consumption at home.", "zh": "我們追蹤家中的能源消耗量。" },
+      { "en": "Lower consumption saves money.", "zh": "降低消耗量能省錢。" }
+    ],
+    "img": "energy usage chart on screen",
+    "theme": "能源永續",
+    "level": 3
+  },
+  {
+    "word": "conserve",
+    "kk": "[kənˋsɝv]",
+    "pos": "v.",
+    "meaning": "節省、保存",
+    "examples": [
+      { "en": "Turn off lights to conserve energy.", "zh": "關燈以節省能源。" },
+      { "en": "We should conserve water in summer.", "zh": "夏天我們應該節約用水。" }
+    ],
+    "img": "hand turning off a light switch",
+    "theme": "能源永續",
+    "level": 3
+  },
+  {
+    "word": "reduce",
+    "kk": "[rɪˋdjus]",
+    "pos": "v.",
+    "meaning": "減少、降低",
+    "examples": [
+      { "en": "We should reduce our energy waste.", "zh": "我們應該減少能源浪費。" },
+      { "en": "Riding a bike reduces pollution.", "zh": "騎腳踏車能減少污染。" }
+    ],
+    "img": "downward arrow over smoke cloud",
+    "theme": "能源永續",
+    "level": 2
+  },
+  {
+    "word": "recycle",
+    "kk": "[riˋsaɪkḷ]",
+    "pos": "v.",
+    "meaning": "回收再利用",
+    "examples": [
+      { "en": "Please recycle your bottles and cans.", "zh": "請回收你的瓶子和罐子。" },
+      { "en": "Recycling saves energy and resources.", "zh": "回收能節省能源和資源。" }
+    ],
+    "img": "recycling bins with sorted waste",
+    "theme": "能源永續",
+    "level": 2
+  },
+  {
+    "word": "battery",
+    "kk": "[ˋbætərɪ]",
+    "pos": "n.",
+    "meaning": "電池",
+    "examples": [
+      { "en": "Electric cars store power in a battery.", "zh": "電動車把電力存在電池裡。" },
+      { "en": "The battery can be charged at night.", "zh": "電池可以在晚上充電。" }
+    ],
+    "img": "large charged battery with lightning icon",
+    "theme": "能源永續",
+    "level": 2
+  },
+  {
+    "word": "charge",
+    "kk": "[tʃɑrdʒ]",
+    "pos": "v.",
+    "meaning": "充電",
+    "examples": [
+      { "en": "I need to charge my phone.", "zh": "我需要幫手機充電。" },
+      { "en": "You can charge the car at the station.", "zh": "你可以在充電站幫車子充電。" }
+    ],
+    "img": "phone plugged into charger",
+    "theme": "能源永續",
+    "level": 2
+  },
+  {
+    "word": "grid",
+    "kk": "[grɪd]",
+    "pos": "n.",
+    "meaning": "電網、輸電網",
+    "examples": [
+      { "en": "Solar power feeds into the grid.", "zh": "太陽能電力併入電網。" },
+      { "en": "A storm damaged the power grid.", "zh": "暴風雨損壞了電網。" }
+    ],
+    "img": "electric power grid towers and lines",
+    "theme": "能源永續",
+    "level": 3
+  },
+  {
+    "word": "emit",
+    "kk": "[ɪˋmɪt]",
+    "pos": "v.",
+    "meaning": "排放、散發",
+    "examples": [
+      { "en": "Old cars emit more carbon.", "zh": "老舊的車排放更多碳。" },
+      { "en": "The factory emits dark smoke.", "zh": "這間工廠排放黑煙。" }
+    ],
+    "img": "exhaust pipe releasing gas",
+    "theme": "能源永續",
+    "level": 3
+  },
+  {
+    "word": "carbon neutral",
+    "kk": "[ˋkɑrbən ˋnjutrəl]",
+    "pos": "adj.",
+    "meaning": "碳中和的",
+    "examples": [
+      { "en": "The company aims to be carbon neutral by 2030.", "zh": "這家公司目標在2030年達到碳中和。" },
+      { "en": "Planting trees helps us stay carbon neutral.", "zh": "種樹幫助我們維持碳中和。" }
+    ],
+    "img": "balance scale with tree and factory",
+    "theme": "能源永續",
+    "level": 3
+  },
+  {
+    "word": "offset",
+    "kk": "[ˋɔfˏsɛt]",
+    "pos": "v.",
+    "meaning": "抵銷、抵消",
+    "examples": [
+      { "en": "We plant trees to offset our carbon.", "zh": "我們種樹來抵銷碳排放。" },
+      { "en": "The savings offset the extra cost.", "zh": "省下的錢抵銷了額外的花費。" }
+    ],
+    "img": "tree balancing against smoke cloud",
+    "theme": "能源永續",
+    "level": 3
+  },
+  {
+    "word": "clean energy",
+    "kk": "[klin ˋɛnɚdʒɪ]",
+    "pos": "n.",
+    "meaning": "潔淨能源",
+    "examples": [
+      { "en": "Clean energy does not pollute the air.", "zh": "潔淨能源不會污染空氣。" },
+      { "en": "The town runs on clean energy.", "zh": "這座小鎮使用潔淨能源運作。" }
+    ],
+    "img": "green landscape with wind and solar",
+    "theme": "能源永續",
+    "level": 2
+  },
+  {
+    "word": "electric vehicle",
+    "kk": "[ɪˋlɛktrɪk ˋviɪkḷ]",
+    "pos": "n.",
+    "meaning": "電動車",
+    "examples": [
+      { "en": "Electric vehicles are quieter than gas cars.", "zh": "電動車比汽油車安靜。" },
+      { "en": "More people are buying electric vehicles.", "zh": "越來越多人購買電動車。" }
+    ],
+    "img": "electric car at charging station",
+    "theme": "能源永續",
+    "level": 2
+  },
+  {
+    "word": "fuel",
+    "kk": "[ˋfjuəl]",
+    "pos": "n.",
+    "meaning": "燃料",
+    "examples": [
+      { "en": "Gasoline is a common fuel for cars.", "zh": "汽油是汽車常用的燃料。" },
+      { "en": "This engine uses less fuel.", "zh": "這具引擎使用較少燃料。" }
+    ],
+    "img": "fuel pump nozzle at gas station",
+    "theme": "能源永續",
+    "level": 2
+  },
+  {
+    "word": "pollution",
+    "kk": "[pəˋluʃən]",
+    "pos": "n.",
+    "meaning": "污染",
+    "examples": [
+      { "en": "Air pollution harms our health.", "zh": "空氣污染危害我們的健康。" },
+      { "en": "Clean energy reduces pollution.", "zh": "潔淨能源能減少污染。" }
+    ],
+    "img": "smoggy city skyline with haze",
+    "theme": "能源永續",
+    "level": 2
+  },
+  {
+    "word": "resource",
+    "kk": "[rɪˋsors]",
+    "pos": "n.",
+    "meaning": "資源",
+    "examples": [
+      { "en": "Water is a precious natural resource.", "zh": "水是珍貴的天然資源。" },
+      { "en": "We must not waste our resources.", "zh": "我們不能浪費資源。" }
+    ],
+    "img": "water sun and coal resource icons",
+    "theme": "能源永續",
+    "level": 2
+  },
+  {
+    "word": "sustainability",
+    "kk": "[səˏstenəˋbɪlətɪ]",
+    "pos": "n.",
+    "meaning": "永續性、可持續性",
+    "examples": [
+      { "en": "The company cares about sustainability.", "zh": "這家公司重視永續性。" },
+      { "en": "Sustainability means thinking about the future.", "zh": "永續性意味著為未來著想。" }
+    ],
+    "img": "green globe held in caring hands",
+    "theme": "能源永續",
+    "level": 3
+  },
+  {
+    "word": "insulation",
+    "kk": "[ˏɪnsəˋleʃən]",
+    "pos": "n.",
+    "meaning": "隔熱、絕緣",
+    "examples": [
+      { "en": "Good insulation keeps the house warm.", "zh": "良好的隔熱能讓房子保暖。" },
+      { "en": "Insulation lowers our heating bills.", "zh": "隔熱能降低我們的暖氣費用。" }
+    ],
+    "img": "house wall with insulation layers",
+    "theme": "能源永續",
+    "level": 3
+  },
+  {
+    "word": "watt",
+    "kk": "[wɑt]",
+    "pos": "n.",
+    "meaning": "瓦特（功率單位）",
+    "examples": [
+      { "en": "This bulb uses only ten watts.", "zh": "這顆燈泡只用十瓦。" },
+      { "en": "A higher watt means more power.", "zh": "瓦數越高代表功率越大。" }
+    ],
+    "img": "light bulb showing wattage label",
+    "theme": "能源永續",
+    "level": 3
+  },
+  {
+    "word": "output",
+    "kk": "[ˋaʊtˏpʊt]",
+    "pos": "n.",
+    "meaning": "產出、輸出量",
+    "examples": [
+      { "en": "The solar farm's output rises at noon.", "zh": "太陽能場的產出在中午升高。" },
+      { "en": "The plant increased its power output.", "zh": "這座發電廠提高了發電量。" }
+    ],
+    "img": "power meter with rising output graph",
+    "theme": "能源永續",
+    "level": 3
+  },
+  {
+    "word": "drought",
+    "kk": "[draʊt]",
+    "pos": "n.",
+    "meaning": "乾旱",
+    "examples": [
+      { "en": "Climate change can cause longer droughts.", "zh": "氣候變遷可能造成更長的乾旱。" },
+      { "en": "The drought dried up the reservoir.", "zh": "乾旱使水庫乾涸。" }
+    ],
+    "img": "dry cracked earth under hot sun",
+    "theme": "能源永續",
+    "level": 3
+  },
+  {
+    "word": "sea level",
+    "kk": "[si ˋlɛvḷ]",
+    "pos": "n.",
+    "meaning": "海平面",
+    "examples": [
+      { "en": "Rising sea levels threaten coastal towns.", "zh": "海平面上升威脅沿海城鎮。" },
+      { "en": "The sea level has slowly gone up.", "zh": "海平面已經慢慢上升。" }
+    ],
+    "img": "rising ocean water near a city coast",
+    "theme": "能源永續",
+    "level": 3
+  },
+  {
+    "word": "adapt",
+    "kk": "[əˋdæpt]",
+    "pos": "v.",
+    "meaning": "適應、調適",
+    "examples": [
+      { "en": "Farmers must adapt to a warmer climate.", "zh": "農民必須適應更溫暖的氣候。" },
+      { "en": "Cities are adapting to rising seas.", "zh": "城市正在調適以因應海平面上升。" }
+    ],
+    "img": "farmer adjusting to changing weather",
+    "theme": "能源永續",
+    "level": 3
+  },
+  {
+    "word": "eco-friendly",
+    "kk": "[ˋɛkoˋfrɛndlɪ]",
+    "pos": "adj.",
+    "meaning": "環保的、對生態友善的",
+    "examples": [
+      { "en": "We use eco-friendly shopping bags.", "zh": "我們使用環保購物袋。" },
+      { "en": "This hotel is very eco-friendly.", "zh": "這家旅館非常環保。" }
+    ],
+    "img": "green leaf product with earth symbol",
+    "theme": "能源永續",
+    "level": 2
+  },
+  {
+    "word": "emission-free",
+    "kk": "[ɪˋmɪʃən fri]",
+    "pos": "adj.",
+    "meaning": "零排放的",
+    "examples": [
+      { "en": "Electric trains can be emission-free.", "zh": "電動火車可以是零排放的。" },
+      { "en": "They promise an emission-free future.", "zh": "他們承諾一個零排放的未來。" }
+    ],
+    "img": "clean electric bus with no exhaust",
+    "theme": "能源永續",
+    "level": 3
+  },
+  {
+    "word": "peak demand",
+    "kk": "[pik dɪˋmænd]",
+    "pos": "n.",
+    "meaning": "尖峰用電需求",
+    "examples": [
+      { "en": "Peak demand happens on hot afternoons.", "zh": "尖峰用電需求出現在炎熱的下午。" },
+      { "en": "The grid struggles during peak demand.", "zh": "電網在尖峰需求時很吃力。" }
+    ],
+    "img": "electricity demand graph with high peak",
+    "theme": "能源永續",
+    "level": 3
+  },
+  {
+    "word": "blackout",
+    "kk": "[ˋblækˏaʊt]",
+    "pos": "n.",
+    "meaning": "停電、大停電",
+    "examples": [
+      { "en": "A blackout left the whole town dark.", "zh": "一次停電讓整個小鎮陷入黑暗。" },
+      { "en": "The heat wave caused a blackout.", "zh": "熱浪造成了停電。" }
+    ],
+    "img": "dark city skyline during power outage",
+    "theme": "能源永續",
+    "level": 3
+  },
+  {
+    "word": "power outage",
+    "kk": "[ˋpaʊɚ ˋaʊtɪdʒ]",
+    "pos": "n.",
+    "meaning": "斷電、停電",
+    "examples": [
+      { "en": "The storm caused a power outage.", "zh": "暴風雨造成了停電。" },
+      { "en": "We used candles during the power outage.", "zh": "停電時我們用蠟燭。" }
+    ],
+    "img": "candles lit in a dark room",
+    "theme": "能源永續",
+    "level": 2
+  },
+  {
+    "word": "energy transition",
+    "kk": "[ˋɛnɚdʒɪ trænˋzɪʃən]",
+    "pos": "n.",
+    "meaning": "能源轉型",
+    "examples": [
+      { "en": "The energy transition takes many years.", "zh": "能源轉型需要許多年。" },
+      { "en": "Green jobs grow during the energy transition.", "zh": "綠色工作在能源轉型期間增加。" }
+    ],
+    "img": "coal plant turning into wind farm",
+    "theme": "能源永續",
+    "level": 3
+  },
+  {
+    "word": "smart meter",
+    "kk": "[smɑrt ˋmitɚ]",
+    "pos": "n.",
+    "meaning": "智慧電表",
+    "examples": [
+      { "en": "A smart meter shows your power use in real time.", "zh": "智慧電表即時顯示你的用電量。" },
+      { "en": "Smart meters help families save energy.", "zh": "智慧電表幫助家庭節省能源。" }
+    ],
+    "img": "digital smart meter on house wall",
+    "theme": "能源永續",
+    "level": 3
+  },
+  {
+    "word": "low-carbon",
+    "kk": "[lo ˋkɑrbən]",
+    "pos": "adj.",
+    "meaning": "低碳的",
+    "examples": [
+      { "en": "We should choose a low-carbon lifestyle.", "zh": "我們應該選擇低碳的生活方式。" },
+      { "en": "Trains are a low-carbon way to travel.", "zh": "火車是一種低碳的旅行方式。" }
+    ],
+    "img": "green city with bikes and clean transport",
+    "theme": "能源永續",
+    "level": 3
+  }
+]

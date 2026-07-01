@@ -1,0 +1,652 @@
+[
+  {
+    "word": "history",
+    "kk": "[ˈhɪstərɪ]",
+    "pos": "n.",
+    "meaning": "歷史",
+    "examples": [
+      { "en": "We study history to understand the past.", "zh": "我們研究歷史以了解過去。" },
+      { "en": "This city has a long history.", "zh": "這座城市有悠久的歷史。" }
+    ],
+    "img": "old history book with world map",
+    "theme": "歷史",
+    "level": 2
+  },
+  {
+    "word": "ancient",
+    "kk": "[ˈenʃənt]",
+    "pos": "adj.",
+    "meaning": "古代的；古老的",
+    "examples": [
+      { "en": "Ancient people built these temples.", "zh": "古代人建造了這些神廟。" },
+      { "en": "She loves ancient Greek stories.", "zh": "她喜歡古希臘的故事。" }
+    ],
+    "img": "ancient stone temple ruins columns",
+    "theme": "歷史",
+    "level": 2
+  },
+  {
+    "word": "empire",
+    "kk": "[ˈɛmpaɪr]",
+    "pos": "n.",
+    "meaning": "帝國",
+    "examples": [
+      { "en": "The Roman Empire was very powerful.", "zh": "羅馬帝國非常強大。" },
+      { "en": "The empire fell after many years.", "zh": "這個帝國在多年後滅亡了。" }
+    ],
+    "img": "roman empire map with crown",
+    "theme": "歷史",
+    "level": 3
+  },
+  {
+    "word": "dynasty",
+    "kk": "[ˈdaɪnəstɪ]",
+    "pos": "n.",
+    "meaning": "朝代；王朝",
+    "examples": [
+      { "en": "The Tang dynasty was a golden age.", "zh": "唐朝是個黃金時代。" },
+      { "en": "Each dynasty had its own emperor.", "zh": "每個朝代都有自己的皇帝。" }
+    ],
+    "img": "chinese imperial palace dynasty",
+    "theme": "歷史",
+    "level": 3
+  },
+  {
+    "word": "emperor",
+    "kk": "[ˈɛmpərɚ]",
+    "pos": "n.",
+    "meaning": "皇帝",
+    "examples": [
+      { "en": "The emperor ruled the whole country.", "zh": "皇帝統治著整個國家。" },
+      { "en": "People bowed to the emperor.", "zh": "人們向皇帝鞠躬。" }
+    ],
+    "img": "emperor on golden throne with robe",
+    "theme": "歷史",
+    "level": 2
+  },
+  {
+    "word": "kingdom",
+    "kk": "[ˈkɪŋdəm]",
+    "pos": "n.",
+    "meaning": "王國",
+    "examples": [
+      { "en": "The king ruled a large kingdom.", "zh": "這位國王統治著一個大王國。" },
+      { "en": "The kingdom was famous for its castles.", "zh": "這個王國以城堡聞名。" }
+    ],
+    "img": "medieval kingdom castle on hill",
+    "theme": "歷史",
+    "level": 2
+  },
+  {
+    "word": "civilization",
+    "kk": "[ˌsɪvələˈzeʃən]",
+    "pos": "n.",
+    "meaning": "文明",
+    "examples": [
+      { "en": "Egypt had an old civilization.", "zh": "埃及擁有古老的文明。" },
+      { "en": "Writing changed human civilization.", "zh": "文字改變了人類文明。" }
+    ],
+    "img": "ancient egyptian civilization pyramids",
+    "theme": "歷史",
+    "level": 3
+  },
+  {
+    "word": "revolution",
+    "kk": "[ˌrɛvəˈluʃən]",
+    "pos": "n.",
+    "meaning": "革命",
+    "examples": [
+      { "en": "The French Revolution changed history.", "zh": "法國大革命改變了歷史。" },
+      { "en": "The revolution brought a new government.", "zh": "革命帶來了新政府。" }
+    ],
+    "img": "french revolution crowd with flags",
+    "theme": "歷史",
+    "level": 3
+  },
+  {
+    "word": "war",
+    "kk": "[wɔr]",
+    "pos": "n.",
+    "meaning": "戰爭",
+    "examples": [
+      { "en": "The two countries were at war.", "zh": "這兩個國家處於戰爭中。" },
+      { "en": "Many people died in the war.", "zh": "許多人死於這場戰爭。" }
+    ],
+    "img": "old battlefield soldiers smoke",
+    "theme": "歷史",
+    "level": 2
+  },
+  {
+    "word": "battle",
+    "kk": "[ˈbætl̩]",
+    "pos": "n.",
+    "meaning": "戰役；戰鬥",
+    "examples": [
+      { "en": "The army won the battle.", "zh": "軍隊贏得了這場戰役。" },
+      { "en": "It was a long and hard battle.", "zh": "那是一場漫長而艱苦的戰鬥。" }
+    ],
+    "img": "medieval battle knights swords",
+    "theme": "歷史",
+    "level": 2
+  },
+  {
+    "word": "ruins",
+    "kk": "[ˈruɪnz]",
+    "pos": "n.",
+    "meaning": "廢墟；遺跡",
+    "examples": [
+      { "en": "We visited the ancient ruins.", "zh": "我們參觀了古代遺跡。" },
+      { "en": "Only ruins remain of the old city.", "zh": "這座古城只剩下廢墟。" }
+    ],
+    "img": "ancient stone ruins overgrown grass",
+    "theme": "歷史",
+    "level": 3
+  },
+  {
+    "word": "temple",
+    "kk": "[ˈtɛmpl̩]",
+    "pos": "n.",
+    "meaning": "神廟；寺廟",
+    "examples": [
+      { "en": "The old temple stood on the hill.", "zh": "古老的神廟矗立在山丘上。" },
+      { "en": "People prayed inside the temple.", "zh": "人們在寺廟裡祈禱。" }
+    ],
+    "img": "ancient greek temple marble columns",
+    "theme": "歷史",
+    "level": 2
+  },
+  {
+    "word": "castle",
+    "kk": "[ˈkæsl̩]",
+    "pos": "n.",
+    "meaning": "城堡",
+    "examples": [
+      { "en": "The king lived in a stone castle.", "zh": "國王住在一座石頭城堡裡。" },
+      { "en": "The castle had tall walls.", "zh": "這座城堡有高牆。" }
+    ],
+    "img": "medieval castle towers stone walls",
+    "theme": "歷史",
+    "level": 2
+  },
+  {
+    "word": "pyramid",
+    "kk": "[ˈpɪrəmɪd]",
+    "pos": "n.",
+    "meaning": "金字塔",
+    "examples": [
+      { "en": "The pyramid is thousands of years old.", "zh": "這座金字塔有數千年歷史。" },
+      { "en": "Workers built the pyramid by hand.", "zh": "工人用雙手建造了金字塔。" }
+    ],
+    "img": "great egyptian pyramid desert sunset",
+    "theme": "歷史",
+    "level": 2
+  },
+  {
+    "word": "tomb",
+    "kk": "[tum]",
+    "pos": "n.",
+    "meaning": "墳墓；陵墓",
+    "examples": [
+      { "en": "The king was buried in a grand tomb.", "zh": "國王被葬在宏偉的陵墓裡。" },
+      { "en": "They found treasure in the tomb.", "zh": "他們在墳墓裡發現了寶藏。" }
+    ],
+    "img": "ancient stone tomb with carvings",
+    "theme": "歷史",
+    "level": 3
+  },
+  {
+    "word": "warrior",
+    "kk": "[ˈwɔrɪɚ]",
+    "pos": "n.",
+    "meaning": "戰士",
+    "examples": [
+      { "en": "The warrior fought bravely.", "zh": "這位戰士英勇作戰。" },
+      { "en": "Ancient warriors carried swords.", "zh": "古代戰士配帶著劍。" }
+    ],
+    "img": "ancient warrior armor shield sword",
+    "theme": "歷史",
+    "level": 3
+  },
+  {
+    "word": "soldier",
+    "kk": "[ˈsoldʒɚ]",
+    "pos": "n.",
+    "meaning": "士兵",
+    "examples": [
+      { "en": "The soldier defended his country.", "zh": "這名士兵保衛他的國家。" },
+      { "en": "Soldiers marched into the town.", "zh": "士兵們列隊進入城鎮。" }
+    ],
+    "img": "historical soldiers marching in line",
+    "theme": "歷史",
+    "level": 2
+  },
+  {
+    "word": "conquer",
+    "kk": "[ˈkɑŋkɚ]",
+    "pos": "v.",
+    "meaning": "征服",
+    "examples": [
+      { "en": "The army tried to conquer the land.", "zh": "軍隊試圖征服這片土地。" },
+      { "en": "Rome conquered many nations.", "zh": "羅馬征服了許多國家。" }
+    ],
+    "img": "army conquering city with flags",
+    "theme": "歷史",
+    "level": 3
+  },
+  {
+    "word": "invade",
+    "kk": "[ɪnˈved]",
+    "pos": "v.",
+    "meaning": "入侵",
+    "examples": [
+      { "en": "The enemy tried to invade the city.", "zh": "敵人試圖入侵這座城市。" },
+      { "en": "Soldiers invaded the small country.", "zh": "士兵入侵了這個小國。" }
+    ],
+    "img": "army invading across a river",
+    "theme": "歷史",
+    "level": 3
+  },
+  {
+    "word": "ancestor",
+    "kk": "[ˈænsɛstɚ]",
+    "pos": "n.",
+    "meaning": "祖先",
+    "examples": [
+      { "en": "Our ancestors lived in caves.", "zh": "我們的祖先住在洞穴裡。" },
+      { "en": "He honored his ancestors.", "zh": "他尊敬他的祖先。" }
+    ],
+    "img": "old family portrait ancestors sepia",
+    "theme": "歷史",
+    "level": 3
+  },
+  {
+    "word": "century",
+    "kk": "[ˈsɛntʃərɪ]",
+    "pos": "n.",
+    "meaning": "世紀",
+    "examples": [
+      { "en": "This building is a century old.", "zh": "這棟建築有一世紀之久。" },
+      { "en": "The war lasted for a century.", "zh": "這場戰爭持續了一個世紀。" }
+    ],
+    "img": "old clock tower with roman numerals",
+    "theme": "歷史",
+    "level": 2
+  },
+  {
+    "word": "throne",
+    "kk": "[θron]",
+    "pos": "n.",
+    "meaning": "王位；寶座",
+    "examples": [
+      { "en": "The prince took the throne.", "zh": "王子繼承了王位。" },
+      { "en": "A golden throne stood in the hall.", "zh": "大廳裡有一張金色寶座。" }
+    ],
+    "img": "golden royal throne in palace hall",
+    "theme": "歷史",
+    "level": 3
+  },
+  {
+    "word": "knight",
+    "kk": "[naɪt]",
+    "pos": "n.",
+    "meaning": "騎士",
+    "examples": [
+      { "en": "The knight rode a strong horse.", "zh": "騎士騎著一匹強壯的馬。" },
+      { "en": "Knights wore heavy armor.", "zh": "騎士穿著沉重的盔甲。" }
+    ],
+    "img": "medieval knight on horse with armor",
+    "theme": "歷史",
+    "level": 2
+  },
+  {
+    "word": "sword",
+    "kk": "[sɔrd]",
+    "pos": "n.",
+    "meaning": "劍",
+    "examples": [
+      { "en": "The soldier drew his sword.", "zh": "士兵拔出了他的劍。" },
+      { "en": "An old sword hung on the wall.", "zh": "牆上掛著一把古劍。" }
+    ],
+    "img": "old metal sword with jeweled handle",
+    "theme": "歷史",
+    "level": 2
+  },
+  {
+    "word": "queen",
+    "kk": "[kwin]",
+    "pos": "n.",
+    "meaning": "女王；王后",
+    "examples": [
+      { "en": "The queen ruled with wisdom.", "zh": "女王以智慧統治國家。" },
+      { "en": "The queen wore a beautiful crown.", "zh": "女王戴著一頂美麗的王冠。" }
+    ],
+    "img": "queen with crown royal portrait",
+    "theme": "歷史",
+    "level": 2
+  },
+  {
+    "word": "royal",
+    "kk": "[ˈrɔɪəl]",
+    "pos": "adj.",
+    "meaning": "皇家的；王室的",
+    "examples": [
+      { "en": "The royal family lived in the palace.", "zh": "王室住在宮殿裡。" },
+      { "en": "It was a grand royal wedding.", "zh": "那是一場盛大的皇家婚禮。" }
+    ],
+    "img": "royal palace golden gates crown",
+    "theme": "歷史",
+    "level": 3
+  },
+  {
+    "word": "palace",
+    "kk": "[ˈpælɪs]",
+    "pos": "n.",
+    "meaning": "宮殿",
+    "examples": [
+      { "en": "The king lived in a huge palace.", "zh": "國王住在一座巨大的宮殿裡。" },
+      { "en": "The palace had golden rooms.", "zh": "這座宮殿有金色的房間。" }
+    ],
+    "img": "grand royal palace with gardens",
+    "theme": "歷史",
+    "level": 2
+  },
+  {
+    "word": "monument",
+    "kk": "[ˈmɑnjəmənt]",
+    "pos": "n.",
+    "meaning": "紀念碑；歷史遺跡",
+    "examples": [
+      { "en": "The monument honors old heroes.", "zh": "這座紀念碑紀念古代英雄。" },
+      { "en": "Tourists photographed the monument.", "zh": "遊客拍攝了這座紀念碑。" }
+    ],
+    "img": "ancient stone monument in city square",
+    "theme": "歷史",
+    "level": 3
+  },
+  {
+    "word": "explorer",
+    "kk": "[ɪkˈsplorɚ]",
+    "pos": "n.",
+    "meaning": "探險家",
+    "examples": [
+      { "en": "The explorer found a new land.", "zh": "這位探險家發現了一片新大陸。" },
+      { "en": "Early explorers sailed across oceans.", "zh": "早期探險家航行橫渡海洋。" }
+    ],
+    "img": "old explorer with map and ship",
+    "theme": "歷史",
+    "level": 3
+  },
+  {
+    "word": "discover",
+    "kk": "[dɪsˈkʌvɚ]",
+    "pos": "v.",
+    "meaning": "發現",
+    "examples": [
+      { "en": "They discovered an old city.", "zh": "他們發現了一座古城。" },
+      { "en": "Scientists discovered ancient bones.", "zh": "科學家發現了古老的骨頭。" }
+    ],
+    "img": "archaeologist discovering ancient artifact",
+    "theme": "歷史",
+    "level": 2
+  },
+  {
+    "word": "artifact",
+    "kk": "[ˈɑrtɪˌfækt]",
+    "pos": "n.",
+    "meaning": "文物；古物",
+    "examples": [
+      { "en": "The museum shows old artifacts.", "zh": "博物館展出古老的文物。" },
+      { "en": "They found an artifact in the ground.", "zh": "他們在地下發現了一件古物。" }
+    ],
+    "img": "ancient clay pottery artifact museum",
+    "theme": "歷史",
+    "level": 3
+  },
+  {
+    "word": "museum",
+    "kk": "[mjuˈzɪəm]",
+    "pos": "n.",
+    "meaning": "博物館",
+    "examples": [
+      { "en": "We saw old bones at the museum.", "zh": "我們在博物館看到了古老的骨頭。" },
+      { "en": "The history museum was very big.", "zh": "這座歷史博物館非常大。" }
+    ],
+    "img": "history museum hall with exhibits",
+    "theme": "歷史",
+    "level": 2
+  },
+  {
+    "word": "tribe",
+    "kk": "[traɪb]",
+    "pos": "n.",
+    "meaning": "部落",
+    "examples": [
+      { "en": "The tribe lived near the river.", "zh": "這個部落住在河邊。" },
+      { "en": "Each tribe had its own leader.", "zh": "每個部落都有自己的首領。" }
+    ],
+    "img": "ancient tribe around campfire",
+    "theme": "歷史",
+    "level": 3
+  },
+  {
+    "word": "slave",
+    "kk": "[slev]",
+    "pos": "n.",
+    "meaning": "奴隸",
+    "examples": [
+      { "en": "Slaves built the great walls.", "zh": "奴隸建造了大牆。" },
+      { "en": "The slaves fought for freedom.", "zh": "奴隸們為自由而戰。" }
+    ],
+    "img": "ancient slaves carrying stones",
+    "theme": "歷史",
+    "level": 3
+  },
+  {
+    "word": "freedom",
+    "kk": "[ˈfridəm]",
+    "pos": "n.",
+    "meaning": "自由",
+    "examples": [
+      { "en": "People fought for their freedom.", "zh": "人們為他們的自由而戰。" },
+      { "en": "Freedom is very important to us.", "zh": "自由對我們非常重要。" }
+    ],
+    "img": "broken chains and rising sun freedom",
+    "theme": "歷史",
+    "level": 2
+  },
+  {
+    "word": "leader",
+    "kk": "[ˈlidɚ]",
+    "pos": "n.",
+    "meaning": "領袖；領導者",
+    "examples": [
+      { "en": "The leader united the people.", "zh": "這位領袖團結了人民。" },
+      { "en": "A strong leader guided the army.", "zh": "一位強大的領袖帶領著軍隊。" }
+    ],
+    "img": "historical leader giving a speech",
+    "theme": "歷史",
+    "level": 2
+  },
+  {
+    "word": "rebel",
+    "kk": "[ˈrɛbl̩]",
+    "pos": "n.",
+    "meaning": "反抗者；叛軍",
+    "examples": [
+      { "en": "The rebels fought against the king.", "zh": "叛軍與國王對抗。" },
+      { "en": "A young rebel led the fight.", "zh": "一位年輕的反抗者領導了戰鬥。" }
+    ],
+    "img": "rebel fighters with flag on barricade",
+    "theme": "歷史",
+    "level": 3
+  },
+  {
+    "word": "independence",
+    "kk": "[ˌɪndɪˈpɛndəns]",
+    "pos": "n.",
+    "meaning": "獨立",
+    "examples": [
+      { "en": "The country won its independence.", "zh": "這個國家贏得了獨立。" },
+      { "en": "They celebrated Independence Day.", "zh": "他們慶祝獨立日。" }
+    ],
+    "img": "independence declaration with flag",
+    "theme": "歷史",
+    "level": 3
+  },
+  {
+    "word": "treaty",
+    "kk": "[ˈtritɪ]",
+    "pos": "n.",
+    "meaning": "條約",
+    "examples": [
+      { "en": "The two nations signed a treaty.", "zh": "兩國簽署了一項條約。" },
+      { "en": "The treaty ended the war.", "zh": "這項條約結束了戰爭。" }
+    ],
+    "img": "old treaty document with wax seal",
+    "theme": "歷史",
+    "level": 3
+  },
+  {
+    "word": "invasion",
+    "kk": "[ɪnˈveʒən]",
+    "pos": "n.",
+    "meaning": "入侵",
+    "examples": [
+      { "en": "The invasion started at dawn.", "zh": "入侵在黎明時開始。" },
+      { "en": "People fled from the invasion.", "zh": "人們逃離了這場入侵。" }
+    ],
+    "img": "army invasion ships landing on shore",
+    "theme": "歷史",
+    "level": 3
+  },
+  {
+    "word": "hero",
+    "kk": "[ˈhɪro]",
+    "pos": "n.",
+    "meaning": "英雄",
+    "examples": [
+      { "en": "The hero saved the village.", "zh": "這位英雄拯救了村莊。" },
+      { "en": "People remember the war hero.", "zh": "人們記得這位戰爭英雄。" }
+    ],
+    "img": "statue of historical hero on horse",
+    "theme": "歷史",
+    "level": 2
+  },
+  {
+    "word": "victory",
+    "kk": "[ˈvɪktərɪ]",
+    "pos": "n.",
+    "meaning": "勝利",
+    "examples": [
+      { "en": "The army celebrated its victory.", "zh": "軍隊慶祝他們的勝利。" },
+      { "en": "Victory came after a long war.", "zh": "勝利在漫長的戰爭後到來。" }
+    ],
+    "img": "soldiers raising flag in victory",
+    "theme": "歷史",
+    "level": 2
+  },
+  {
+    "word": "defeat",
+    "kk": "[dɪˈfit]",
+    "pos": "v.",
+    "meaning": "打敗；擊敗",
+    "examples": [
+      { "en": "The army defeated its enemy.", "zh": "軍隊打敗了敵人。" },
+      { "en": "They defeated the invaders.", "zh": "他們擊敗了入侵者。" }
+    ],
+    "img": "victorious army over fallen banner",
+    "theme": "歷史",
+    "level": 2
+  },
+  {
+    "word": "colony",
+    "kk": "[ˈkɑlənɪ]",
+    "pos": "n.",
+    "meaning": "殖民地",
+    "examples": [
+      { "en": "The land was once a colony.", "zh": "這片土地曾經是殖民地。" },
+      { "en": "The colony grew into a nation.", "zh": "這個殖民地發展成一個國家。" }
+    ],
+    "img": "old colonial town with sailing ships",
+    "theme": "歷史",
+    "level": 3
+  },
+  {
+    "word": "trade",
+    "kk": "[tred]",
+    "pos": "n.",
+    "meaning": "貿易",
+    "examples": [
+      { "en": "Trade brought silk from the east.", "zh": "貿易從東方帶來了絲綢。" },
+      { "en": "The two cities had strong trade.", "zh": "這兩座城市有著繁盛的貿易。" }
+    ],
+    "img": "ancient silk road trade caravan camels",
+    "theme": "歷史",
+    "level": 2
+  },
+  {
+    "word": "medieval",
+    "kk": "[ˌmɪdɪˈivl̩]",
+    "pos": "adj.",
+    "meaning": "中世紀的",
+    "examples": [
+      { "en": "We read about medieval knights.", "zh": "我們讀到有關中世紀騎士的故事。" },
+      { "en": "The town has a medieval church.", "zh": "這座小鎮有一座中世紀教堂。" }
+    ],
+    "img": "medieval town with stone church",
+    "theme": "歷史",
+    "level": 3
+  },
+  {
+    "word": "prehistoric",
+    "kk": "[ˌprihɪsˈtɔrɪk]",
+    "pos": "adj.",
+    "meaning": "史前的",
+    "examples": [
+      { "en": "Prehistoric people hunted animals.", "zh": "史前人類獵捕動物。" },
+      { "en": "We saw prehistoric cave paintings.", "zh": "我們看到了史前的洞穴壁畫。" }
+    ],
+    "img": "prehistoric cave painting of animals",
+    "theme": "歷史",
+    "level": 3
+  },
+  {
+    "word": "legend",
+    "kk": "[ˈlɛdʒənd]",
+    "pos": "n.",
+    "meaning": "傳說",
+    "examples": [
+      { "en": "The old legend tells of a dragon.", "zh": "這個古老的傳說講述了一條龍。" },
+      { "en": "Every village had its own legend.", "zh": "每個村莊都有自己的傳說。" }
+    ],
+    "img": "old storybook with dragon legend",
+    "theme": "歷史",
+    "level": 2
+  },
+  {
+    "word": "era",
+    "kk": "[ˈɪrə]",
+    "pos": "n.",
+    "meaning": "時代；紀元",
+    "examples": [
+      { "en": "It was the era of great kings.", "zh": "那是偉大國王的時代。" },
+      { "en": "A new era began after the war.", "zh": "戰爭後開始了一個新時代。" }
+    ],
+    "img": "timeline showing different historical eras",
+    "theme": "歷史",
+    "level": 3
+  },
+  {
+    "word": "record",
+    "kk": "[ˈrɛkɚd]",
+    "pos": "n.",
+    "meaning": "紀錄；記載",
+    "examples": [
+      { "en": "Old records tell us about the past.", "zh": "古老的記載告訴我們過去的事。" },
+      { "en": "They kept records of every king.", "zh": "他們記錄了每一位國王。" }
+    ],
+    "img": "ancient scroll with written records",
+    "theme": "歷史",
+    "level": 2
+  }
+]

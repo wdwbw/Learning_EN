@@ -1,0 +1,652 @@
+[
+  {
+    "word": "account",
+    "kk": "[əˋkaʊnt]",
+    "pos": "n.",
+    "meaning": "帳戶",
+    "examples": [
+      { "en": "I opened a new bank account last week.", "zh": "我上週開了一個新的銀行帳戶。" },
+      { "en": "Can you check my account balance?", "zh": "你可以幫我查一下帳戶餘額嗎?" }
+    ],
+    "img": "bank account passbook and card",
+    "theme": "金融銀行",
+    "level": 1
+  },
+  {
+    "word": "bank",
+    "kk": "[bæŋk]",
+    "pos": "n.",
+    "meaning": "銀行",
+    "examples": [
+      { "en": "The bank closes at three thirty.", "zh": "銀行在三點半關門。" },
+      { "en": "I need to go to the bank tomorrow.", "zh": "我明天需要去銀行。" }
+    ],
+    "img": "bank building with columns",
+    "theme": "金融銀行",
+    "level": 1
+  },
+  {
+    "word": "cash",
+    "kk": "[kæʃ]",
+    "pos": "n.",
+    "meaning": "現金",
+    "examples": [
+      { "en": "Do you have any cash on you?", "zh": "你身上有帶現金嗎?" },
+      { "en": "I paid the rent in cash.", "zh": "我用現金付了房租。" }
+    ],
+    "img": "stack of paper money bills",
+    "theme": "金融銀行",
+    "level": 1
+  },
+  {
+    "word": "coin",
+    "kk": "[kɔɪn]",
+    "pos": "n.",
+    "meaning": "硬幣",
+    "examples": [
+      { "en": "I dropped a coin under the table.", "zh": "我把一枚硬幣掉到桌子底下了。" },
+      { "en": "She saved her coins in a jar.", "zh": "她把硬幣存在罐子裡。" }
+    ],
+    "img": "shiny metal coins pile",
+    "theme": "金融銀行",
+    "level": 1
+  },
+  {
+    "word": "deposit",
+    "kk": "[dɪˋpɑzɪt]",
+    "pos": "v.",
+    "meaning": "存款;存入",
+    "examples": [
+      { "en": "I want to deposit some money today.", "zh": "我今天想存一些錢。" },
+      { "en": "Please deposit the check into my account.", "zh": "請把這張支票存進我的帳戶。" }
+    ],
+    "img": "hand putting money into bank slot",
+    "theme": "金融銀行",
+    "level": 2
+  },
+  {
+    "word": "withdraw",
+    "kk": "[wɪðˋdrɔ]",
+    "pos": "v.",
+    "meaning": "提款;領錢",
+    "examples": [
+      { "en": "I need to withdraw two thousand dollars.", "zh": "我需要領兩千元。" },
+      { "en": "You can withdraw cash from the ATM.", "zh": "你可以從提款機領現金。" }
+    ],
+    "img": "person taking cash from ATM",
+    "theme": "金融銀行",
+    "level": 2
+  },
+  {
+    "word": "balance",
+    "kk": "[ˋbæləns]",
+    "pos": "n.",
+    "meaning": "餘額",
+    "examples": [
+      { "en": "My account balance is running low.", "zh": "我的帳戶餘額快不夠了。" },
+      { "en": "Check your balance before you spend.", "zh": "花錢前先查一下你的餘額。" }
+    ],
+    "img": "phone screen showing account balance",
+    "theme": "金融銀行",
+    "level": 2
+  },
+  {
+    "word": "transfer",
+    "kk": "[trænsˋfɝ]",
+    "pos": "v.",
+    "meaning": "轉帳;匯款",
+    "examples": [
+      { "en": "I'll transfer the money to you tonight.", "zh": "我今晚會把錢轉給你。" },
+      { "en": "Can you transfer it to this account?", "zh": "你可以轉到這個帳戶嗎?" }
+    ],
+    "img": "money moving between two phones",
+    "theme": "金融銀行",
+    "level": 2
+  },
+  {
+    "word": "interest",
+    "kk": "[ˋɪntrɪst]",
+    "pos": "n.",
+    "meaning": "利息",
+    "examples": [
+      { "en": "This account earns two percent interest.", "zh": "這個帳戶有百分之二的利息。" },
+      { "en": "The interest is paid every month.", "zh": "利息每個月支付一次。" }
+    ],
+    "img": "coins growing with percent sign",
+    "theme": "金融銀行",
+    "level": 2
+  },
+  {
+    "word": "loan",
+    "kk": "[lon]",
+    "pos": "n.",
+    "meaning": "貸款",
+    "examples": [
+      { "en": "I applied for a car loan.", "zh": "我申請了一筆汽車貸款。" },
+      { "en": "He is still paying off his loan.", "zh": "他還在償還他的貸款。" }
+    ],
+    "img": "loan contract with pen and keys",
+    "theme": "金融銀行",
+    "level": 2
+  },
+  {
+    "word": "save",
+    "kk": "[sev]",
+    "pos": "v.",
+    "meaning": "存錢;儲蓄",
+    "examples": [
+      { "en": "I'm trying to save for a trip.", "zh": "我正努力存錢去旅行。" },
+      { "en": "She saves a little every month.", "zh": "她每個月存一點錢。" }
+    ],
+    "img": "coins dropping into piggy bank",
+    "theme": "金融銀行",
+    "level": 1
+  },
+  {
+    "word": "savings",
+    "kk": "[ˋsevɪŋz]",
+    "pos": "n.",
+    "meaning": "存款;儲蓄金",
+    "examples": [
+      { "en": "I used my savings to buy a laptop.", "zh": "我用存款買了一台筆電。" },
+      { "en": "Their savings are in the bank.", "zh": "他們的存款放在銀行裡。" }
+    ],
+    "img": "piggy bank full of coins",
+    "theme": "金融銀行",
+    "level": 2
+  },
+  {
+    "word": "credit card",
+    "kk": "[ˋkrɛdɪt kɑrd]",
+    "pos": "n.",
+    "meaning": "信用卡",
+    "examples": [
+      { "en": "I lost my credit card yesterday.", "zh": "我昨天弄丟了信用卡。" },
+      { "en": "He applied for a new credit card.", "zh": "他申請了一張新的信用卡。" }
+    ],
+    "img": "plastic credit card close up",
+    "theme": "金融銀行",
+    "level": 1
+  },
+  {
+    "word": "debit card",
+    "kk": "[ˋdɛbɪt kɑrd]",
+    "pos": "n.",
+    "meaning": "金融卡;簽帳卡",
+    "examples": [
+      { "en": "I used my debit card to pay.", "zh": "我用金融卡付款。" },
+      { "en": "A debit card takes money from your account.", "zh": "金融卡會直接從你的帳戶扣款。" }
+    ],
+    "img": "debit card in wallet",
+    "theme": "金融銀行",
+    "level": 2
+  },
+  {
+    "word": "ATM",
+    "kk": "[ˋe ti ˋɛm]",
+    "pos": "n.",
+    "meaning": "自動提款機",
+    "examples": [
+      { "en": "There's an ATM around the corner.", "zh": "轉角就有一台提款機。" },
+      { "en": "The ATM is out of order.", "zh": "這台提款機故障了。" }
+    ],
+    "img": "ATM machine on street",
+    "theme": "金融銀行",
+    "level": 1
+  },
+  {
+    "word": "check",
+    "kk": "[tʃɛk]",
+    "pos": "n.",
+    "meaning": "支票",
+    "examples": [
+      { "en": "He wrote me a check for the work.", "zh": "他開了一張支票給我作為工資。" },
+      { "en": "I need to cash this check.", "zh": "我需要把這張支票兌現。" }
+    ],
+    "img": "paper bank check with signature",
+    "theme": "金融銀行",
+    "level": 2
+  },
+  {
+    "word": "wire",
+    "kk": "[waɪr]",
+    "pos": "v.",
+    "meaning": "電匯;匯款",
+    "examples": [
+      { "en": "Please wire the money to my account.", "zh": "請把錢電匯到我的帳戶。" },
+      { "en": "They wired the funds this morning.", "zh": "他們今天早上匯了款。" }
+    ],
+    "img": "international money transfer screen",
+    "theme": "金融銀行",
+    "level": 3
+  },
+  {
+    "word": "branch",
+    "kk": "[bræntʃ]",
+    "pos": "n.",
+    "meaning": "分行",
+    "examples": [
+      { "en": "The nearest branch is downtown.", "zh": "最近的分行在市中心。" },
+      { "en": "You can visit any branch to open an account.", "zh": "你可以到任何一家分行開戶。" }
+    ],
+    "img": "bank branch office entrance",
+    "theme": "金融銀行",
+    "level": 2
+  },
+  {
+    "word": "teller",
+    "kk": "[ˋtɛlɚ]",
+    "pos": "n.",
+    "meaning": "銀行櫃員",
+    "examples": [
+      { "en": "The teller helped me open an account.", "zh": "櫃員幫我開了帳戶。" },
+      { "en": "Ask the teller for a new checkbook.", "zh": "跟櫃員索取一本新的支票簿。" }
+    ],
+    "img": "bank teller behind counter",
+    "theme": "金融銀行",
+    "level": 3
+  },
+  {
+    "word": "customer",
+    "kk": "[ˋkʌstəmɚ]",
+    "pos": "n.",
+    "meaning": "客戶;顧客",
+    "examples": [
+      { "en": "The bank treats every customer well.", "zh": "這家銀行善待每一位客戶。" },
+      { "en": "She's a loyal customer of this bank.", "zh": "她是這家銀行的忠實客戶。" }
+    ],
+    "img": "customer at bank counter",
+    "theme": "金融銀行",
+    "level": 1
+  },
+  {
+    "word": "PIN",
+    "kk": "[pɪn]",
+    "pos": "n.",
+    "meaning": "密碼(個人識別碼)",
+    "examples": [
+      { "en": "Please enter your PIN now.", "zh": "請現在輸入你的密碼。" },
+      { "en": "Never share your PIN with anyone.", "zh": "千萬不要把密碼告訴任何人。" }
+    ],
+    "img": "hand typing PIN on keypad",
+    "theme": "金融銀行",
+    "level": 2
+  },
+  {
+    "word": "passbook",
+    "kk": "[ˋpæsͺbʊk]",
+    "pos": "n.",
+    "meaning": "存摺",
+    "examples": [
+      { "en": "I updated my passbook at the bank.", "zh": "我在銀行補了存摺。" },
+      { "en": "Bring your passbook when you visit.", "zh": "來的時候帶著你的存摺。" }
+    ],
+    "img": "bank passbook with records",
+    "theme": "金融銀行",
+    "level": 3
+  },
+  {
+    "word": "statement",
+    "kk": "[ˋstetmənt]",
+    "pos": "n.",
+    "meaning": "對帳單",
+    "examples": [
+      { "en": "My monthly statement arrived today.", "zh": "我的月對帳單今天寄到了。" },
+      { "en": "Check the statement for any errors.", "zh": "檢查對帳單有沒有錯誤。" }
+    ],
+    "img": "bank statement paper document",
+    "theme": "金融銀行",
+    "level": 2
+  },
+  {
+    "word": "fee",
+    "kk": "[fi]",
+    "pos": "n.",
+    "meaning": "手續費;費用",
+    "examples": [
+      { "en": "There's a small fee for the transfer.", "zh": "轉帳要收一點手續費。" },
+      { "en": "The bank charged a service fee.", "zh": "銀行收取了服務費。" }
+    ],
+    "img": "invoice with fee amount",
+    "theme": "金融銀行",
+    "level": 2
+  },
+  {
+    "word": "currency",
+    "kk": "[ˋkɝənsɪ]",
+    "pos": "n.",
+    "meaning": "貨幣",
+    "examples": [
+      { "en": "What's the local currency here?", "zh": "這裡的當地貨幣是什麼?" },
+      { "en": "I need to change my currency.", "zh": "我需要換一下貨幣。" }
+    ],
+    "img": "different world currencies bills",
+    "theme": "金融銀行",
+    "level": 2
+  },
+  {
+    "word": "exchange rate",
+    "kk": "[ɪksˋtʃendʒ ret]",
+    "pos": "n.",
+    "meaning": "匯率",
+    "examples": [
+      { "en": "The exchange rate is good today.", "zh": "今天的匯率很不錯。" },
+      { "en": "I checked the exchange rate online.", "zh": "我上網查了匯率。" }
+    ],
+    "img": "currency exchange rate board",
+    "theme": "金融銀行",
+    "level": 3
+  },
+  {
+    "word": "invest",
+    "kk": "[ɪnˋvɛst]",
+    "pos": "v.",
+    "meaning": "投資",
+    "examples": [
+      { "en": "She decided to invest in stocks.", "zh": "她決定投資股票。" },
+      { "en": "It's smart to invest early.", "zh": "及早投資是明智的。" }
+    ],
+    "img": "hand planting coin like seed",
+    "theme": "金融銀行",
+    "level": 2
+  },
+  {
+    "word": "investment",
+    "kk": "[ɪnˋvɛstmənt]",
+    "pos": "n.",
+    "meaning": "投資",
+    "examples": [
+      { "en": "This is a safe investment.", "zh": "這是一項安全的投資。" },
+      { "en": "His investment paid off well.", "zh": "他的投資獲得了很好的回報。" }
+    ],
+    "img": "growing investment chart arrow up",
+    "theme": "金融銀行",
+    "level": 3
+  },
+  {
+    "word": "stock",
+    "kk": "[stɑk]",
+    "pos": "n.",
+    "meaning": "股票",
+    "examples": [
+      { "en": "He bought some tech stocks.", "zh": "他買了一些科技股。" },
+      { "en": "The stock price went up today.", "zh": "今天股價上漲了。" }
+    ],
+    "img": "stock market chart on screen",
+    "theme": "金融銀行",
+    "level": 2
+  },
+  {
+    "word": "fund",
+    "kk": "[fʌnd]",
+    "pos": "n.",
+    "meaning": "基金;資金",
+    "examples": [
+      { "en": "I put my money in a fund.", "zh": "我把錢投入了一檔基金。" },
+      { "en": "This fund has low risk.", "zh": "這檔基金風險很低。" }
+    ],
+    "img": "mutual fund pie chart",
+    "theme": "金融銀行",
+    "level": 3
+  },
+  {
+    "word": "profit",
+    "kk": "[ˋprɑfɪt]",
+    "pos": "n.",
+    "meaning": "利潤;獲利",
+    "examples": [
+      { "en": "They made a big profit this year.", "zh": "他們今年賺了一大筆利潤。" },
+      { "en": "The sale brought a small profit.", "zh": "這次交易帶來了一點利潤。" }
+    ],
+    "img": "green profit arrow with coins",
+    "theme": "金融銀行",
+    "level": 2
+  },
+  {
+    "word": "loss",
+    "kk": "[lɔs]",
+    "pos": "n.",
+    "meaning": "虧損;損失",
+    "examples": [
+      { "en": "The company reported a loss.", "zh": "這家公司回報了虧損。" },
+      { "en": "He sold the stock at a loss.", "zh": "他虧本賣掉了股票。" }
+    ],
+    "img": "red declining loss chart",
+    "theme": "金融銀行",
+    "level": 2
+  },
+  {
+    "word": "risk",
+    "kk": "[rɪsk]",
+    "pos": "n.",
+    "meaning": "風險",
+    "examples": [
+      { "en": "Every investment has some risk.", "zh": "每項投資都有一些風險。" },
+      { "en": "He took a big risk with his money.", "zh": "他拿他的錢冒了很大的險。" }
+    ],
+    "img": "warning sign with money",
+    "theme": "金融銀行",
+    "level": 2
+  },
+  {
+    "word": "borrow",
+    "kk": "[ˋbɑro]",
+    "pos": "v.",
+    "meaning": "借入;借錢",
+    "examples": [
+      { "en": "I had to borrow money from the bank.", "zh": "我不得不向銀行借錢。" },
+      { "en": "Can I borrow some cash from you?", "zh": "我可以跟你借一點現金嗎?" }
+    ],
+    "img": "hand receiving money from another",
+    "theme": "金融銀行",
+    "level": 1
+  },
+  {
+    "word": "lend",
+    "kk": "[lɛnd]",
+    "pos": "v.",
+    "meaning": "借出;貸予",
+    "examples": [
+      { "en": "The bank agreed to lend him money.", "zh": "銀行同意借錢給他。" },
+      { "en": "Could you lend me a little?", "zh": "你可以借我一點嗎?" }
+    ],
+    "img": "hand giving cash to another",
+    "theme": "金融銀行",
+    "level": 2
+  },
+  {
+    "word": "debt",
+    "kk": "[dɛt]",
+    "pos": "n.",
+    "meaning": "債務;欠款",
+    "examples": [
+      { "en": "He's trying to pay off his debt.", "zh": "他正努力還清債務。" },
+      { "en": "She has no debt at all.", "zh": "她完全沒有負債。" }
+    ],
+    "img": "person under pile of bills",
+    "theme": "金融銀行",
+    "level": 2
+  },
+  {
+    "word": "budget",
+    "kk": "[ˋbʌdʒɪt]",
+    "pos": "n.",
+    "meaning": "預算",
+    "examples": [
+      { "en": "I made a monthly budget.", "zh": "我做了一份每月預算。" },
+      { "en": "Try to stick to your budget.", "zh": "試著遵守你的預算。" }
+    ],
+    "img": "budget planner with calculator",
+    "theme": "金融銀行",
+    "level": 2
+  },
+  {
+    "word": "mortgage",
+    "kk": "[ˋmɔrgɪdʒ]",
+    "pos": "n.",
+    "meaning": "房屋貸款;抵押貸款",
+    "examples": [
+      { "en": "They took out a mortgage for the house.", "zh": "他們為房子辦了房貸。" },
+      { "en": "The mortgage lasts twenty years.", "zh": "這筆房貸長達二十年。" }
+    ],
+    "img": "house with mortgage document",
+    "theme": "金融銀行",
+    "level": 3
+  },
+  {
+    "word": "installment",
+    "kk": "[ɪnˋstɔlmənt]",
+    "pos": "n.",
+    "meaning": "分期付款",
+    "examples": [
+      { "en": "I paid for it in installments.", "zh": "我用分期付款買的。" },
+      { "en": "The first installment is due next month.", "zh": "第一期款項下個月到期。" }
+    ],
+    "img": "calendar with monthly payments",
+    "theme": "金融銀行",
+    "level": 3
+  },
+  {
+    "word": "salary",
+    "kk": "[ˋsælərɪ]",
+    "pos": "n.",
+    "meaning": "薪水",
+    "examples": [
+      { "en": "My salary goes into the bank each month.", "zh": "我的薪水每個月存進銀行。" },
+      { "en": "She got a raise in her salary.", "zh": "她的薪水調漲了。" }
+    ],
+    "img": "paycheck with money",
+    "theme": "金融銀行",
+    "level": 2
+  },
+  {
+    "word": "income",
+    "kk": "[ˋɪnͺkʌm]",
+    "pos": "n.",
+    "meaning": "收入",
+    "examples": [
+      { "en": "Their income comes from two jobs.", "zh": "他們的收入來自兩份工作。" },
+      { "en": "He has a steady monthly income.", "zh": "他有穩定的月收入。" }
+    ],
+    "img": "money flowing into wallet",
+    "theme": "金融銀行",
+    "level": 2
+  },
+  {
+    "word": "amount",
+    "kk": "[əˋmaʊnt]",
+    "pos": "n.",
+    "meaning": "金額;數額",
+    "examples": [
+      { "en": "Please enter the amount to transfer.", "zh": "請輸入要轉帳的金額。" },
+      { "en": "That's a large amount of money.", "zh": "那是一大筆錢。" }
+    ],
+    "img": "screen showing money amount",
+    "theme": "金融銀行",
+    "level": 1
+  },
+  {
+    "word": "sign",
+    "kk": "[saɪn]",
+    "pos": "v.",
+    "meaning": "簽名",
+    "examples": [
+      { "en": "Please sign here to open the account.", "zh": "請在這裡簽名以開立帳戶。" },
+      { "en": "Don't forget to sign the form.", "zh": "別忘了在表格上簽名。" }
+    ],
+    "img": "hand signing a form with pen",
+    "theme": "金融銀行",
+    "level": 1
+  },
+  {
+    "word": "owe",
+    "kk": "[o]",
+    "pos": "v.",
+    "meaning": "欠(錢)",
+    "examples": [
+      { "en": "I owe the bank ten thousand dollars.", "zh": "我欠銀行一萬元。" },
+      { "en": "How much do I owe you?", "zh": "我欠你多少錢?" }
+    ],
+    "img": "iou note with money",
+    "theme": "金融銀行",
+    "level": 2
+  },
+  {
+    "word": "apply",
+    "kk": "[əˋplaɪ]",
+    "pos": "v.",
+    "meaning": "申請",
+    "examples": [
+      { "en": "I want to apply for a loan.", "zh": "我想申請一筆貸款。" },
+      { "en": "You can apply online in minutes.", "zh": "你可以在網路上幾分鐘內申請。" }
+    ],
+    "img": "hand filling out application form",
+    "theme": "金融銀行",
+    "level": 2
+  },
+  {
+    "word": "approve",
+    "kk": "[əˋpruv]",
+    "pos": "v.",
+    "meaning": "核准;批准",
+    "examples": [
+      { "en": "The bank approved my loan.", "zh": "銀行核准了我的貸款。" },
+      { "en": "It may take a week to approve.", "zh": "核准可能需要一週的時間。" }
+    ],
+    "img": "approved stamp on document",
+    "theme": "金融銀行",
+    "level": 3
+  },
+  {
+    "word": "online banking",
+    "kk": "[ˋɑnͺlaɪn ˋbæŋkɪŋ]",
+    "pos": "n.",
+    "meaning": "網路銀行",
+    "examples": [
+      { "en": "I pay my bills through online banking.", "zh": "我透過網路銀行付帳單。" },
+      { "en": "Online banking is very convenient.", "zh": "網路銀行非常方便。" }
+    ],
+    "img": "laptop showing online banking",
+    "theme": "金融銀行",
+    "level": 2
+  },
+  {
+    "word": "password",
+    "kk": "[ˋpæsͺwɝd]",
+    "pos": "n.",
+    "meaning": "密碼",
+    "examples": [
+      { "en": "I forgot my banking password.", "zh": "我忘記了網銀密碼。" },
+      { "en": "Choose a strong password.", "zh": "選一個安全性高的密碼。" }
+    ],
+    "img": "login screen with password field",
+    "theme": "金融銀行",
+    "level": 2
+  },
+  {
+    "word": "safe",
+    "kk": "[sef]",
+    "pos": "n.",
+    "meaning": "保險箱",
+    "examples": [
+      { "en": "They keep cash in a safe.", "zh": "他們把現金放在保險箱裡。" },
+      { "en": "The bank has a large safe.", "zh": "這家銀行有一個大保險箱。" }
+    ],
+    "img": "metal safe with dial lock",
+    "theme": "金融銀行",
+    "level": 2
+  },
+  {
+    "word": "vault",
+    "kk": "[vɔlt]",
+    "pos": "n.",
+    "meaning": "金庫",
+    "examples": [
+      { "en": "The gold is kept in the bank vault.", "zh": "黃金保存在銀行金庫裡。" },
+      { "en": "Only two people can open the vault.", "zh": "只有兩個人能打開金庫。" }
+    ],
+    "img": "large bank vault door",
+    "theme": "金融銀行",
+    "level": 3
+  }
+]

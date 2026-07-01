@@ -1,0 +1,652 @@
+[
+  {
+    "word": "army",
+    "kk": "[ˋɑrmɪ]",
+    "pos": "n.",
+    "meaning": "陸軍;軍隊",
+    "examples": [
+      { "en": "He joined the army after graduating from high school.", "zh": "他高中畢業後加入陸軍。" },
+      { "en": "The army held a parade in the capital.", "zh": "軍隊在首都舉行了閱兵。" }
+    ],
+    "img": "soldiers marching in green uniforms",
+    "theme": "軍事國防",
+    "level": 2
+  },
+  {
+    "word": "navy",
+    "kk": "[ˋnevɪ]",
+    "pos": "n.",
+    "meaning": "海軍",
+    "examples": [
+      { "en": "Her brother serves in the navy.", "zh": "她哥哥在海軍服役。" },
+      { "en": "The navy protects the country's coastline.", "zh": "海軍保護國家的海岸線。" }
+    ],
+    "img": "gray naval warship on ocean",
+    "theme": "軍事國防",
+    "level": 2
+  },
+  {
+    "word": "air force",
+    "kk": "[ˋɛr͵fɔrs]",
+    "pos": "n.",
+    "meaning": "空軍",
+    "examples": [
+      { "en": "The air force conducted a training flight.", "zh": "空軍進行了一次訓練飛行。" },
+      { "en": "He always dreamed of joining the air force.", "zh": "他一直夢想加入空軍。" }
+    ],
+    "img": "fighter jets flying in formation",
+    "theme": "軍事國防",
+    "level": 2
+  },
+  {
+    "word": "soldier",
+    "kk": "[ˋsoldʒɚ]",
+    "pos": "n.",
+    "meaning": "士兵;軍人",
+    "examples": [
+      { "en": "The soldier stood guard at the gate.", "zh": "那名士兵在大門站崗。" },
+      { "en": "Each soldier carried a heavy backpack.", "zh": "每名士兵都背著沉重的背包。" }
+    ],
+    "img": "soldier standing guard with helmet",
+    "theme": "軍事國防",
+    "level": 2
+  },
+  {
+    "word": "officer",
+    "kk": "[ˋɔfəsɚ]",
+    "pos": "n.",
+    "meaning": "軍官",
+    "examples": [
+      { "en": "The officer gave orders to the troops.", "zh": "那名軍官向部隊下達命令。" },
+      { "en": "She was promoted to a senior officer.", "zh": "她被晉升為高階軍官。" }
+    ],
+    "img": "military officer in dress uniform",
+    "theme": "軍事國防",
+    "level": 2
+  },
+  {
+    "word": "general",
+    "kk": "[ˋdʒɛnərəl]",
+    "pos": "n.",
+    "meaning": "將軍;上將",
+    "examples": [
+      { "en": "The general reviewed the troops before the ceremony.", "zh": "將軍在典禮前檢閱部隊。" },
+      { "en": "A four-star general led the operation.", "zh": "一位四星上將領導這次行動。" }
+    ],
+    "img": "general with medals and stars",
+    "theme": "軍事國防",
+    "level": 3
+  },
+  {
+    "word": "captain",
+    "kk": "[ˋkæptɪn]",
+    "pos": "n.",
+    "meaning": "上尉;艦長",
+    "examples": [
+      { "en": "The captain led his unit through the exercise.", "zh": "上尉帶領他的部隊完成演習。" },
+      { "en": "The ship's captain gave clear instructions.", "zh": "艦長下達了明確的指示。" }
+    ],
+    "img": "captain giving orders on deck",
+    "theme": "軍事國防",
+    "level": 2
+  },
+  {
+    "word": "sergeant",
+    "kk": "[ˋsɑrdʒənt]",
+    "pos": "n.",
+    "meaning": "士官;中士",
+    "examples": [
+      { "en": "The sergeant trained the new recruits.", "zh": "士官訓練新兵。" },
+      { "en": "A sergeant supervised the drill.", "zh": "一名中士監督操練。" }
+    ],
+    "img": "sergeant instructing recruits outdoors",
+    "theme": "軍事國防",
+    "level": 3
+  },
+  {
+    "word": "lieutenant",
+    "kk": "[luˋtɛnənt]",
+    "pos": "n.",
+    "meaning": "中尉;副官",
+    "examples": [
+      { "en": "The lieutenant reported to the captain.", "zh": "中尉向上尉報告。" },
+      { "en": "A young lieutenant commanded the platoon.", "zh": "一位年輕的中尉指揮這個排。" }
+    ],
+    "img": "lieutenant reading a map outdoors",
+    "theme": "軍事國防",
+    "level": 3
+  },
+  {
+    "word": "colonel",
+    "kk": "[ˋkɝn̩l]",
+    "pos": "n.",
+    "meaning": "上校",
+    "examples": [
+      { "en": "The colonel planned the training schedule.", "zh": "上校規劃了訓練時程。" },
+      { "en": "A colonel addressed the assembled troops.", "zh": "一位上校對集合的部隊講話。" }
+    ],
+    "img": "colonel speaking at a podium",
+    "theme": "軍事國防",
+    "level": 3
+  },
+  {
+    "word": "recruit",
+    "kk": "[rɪˋkrut]",
+    "pos": "n.",
+    "meaning": "新兵;招募",
+    "examples": [
+      { "en": "The new recruit learned to march.", "zh": "新兵學習行進。" },
+      { "en": "The army tries to recruit young volunteers.", "zh": "軍隊試圖招募年輕的志願者。" }
+    ],
+    "img": "new recruits in a training line",
+    "theme": "軍事國防",
+    "level": 2
+  },
+  {
+    "word": "troops",
+    "kk": "[trups]",
+    "pos": "n.",
+    "meaning": "部隊;軍隊",
+    "examples": [
+      { "en": "The troops arrived at the base at dawn.", "zh": "部隊在黎明時抵達基地。" },
+      { "en": "Fresh troops replaced the tired ones.", "zh": "生力軍替換了疲憊的部隊。" }
+    ],
+    "img": "column of troops on the move",
+    "theme": "軍事國防",
+    "level": 2
+  },
+  {
+    "word": "unit",
+    "kk": "[ˋjunɪt]",
+    "pos": "n.",
+    "meaning": "單位;分隊",
+    "examples": [
+      { "en": "His unit was assigned to guard the bridge.", "zh": "他的分隊被指派守衛橋樑。" },
+      { "en": "Each unit has its own commander.", "zh": "每個單位都有自己的指揮官。" }
+    ],
+    "img": "small military unit standing together",
+    "theme": "軍事國防",
+    "level": 2
+  },
+  {
+    "word": "platoon",
+    "kk": "[pləˋtun]",
+    "pos": "n.",
+    "meaning": "排(軍事編制)",
+    "examples": [
+      { "en": "The platoon set up camp near the river.", "zh": "這個排在河邊紮營。" },
+      { "en": "A platoon usually has about thirty soldiers.", "zh": "一個排通常約有三十名士兵。" }
+    ],
+    "img": "platoon of soldiers setting up camp",
+    "theme": "軍事國防",
+    "level": 3
+  },
+  {
+    "word": "brigade",
+    "kk": "[brɪˋɡed]",
+    "pos": "n.",
+    "meaning": "旅(軍事編制)",
+    "examples": [
+      { "en": "The brigade took part in the joint exercise.", "zh": "該旅參加了聯合演習。" },
+      { "en": "A brigade is made up of several battalions.", "zh": "一個旅由數個營組成。" }
+    ],
+    "img": "large brigade formation on field",
+    "theme": "軍事國防",
+    "level": 3
+  },
+  {
+    "word": "base",
+    "kk": "[bes]",
+    "pos": "n.",
+    "meaning": "基地",
+    "examples": [
+      { "en": "The soldiers returned to the base after the mission.", "zh": "士兵們在任務後返回基地。" },
+      { "en": "The military base is located near the coast.", "zh": "這座軍事基地位於海岸附近。" }
+    ],
+    "img": "military base with control tower",
+    "theme": "軍事國防",
+    "level": 2
+  },
+  {
+    "word": "barracks",
+    "kk": "[ˋbærəks]",
+    "pos": "n.",
+    "meaning": "營房;兵營",
+    "examples": [
+      { "en": "The recruits sleep in the barracks.", "zh": "新兵們睡在營房裡。" },
+      { "en": "The barracks were kept clean and tidy.", "zh": "營房保持得乾淨整潔。" }
+    ],
+    "img": "rows of bunk beds in barracks",
+    "theme": "軍事國防",
+    "level": 3
+  },
+  {
+    "word": "weapon",
+    "kk": "[ˋwɛpən]",
+    "pos": "n.",
+    "meaning": "武器",
+    "examples": [
+      { "en": "Every weapon must be cleaned after use.", "zh": "每件武器使用後都必須清潔。" },
+      { "en": "The museum displays old weapons.", "zh": "博物館展示古老的武器。" }
+    ],
+    "img": "military weapons on a display rack",
+    "theme": "軍事國防",
+    "level": 2
+  },
+  {
+    "word": "rifle",
+    "kk": "[ˋraɪf̩l]",
+    "pos": "n.",
+    "meaning": "步槍",
+    "examples": [
+      { "en": "The soldier cleaned his rifle carefully.", "zh": "士兵仔細清理他的步槍。" },
+      { "en": "They practiced shooting with a rifle.", "zh": "他們用步槍練習射擊。" }
+    ],
+    "img": "soldier holding a standard rifle",
+    "theme": "軍事國防",
+    "level": 2
+  },
+  {
+    "word": "tank",
+    "kk": "[tæŋk]",
+    "pos": "n.",
+    "meaning": "坦克;戰車",
+    "examples": [
+      { "en": "The tank moved slowly across the field.", "zh": "坦克緩緩地駛過田野。" },
+      { "en": "A tank is protected by thick armor.", "zh": "坦克受到厚重裝甲的保護。" }
+    ],
+    "img": "armored tank on dirt terrain",
+    "theme": "軍事國防",
+    "level": 2
+  },
+  {
+    "word": "missile",
+    "kk": "[ˋmɪs̩l]",
+    "pos": "n.",
+    "meaning": "飛彈;導彈",
+    "examples": [
+      { "en": "The missile was launched during the test.", "zh": "飛彈在測試中發射。" },
+      { "en": "A defense missile can intercept threats.", "zh": "防禦飛彈可以攔截威脅。" }
+    ],
+    "img": "missile launching with smoke trail",
+    "theme": "軍事國防",
+    "level": 3
+  },
+  {
+    "word": "artillery",
+    "kk": "[ɑrˋtɪlərɪ]",
+    "pos": "n.",
+    "meaning": "火砲;砲兵",
+    "examples": [
+      { "en": "The artillery was positioned on the hill.", "zh": "火砲部署在山丘上。" },
+      { "en": "Modern artillery can hit distant targets.", "zh": "現代火砲能命中遠距離目標。" }
+    ],
+    "img": "large artillery cannon on wheels",
+    "theme": "軍事國防",
+    "level": 3
+  },
+  {
+    "word": "cannon",
+    "kk": "[ˋkænən]",
+    "pos": "n.",
+    "meaning": "大砲",
+    "examples": [
+      { "en": "The old cannon stood at the fort's entrance.", "zh": "那座舊大砲立在堡壘入口。" },
+      { "en": "They fired the cannon during the ceremony.", "zh": "他們在典禮中發射了大砲。" }
+    ],
+    "img": "antique iron cannon at a fort",
+    "theme": "軍事國防",
+    "level": 2
+  },
+  {
+    "word": "grenade",
+    "kk": "[ɡrɪˋned]",
+    "pos": "n.",
+    "meaning": "手榴彈",
+    "examples": [
+      { "en": "The recruits practiced throwing a grenade.", "zh": "新兵練習投擲手榴彈。" },
+      { "en": "A grenade must be handled with great care.", "zh": "手榴彈必須非常小心地處理。" }
+    ],
+    "img": "hand grenade on a table",
+    "theme": "軍事國防",
+    "level": 3
+  },
+  {
+    "word": "helmet",
+    "kk": "[ˋhɛlmɪt]",
+    "pos": "n.",
+    "meaning": "頭盔;鋼盔",
+    "examples": [
+      { "en": "Every soldier wears a helmet for safety.", "zh": "每名士兵為了安全都戴頭盔。" },
+      { "en": "His helmet protected him from the fall.", "zh": "他的頭盔在跌倒時保護了他。" }
+    ],
+    "img": "green combat helmet close up",
+    "theme": "軍事國防",
+    "level": 2
+  },
+  {
+    "word": "uniform",
+    "kk": "[ˋjunə͵fɔrm]",
+    "pos": "n.",
+    "meaning": "制服;軍服",
+    "examples": [
+      { "en": "The soldiers wore matching uniforms.", "zh": "士兵們穿著一致的軍服。" },
+      { "en": "She ironed her uniform before the parade.", "zh": "她在閱兵前燙好了制服。" }
+    ],
+    "img": "neatly pressed military uniform",
+    "theme": "軍事國防",
+    "level": 2
+  },
+  {
+    "word": "armor",
+    "kk": "[ˋɑrmɚ]",
+    "pos": "n.",
+    "meaning": "裝甲;盔甲",
+    "examples": [
+      { "en": "The vehicle's armor stopped the impact.", "zh": "車輛的裝甲擋住了衝擊。" },
+      { "en": "Body armor helps protect the soldiers.", "zh": "防彈衣有助於保護士兵。" }
+    ],
+    "img": "armored plating on a vehicle",
+    "theme": "軍事國防",
+    "level": 3
+  },
+  {
+    "word": "shield",
+    "kk": "[ʃild]",
+    "pos": "n.",
+    "meaning": "盾牌;防護",
+    "examples": [
+      { "en": "The guard raised his shield for protection.", "zh": "守衛舉起盾牌防護。" },
+      { "en": "The wall acted as a shield against wind.", "zh": "那道牆起到擋風的作用。" }
+    ],
+    "img": "round metal shield held up",
+    "theme": "軍事國防",
+    "level": 2
+  },
+  {
+    "word": "radar",
+    "kk": "[ˋredɑr]",
+    "pos": "n.",
+    "meaning": "雷達",
+    "examples": [
+      { "en": "The radar detected the incoming plane.", "zh": "雷達偵測到飛來的飛機。" },
+      { "en": "A radar station monitors the airspace.", "zh": "一座雷達站監控著空域。" }
+    ],
+    "img": "rotating radar dish antenna",
+    "theme": "軍事國防",
+    "level": 3
+  },
+  {
+    "word": "submarine",
+    "kk": "[ˋsʌbmə͵rin]",
+    "pos": "n.",
+    "meaning": "潛水艇",
+    "examples": [
+      { "en": "The submarine dived below the surface.", "zh": "潛水艇潛入水面下方。" },
+      { "en": "A submarine can stay underwater for days.", "zh": "潛水艇可以在水下停留數天。" }
+    ],
+    "img": "submarine surfacing from the sea",
+    "theme": "軍事國防",
+    "level": 3
+  },
+  {
+    "word": "aircraft",
+    "kk": "[ˋɛr͵kræft]",
+    "pos": "n.",
+    "meaning": "飛行器;軍機",
+    "examples": [
+      { "en": "The aircraft took off from the carrier.", "zh": "飛機從航空母艦上起飛。" },
+      { "en": "Several aircraft joined the flyover.", "zh": "數架飛機參加了飛行表演。" }
+    ],
+    "img": "military aircraft on a runway",
+    "theme": "軍事國防",
+    "level": 2
+  },
+  {
+    "word": "carrier",
+    "kk": "[ˋkærɪɚ]",
+    "pos": "n.",
+    "meaning": "航空母艦;運輸載具",
+    "examples": [
+      { "en": "The aircraft carrier sailed across the ocean.", "zh": "航空母艦航行過海洋。" },
+      { "en": "Planes land on the deck of the carrier.", "zh": "飛機降落在航母的甲板上。" }
+    ],
+    "img": "aircraft carrier with jets on deck",
+    "theme": "軍事國防",
+    "level": 3
+  },
+  {
+    "word": "fleet",
+    "kk": "[flit]",
+    "pos": "n.",
+    "meaning": "艦隊",
+    "examples": [
+      { "en": "The fleet gathered near the harbor.", "zh": "艦隊在港口附近集結。" },
+      { "en": "A large fleet sailed on the exercise.", "zh": "一支龐大的艦隊出海演習。" }
+    ],
+    "img": "fleet of warships at sea",
+    "theme": "軍事國防",
+    "level": 3
+  },
+  {
+    "word": "strategy",
+    "kk": "[ˋstrætədʒɪ]",
+    "pos": "n.",
+    "meaning": "戰略;策略",
+    "examples": [
+      { "en": "The commanders discussed their strategy.", "zh": "指揮官們討論他們的戰略。" },
+      { "en": "A good strategy can save many lives.", "zh": "良好的戰略可以拯救許多生命。" }
+    ],
+    "img": "officers studying a strategy map",
+    "theme": "軍事國防",
+    "level": 3
+  },
+  {
+    "word": "tactic",
+    "kk": "[ˋtæktɪk]",
+    "pos": "n.",
+    "meaning": "戰術;策略手段",
+    "examples": [
+      { "en": "They changed their tactic during the drill.", "zh": "他們在演習中改變了戰術。" },
+      { "en": "This tactic worked well in the exercise.", "zh": "這個戰術在演習中效果很好。" }
+    ],
+    "img": "soldiers discussing tactics on field",
+    "theme": "軍事國防",
+    "level": 3
+  },
+  {
+    "word": "defense",
+    "kk": "[dɪˋfɛns]",
+    "pos": "n.",
+    "meaning": "防禦;國防",
+    "examples": [
+      { "en": "The country spends a lot on defense.", "zh": "這個國家在國防上花費很多。" },
+      { "en": "Good defense keeps the border safe.", "zh": "良好的防禦讓邊境安全。" }
+    ],
+    "img": "defensive wall with watchtowers",
+    "theme": "軍事國防",
+    "level": 2
+  },
+  {
+    "word": "mission",
+    "kk": "[ˋmɪʃən]",
+    "pos": "n.",
+    "meaning": "任務",
+    "examples": [
+      { "en": "The team completed the mission on time.", "zh": "隊伍準時完成了任務。" },
+      { "en": "Their mission was to guard the supplies.", "zh": "他們的任務是守衛補給品。" }
+    ],
+    "img": "soldiers briefing before a mission",
+    "theme": "軍事國防",
+    "level": 2
+  },
+  {
+    "word": "patrol",
+    "kk": "[pəˋtrol]",
+    "pos": "n.",
+    "meaning": "巡邏",
+    "examples": [
+      { "en": "The soldiers went on patrol at night.", "zh": "士兵們在夜間出去巡邏。" },
+      { "en": "A patrol checks the border every day.", "zh": "巡邏隊每天檢查邊境。" }
+    ],
+    "img": "soldiers on patrol at dusk",
+    "theme": "軍事國防",
+    "level": 2
+  },
+  {
+    "word": "command",
+    "kk": "[kəˋmænd]",
+    "pos": "n.",
+    "meaning": "指揮;命令",
+    "examples": [
+      { "en": "The general is in command of the base.", "zh": "將軍指揮這座基地。" },
+      { "en": "The soldiers followed the command at once.", "zh": "士兵們立刻服從命令。" }
+    ],
+    "img": "command center with screens",
+    "theme": "軍事國防",
+    "level": 2
+  },
+  {
+    "word": "commander",
+    "kk": "[kəˋmændɚ]",
+    "pos": "n.",
+    "meaning": "指揮官",
+    "examples": [
+      { "en": "The commander praised his team's effort.", "zh": "指揮官讚揚他團隊的努力。" },
+      { "en": "A commander must make quick decisions.", "zh": "指揮官必須做出快速的決定。" }
+    ],
+    "img": "commander pointing at a map",
+    "theme": "軍事國防",
+    "level": 3
+  },
+  {
+    "word": "drill",
+    "kk": "[drɪl]",
+    "pos": "n.",
+    "meaning": "操練;演練",
+    "examples": [
+      { "en": "The soldiers did a morning drill.", "zh": "士兵們進行了晨間操練。" },
+      { "en": "A fire drill was held at the base.", "zh": "基地舉行了一次消防演練。" }
+    ],
+    "img": "soldiers marching in a drill",
+    "theme": "軍事國防",
+    "level": 2
+  },
+  {
+    "word": "exercise",
+    "kk": "[ˋɛksɚ͵saɪz]",
+    "pos": "n.",
+    "meaning": "演習;訓練",
+    "examples": [
+      { "en": "The two armies joined a training exercise.", "zh": "兩支軍隊參加了一次訓練演習。" },
+      { "en": "The exercise lasted for three days.", "zh": "這次演習持續了三天。" }
+    ],
+    "img": "joint military exercise on field",
+    "theme": "軍事國防",
+    "level": 2
+  },
+  {
+    "word": "maneuver",
+    "kk": "[məˋnuvɚ]",
+    "pos": "n.",
+    "meaning": "調度;演習動作",
+    "examples": [
+      { "en": "The troops practiced a difficult maneuver.", "zh": "部隊練習了一項困難的調度動作。" },
+      { "en": "The maneuver required careful timing.", "zh": "這項演習動作需要精確的時間掌握。" }
+    ],
+    "img": "vehicles performing a field maneuver",
+    "theme": "軍事國防",
+    "level": 3
+  },
+  {
+    "word": "retreat",
+    "kk": "[rɪˋtrit]",
+    "pos": "v./n.",
+    "meaning": "撤退",
+    "examples": [
+      { "en": "The unit had to retreat to safer ground.", "zh": "該分隊不得不撤退到更安全的地方。" },
+      { "en": "The retreat was carried out in good order.", "zh": "撤退進行得井然有序。" }
+    ],
+    "img": "soldiers pulling back in formation",
+    "theme": "軍事國防",
+    "level": 3
+  },
+  {
+    "word": "advance",
+    "kk": "[ədˋvæns]",
+    "pos": "v./n.",
+    "meaning": "前進;推進",
+    "examples": [
+      { "en": "The troops advanced toward the hill.", "zh": "部隊向山丘推進。" },
+      { "en": "Their advance was slow but steady.", "zh": "他們的推進緩慢但穩定。" }
+    ],
+    "img": "soldiers advancing across a field",
+    "theme": "軍事國防",
+    "level": 3
+  },
+  {
+    "word": "reinforce",
+    "kk": "[͵riɪnˋfors]",
+    "pos": "v.",
+    "meaning": "增援;加強",
+    "examples": [
+      { "en": "They sent more troops to reinforce the base.", "zh": "他們派出更多部隊增援基地。" },
+      { "en": "The wall was reinforced with steel.", "zh": "那道牆用鋼材加固了。" }
+    ],
+    "img": "reinforcement troops arriving by truck",
+    "theme": "軍事國防",
+    "level": 3
+  },
+  {
+    "word": "veteran",
+    "kk": "[ˋvɛtərən]",
+    "pos": "n.",
+    "meaning": "退伍軍人;老兵",
+    "examples": [
+      { "en": "The veteran shared stories of his service.", "zh": "這位退伍軍人分享他服役的故事。" },
+      { "en": "Many veterans attended the memorial.", "zh": "許多退伍軍人參加了紀念活動。" }
+    ],
+    "img": "veteran wearing service medals",
+    "theme": "軍事國防",
+    "level": 3
+  },
+  {
+    "word": "border",
+    "kk": "[ˋbɔrdɚ]",
+    "pos": "n.",
+    "meaning": "邊境;國界",
+    "examples": [
+      { "en": "Guards watch the border day and night.", "zh": "衛兵日夜看守邊境。" },
+      { "en": "The two countries share a long border.", "zh": "這兩個國家有一條長長的國界。" }
+    ],
+    "img": "border checkpoint with a barrier",
+    "theme": "軍事國防",
+    "level": 2
+  },
+  {
+    "word": "guard",
+    "kk": "[ɡɑrd]",
+    "pos": "n./v.",
+    "meaning": "守衛;警戒",
+    "examples": [
+      { "en": "A guard stood at the entrance all night.", "zh": "一名守衛整夜站在入口處。" },
+      { "en": "Soldiers guard the important building.", "zh": "士兵守衛著這座重要的建築。" }
+    ],
+    "img": "guard standing at a gate",
+    "theme": "軍事國防",
+    "level": 2
+  },
+  {
+    "word": "camouflage",
+    "kk": "[ˋkæmə͵flɑʒ]",
+    "pos": "n.",
+    "meaning": "偽裝;迷彩",
+    "examples": [
+      { "en": "The soldiers wore camouflage in the forest.", "zh": "士兵們在森林裡穿著迷彩服。" },
+      { "en": "Good camouflage helps them stay hidden.", "zh": "良好的偽裝幫助他們隱藏行蹤。" }
+    ],
+    "img": "camouflage pattern uniform in woods",
+    "theme": "軍事國防",
+    "level": 3
+  }
+]

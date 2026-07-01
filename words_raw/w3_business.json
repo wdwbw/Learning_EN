@@ -1,0 +1,652 @@
+[
+  {
+    "word": "market",
+    "kk": "[ˋmɑrkɪt]",
+    "pos": "n.",
+    "meaning": "市場",
+    "examples": [
+      { "en": "There's a big market for this app.", "zh": "這款應用程式有很大的市場。" },
+      { "en": "We need to study the market first.", "zh": "我們得先研究市場。" }
+    ],
+    "img": "crowded marketplace with vendors and buyers",
+    "theme": "商業行銷",
+    "level": 1
+  },
+  {
+    "word": "brand",
+    "kk": "[brænd]",
+    "pos": "n.",
+    "meaning": "品牌",
+    "examples": [
+      { "en": "People trust this brand a lot.", "zh": "大家很信任這個品牌。" },
+      { "en": "Our brand is getting more popular.", "zh": "我們的品牌越來越受歡迎。" }
+    ],
+    "img": "row of colorful product logos on shelf",
+    "theme": "商業行銷",
+    "level": 1
+  },
+  {
+    "word": "customer",
+    "kk": "[ˋkʌstəmɚ]",
+    "pos": "n.",
+    "meaning": "客戶;顧客",
+    "examples": [
+      { "en": "The customer is always right.", "zh": "顧客永遠是對的。" },
+      { "en": "We got a new customer today.", "zh": "我們今天有個新客戶。" }
+    ],
+    "img": "shopper paying at store counter",
+    "theme": "商業行銷",
+    "level": 1
+  },
+  {
+    "word": "product",
+    "kk": "[ˋprɑdəkt]",
+    "pos": "n.",
+    "meaning": "產品",
+    "examples": [
+      { "en": "This product sells really well.", "zh": "這個產品賣得很好。" },
+      { "en": "We just launched a new product.", "zh": "我們剛推出一個新產品。" }
+    ],
+    "img": "boxed product on display stand",
+    "theme": "商業行銷",
+    "level": 1
+  },
+  {
+    "word": "price",
+    "kk": "[praɪs]",
+    "pos": "n.",
+    "meaning": "價格",
+    "examples": [
+      { "en": "The price is a bit too high.", "zh": "這價格有點太高了。" },
+      { "en": "Can you lower the price?", "zh": "你能降價嗎?" }
+    ],
+    "img": "price tag hanging on item",
+    "theme": "商業行銷",
+    "level": 1
+  },
+  {
+    "word": "sell",
+    "kk": "[sɛl]",
+    "pos": "v.",
+    "meaning": "販售;賣",
+    "examples": [
+      { "en": "We sell coffee and snacks.", "zh": "我們賣咖啡和點心。" },
+      { "en": "These shoes sell fast online.", "zh": "這些鞋子在網路上賣得很快。" }
+    ],
+    "img": "hand exchanging goods for cash",
+    "theme": "商業行銷",
+    "level": 1
+  },
+  {
+    "word": "sales",
+    "kk": "[selz]",
+    "pos": "n.",
+    "meaning": "銷售額;業績",
+    "examples": [
+      { "en": "Our sales went up last month.", "zh": "我們上個月業績上升了。" },
+      { "en": "Sales are slow this week.", "zh": "這週的銷售很慢。" }
+    ],
+    "img": "rising bar chart of sales figures",
+    "theme": "商業行銷",
+    "level": 1
+  },
+  {
+    "word": "profit",
+    "kk": "[ˋprɑfɪt]",
+    "pos": "n.",
+    "meaning": "利潤",
+    "examples": [
+      { "en": "We made a small profit this year.", "zh": "我們今年賺了一點利潤。" },
+      { "en": "The shop makes no profit yet.", "zh": "這家店還沒有利潤。" }
+    ],
+    "img": "stack of coins with upward arrow",
+    "theme": "商業行銷",
+    "level": 1
+  },
+  {
+    "word": "cost",
+    "kk": "[kɔst]",
+    "pos": "n.",
+    "meaning": "成本;費用",
+    "examples": [
+      { "en": "The cost is higher than we thought.", "zh": "成本比我們想的還高。" },
+      { "en": "We need to cut costs.", "zh": "我們得削減成本。" }
+    ],
+    "img": "calculator next to receipts",
+    "theme": "商業行銷",
+    "level": 1
+  },
+  {
+    "word": "deal",
+    "kk": "[dil]",
+    "pos": "n.",
+    "meaning": "交易;優惠",
+    "examples": [
+      { "en": "That's a really good deal.", "zh": "那真是個好交易。" },
+      { "en": "We closed the deal today.", "zh": "我們今天談成了交易。" }
+    ],
+    "img": "two people shaking hands over contract",
+    "theme": "商業行銷",
+    "level": 1
+  },
+  {
+    "word": "advertise",
+    "kk": "[ˋædvɚˏtaɪz]",
+    "pos": "v.",
+    "meaning": "廣告宣傳",
+    "examples": [
+      { "en": "We advertise on social media.", "zh": "我們在社群媒體上打廣告。" },
+      { "en": "They advertise their sale everywhere.", "zh": "他們到處宣傳他們的特賣。" }
+    ],
+    "img": "billboard with product ad",
+    "theme": "商業行銷",
+    "level": 2
+  },
+  {
+    "word": "strategy",
+    "kk": "[ˋstrætədʒɪ]",
+    "pos": "n.",
+    "meaning": "策略",
+    "examples": [
+      { "en": "We need a better marketing strategy.", "zh": "我們需要更好的行銷策略。" },
+      { "en": "Their strategy really worked.", "zh": "他們的策略真的奏效了。" }
+    ],
+    "img": "chess pieces on board with plan",
+    "theme": "商業行銷",
+    "level": 2
+  },
+  {
+    "word": "revenue",
+    "kk": "[ˋrɛvəˏnju]",
+    "pos": "n.",
+    "meaning": "營收",
+    "examples": [
+      { "en": "Our revenue doubled this year.", "zh": "我們今年的營收翻倍了。" },
+      { "en": "Ad revenue keeps the site free.", "zh": "廣告營收讓網站免費。" }
+    ],
+    "img": "cash flowing into business ledger",
+    "theme": "商業行銷",
+    "level": 2
+  },
+  {
+    "word": "target",
+    "kk": "[ˋtɑrgɪt]",
+    "pos": "n.",
+    "meaning": "目標;對象",
+    "examples": [
+      { "en": "Young people are our main target.", "zh": "年輕人是我們的主要目標。" },
+      { "en": "We hit our sales target.", "zh": "我們達到了銷售目標。" }
+    ],
+    "img": "arrow hitting center of dartboard",
+    "theme": "商業行銷",
+    "level": 2
+  },
+  {
+    "word": "promote",
+    "kk": "[prəˋmot]",
+    "pos": "v.",
+    "meaning": "推廣;促銷",
+    "examples": [
+      { "en": "We promote the app with videos.", "zh": "我們用影片推廣這款應用。" },
+      { "en": "They promote their store online.", "zh": "他們在網路上推廣店面。" }
+    ],
+    "img": "megaphone announcing a product",
+    "theme": "商業行銷",
+    "level": 2
+  },
+  {
+    "word": "discount",
+    "kk": "[ˋdɪskaʊnt]",
+    "pos": "n.",
+    "meaning": "折扣",
+    "examples": [
+      { "en": "They offer a big discount today.", "zh": "他們今天提供大折扣。" },
+      { "en": "Can I get a discount?", "zh": "我可以打折嗎?" }
+    ],
+    "img": "percent-off sale sticker on tag",
+    "theme": "商業行銷",
+    "level": 2
+  },
+  {
+    "word": "invest",
+    "kk": "[ɪnˋvɛst]",
+    "pos": "v.",
+    "meaning": "投資",
+    "examples": [
+      { "en": "They invest in small startups.", "zh": "他們投資小型新創公司。" },
+      { "en": "We should invest in better tools.", "zh": "我們應該投資更好的工具。" }
+    ],
+    "img": "hand planting coin like a seed",
+    "theme": "商業行銷",
+    "level": 2
+  },
+  {
+    "word": "budget",
+    "kk": "[ˋbʌdʒɪt]",
+    "pos": "n.",
+    "meaning": "預算",
+    "examples": [
+      { "en": "Our ad budget is quite small.", "zh": "我們的廣告預算很小。" },
+      { "en": "Let's stay within budget.", "zh": "我們別超出預算。" }
+    ],
+    "img": "pie chart splitting money amounts",
+    "theme": "商業行銷",
+    "level": 2
+  },
+  {
+    "word": "launch",
+    "kk": "[lɔntʃ]",
+    "pos": "v.",
+    "meaning": "推出;上市",
+    "examples": [
+      { "en": "We launch the product next week.", "zh": "我們下週推出產品。" },
+      { "en": "The launch went really well.", "zh": "這次上市非常順利。" }
+    ],
+    "img": "rocket lifting off with product box",
+    "theme": "商業行銷",
+    "level": 2
+  },
+  {
+    "word": "supply",
+    "kk": "[səˋplaɪ]",
+    "pos": "n.",
+    "meaning": "供應;供給",
+    "examples": [
+      { "en": "The supply can't meet demand.", "zh": "供應趕不上需求。" },
+      { "en": "We ran low on supply.", "zh": "我們的供應快用完了。" }
+    ],
+    "img": "warehouse stacked with boxes",
+    "theme": "商業行銷",
+    "level": 2
+  },
+  {
+    "word": "demand",
+    "kk": "[dɪˋmænd]",
+    "pos": "n.",
+    "meaning": "需求",
+    "examples": [
+      { "en": "There's high demand for masks.", "zh": "口罩的需求很高。" },
+      { "en": "Demand dropped after summer.", "zh": "夏天過後需求下降了。" }
+    ],
+    "img": "crowd reaching for popular item",
+    "theme": "商業行銷",
+    "level": 2
+  },
+  {
+    "word": "campaign",
+    "kk": "[kæmˋpen]",
+    "pos": "n.",
+    "meaning": "行銷活動",
+    "examples": [
+      { "en": "Our ad campaign starts Monday.", "zh": "我們的廣告活動週一開始。" },
+      { "en": "The campaign brought many customers.", "zh": "這活動帶來許多顧客。" }
+    ],
+    "img": "coordinated posters and social banners",
+    "theme": "商業行銷",
+    "level": 2
+  },
+  {
+    "word": "profit margin",
+    "kk": "[ˋprɑfɪt ˋmɑrdʒɪn]",
+    "pos": "n.",
+    "meaning": "利潤率",
+    "examples": [
+      { "en": "The profit margin is very thin.", "zh": "利潤率非常薄。" },
+      { "en": "We raised our profit margin.", "zh": "我們提高了利潤率。" }
+    ],
+    "img": "narrow gap between cost and price bars",
+    "theme": "商業行銷",
+    "level": 3
+  },
+  {
+    "word": "competitor",
+    "kk": "[kəmˋpɛtətɚ]",
+    "pos": "n.",
+    "meaning": "競爭對手",
+    "examples": [
+      { "en": "Our competitor just cut prices.", "zh": "我們的競爭對手剛降價了。" },
+      { "en": "We watch our competitors closely.", "zh": "我們密切注意競爭對手。" }
+    ],
+    "img": "two runners racing side by side",
+    "theme": "商業行銷",
+    "level": 2
+  },
+  {
+    "word": "consumer",
+    "kk": "[kənˋsjumɚ]",
+    "pos": "n.",
+    "meaning": "消費者",
+    "examples": [
+      { "en": "Consumers love free shipping.", "zh": "消費者喜歡免運費。" },
+      { "en": "We ask consumers for feedback.", "zh": "我們向消費者徵求意見。" }
+    ],
+    "img": "person browsing shelves with cart",
+    "theme": "商業行銷",
+    "level": 2
+  },
+  {
+    "word": "wholesale",
+    "kk": "[ˋholˏsel]",
+    "pos": "adj.",
+    "meaning": "批發的",
+    "examples": [
+      { "en": "We buy at wholesale prices.", "zh": "我們用批發價進貨。" },
+      { "en": "They sell rice wholesale.", "zh": "他們批發賣米。" }
+    ],
+    "img": "pallets of bulk goods in warehouse",
+    "theme": "商業行銷",
+    "level": 3
+  },
+  {
+    "word": "retail",
+    "kk": "[ˋritel]",
+    "pos": "n.",
+    "meaning": "零售",
+    "examples": [
+      { "en": "She works in retail.", "zh": "她在零售業工作。" },
+      { "en": "Retail prices are much higher.", "zh": "零售價高出許多。" }
+    ],
+    "img": "small shop selling single items",
+    "theme": "商業行銷",
+    "level": 2
+  },
+  {
+    "word": "startup",
+    "kk": "[ˋstɑrtˏʌp]",
+    "pos": "n.",
+    "meaning": "新創公司",
+    "examples": [
+      { "en": "He joined a tech startup.", "zh": "他加入了一家科技新創公司。" },
+      { "en": "Their startup is growing fast.", "zh": "他們的新創公司成長很快。" }
+    ],
+    "img": "small team working in garage office",
+    "theme": "商業行銷",
+    "level": 2
+  },
+  {
+    "word": "entrepreneur",
+    "kk": "[ˏɑntrəprəˋnɝ]",
+    "pos": "n.",
+    "meaning": "創業家",
+    "examples": [
+      { "en": "She's a young entrepreneur.", "zh": "她是位年輕的創業家。" },
+      { "en": "Entrepreneurs take big risks.", "zh": "創業家承擔很大的風險。" }
+    ],
+    "img": "founder pitching idea on stage",
+    "theme": "商業行銷",
+    "level": 3
+  },
+  {
+    "word": "investor",
+    "kk": "[ɪnˋvɛstɚ]",
+    "pos": "n.",
+    "meaning": "投資人",
+    "examples": [
+      { "en": "The investor liked our plan.", "zh": "投資人喜歡我們的計畫。" },
+      { "en": "We're looking for investors.", "zh": "我們正在尋找投資人。" }
+    ],
+    "img": "person reviewing charts with money bag",
+    "theme": "商業行銷",
+    "level": 2
+  },
+  {
+    "word": "profitable",
+    "kk": "[ˋprɑfɪtəbl]",
+    "pos": "adj.",
+    "meaning": "有利可圖的",
+    "examples": [
+      { "en": "The store is finally profitable.", "zh": "這家店終於有賺頭了。" },
+      { "en": "It's a very profitable business.", "zh": "這是門很賺錢的生意。" }
+    ],
+    "img": "green upward graph with dollar signs",
+    "theme": "商業行銷",
+    "level": 3
+  },
+  {
+    "word": "loyalty",
+    "kk": "[ˋlɔɪəltɪ]",
+    "pos": "n.",
+    "meaning": "忠誠度",
+    "examples": [
+      { "en": "Brand loyalty keeps them coming back.", "zh": "品牌忠誠度讓他們一再回購。" },
+      { "en": "We reward customer loyalty.", "zh": "我們獎勵顧客忠誠度。" }
+    ],
+    "img": "loyalty card with stamps collected",
+    "theme": "商業行銷",
+    "level": 3
+  },
+  {
+    "word": "niche",
+    "kk": "[nɪtʃ]",
+    "pos": "n.",
+    "meaning": "利基市場",
+    "examples": [
+      { "en": "We found a great niche.", "zh": "我們找到了很好的利基市場。" },
+      { "en": "That's a small but rich niche.", "zh": "那是個小而肥的利基市場。" }
+    ],
+    "img": "single product in specialized corner shop",
+    "theme": "商業行銷",
+    "level": 3
+  },
+  {
+    "word": "outsource",
+    "kk": "[ˋaʊtˏsors]",
+    "pos": "v.",
+    "meaning": "外包",
+    "examples": [
+      { "en": "We outsource our shipping.", "zh": "我們把物流外包出去。" },
+      { "en": "They outsource design work abroad.", "zh": "他們把設計工作外包到國外。" }
+    ],
+    "img": "tasks passed to external team",
+    "theme": "商業行銷",
+    "level": 3
+  },
+  {
+    "word": "stakeholder",
+    "kk": "[ˋstekˏholdɚ]",
+    "pos": "n.",
+    "meaning": "利害關係人",
+    "examples": [
+      { "en": "We update stakeholders every month.", "zh": "我們每月向利害關係人報告。" },
+      { "en": "Every stakeholder wants profit.", "zh": "每個利害關係人都想要利潤。" }
+    ],
+    "img": "circle of people around a business chart",
+    "theme": "商業行銷",
+    "level": 3
+  },
+  {
+    "word": "turnover",
+    "kk": "[ˋtɝnˏovɚ]",
+    "pos": "n.",
+    "meaning": "營業額;周轉",
+    "examples": [
+      { "en": "The shop's turnover is rising.", "zh": "這家店的營業額在上升。" },
+      { "en": "High turnover means busy sales.", "zh": "高周轉代表銷售熱絡。" }
+    ],
+    "img": "money cycling through a spinning arrow",
+    "theme": "商業行銷",
+    "level": 3
+  },
+  {
+    "word": "franchise",
+    "kk": "[ˋfræntʃaɪz]",
+    "pos": "n.",
+    "meaning": "加盟;連鎖經營權",
+    "examples": [
+      { "en": "He bought a coffee franchise.", "zh": "他買了一家咖啡加盟店。" },
+      { "en": "The franchise has 500 stores.", "zh": "這個連鎖品牌有五百家店。" }
+    ],
+    "img": "identical branded stores in a row",
+    "theme": "商業行銷",
+    "level": 3
+  },
+  {
+    "word": "endorse",
+    "kk": "[ɪnˋdɔrs]",
+    "pos": "v.",
+    "meaning": "代言;背書",
+    "examples": [
+      { "en": "A star endorses our shoes.", "zh": "一位明星為我們的鞋子代言。" },
+      { "en": "She won't endorse just any brand.", "zh": "她不會隨便為品牌代言。" }
+    ],
+    "img": "celebrity holding product for photo",
+    "theme": "商業行銷",
+    "level": 3
+  },
+  {
+    "word": "forecast",
+    "kk": "[ˋforˏkæst]",
+    "pos": "n.",
+    "meaning": "預測",
+    "examples": [
+      { "en": "The sales forecast looks good.", "zh": "銷售預測看起來不錯。" },
+      { "en": "We update the forecast weekly.", "zh": "我們每週更新預測。" }
+    ],
+    "img": "line graph projecting future trend",
+    "theme": "商業行銷",
+    "level": 3
+  },
+  {
+    "word": "merger",
+    "kk": "[ˋmɝdʒɚ]",
+    "pos": "n.",
+    "meaning": "合併",
+    "examples": [
+      { "en": "The two firms announced a merger.", "zh": "兩家公司宣布合併。" },
+      { "en": "The merger created a giant company.", "zh": "這次合併造就了一家巨型公司。" }
+    ],
+    "img": "two company logos joining into one",
+    "theme": "商業行銷",
+    "level": 3
+  },
+  {
+    "word": "quota",
+    "kk": "[ˋkwotə]",
+    "pos": "n.",
+    "meaning": "配額;定額",
+    "examples": [
+      { "en": "She hit her sales quota early.", "zh": "她提早達成銷售定額。" },
+      { "en": "The team missed its quota.", "zh": "團隊沒達到配額。" }
+    ],
+    "img": "progress bar filling toward a goal line",
+    "theme": "商業行銷",
+    "level": 3
+  },
+  {
+    "word": "vendor",
+    "kk": "[ˋvɛndɚ]",
+    "pos": "n.",
+    "meaning": "供應商;攤販",
+    "examples": [
+      { "en": "We changed to a cheaper vendor.", "zh": "我們換了更便宜的供應商。" },
+      { "en": "The vendor delivers every Friday.", "zh": "供應商每週五送貨。" }
+    ],
+    "img": "supplier handing over goods box",
+    "theme": "商業行銷",
+    "level": 3
+  },
+  {
+    "word": "inventory",
+    "kk": "[ˋɪnvənˏtorɪ]",
+    "pos": "n.",
+    "meaning": "庫存",
+    "examples": [
+      { "en": "We check inventory every month.", "zh": "我們每月盤點庫存。" },
+      { "en": "Our inventory is almost empty.", "zh": "我們的庫存快空了。" }
+    ],
+    "img": "shelves with stock count clipboard",
+    "theme": "商業行銷",
+    "level": 3
+  },
+  {
+    "word": "profit and loss",
+    "kk": "[ˋprɑfɪt ænd lɔs]",
+    "pos": "n.",
+    "meaning": "損益",
+    "examples": [
+      { "en": "Check the profit and loss report.", "zh": "看看損益報表。" },
+      { "en": "Our profit and loss balanced out.", "zh": "我們的損益打平了。" }
+    ],
+    "img": "balance scale weighing gains and losses",
+    "theme": "商業行銷",
+    "level": 3
+  },
+  {
+    "word": "scalable",
+    "kk": "[ˋskeləbl]",
+    "pos": "adj.",
+    "meaning": "可擴展的",
+    "examples": [
+      { "en": "Our model is very scalable.", "zh": "我們的模式很好擴展。" },
+      { "en": "Is this business scalable?", "zh": "這門生意能擴大規模嗎?" }
+    ],
+    "img": "small building growing into skyscraper",
+    "theme": "商業行銷",
+    "level": 3
+  },
+  {
+    "word": "commission",
+    "kk": "[kəˋmɪʃən]",
+    "pos": "n.",
+    "meaning": "佣金",
+    "examples": [
+      { "en": "He earns a commission on each sale.", "zh": "他每賣一筆就抽佣金。" },
+      { "en": "The commission rate is ten percent.", "zh": "佣金比例是百分之十。" }
+    ],
+    "img": "salesperson receiving bonus cash",
+    "theme": "商業行銷",
+    "level": 3
+  },
+  {
+    "word": "profit-driven",
+    "kk": "[ˋprɑfɪt ˋdrɪvən]",
+    "pos": "adj.",
+    "meaning": "以利潤為導向的",
+    "examples": [
+      { "en": "It's a profit-driven company.", "zh": "這是家以利潤為導向的公司。" },
+      { "en": "Their decisions are profit-driven.", "zh": "他們的決策都以利潤為導向。" }
+    ],
+    "img": "gears turning powered by dollar sign",
+    "theme": "商業行銷",
+    "level": 3
+  },
+  {
+    "word": "positioning",
+    "kk": "[pəˋzɪʃənɪŋ]",
+    "pos": "n.",
+    "meaning": "市場定位",
+    "examples": [
+      { "en": "Our brand positioning is premium.", "zh": "我們的品牌定位是高端。" },
+      { "en": "Good positioning wins customers.", "zh": "好的定位能贏得顧客。" }
+    ],
+    "img": "product placed on a market map grid",
+    "theme": "商業行銷",
+    "level": 3
+  },
+  {
+    "word": "cash flow",
+    "kk": "[kæʃ flo]",
+    "pos": "n.",
+    "meaning": "現金流",
+    "examples": [
+      { "en": "Cash flow keeps the business alive.", "zh": "現金流讓生意能撐下去。" },
+      { "en": "We have a cash flow problem.", "zh": "我們有現金流的問題。" }
+    ],
+    "img": "money streaming in and out of pipe",
+    "theme": "商業行銷",
+    "level": 3
+  },
+  {
+    "word": "conversion",
+    "kk": "[kənˋvɝʒən]",
+    "pos": "n.",
+    "meaning": "轉換率(訪客變顧客)",
+    "examples": [
+      { "en": "Our conversion rate went up.", "zh": "我們的轉換率提高了。" },
+      { "en": "The ad boosted conversions.", "zh": "這廣告提升了轉換數。" }
+    ],
+    "img": "visitor icon turning into buyer icon",
+    "theme": "商業行銷",
+    "level": 3
+  }
+]

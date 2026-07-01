@@ -1,0 +1,639 @@
+[
+  {
+    "word": "movie",
+    "kk": "[ˈmuvɪ]",
+    "pos": "n.",
+    "meaning": "電影",
+    "examples": [
+      { "en": "Let's watch a movie tonight.", "zh": "我們今晚看部電影吧。" },
+      { "en": "That movie made me cry.", "zh": "那部電影讓我哭了。" }
+    ],
+    "img": "movie theater screen with popcorn",
+    "theme": "影視音樂",
+    "level": 1
+  },
+  {
+    "word": "music",
+    "kk": "[ˈmjuzɪk]",
+    "pos": "n.",
+    "meaning": "音樂",
+    "examples": [
+      { "en": "I love listening to music.", "zh": "我喜歡聽音樂。" },
+      { "en": "She plays music every day.", "zh": "她每天都彈奏音樂。" }
+    ],
+    "img": "colorful musical notes and headphones",
+    "theme": "影視音樂",
+    "level": 1
+  },
+  {
+    "word": "song",
+    "kk": "[sɔŋ]",
+    "pos": "n.",
+    "meaning": "歌曲",
+    "examples": [
+      { "en": "This song is really catchy.", "zh": "這首歌很洗腦。" },
+      { "en": "Can you sing my favorite song?", "zh": "你可以唱我最愛的歌嗎?" }
+    ],
+    "img": "sheet music with singing bird",
+    "theme": "影視音樂",
+    "level": 1
+  },
+  {
+    "word": "singer",
+    "kk": "[ˈsɪŋɚ]",
+    "pos": "n.",
+    "meaning": "歌手",
+    "examples": [
+      { "en": "She is my favorite singer.", "zh": "她是我最愛的歌手。" },
+      { "en": "The singer has an amazing voice.", "zh": "那位歌手嗓音很棒。" }
+    ],
+    "img": "singer holding microphone on stage",
+    "theme": "影視音樂",
+    "level": 1
+  },
+  {
+    "word": "band",
+    "kk": "[bænd]",
+    "pos": "n.",
+    "meaning": "樂團",
+    "examples": [
+      { "en": "My brother is in a rock band.", "zh": "我哥在一個搖滾樂團裡。" },
+      { "en": "The band played all night.", "zh": "那個樂團演奏了一整晚。" }
+    ],
+    "img": "rock band playing on stage",
+    "theme": "影視音樂",
+    "level": 1
+  },
+  {
+    "word": "actor",
+    "kk": "[ˈæktɚ]",
+    "pos": "n.",
+    "meaning": "演員(男)",
+    "examples": [
+      { "en": "He is a famous actor.", "zh": "他是位知名演員。" },
+      { "en": "The actor won an award.", "zh": "那位演員得了獎。" }
+    ],
+    "img": "actor on film set with clapperboard",
+    "theme": "影視音樂",
+    "level": 1
+  },
+  {
+    "word": "actress",
+    "kk": "[ˈæktrɪs]",
+    "pos": "n.",
+    "meaning": "女演員",
+    "examples": [
+      { "en": "The actress looks stunning tonight.", "zh": "那位女演員今晚美極了。" },
+      { "en": "She wants to be an actress.", "zh": "她想成為女演員。" }
+    ],
+    "img": "actress in elegant dress on red carpet",
+    "theme": "影視音樂",
+    "level": 1
+  },
+  {
+    "word": "ticket",
+    "kk": "[ˈtɪkɪt]",
+    "pos": "n.",
+    "meaning": "票",
+    "examples": [
+      { "en": "I bought two movie tickets.", "zh": "我買了兩張電影票。" },
+      { "en": "The concert tickets sold out fast.", "zh": "演唱會門票很快就賣光了。" }
+    ],
+    "img": "concert ticket stub with barcode",
+    "theme": "影視音樂",
+    "level": 1
+  },
+  {
+    "word": "guitar",
+    "kk": "[ɡɪˈtɑr]",
+    "pos": "n.",
+    "meaning": "吉他",
+    "examples": [
+      { "en": "He plays the guitar so well.", "zh": "他吉他彈得很好。" },
+      { "en": "I want to learn guitar.", "zh": "我想學吉他。" }
+    ],
+    "img": "acoustic guitar leaning on wall",
+    "theme": "影視音樂",
+    "level": 1
+  },
+  {
+    "word": "piano",
+    "kk": "[pɪˈæno]",
+    "pos": "n.",
+    "meaning": "鋼琴",
+    "examples": [
+      { "en": "She practices piano every morning.", "zh": "她每天早上練鋼琴。" },
+      { "en": "The piano sounds beautiful.", "zh": "這台鋼琴聲音很美。" }
+    ],
+    "img": "grand piano with keys close up",
+    "theme": "影視音樂",
+    "level": 1
+  },
+  {
+    "word": "drum",
+    "kk": "[drʌm]",
+    "pos": "n.",
+    "meaning": "鼓",
+    "examples": [
+      { "en": "He hits the drum loudly.", "zh": "他大聲地敲鼓。" },
+      { "en": "I play drums in a band.", "zh": "我在樂團裡打鼓。" }
+    ],
+    "img": "drum set with sticks",
+    "theme": "影視音樂",
+    "level": 1
+  },
+  {
+    "word": "dance",
+    "kk": "[dæns]",
+    "pos": "v./n.",
+    "meaning": "跳舞;舞蹈",
+    "examples": [
+      { "en": "Let's dance to this song!", "zh": "跟著這首歌跳舞吧!" },
+      { "en": "Her dance was amazing.", "zh": "她的舞蹈太棒了。" }
+    ],
+    "img": "dancers moving on stage with lights",
+    "theme": "影視音樂",
+    "level": 1
+  },
+  {
+    "word": "stage",
+    "kk": "[stedʒ]",
+    "pos": "n.",
+    "meaning": "舞台",
+    "examples": [
+      { "en": "The singer walked onto the stage.", "zh": "歌手走上了舞台。" },
+      { "en": "The stage lights are so bright.", "zh": "舞台燈光好亮。" }
+    ],
+    "img": "empty concert stage with spotlights",
+    "theme": "影視音樂",
+    "level": 1
+  },
+  {
+    "word": "fan",
+    "kk": "[fæn]",
+    "pos": "n.",
+    "meaning": "粉絲",
+    "examples": [
+      { "en": "I'm a big fan of that band.", "zh": "我是那個樂團的鐵粉。" },
+      { "en": "Fans lined up for hours.", "zh": "粉絲們排隊排了好幾個小時。" }
+    ],
+    "img": "excited fans holding signs at concert",
+    "theme": "影視音樂",
+    "level": 1
+  },
+  {
+    "word": "concert",
+    "kk": "[ˈkɑnsɚt]",
+    "pos": "n.",
+    "meaning": "演唱會;音樂會",
+    "examples": [
+      { "en": "We're going to a concert tonight.", "zh": "我們今晚要去看演唱會。" },
+      { "en": "The concert was unforgettable.", "zh": "那場演唱會令人難忘。" }
+    ],
+    "img": "crowd cheering at live concert",
+    "theme": "影視音樂",
+    "level": 2
+  },
+  {
+    "word": "album",
+    "kk": "[ˈælbəm]",
+    "pos": "n.",
+    "meaning": "專輯",
+    "examples": [
+      { "en": "Her new album is out now.", "zh": "她的新專輯現在發行了。" },
+      { "en": "I listened to the whole album.", "zh": "我把整張專輯聽完了。" }
+    ],
+    "img": "vinyl record album cover",
+    "theme": "影視音樂",
+    "level": 2
+  },
+  {
+    "word": "channel",
+    "kk": "[ˈtʃænl]",
+    "pos": "n.",
+    "meaning": "頻道",
+    "examples": [
+      { "en": "Switch to the sports channel.", "zh": "轉到運動頻道。" },
+      { "en": "He runs a YouTube channel.", "zh": "他經營一個 YouTube 頻道。" }
+    ],
+    "img": "tv remote pointing at screen channels",
+    "theme": "影視音樂",
+    "level": 2
+  },
+  {
+    "word": "series",
+    "kk": "[ˈsɪriz]",
+    "pos": "n.",
+    "meaning": "影集;系列",
+    "examples": [
+      { "en": "I finished the whole series.", "zh": "我把整部影集看完了。" },
+      { "en": "This series has five seasons.", "zh": "這部影集有五季。" }
+    ],
+    "img": "streaming series thumbnails on tv",
+    "theme": "影視音樂",
+    "level": 2
+  },
+  {
+    "word": "episode",
+    "kk": "[ˈɛpəˌsod]",
+    "pos": "n.",
+    "meaning": "集(單集)",
+    "examples": [
+      { "en": "The last episode was shocking.", "zh": "最後一集太震撼了。" },
+      { "en": "Let's watch one more episode.", "zh": "再看一集吧。" }
+    ],
+    "img": "episode list on streaming app",
+    "theme": "影視音樂",
+    "level": 2
+  },
+  {
+    "word": "season",
+    "kk": "[ˈsizn]",
+    "pos": "n.",
+    "meaning": "季(影集)",
+    "examples": [
+      { "en": "Season two is even better.", "zh": "第二季更好看。" },
+      { "en": "I can't wait for the new season.", "zh": "我等不及新的一季了。" }
+    ],
+    "img": "tv show season poster",
+    "theme": "影視音樂",
+    "level": 2
+  },
+  {
+    "word": "streaming",
+    "kk": "[ˈstrimɪŋ]",
+    "pos": "n.",
+    "meaning": "串流",
+    "examples": [
+      { "en": "Streaming has changed how we watch shows.", "zh": "串流改變了我們看影集的方式。" },
+      { "en": "I pay for two streaming services.", "zh": "我付費使用兩個串流服務。" }
+    ],
+    "img": "streaming app icons on smart tv",
+    "theme": "影視音樂",
+    "level": 2
+  },
+  {
+    "word": "audience",
+    "kk": "[ˈɔdɪəns]",
+    "pos": "n.",
+    "meaning": "觀眾",
+    "examples": [
+      { "en": "The audience clapped loudly.", "zh": "觀眾大聲鼓掌。" },
+      { "en": "A huge audience showed up.", "zh": "來了一大群觀眾。" }
+    ],
+    "img": "audience seated in dark theater",
+    "theme": "影視音樂",
+    "level": 2
+  },
+  {
+    "word": "comedy",
+    "kk": "[ˈkɑmədɪ]",
+    "pos": "n.",
+    "meaning": "喜劇",
+    "examples": [
+      { "en": "I prefer comedy over horror.", "zh": "比起恐怖片我更愛喜劇。" },
+      { "en": "This comedy is hilarious.", "zh": "這部喜劇超好笑。" }
+    ],
+    "img": "laughing comedy theater masks",
+    "theme": "影視音樂",
+    "level": 2
+  },
+  {
+    "word": "horror",
+    "kk": "[ˈhɔrɚ]",
+    "pos": "n.",
+    "meaning": "恐怖片",
+    "examples": [
+      { "en": "I can't sleep after horror movies.", "zh": "看完恐怖片我睡不著。" },
+      { "en": "She loves horror films.", "zh": "她很愛恐怖片。" }
+    ],
+    "img": "spooky horror movie haunted house",
+    "theme": "影視音樂",
+    "level": 2
+  },
+  {
+    "word": "drama",
+    "kk": "[ˈdrɑmə]",
+    "pos": "n.",
+    "meaning": "戲劇;劇情片",
+    "examples": [
+      { "en": "This drama has a sad ending.", "zh": "這部劇情片結局很悲傷。" },
+      { "en": "Korean dramas are popular here.", "zh": "韓劇在這裡很受歡迎。" }
+    ],
+    "img": "dramatic movie scene emotional actors",
+    "theme": "影視音樂",
+    "level": 2
+  },
+  {
+    "word": "trailer",
+    "kk": "[ˈtrelɚ]",
+    "pos": "n.",
+    "meaning": "預告片",
+    "examples": [
+      { "en": "The trailer looks exciting.", "zh": "這預告片看起來很刺激。" },
+      { "en": "Have you seen the new trailer?", "zh": "你看過新的預告片了嗎?" }
+    ],
+    "img": "movie trailer play button on screen",
+    "theme": "影視音樂",
+    "level": 2
+  },
+  {
+    "word": "director",
+    "kk": "[dəˈrɛktɚ]",
+    "pos": "n.",
+    "meaning": "導演",
+    "examples": [
+      { "en": "The director is very talented.", "zh": "這位導演很有才華。" },
+      { "en": "Who directed this film?", "zh": "這部片是誰導的?" }
+    ],
+    "img": "film director in chair with megaphone",
+    "theme": "影視音樂",
+    "level": 2
+  },
+  {
+    "word": "lyrics",
+    "kk": "[ˈlɪrɪks]",
+    "pos": "n.",
+    "meaning": "歌詞",
+    "examples": [
+      { "en": "I don't know the lyrics.", "zh": "我不會這首歌的歌詞。" },
+      { "en": "The lyrics are so meaningful.", "zh": "這歌詞很有意義。" }
+    ],
+    "img": "song lyrics written on paper",
+    "theme": "影視音樂",
+    "level": 2
+  },
+  {
+    "word": "melody",
+    "kk": "[ˈmɛlədɪ]",
+    "pos": "n.",
+    "meaning": "旋律",
+    "examples": [
+      { "en": "The melody stayed in my head.", "zh": "那旋律一直在我腦中。" },
+      { "en": "It has a gentle melody.", "zh": "它有段輕柔的旋律。" }
+    ],
+    "img": "flowing musical melody line notes",
+    "theme": "影視音樂",
+    "level": 2
+  },
+  {
+    "word": "rhythm",
+    "kk": "[ˈrɪðəm]",
+    "pos": "n.",
+    "meaning": "節奏",
+    "examples": [
+      { "en": "I love the rhythm of this song.", "zh": "我喜歡這首歌的節奏。" },
+      { "en": "Clap along to the rhythm.", "zh": "跟著節奏拍手。" }
+    ],
+    "img": "drummer keeping the rhythm beat",
+    "theme": "影視音樂",
+    "level": 2
+  },
+  {
+    "word": "violin",
+    "kk": "[ˌvaɪəˈlɪn]",
+    "pos": "n.",
+    "meaning": "小提琴",
+    "examples": [
+      { "en": "She plays the violin beautifully.", "zh": "她小提琴拉得很美。" },
+      { "en": "The violin solo was moving.", "zh": "那段小提琴獨奏很動人。" }
+    ],
+    "img": "violin with bow on music stand",
+    "theme": "影視音樂",
+    "level": 2
+  },
+  {
+    "word": "microphone",
+    "kk": "[ˈmaɪkrəˌfon]",
+    "pos": "n.",
+    "meaning": "麥克風",
+    "examples": [
+      { "en": "Speak into the microphone, please.", "zh": "請對著麥克風說話。" },
+      { "en": "He grabbed the microphone and sang.", "zh": "他抓起麥克風就唱了起來。" }
+    ],
+    "img": "silver microphone on stand with stage light",
+    "theme": "影視音樂",
+    "level": 2
+  },
+  {
+    "word": "playlist",
+    "kk": "[ˈpleˌlɪst]",
+    "pos": "n.",
+    "meaning": "播放清單",
+    "examples": [
+      { "en": "I made a workout playlist.", "zh": "我做了一個健身播放清單。" },
+      { "en": "Add this song to my playlist.", "zh": "把這首歌加進我的播放清單。" }
+    ],
+    "img": "music playlist screen with song list",
+    "theme": "影視音樂",
+    "level": 2
+  },
+  {
+    "word": "subtitle",
+    "kk": "[ˈsʌbˌtaɪtl]",
+    "pos": "n.",
+    "meaning": "字幕",
+    "examples": [
+      { "en": "Turn on the subtitles, please.", "zh": "請打開字幕。" },
+      { "en": "I watch films with English subtitles.", "zh": "我看電影都開英文字幕。" }
+    ],
+    "img": "movie screen with subtitle text at bottom",
+    "theme": "影視音樂",
+    "level": 2
+  },
+  {
+    "word": "release",
+    "kk": "[rɪˈlis]",
+    "pos": "v./n.",
+    "meaning": "發行;上映",
+    "examples": [
+      { "en": "The movie releases next Friday.", "zh": "這部電影下週五上映。" },
+      { "en": "They released a new single.", "zh": "他們發行了一首新單曲。" }
+    ],
+    "img": "new release movie poster spotlight",
+    "theme": "影視音樂",
+    "level": 2
+  },
+  {
+    "word": "performance",
+    "kk": "[pɚˈfɔrməns]",
+    "pos": "n.",
+    "meaning": "表演",
+    "examples": [
+      { "en": "Her performance was breathtaking.", "zh": "她的表演令人屏息。" },
+      { "en": "The live performance sold out.", "zh": "現場表演門票售罄。" }
+    ],
+    "img": "live stage performance with spotlight",
+    "theme": "影視音樂",
+    "level": 2
+  },
+  {
+    "word": "genre",
+    "kk": "[ˈʒɑnrə]",
+    "pos": "n.",
+    "meaning": "類型(影音)",
+    "examples": [
+      { "en": "What's your favorite music genre?", "zh": "你最愛的音樂類型是什麼?" },
+      { "en": "Sci-fi is my favorite film genre.", "zh": "科幻是我最愛的電影類型。" }
+    ],
+    "img": "shelves labeled by film genre",
+    "theme": "影視音樂",
+    "level": 3
+  },
+  {
+    "word": "documentary",
+    "kk": "[ˌdɑkjəˈmɛntərɪ]",
+    "pos": "n.",
+    "meaning": "紀錄片",
+    "examples": [
+      { "en": "This documentary is eye-opening.", "zh": "這部紀錄片讓人大開眼界。" },
+      { "en": "I watched a documentary about oceans.", "zh": "我看了一部關於海洋的紀錄片。" }
+    ],
+    "img": "nature documentary camera filming wildlife",
+    "theme": "影視音樂",
+    "level": 3
+  },
+  {
+    "word": "soundtrack",
+    "kk": "[ˈsaʊndˌtræk]",
+    "pos": "n.",
+    "meaning": "電影配樂",
+    "examples": [
+      { "en": "The soundtrack made the film better.", "zh": "配樂讓這部片更好看。" },
+      { "en": "I bought the movie soundtrack.", "zh": "我買了這部電影的配樂。" }
+    ],
+    "img": "film soundtrack vinyl with orchestra",
+    "theme": "影視音樂",
+    "level": 3
+  },
+  {
+    "word": "premiere",
+    "kk": "[prɪˈmɪr]",
+    "pos": "n.",
+    "meaning": "首映",
+    "examples": [
+      { "en": "The premiere is next month.", "zh": "首映在下個月。" },
+      { "en": "Stars attended the movie premiere.", "zh": "明星們出席了電影首映。" }
+    ],
+    "img": "red carpet movie premiere with cameras",
+    "theme": "影視音樂",
+    "level": 3
+  },
+  {
+    "word": "sequel",
+    "kk": "[ˈsikwəl]",
+    "pos": "n.",
+    "meaning": "續集",
+    "examples": [
+      { "en": "The sequel is even better.", "zh": "續集更精彩。" },
+      { "en": "They announced a sequel.", "zh": "他們宣布要拍續集。" }
+    ],
+    "img": "movie sequel poster with part two",
+    "theme": "影視音樂",
+    "level": 3
+  },
+  {
+    "word": "subscription",
+    "kk": "[səbˈskrɪpʃən]",
+    "pos": "n.",
+    "meaning": "訂閱",
+    "examples": [
+      { "en": "I canceled my streaming subscription.", "zh": "我取消了串流訂閱。" },
+      { "en": "The subscription costs ten dollars a month.", "zh": "訂閱每月十美元。" }
+    ],
+    "img": "subscription plan screen with price",
+    "theme": "影視音樂",
+    "level": 3
+  },
+  {
+    "word": "orchestra",
+    "kk": "[ˈɔrkɪstrə]",
+    "pos": "n.",
+    "meaning": "管弦樂團",
+    "examples": [
+      { "en": "The orchestra played beautifully.", "zh": "管弦樂團演奏得很美。" },
+      { "en": "She joined the school orchestra.", "zh": "她加入了學校的管弦樂團。" }
+    ],
+    "img": "full symphony orchestra on stage",
+    "theme": "影視音樂",
+    "level": 3
+  },
+  {
+    "word": "cast",
+    "kk": "[kæst]",
+    "pos": "n.",
+    "meaning": "演員陣容",
+    "examples": [
+      { "en": "The cast is full of stars.", "zh": "這部片的演員陣容全是明星。" },
+      { "en": "The whole cast joined the interview.", "zh": "全體演員都參加了訪問。" }
+    ],
+    "img": "movie cast group photo on set",
+    "theme": "影視音樂",
+    "level": 3
+  },
+  {
+    "word": "protagonist",
+    "kk": "[proˈtæɡənɪst]",
+    "pos": "n.",
+    "meaning": "主角",
+    "examples": [
+      { "en": "The protagonist saves the city.", "zh": "主角拯救了這座城市。" },
+      { "en": "I really relate to the protagonist.", "zh": "我很能認同這個主角。" }
+    ],
+    "img": "hero protagonist standing in spotlight",
+    "theme": "影視音樂",
+    "level": 3
+  },
+  {
+    "word": "blockbuster",
+    "kk": "[ˈblɑkˌbʌstɚ]",
+    "pos": "n.",
+    "meaning": "賣座大片",
+    "examples": [
+      { "en": "This summer blockbuster is a hit.", "zh": "這部暑期大片很轟動。" },
+      { "en": "The film became a blockbuster.", "zh": "這部電影成了賣座大片。" }
+    ],
+    "img": "blockbuster movie poster with explosions",
+    "theme": "影視音樂",
+    "level": 3
+  },
+  {
+    "word": "melancholy",
+    "kk": "[ˈmɛlənˌkɑlɪ]",
+    "pos": "adj./n.",
+    "meaning": "憂鬱的(氛圍)",
+    "examples": [
+      { "en": "The song has a melancholy tone.", "zh": "這首歌帶著憂鬱的調子。" },
+      { "en": "A melancholy scene ends the film.", "zh": "一個憂鬱的場景結束了這部片。" }
+    ],
+    "img": "rainy window melancholy mood music",
+    "theme": "影視音樂",
+    "level": 3
+  },
+  {
+    "word": "improvise",
+    "kk": "[ˈɪmprəˌvaɪz]",
+    "pos": "v.",
+    "meaning": "即興演出",
+    "examples": [
+      { "en": "The jazz band loves to improvise.", "zh": "這爵士樂團很愛即興演出。" },
+      { "en": "He improvised a solo on stage.", "zh": "他在台上即興來了段獨奏。" }
+    ],
+    "img": "jazz musician improvising saxophone solo",
+    "theme": "影視音樂",
+    "level": 3
+  },
+  {
+    "word": "encore",
+    "kk": "[ˈɑŋkɔr]",
+    "pos": "n.",
+    "meaning": "安可(加演)",
+    "examples": [
+      { "en": "The crowd shouted for an encore.", "zh": "群眾高喊著要安可。" },
+      { "en": "They played two encore songs.", "zh": "他們加演了兩首安可曲。" }
+    ],
+    "img": "band returning for encore under lights",
+    "theme": "影視音樂",
+    "level": 3
+  }
+]
