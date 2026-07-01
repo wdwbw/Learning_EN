@@ -1,0 +1,639 @@
+[
+  {
+    "word": "sunny",
+    "kk": "[ˋsʌnɪ]",
+    "pos": "adj.",
+    "meaning": "晴朗的",
+    "examples": [
+      { "en": "It's so sunny today, let's go to the beach.", "zh": "今天天氣很晴朗,我們去海邊吧。" },
+      { "en": "I love sunny mornings with a cup of coffee.", "zh": "我喜歡有一杯咖啡的晴朗早晨。" }
+    ],
+    "img": "bright sun clear sky",
+    "theme": "天氣季節",
+    "level": 1
+  },
+  {
+    "word": "rainy",
+    "kk": "[ˋrenɪ]",
+    "pos": "adj.",
+    "meaning": "下雨的",
+    "examples": [
+      { "en": "It's a rainy day, don't forget your umbrella.", "zh": "今天是下雨天,別忘了帶傘。" },
+      { "en": "I stayed home all day because it was rainy.", "zh": "因為在下雨,我整天待在家。" }
+    ],
+    "img": "rain falling window",
+    "theme": "天氣季節",
+    "level": 1
+  },
+  {
+    "word": "cloudy",
+    "kk": "[ˋklaʊdɪ]",
+    "pos": "adj.",
+    "meaning": "多雲的;陰天的",
+    "examples": [
+      { "en": "The sky is cloudy, it might rain later.", "zh": "天空多雲,待會可能會下雨。" },
+      { "en": "It was too cloudy to see the stars.", "zh": "雲太多了,看不到星星。" }
+    ],
+    "img": "gray clouds sky",
+    "theme": "天氣季節",
+    "level": 1
+  },
+  {
+    "word": "windy",
+    "kk": "[ˋwɪndɪ]",
+    "pos": "adj.",
+    "meaning": "有風的;多風的",
+    "examples": [
+      { "en": "It's really windy, hold onto your hat.", "zh": "風真的很大,抓好你的帽子。" },
+      { "en": "The windy weather knocked down some trees.", "zh": "強風天氣吹倒了一些樹。" }
+    ],
+    "img": "wind blowing trees",
+    "theme": "天氣季節",
+    "level": 1
+  },
+  {
+    "word": "hot",
+    "kk": "[hɑt]",
+    "pos": "adj.",
+    "meaning": "炎熱的",
+    "examples": [
+      { "en": "It's so hot today, I need some ice water.", "zh": "今天好熱,我需要一些冰水。" },
+      { "en": "Summer in Taiwan can be really hot.", "zh": "台灣的夏天可能會非常熱。" }
+    ],
+    "img": "hot summer sun thermometer",
+    "theme": "天氣季節",
+    "level": 1
+  },
+  {
+    "word": "cold",
+    "kk": "[kold]",
+    "pos": "adj.",
+    "meaning": "寒冷的",
+    "examples": [
+      { "en": "It's cold outside, wear a jacket.", "zh": "外面很冷,穿件外套。" },
+      { "en": "My hands are cold in the winter.", "zh": "冬天我的手很冷。" }
+    ],
+    "img": "cold winter snow scarf",
+    "theme": "天氣季節",
+    "level": 1
+  },
+  {
+    "word": "warm",
+    "kk": "[wɔrm]",
+    "pos": "adj.",
+    "meaning": "溫暖的",
+    "examples": [
+      { "en": "It's warm and sunny, a perfect day for a walk.", "zh": "天氣溫暖又晴朗,是散步的好日子。" },
+      { "en": "I feel warm sitting by the window.", "zh": "坐在窗邊我覺得很溫暖。" }
+    ],
+    "img": "warm sunlight cozy",
+    "theme": "天氣季節",
+    "level": 1
+  },
+  {
+    "word": "cool",
+    "kk": "[kul]",
+    "pos": "adj.",
+    "meaning": "涼爽的",
+    "examples": [
+      { "en": "The weather is cool this morning.", "zh": "今天早上天氣很涼爽。" },
+      { "en": "It's nice and cool after the rain.", "zh": "雨後天氣涼爽宜人。" }
+    ],
+    "img": "cool breeze autumn",
+    "theme": "天氣季節",
+    "level": 1
+  },
+  {
+    "word": "rain",
+    "kk": "[ren]",
+    "pos": "n.",
+    "meaning": "雨;下雨",
+    "examples": [
+      { "en": "The rain is getting heavier.", "zh": "雨越下越大。" },
+      { "en": "We ran inside to get out of the rain.", "zh": "我們跑進屋裡躲雨。" }
+    ],
+    "img": "raindrops falling",
+    "theme": "天氣季節",
+    "level": 1
+  },
+  {
+    "word": "snow",
+    "kk": "[sno]",
+    "pos": "n.",
+    "meaning": "雪;下雪",
+    "examples": [
+      { "en": "The kids are playing in the snow.", "zh": "孩子們在雪中玩耍。" },
+      { "en": "There's a lot of snow on the mountain.", "zh": "山上有很多雪。" }
+    ],
+    "img": "white snow falling",
+    "theme": "天氣季節",
+    "level": 1
+  },
+  {
+    "word": "wind",
+    "kk": "[wɪnd]",
+    "pos": "n.",
+    "meaning": "風",
+    "examples": [
+      { "en": "The wind blew my papers away.", "zh": "風把我的紙吹走了。" },
+      { "en": "A cold wind is blowing from the north.", "zh": "一陣冷風從北方吹來。" }
+    ],
+    "img": "wind flag blowing",
+    "theme": "天氣季節",
+    "level": 1
+  },
+  {
+    "word": "sun",
+    "kk": "[sʌn]",
+    "pos": "n.",
+    "meaning": "太陽;陽光",
+    "examples": [
+      { "en": "The sun is shining brightly today.", "zh": "今天陽光燦爛。" },
+      { "en": "Let's sit in the sun for a while.", "zh": "我們去曬一下太陽吧。" }
+    ],
+    "img": "bright yellow sun",
+    "theme": "天氣季節",
+    "level": 1
+  },
+  {
+    "word": "cloud",
+    "kk": "[klaʊd]",
+    "pos": "n.",
+    "meaning": "雲",
+    "examples": [
+      { "en": "There isn't a single cloud in the sky.", "zh": "天空中一朵雲都沒有。" },
+      { "en": "That cloud looks like a rabbit.", "zh": "那朵雲看起來像一隻兔子。" }
+    ],
+    "img": "white fluffy cloud",
+    "theme": "天氣季節",
+    "level": 1
+  },
+  {
+    "word": "weather",
+    "kk": "[ˋwɛðɚ]",
+    "pos": "n.",
+    "meaning": "天氣",
+    "examples": [
+      { "en": "How is the weather today?", "zh": "今天天氣如何?" },
+      { "en": "The weather is nice, let's go outside.", "zh": "天氣很好,我們出去吧。" }
+    ],
+    "img": "weather forecast icons",
+    "theme": "天氣季節",
+    "level": 1
+  },
+  {
+    "word": "spring",
+    "kk": "[sprɪŋ]",
+    "pos": "n.",
+    "meaning": "春天",
+    "examples": [
+      { "en": "Flowers bloom in the spring.", "zh": "花在春天綻放。" },
+      { "en": "Spring is my favorite season.", "zh": "春天是我最喜歡的季節。" }
+    ],
+    "img": "spring flowers blossom",
+    "theme": "天氣季節",
+    "level": 1
+  },
+  {
+    "word": "summer",
+    "kk": "[ˋsʌmɚ]",
+    "pos": "n.",
+    "meaning": "夏天",
+    "examples": [
+      { "en": "We go swimming every summer.", "zh": "我們每年夏天都去游泳。" },
+      { "en": "Summer vacation starts next week.", "zh": "暑假下週開始。" }
+    ],
+    "img": "summer beach sun",
+    "theme": "天氣季節",
+    "level": 1
+  },
+  {
+    "word": "fall",
+    "kk": "[fɔl]",
+    "pos": "n.",
+    "meaning": "秋天",
+    "examples": [
+      { "en": "The leaves turn red in the fall.", "zh": "葉子在秋天變紅。" },
+      { "en": "Fall is a great time for hiking.", "zh": "秋天是健行的好時節。" }
+    ],
+    "img": "autumn falling leaves",
+    "theme": "天氣季節",
+    "level": 1
+  },
+  {
+    "word": "winter",
+    "kk": "[ˋwɪntɚ]",
+    "pos": "n.",
+    "meaning": "冬天",
+    "examples": [
+      { "en": "It snows a lot in winter here.", "zh": "這裡冬天常下雪。" },
+      { "en": "We drink hot cocoa in the winter.", "zh": "冬天我們會喝熱可可。" }
+    ],
+    "img": "winter snow landscape",
+    "theme": "天氣季節",
+    "level": 1
+  },
+  {
+    "word": "season",
+    "kk": "[ˋsizn]",
+    "pos": "n.",
+    "meaning": "季節",
+    "examples": [
+      { "en": "There are four seasons in a year.", "zh": "一年有四個季節。" },
+      { "en": "Which season do you like best?", "zh": "你最喜歡哪個季節?" }
+    ],
+    "img": "four seasons trees",
+    "theme": "天氣季節",
+    "level": 1
+  },
+  {
+    "word": "umbrella",
+    "kk": "[ʌmˋbrɛlə]",
+    "pos": "n.",
+    "meaning": "雨傘",
+    "examples": [
+      { "en": "Take an umbrella, it looks like rain.", "zh": "帶把傘吧,看起來要下雨了。" },
+      { "en": "My umbrella broke in the strong wind.", "zh": "我的傘在強風中壞了。" }
+    ],
+    "img": "open umbrella rain",
+    "theme": "天氣季節",
+    "level": 1
+  },
+  {
+    "word": "foggy",
+    "kk": "[ˋfɑgɪ]",
+    "pos": "adj.",
+    "meaning": "有霧的",
+    "examples": [
+      { "en": "It's foggy this morning, drive carefully.", "zh": "今天早上有霧,開車小心。" },
+      { "en": "The mountain road was very foggy.", "zh": "山路上霧很大。" }
+    ],
+    "img": "foggy misty road",
+    "theme": "天氣季節",
+    "level": 2
+  },
+  {
+    "word": "stormy",
+    "kk": "[ˋstɔrmɪ]",
+    "pos": "adj.",
+    "meaning": "暴風雨的",
+    "examples": [
+      { "en": "It was a stormy night with thunder.", "zh": "那是個有雷聲的暴風雨夜晚。" },
+      { "en": "The stormy weather delayed our flight.", "zh": "暴風雨天氣使我們的班機延誤。" }
+    ],
+    "img": "stormy dark clouds",
+    "theme": "天氣季節",
+    "level": 2
+  },
+  {
+    "word": "humid",
+    "kk": "[ˋhjumɪd]",
+    "pos": "adj.",
+    "meaning": "潮濕的;悶熱的",
+    "examples": [
+      { "en": "It's so humid today, I'm sweating a lot.", "zh": "今天好悶熱,我流了好多汗。" },
+      { "en": "Taiwan's summer is hot and humid.", "zh": "台灣的夏天又熱又潮濕。" }
+    ],
+    "img": "humid steam air",
+    "theme": "天氣季節",
+    "level": 2
+  },
+  {
+    "word": "thunder",
+    "kk": "[ˋθʌndɚ]",
+    "pos": "n.",
+    "meaning": "雷;雷聲",
+    "examples": [
+      { "en": "The thunder scared my dog.", "zh": "雷聲嚇到了我的狗。" },
+      { "en": "We heard thunder in the distance.", "zh": "我們聽到遠處的雷聲。" }
+    ],
+    "img": "thunder dark sky",
+    "theme": "天氣季節",
+    "level": 2
+  },
+  {
+    "word": "lightning",
+    "kk": "[ˋlaɪtnɪŋ]",
+    "pos": "n.",
+    "meaning": "閃電",
+    "examples": [
+      { "en": "Lightning flashed across the sky.", "zh": "閃電劃過天空。" },
+      { "en": "Don't stand under a tree during lightning.", "zh": "打閃電時不要站在樹下。" }
+    ],
+    "img": "lightning bolt sky",
+    "theme": "天氣季節",
+    "level": 2
+  },
+  {
+    "word": "typhoon",
+    "kk": "[taɪˋfun]",
+    "pos": "n.",
+    "meaning": "颱風",
+    "examples": [
+      { "en": "A typhoon is coming, so school is canceled.", "zh": "颱風要來了,所以停課。" },
+      { "en": "The typhoon brought heavy rain and wind.", "zh": "颱風帶來了大雨和強風。" }
+    ],
+    "img": "typhoon satellite storm",
+    "theme": "天氣季節",
+    "level": 2
+  },
+  {
+    "word": "temperature",
+    "kk": "[ˋtɛmprətʃɚ]",
+    "pos": "n.",
+    "meaning": "溫度;氣溫",
+    "examples": [
+      { "en": "The temperature dropped suddenly last night.", "zh": "昨晚氣溫突然下降。" },
+      { "en": "What's the temperature outside today?", "zh": "今天外面的氣溫是幾度?" }
+    ],
+    "img": "thermometer temperature gauge",
+    "theme": "天氣季節",
+    "level": 2
+  },
+  {
+    "word": "forecast",
+    "kk": "[ˋfor͵kæst]",
+    "pos": "n.",
+    "meaning": "預報",
+    "examples": [
+      { "en": "The weather forecast says it will rain tomorrow.", "zh": "氣象預報說明天會下雨。" },
+      { "en": "I always check the forecast before a trip.", "zh": "旅行前我總會看天氣預報。" }
+    ],
+    "img": "weather forecast map",
+    "theme": "天氣季節",
+    "level": 2
+  },
+  {
+    "word": "shower",
+    "kk": "[ˋʃaʊɚ]",
+    "pos": "n.",
+    "meaning": "陣雨",
+    "examples": [
+      { "en": "There will be a light shower this afternoon.", "zh": "今天下午會有一場小陣雨。" },
+      { "en": "The shower passed quickly and the sun came out.", "zh": "陣雨很快過去,太陽出來了。" }
+    ],
+    "img": "brief rain shower",
+    "theme": "天氣季節",
+    "level": 2
+  },
+  {
+    "word": "breeze",
+    "kk": "[briz]",
+    "pos": "n.",
+    "meaning": "微風",
+    "examples": [
+      { "en": "A cool breeze felt nice on my face.", "zh": "涼爽的微風吹在臉上很舒服。" },
+      { "en": "There's a gentle breeze by the sea.", "zh": "海邊有陣輕柔的微風。" }
+    ],
+    "img": "gentle breeze grass",
+    "theme": "天氣季節",
+    "level": 2
+  },
+  {
+    "word": "freezing",
+    "kk": "[ˋfrizɪŋ]",
+    "pos": "adj.",
+    "meaning": "極冷的;冰凍的",
+    "examples": [
+      { "en": "It's freezing outside, put on your coat.", "zh": "外面冷得要命,穿上外套。" },
+      { "en": "The water was freezing cold.", "zh": "水冷得像冰一樣。" }
+    ],
+    "img": "freezing ice frost",
+    "theme": "天氣季節",
+    "level": 2
+  },
+  {
+    "word": "chilly",
+    "kk": "[ˋtʃɪlɪ]",
+    "pos": "adj.",
+    "meaning": "微寒的;冷颼颼的",
+    "examples": [
+      { "en": "It gets chilly at night in the fall.", "zh": "秋天晚上會變得冷颼颼的。" },
+      { "en": "Bring a sweater, it's a bit chilly.", "zh": "帶件毛衣吧,有點冷。" }
+    ],
+    "img": "chilly cold morning",
+    "theme": "天氣季節",
+    "level": 2
+  },
+  {
+    "word": "sunshine",
+    "kk": "[ˋsʌn͵ʃaɪn]",
+    "pos": "n.",
+    "meaning": "陽光",
+    "examples": [
+      { "en": "The bright sunshine made me feel happy.", "zh": "明亮的陽光讓我感到開心。" },
+      { "en": "Plants need sunshine to grow.", "zh": "植物需要陽光才能生長。" }
+    ],
+    "img": "warm sunshine rays",
+    "theme": "天氣季節",
+    "level": 2
+  },
+  {
+    "word": "rainbow",
+    "kk": "[ˋren͵bo]",
+    "pos": "n.",
+    "meaning": "彩虹",
+    "examples": [
+      { "en": "A beautiful rainbow appeared after the rain.", "zh": "雨後出現了一道美麗的彩虹。" },
+      { "en": "Look, there's a rainbow in the sky!", "zh": "看,天空中有一道彩虹!" }
+    ],
+    "img": "colorful rainbow sky",
+    "theme": "天氣季節",
+    "level": 2
+  },
+  {
+    "word": "flood",
+    "kk": "[flʌd]",
+    "pos": "n.",
+    "meaning": "洪水;淹水",
+    "examples": [
+      { "en": "The heavy rain caused a flood downtown.", "zh": "大雨造成市區淹水。" },
+      { "en": "Many roads were closed because of the flood.", "zh": "許多道路因為淹水而封閉。" }
+    ],
+    "img": "flood water street",
+    "theme": "天氣季節",
+    "level": 2
+  },
+  {
+    "word": "melt",
+    "kk": "[mɛlt]",
+    "pos": "v.",
+    "meaning": "融化",
+    "examples": [
+      { "en": "The snow began to melt in the sun.", "zh": "雪在陽光下開始融化。" },
+      { "en": "The ice cream melted before I finished it.", "zh": "冰淇淋在我吃完前就融化了。" }
+    ],
+    "img": "melting ice snow",
+    "theme": "天氣季節",
+    "level": 2
+  },
+  {
+    "word": "climate",
+    "kk": "[ˋklaɪmɪt]",
+    "pos": "n.",
+    "meaning": "氣候",
+    "examples": [
+      { "en": "This region has a warm climate all year.", "zh": "這個地區全年氣候溫暖。" },
+      { "en": "The climate is very different in the north.", "zh": "北方的氣候非常不同。" }
+    ],
+    "img": "world climate map",
+    "theme": "天氣季節",
+    "level": 2
+  },
+  {
+    "word": "frost",
+    "kk": "[frɔst]",
+    "pos": "n.",
+    "meaning": "霜",
+    "examples": [
+      { "en": "There was frost on the grass this morning.", "zh": "今天早上草地上結了霜。" },
+      { "en": "Frost can damage young plants.", "zh": "霜會傷害幼小的植物。" }
+    ],
+    "img": "frost frozen leaves",
+    "theme": "天氣季節",
+    "level": 2
+  },
+  {
+    "word": "drought",
+    "kk": "[draʊt]",
+    "pos": "n.",
+    "meaning": "乾旱",
+    "examples": [
+      { "en": "The long drought dried up the river.", "zh": "長期乾旱使河流乾涸。" },
+      { "en": "Farmers worry about the drought this year.", "zh": "農民擔心今年的乾旱。" }
+    ],
+    "img": "drought cracked dry land",
+    "theme": "天氣季節",
+    "level": 3
+  },
+  {
+    "word": "hail",
+    "kk": "[hel]",
+    "pos": "n.",
+    "meaning": "冰雹",
+    "examples": [
+      { "en": "The hail damaged several cars.", "zh": "冰雹損壞了好幾輛車。" },
+      { "en": "Large hail fell during the storm.", "zh": "暴風雨中降下大顆冰雹。" }
+    ],
+    "img": "hail ice balls ground",
+    "theme": "天氣季節",
+    "level": 3
+  },
+  {
+    "word": "blizzard",
+    "kk": "[ˋblɪzɚd]",
+    "pos": "n.",
+    "meaning": "暴風雪",
+    "examples": [
+      { "en": "The blizzard shut down the whole city.", "zh": "暴風雪讓整座城市停擺。" },
+      { "en": "We were trapped indoors during the blizzard.", "zh": "暴風雪期間我們被困在室內。" }
+    ],
+    "img": "blizzard heavy snowstorm",
+    "theme": "天氣季節",
+    "level": 3
+  },
+  {
+    "word": "humidity",
+    "kk": "[hjuˋmɪdətɪ]",
+    "pos": "n.",
+    "meaning": "濕度",
+    "examples": [
+      { "en": "The high humidity makes it feel hotter.", "zh": "高濕度讓天氣感覺更熱。" },
+      { "en": "Humidity is very high near the coast.", "zh": "沿海地區的濕度非常高。" }
+    ],
+    "img": "humidity water vapor gauge",
+    "theme": "天氣季節",
+    "level": 3
+  },
+  {
+    "word": "overcast",
+    "kk": "[ˋovɚ͵kæst]",
+    "pos": "adj.",
+    "meaning": "陰霾的;烏雲密布的",
+    "examples": [
+      { "en": "The sky was overcast all day.", "zh": "天空整天都烏雲密布。" },
+      { "en": "It's overcast, but it probably won't rain.", "zh": "天色陰霾,但大概不會下雨。" }
+    ],
+    "img": "overcast gray sky",
+    "theme": "天氣季節",
+    "level": 3
+  },
+  {
+    "word": "downpour",
+    "kk": "[ˋdaʊn͵por]",
+    "pos": "n.",
+    "meaning": "傾盆大雨",
+    "examples": [
+      { "en": "We got caught in a sudden downpour.", "zh": "我們遇上了突如其來的傾盆大雨。" },
+      { "en": "The downpour flooded the streets quickly.", "zh": "傾盆大雨很快淹沒了街道。" }
+    ],
+    "img": "heavy downpour rain",
+    "theme": "天氣季節",
+    "level": 3
+  },
+  {
+    "word": "forecaster",
+    "kk": "[ˋfor͵kæstɚ]",
+    "pos": "n.",
+    "meaning": "氣象預報員",
+    "examples": [
+      { "en": "The forecaster said a cold front is coming.", "zh": "氣象預報員說有冷鋒要來。" },
+      { "en": "The forecaster warned of strong winds.", "zh": "氣象預報員警告會有強風。" }
+    ],
+    "img": "weather forecaster tv map",
+    "theme": "天氣季節",
+    "level": 3
+  },
+  {
+    "word": "cold front",
+    "kk": "[kold frʌnt]",
+    "pos": "n. phr.",
+    "meaning": "冷鋒",
+    "examples": [
+      { "en": "A cold front will bring lower temperatures.", "zh": "一道冷鋒將帶來較低的氣溫。" },
+      { "en": "The cold front is moving in from the north.", "zh": "冷鋒正從北方移進來。" }
+    ],
+    "img": "cold front weather map",
+    "theme": "天氣季節",
+    "level": 3
+  },
+  {
+    "word": "heat wave",
+    "kk": "[hit wev]",
+    "pos": "n. phr.",
+    "meaning": "熱浪",
+    "examples": [
+      { "en": "A heat wave hit the city last week.", "zh": "上週熱浪襲擊了這座城市。" },
+      { "en": "Stay hydrated during the heat wave.", "zh": "熱浪期間要多補充水分。" }
+    ],
+    "img": "heat wave hot sun city",
+    "theme": "天氣季節",
+    "level": 3
+  },
+  {
+    "word": "clear up",
+    "kk": "[klɪr ʌp]",
+    "pos": "v. phr.",
+    "meaning": "(天氣)放晴",
+    "examples": [
+      { "en": "The weather should clear up by noon.", "zh": "天氣應該會在中午前放晴。" },
+      { "en": "It cleared up after a rainy morning.", "zh": "下了一早上的雨後天氣放晴了。" }
+    ],
+    "img": "sky clearing after rain",
+    "theme": "天氣季節",
+    "level": 3
+  },
+  {
+    "word": "mild",
+    "kk": "[maɪld]",
+    "pos": "adj.",
+    "meaning": "溫和的(氣候)",
+    "examples": [
+      { "en": "The winters here are quite mild.", "zh": "這裡的冬天相當溫和。" },
+      { "en": "We enjoyed the mild spring weather.", "zh": "我們享受著溫和的春天天氣。" }
+    ],
+    "img": "mild pleasant weather park",
+    "theme": "天氣季節",
+    "level": 3
+  }
+]

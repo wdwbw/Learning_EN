@@ -1,0 +1,652 @@
+[
+  {
+    "word": "earthquake",
+    "kk": "[ˋɝθ͵kwek]",
+    "pos": "n.",
+    "meaning": "地震",
+    "examples": [
+      { "en": "A strong earthquake shook the whole city last night.", "zh": "昨晚一場強烈地震撼動了整座城市。" },
+      { "en": "We hid under the table during the earthquake.", "zh": "地震時我們躲在桌子底下。" }
+    ],
+    "img": "cracked ground buildings shaking",
+    "theme": "災害急難",
+    "level": 2
+  },
+  {
+    "word": "typhoon",
+    "kk": "[taɪˋfun]",
+    "pos": "n.",
+    "meaning": "颱風",
+    "examples": [
+      { "en": "The typhoon brought heavy rain and strong winds.", "zh": "颱風帶來了豪雨和強風。" },
+      { "en": "Schools were closed because of the typhoon.", "zh": "因為颱風,學校停課了。" }
+    ],
+    "img": "spiral storm satellite bent palm trees",
+    "theme": "災害急難",
+    "level": 2
+  },
+  {
+    "word": "flood",
+    "kk": "[flʌd]",
+    "pos": "n.",
+    "meaning": "洪水;淹水",
+    "examples": [
+      { "en": "The flood covered the streets with muddy water.", "zh": "洪水讓街道淹滿泥水。" },
+      { "en": "Many people lost their homes in the flood.", "zh": "許多人在洪水中失去了家園。" }
+    ],
+    "img": "submerged street cars in water",
+    "theme": "災害急難",
+    "level": 2
+  },
+  {
+    "word": "landslide",
+    "kk": "[ˋlænd͵slaɪd]",
+    "pos": "n.",
+    "meaning": "山崩;土石流",
+    "examples": [
+      { "en": "The landslide blocked the mountain road.", "zh": "土石流阻斷了山路。" },
+      { "en": "Heavy rain often causes a landslide.", "zh": "豪雨常常造成山崩。" }
+    ],
+    "img": "mud rocks sliding down hillside",
+    "theme": "災害急難",
+    "level": 3
+  },
+  {
+    "word": "tsunami",
+    "kk": "[tsuˋnɑmɪ]",
+    "pos": "n.",
+    "meaning": "海嘯",
+    "examples": [
+      { "en": "The earthquake triggered a huge tsunami.", "zh": "地震引發了巨大的海嘯。" },
+      { "en": "People ran to high ground before the tsunami hit.", "zh": "海嘯來襲前人們跑向高處。" }
+    ],
+    "img": "giant ocean wave crashing coast",
+    "theme": "災害急難",
+    "level": 3
+  },
+  {
+    "word": "fire",
+    "kk": "[faɪr]",
+    "pos": "n.",
+    "meaning": "火災;火",
+    "examples": [
+      { "en": "A fire broke out in the old building.", "zh": "那棟舊大樓發生了火災。" },
+      { "en": "Never play with fire at home.", "zh": "在家絕對不要玩火。" }
+    ],
+    "img": "orange flames burning building",
+    "theme": "災害急難",
+    "level": 2
+  },
+  {
+    "word": "smoke",
+    "kk": "[smok]",
+    "pos": "n.",
+    "meaning": "煙",
+    "examples": [
+      { "en": "Thick smoke filled the whole room.", "zh": "濃煙充滿了整個房間。" },
+      { "en": "Cover your nose when there is smoke.", "zh": "有煙的時候要摀住鼻子。" }
+    ],
+    "img": "thick gray smoke rising",
+    "theme": "災害急難",
+    "level": 2
+  },
+  {
+    "word": "flame",
+    "kk": "[flem]",
+    "pos": "n.",
+    "meaning": "火焰",
+    "examples": [
+      { "en": "The flames spread very quickly.", "zh": "火焰蔓延得非常快。" },
+      { "en": "Firefighters fought the flames all night.", "zh": "消防員徹夜與火焰搏鬥。" }
+    ],
+    "img": "bright dancing orange flames",
+    "theme": "災害急難",
+    "level": 3
+  },
+  {
+    "word": "rescue",
+    "kk": "[ˋrɛskju]",
+    "pos": "v./n.",
+    "meaning": "救援;拯救",
+    "examples": [
+      { "en": "The team came to rescue the trapped workers.", "zh": "救援隊來拯救受困的工人。" },
+      { "en": "The rescue took several hours.", "zh": "這場救援花了好幾個小時。" }
+    ],
+    "img": "rescuers lifting person from rubble",
+    "theme": "災害急難",
+    "level": 2
+  },
+  {
+    "word": "evacuate",
+    "kk": "[ɪˋvækju͵et]",
+    "pos": "v.",
+    "meaning": "撤離;疏散",
+    "examples": [
+      { "en": "The police told everyone to evacuate the area.", "zh": "警察要求所有人撤離該區。" },
+      { "en": "We had to evacuate before the storm came.", "zh": "暴風來臨前我們必須撤離。" }
+    ],
+    "img": "crowd leaving building exit signs",
+    "theme": "災害急難",
+    "level": 3
+  },
+  {
+    "word": "shelter",
+    "kk": "[ˋʃɛltɚ]",
+    "pos": "n.",
+    "meaning": "避難所;庇護處",
+    "examples": [
+      { "en": "The family stayed in an emergency shelter.", "zh": "這家人待在緊急避難所裡。" },
+      { "en": "Please find shelter during the typhoon.", "zh": "颱風期間請尋找避難處。" }
+    ],
+    "img": "emergency shelter tents cots people",
+    "theme": "災害急難",
+    "level": 2
+  },
+  {
+    "word": "emergency",
+    "kk": "[ɪˋmɝdʒənsɪ]",
+    "pos": "n.",
+    "meaning": "緊急情況",
+    "examples": [
+      { "en": "Call 119 in an emergency.", "zh": "遇到緊急情況請打119。" },
+      { "en": "Stay calm during an emergency.", "zh": "緊急時要保持冷靜。" }
+    ],
+    "img": "red emergency sign flashing lights",
+    "theme": "災害急難",
+    "level": 2
+  },
+  {
+    "word": "disaster",
+    "kk": "[dɪzˋæstɚ]",
+    "pos": "n.",
+    "meaning": "災難",
+    "examples": [
+      { "en": "The flood was a terrible disaster.", "zh": "那場洪水是可怕的災難。" },
+      { "en": "The country is preparing for natural disasters.", "zh": "這個國家正在為天災做準備。" }
+    ],
+    "img": "destroyed town after disaster",
+    "theme": "災害急難",
+    "level": 3
+  },
+  {
+    "word": "survivor",
+    "kk": "[səˋvaɪvɚ]",
+    "pos": "n.",
+    "meaning": "生還者;倖存者",
+    "examples": [
+      { "en": "Rescuers found a survivor under the building.", "zh": "救援人員在大樓底下找到一名生還者。" },
+      { "en": "The survivors received food and water.", "zh": "生還者得到了食物和水。" }
+    ],
+    "img": "survivor wrapped in blanket rescue",
+    "theme": "災害急難",
+    "level": 3
+  },
+  {
+    "word": "victim",
+    "kk": "[ˋvɪktɪm]",
+    "pos": "n.",
+    "meaning": "受害者;罹難者",
+    "examples": [
+      { "en": "The earthquake victims need our help.", "zh": "地震受害者需要我們的幫助。" },
+      { "en": "Volunteers brought supplies to the victims.", "zh": "志工把物資帶給受害者。" }
+    ],
+    "img": "disaster victims receiving aid",
+    "theme": "災害急難",
+    "level": 3
+  },
+  {
+    "word": "injured",
+    "kk": "[ˋɪndʒɚd]",
+    "pos": "adj.",
+    "meaning": "受傷的",
+    "examples": [
+      { "en": "The injured man was taken to the hospital.", "zh": "受傷的男子被送往醫院。" },
+      { "en": "Several people were injured in the fire.", "zh": "有幾個人在火災中受傷。" }
+    ],
+    "img": "injured person bandage stretcher",
+    "theme": "災害急難",
+    "level": 2
+  },
+  {
+    "word": "wound",
+    "kk": "[wund]",
+    "pos": "n.",
+    "meaning": "傷口",
+    "examples": [
+      { "en": "The nurse cleaned the wound carefully.", "zh": "護士小心地清理傷口。" },
+      { "en": "Press on the wound to stop the bleeding.", "zh": "壓住傷口以止血。" }
+    ],
+    "img": "bandaged wound on arm",
+    "theme": "災害急難",
+    "level": 3
+  },
+  {
+    "word": "bleed",
+    "kk": "[blid]",
+    "pos": "v.",
+    "meaning": "流血",
+    "examples": [
+      { "en": "His hand started to bleed after the cut.", "zh": "割傷後他的手開始流血。" },
+      { "en": "Keep pressing so it won't bleed too much.", "zh": "持續壓住,才不會流太多血。" }
+    ],
+    "img": "hand with bleeding cut",
+    "theme": "災害急難",
+    "level": 2
+  },
+  {
+    "word": "bandage",
+    "kk": "[ˋbændɪdʒ]",
+    "pos": "n.",
+    "meaning": "繃帶",
+    "examples": [
+      { "en": "She put a bandage on the wound.", "zh": "她在傷口上綁了繃帶。" },
+      { "en": "There are bandages in the first aid kit.", "zh": "急救箱裡有繃帶。" }
+    ],
+    "img": "white bandage wrapped around arm",
+    "theme": "災害急難",
+    "level": 2
+  },
+  {
+    "word": "ambulance",
+    "kk": "[ˋæmbjələns]",
+    "pos": "n.",
+    "meaning": "救護車",
+    "examples": [
+      { "en": "The ambulance arrived in five minutes.", "zh": "救護車在五分鐘內抵達。" },
+      { "en": "Please call an ambulance right now.", "zh": "請馬上叫救護車。" }
+    ],
+    "img": "white ambulance red lights siren",
+    "theme": "災害急難",
+    "level": 2
+  },
+  {
+    "word": "firefighter",
+    "kk": "[ˋfaɪr͵faɪtɚ]",
+    "pos": "n.",
+    "meaning": "消防員",
+    "examples": [
+      { "en": "The firefighter carried the child to safety.", "zh": "消防員把孩子抱到安全的地方。" },
+      { "en": "Firefighters are brave and strong.", "zh": "消防員既勇敢又強壯。" }
+    ],
+    "img": "firefighter helmet hose flames",
+    "theme": "災害急難",
+    "level": 2
+  },
+  {
+    "word": "helmet",
+    "kk": "[ˋhɛlmɪt]",
+    "pos": "n.",
+    "meaning": "安全帽;頭盔",
+    "examples": [
+      { "en": "Wear a helmet to protect your head.", "zh": "戴上安全帽保護你的頭。" },
+      { "en": "The rescue worker put on his helmet.", "zh": "救援人員戴上了他的頭盔。" }
+    ],
+    "img": "yellow safety helmet close up",
+    "theme": "災害急難",
+    "level": 2
+  },
+  {
+    "word": "siren",
+    "kk": "[ˋsaɪrən]",
+    "pos": "n.",
+    "meaning": "警報聲;警笛",
+    "examples": [
+      { "en": "We heard the siren of a fire truck.", "zh": "我們聽到消防車的警笛聲。" },
+      { "en": "The siren warned people to take cover.", "zh": "警報聲警告人們躲避。" }
+    ],
+    "img": "loud siren speaker warning light",
+    "theme": "災害急難",
+    "level": 3
+  },
+  {
+    "word": "warning",
+    "kk": "[ˋwɔrnɪŋ]",
+    "pos": "n.",
+    "meaning": "警告;警報",
+    "examples": [
+      { "en": "The government sent a flood warning.", "zh": "政府發出了洪水警報。" },
+      { "en": "Please listen to the warning on the radio.", "zh": "請注意收音機上的警報。" }
+    ],
+    "img": "red warning triangle sign",
+    "theme": "災害急難",
+    "level": 2
+  },
+  {
+    "word": "danger",
+    "kk": "[ˋdendʒɚ]",
+    "pos": "n.",
+    "meaning": "危險",
+    "examples": [
+      { "en": "The people were in great danger.", "zh": "那些人身處極大的危險中。" },
+      { "en": "Stay away from danger during a storm.", "zh": "暴風期間要遠離危險。" }
+    ],
+    "img": "yellow danger sign warning",
+    "theme": "災害急難",
+    "level": 2
+  },
+  {
+    "word": "collapse",
+    "kk": "[kəˋlæps]",
+    "pos": "v.",
+    "meaning": "倒塌",
+    "examples": [
+      { "en": "The old bridge collapsed in the earthquake.", "zh": "舊橋在地震中倒塌了。" },
+      { "en": "The roof may collapse at any time.", "zh": "屋頂隨時可能倒塌。" }
+    ],
+    "img": "collapsed building broken concrete",
+    "theme": "災害急難",
+    "level": 3
+  },
+  {
+    "word": "trapped",
+    "kk": "[træpt]",
+    "pos": "adj.",
+    "meaning": "受困的",
+    "examples": [
+      { "en": "Two people were trapped inside the car.", "zh": "有兩個人被困在車裡。" },
+      { "en": "The dog was trapped under the fallen wall.", "zh": "那隻狗被困在倒塌的牆下。" }
+    ],
+    "img": "person trapped under rubble hand",
+    "theme": "災害急難",
+    "level": 3
+  },
+  {
+    "word": "escape",
+    "kk": "[əˋskep]",
+    "pos": "v.",
+    "meaning": "逃離;逃生",
+    "examples": [
+      { "en": "They escaped from the burning house.", "zh": "他們從失火的房子逃了出來。" },
+      { "en": "Know how to escape before a fire happens.", "zh": "火災發生前要知道如何逃生。" }
+    ],
+    "img": "person running out fire exit",
+    "theme": "災害急難",
+    "level": 2
+  },
+  {
+    "word": "safety",
+    "kk": "[ˋseftɪ]",
+    "pos": "n.",
+    "meaning": "安全",
+    "examples": [
+      { "en": "The teacher led the students to safety.", "zh": "老師帶學生到安全的地方。" },
+      { "en": "Safety comes first in an emergency.", "zh": "緊急時安全最重要。" }
+    ],
+    "img": "green safety exit sign arrow",
+    "theme": "災害急難",
+    "level": 2
+  },
+  {
+    "word": "protect",
+    "kk": "[prəˋtɛkt]",
+    "pos": "v.",
+    "meaning": "保護",
+    "examples": [
+      { "en": "Cover your head to protect yourself.", "zh": "摀住頭部保護自己。" },
+      { "en": "A helmet can protect you from falling objects.", "zh": "安全帽能保護你免受掉落物傷害。" }
+    ],
+    "img": "hands shielding head protection",
+    "theme": "災害急難",
+    "level": 2
+  },
+  {
+    "word": "survive",
+    "kk": "[səˋvaɪv]",
+    "pos": "v.",
+    "meaning": "生還;存活",
+    "examples": [
+      { "en": "He survived the terrible flood.", "zh": "他在可怕的洪水中生還。" },
+      { "en": "They survived three days without food.", "zh": "他們三天沒有食物仍存活下來。" }
+    ],
+    "img": "survivor rescued smiling weakly",
+    "theme": "災害急難",
+    "level": 3
+  },
+  {
+    "word": "aftershock",
+    "kk": "[ˋæftɚ͵ʃɑk]",
+    "pos": "n.",
+    "meaning": "餘震",
+    "examples": [
+      { "en": "We felt a strong aftershock an hour later.", "zh": "一小時後我們感受到強烈的餘震。" },
+      { "en": "Be careful of aftershocks after an earthquake.", "zh": "地震後要小心餘震。" }
+    ],
+    "img": "shaking ground cracks aftershock",
+    "theme": "災害急難",
+    "level": 3
+  },
+  {
+    "word": "flashlight",
+    "kk": "[ˋflæʃ͵laɪt]",
+    "pos": "n.",
+    "meaning": "手電筒",
+    "examples": [
+      { "en": "Keep a flashlight ready for a blackout.", "zh": "準備好手電筒以備停電。" },
+      { "en": "She used a flashlight to find the exit.", "zh": "她用手電筒找到了出口。" }
+    ],
+    "img": "flashlight beam in dark",
+    "theme": "災害急難",
+    "level": 2
+  },
+  {
+    "word": "supplies",
+    "kk": "[səˋplaɪz]",
+    "pos": "n.",
+    "meaning": "物資;補給品",
+    "examples": [
+      { "en": "We stored food and water as supplies.", "zh": "我們儲備了食物和水當作物資。" },
+      { "en": "Emergency supplies were sent to the town.", "zh": "緊急物資被送往那個城鎮。" }
+    ],
+    "img": "boxes of emergency food water",
+    "theme": "災害急難",
+    "level": 3
+  },
+  {
+    "word": "first aid",
+    "kk": "[ˋfɝst ˋed]",
+    "pos": "n.",
+    "meaning": "急救",
+    "examples": [
+      { "en": "She learned first aid at school.", "zh": "她在學校學了急救。" },
+      { "en": "First aid can save a person's life.", "zh": "急救能救人一命。" }
+    ],
+    "img": "first aid kit red cross box",
+    "theme": "災害急難",
+    "level": 2
+  },
+  {
+    "word": "victimize",
+    "kk": "[ˋvɪktɪm͵aɪz]",
+    "pos": "v.",
+    "meaning": "使受害",
+    "examples": [
+      { "en": "The storm victimized many poor families.", "zh": "那場暴風使許多貧困家庭受害。" },
+      { "en": "Disasters often victimize the weak.", "zh": "災難常使弱者受害。" }
+    ],
+    "img": "family losing home after storm",
+    "theme": "災害急難",
+    "level": 3
+  },
+  {
+    "word": "damage",
+    "kk": "[ˋdæmɪdʒ]",
+    "pos": "n.",
+    "meaning": "損害;破壞",
+    "examples": [
+      { "en": "The typhoon caused a lot of damage.", "zh": "颱風造成了很多損害。" },
+      { "en": "They checked the damage after the flood.", "zh": "洪水過後他們檢查了損害。" }
+    ],
+    "img": "damaged house broken roof debris",
+    "theme": "災害急難",
+    "level": 2
+  },
+  {
+    "word": "wildfire",
+    "kk": "[ˋwaɪld͵faɪr]",
+    "pos": "n.",
+    "meaning": "野火;森林大火",
+    "examples": [
+      { "en": "A wildfire burned the whole forest.", "zh": "一場野火燒毀了整片森林。" },
+      { "en": "Firefighters worked hard to stop the wildfire.", "zh": "消防員努力撲滅野火。" }
+    ],
+    "img": "forest wildfire spreading flames smoke",
+    "theme": "災害急難",
+    "level": 3
+  },
+  {
+    "word": "extinguisher",
+    "kk": "[ɪkˋstɪŋgwɪʃɚ]",
+    "pos": "n.",
+    "meaning": "滅火器",
+    "examples": [
+      { "en": "Use the extinguisher to put out the fire.", "zh": "用滅火器把火撲滅。" },
+      { "en": "Every home should have a fire extinguisher.", "zh": "每個家庭都應該有滅火器。" }
+    ],
+    "img": "red fire extinguisher on wall",
+    "theme": "災害急難",
+    "level": 3
+  },
+  {
+    "word": "alarm",
+    "kk": "[əˋlɑrm]",
+    "pos": "n.",
+    "meaning": "警報器",
+    "examples": [
+      { "en": "The fire alarm rang loudly.", "zh": "火災警報器大聲響起。" },
+      { "en": "When the alarm goes off, leave at once.", "zh": "警報一響,立刻離開。" }
+    ],
+    "img": "red fire alarm bell wall",
+    "theme": "災害急難",
+    "level": 2
+  },
+  {
+    "word": "panic",
+    "kk": "[ˋpænɪk]",
+    "pos": "v./n.",
+    "meaning": "驚慌",
+    "examples": [
+      { "en": "Try not to panic during an earthquake.", "zh": "地震時盡量不要驚慌。" },
+      { "en": "The crowd began to panic when the lights went out.", "zh": "燈光熄滅時人群開始驚慌。" }
+    ],
+    "img": "crowd running panic fear faces",
+    "theme": "災害急難",
+    "level": 3
+  },
+  {
+    "word": "crack",
+    "kk": "[kræk]",
+    "pos": "n./v.",
+    "meaning": "裂縫;裂開",
+    "examples": [
+      { "en": "There was a big crack in the wall.", "zh": "牆上有一道大裂縫。" },
+      { "en": "The ground cracked open during the quake.", "zh": "地震時地面裂了開來。" }
+    ],
+    "img": "large crack in wall or ground",
+    "theme": "災害急難",
+    "level": 2
+  },
+  {
+    "word": "shake",
+    "kk": "[ʃek]",
+    "pos": "v.",
+    "meaning": "搖晃;震動",
+    "examples": [
+      { "en": "The whole house began to shake.", "zh": "整棟房子開始搖晃。" },
+      { "en": "The ground shook for ten seconds.", "zh": "地面搖晃了十秒鐘。" }
+    ],
+    "img": "shaking house objects falling",
+    "theme": "災害急難",
+    "level": 2
+  },
+  {
+    "word": "warn",
+    "kk": "[wɔrn]",
+    "pos": "v.",
+    "meaning": "警告",
+    "examples": [
+      { "en": "The radio warned us about the coming typhoon.", "zh": "收音機警告我們颱風即將來臨。" },
+      { "en": "He warned everyone to leave the beach.", "zh": "他警告大家離開海灘。" }
+    ],
+    "img": "person pointing warning gesture",
+    "theme": "災害急難",
+    "level": 2
+  },
+  {
+    "word": "power outage",
+    "kk": "[ˋpaʊɚ ˋaʊtɪdʒ]",
+    "pos": "n.",
+    "meaning": "停電",
+    "examples": [
+      { "en": "The storm caused a power outage all night.", "zh": "暴風造成整夜停電。" },
+      { "en": "We used candles during the power outage.", "zh": "停電時我們點蠟燭。" }
+    ],
+    "img": "dark house candles power outage",
+    "theme": "災害急難",
+    "level": 3
+  },
+  {
+    "word": "hurricane",
+    "kk": "[ˋhɝɪ͵ken]",
+    "pos": "n.",
+    "meaning": "颶風",
+    "examples": [
+      { "en": "The hurricane destroyed many houses.", "zh": "颶風摧毀了許多房屋。" },
+      { "en": "People boarded up windows before the hurricane.", "zh": "颶風來前人們用木板封住窗戶。" }
+    ],
+    "img": "hurricane storm swirling clouds coast",
+    "theme": "災害急難",
+    "level": 3
+  },
+  {
+    "word": "drought",
+    "kk": "[draʊt]",
+    "pos": "n.",
+    "meaning": "乾旱",
+    "examples": [
+      { "en": "The long drought dried up the river.", "zh": "長期乾旱使河流乾涸。" },
+      { "en": "Farmers suffered during the drought.", "zh": "乾旱期間農民受苦。" }
+    ],
+    "img": "dry cracked earth drought field",
+    "theme": "災害急難",
+    "level": 3
+  },
+  {
+    "word": "stretcher",
+    "kk": "[ˋstrɛtʃɚ]",
+    "pos": "n.",
+    "meaning": "擔架",
+    "examples": [
+      { "en": "They carried the patient on a stretcher.", "zh": "他們用擔架抬著病人。" },
+      { "en": "The injured man was placed on a stretcher.", "zh": "受傷的男子被放上擔架。" }
+    ],
+    "img": "patient on stretcher paramedics",
+    "theme": "災害急難",
+    "level": 3
+  },
+  {
+    "word": "volunteer",
+    "kk": "[͵vɑlənˋtɪr]",
+    "pos": "n.",
+    "meaning": "志工",
+    "examples": [
+      { "en": "Many volunteers helped clean up the town.", "zh": "許多志工幫忙清理城鎮。" },
+      { "en": "She became a volunteer after the disaster.", "zh": "災難之後她成為一名志工。" }
+    ],
+    "img": "volunteers handing out supplies vests",
+    "theme": "災害急難",
+    "level": 3
+  },
+  {
+    "word": "recover",
+    "kk": "[rɪˋkʌvɚ]",
+    "pos": "v.",
+    "meaning": "復原;恢復",
+    "examples": [
+      { "en": "The town slowly recovered after the flood.", "zh": "洪水過後,這個城鎮慢慢復原。" },
+      { "en": "It takes time to recover from a disaster.", "zh": "從災難中復原需要時間。" }
+    ],
+    "img": "rebuilding town after disaster hope",
+    "theme": "災害急難",
+    "level": 3
+  }
+]

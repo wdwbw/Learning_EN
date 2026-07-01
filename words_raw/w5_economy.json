@@ -1,0 +1,652 @@
+[
+  {
+    "word": "inflation",
+    "kk": "[ɪnˋfleʃən]",
+    "pos": "n.",
+    "meaning": "通貨膨脹",
+    "examples": [
+      { "en": "Rising inflation made everyday groceries more expensive this year.", "zh": "上升的通膨讓今年的日常食品雜貨變得更貴。" },
+      { "en": "The central bank raised rates to fight inflation.", "zh": "央行升息以對抗通膨。" }
+    ],
+    "img": "grocery prices rising on a chart",
+    "theme": "經濟市場",
+    "level": 3
+  },
+  {
+    "word": "supply",
+    "kk": "[səˋplaɪ]",
+    "pos": "n.",
+    "meaning": "供給;供應量",
+    "examples": [
+      { "en": "When the supply of coffee drops, prices usually go up.", "zh": "當咖啡的供給減少時,價格通常會上漲。" },
+      { "en": "Farmers increased the supply of rice after a good harvest.", "zh": "豐收後農民增加了稻米的供應量。" }
+    ],
+    "img": "warehouse full of stacked goods",
+    "theme": "經濟市場",
+    "level": 2
+  },
+  {
+    "word": "demand",
+    "kk": "[dɪˋmænd]",
+    "pos": "n.",
+    "meaning": "需求",
+    "examples": [
+      { "en": "Demand for umbrellas rises during the rainy season.", "zh": "雨季期間對雨傘的需求會上升。" },
+      { "en": "High demand for tickets sold out the concert in minutes.", "zh": "門票的高需求讓演唱會在幾分鐘內售罄。" }
+    ],
+    "img": "crowd of shoppers reaching for products",
+    "theme": "經濟市場",
+    "level": 2
+  },
+  {
+    "word": "shortage",
+    "kk": "[ˋʃɔrtɪdʒ]",
+    "pos": "n.",
+    "meaning": "短缺;不足",
+    "examples": [
+      { "en": "A chip shortage slowed down car production worldwide.", "zh": "晶片短缺拖慢了全球的汽車生產。" },
+      { "en": "The drought caused a serious water shortage in the city.", "zh": "乾旱造成該城市嚴重的缺水。" }
+    ],
+    "img": "empty supermarket shelves",
+    "theme": "經濟市場",
+    "level": 3
+  },
+  {
+    "word": "surplus",
+    "kk": "[ˋsɝpləs]",
+    "pos": "n.",
+    "meaning": "剩餘;過剩",
+    "examples": [
+      { "en": "The factory had a surplus of goods it could not sell.", "zh": "工廠有一批賣不掉的過剩商品。" },
+      { "en": "A trade surplus means a country exports more than it imports.", "zh": "貿易順差意味著一國出口大於進口。" }
+    ],
+    "img": "overflowing warehouse of extra boxes",
+    "theme": "經濟市場",
+    "level": 3
+  },
+  {
+    "word": "recession",
+    "kk": "[rɪˋsɛʃən]",
+    "pos": "n.",
+    "meaning": "經濟衰退",
+    "examples": [
+      { "en": "Many people lost their jobs during the recession.", "zh": "許多人在經濟衰退期間失去了工作。" },
+      { "en": "The economy slowly recovered after the recession ended.", "zh": "經濟在衰退結束後緩慢復甦。" }
+    ],
+    "img": "downward red arrow over city skyline",
+    "theme": "經濟市場",
+    "level": 3
+  },
+  {
+    "word": "growth",
+    "kk": "[groθ]",
+    "pos": "n.",
+    "meaning": "成長;增長",
+    "examples": [
+      { "en": "Economic growth created many new jobs last year.", "zh": "經濟成長去年創造了許多新工作。" },
+      { "en": "The company reported strong growth in overseas sales.", "zh": "該公司報告海外銷售強勁成長。" }
+    ],
+    "img": "green bar chart climbing upward",
+    "theme": "經濟市場",
+    "level": 2
+  },
+  {
+    "word": "economy",
+    "kk": "[ɪˋkɑnəmɪ]",
+    "pos": "n.",
+    "meaning": "經濟;經濟體",
+    "examples": [
+      { "en": "A strong economy helps families feel more secure.", "zh": "強勁的經濟讓家庭感到更有保障。" },
+      { "en": "The country's economy depends heavily on tourism.", "zh": "這個國家的經濟高度依賴觀光業。" }
+    ],
+    "img": "busy city with factories and shops",
+    "theme": "經濟市場",
+    "level": 2
+  },
+  {
+    "word": "unemployment",
+    "kk": "[͵ʌnɪmˋplɔɪmənt]",
+    "pos": "n.",
+    "meaning": "失業;失業率",
+    "examples": [
+      { "en": "Unemployment rose sharply after the factory closed.", "zh": "工廠關閉後失業率急遽上升。" },
+      { "en": "The government offers training to reduce unemployment.", "zh": "政府提供訓練以降低失業。" }
+    ],
+    "img": "person holding empty job application",
+    "theme": "經濟市場",
+    "level": 3
+  },
+  {
+    "word": "employment",
+    "kk": "[ɪmˋplɔɪmənt]",
+    "pos": "n.",
+    "meaning": "就業;雇用",
+    "examples": [
+      { "en": "New factories brought employment to the small town.", "zh": "新工廠為這個小鎮帶來就業機會。" },
+      { "en": "Full employment means almost everyone has a job.", "zh": "充分就業意味著幾乎每個人都有工作。" }
+    ],
+    "img": "workers entering an office building",
+    "theme": "經濟市場",
+    "level": 2
+  },
+  {
+    "word": "wage",
+    "kk": "[wedʒ]",
+    "pos": "n.",
+    "meaning": "工資;薪資",
+    "examples": [
+      { "en": "The workers asked for a higher hourly wage.", "zh": "工人要求更高的時薪。" },
+      { "en": "Minimum wage laws protect low-income workers.", "zh": "最低工資法保護低收入工作者。" }
+    ],
+    "img": "hand receiving cash from paycheck",
+    "theme": "經濟市場",
+    "level": 2
+  },
+  {
+    "word": "labor",
+    "kk": "[ˋlebɚ]",
+    "pos": "n.",
+    "meaning": "勞動力;勞工",
+    "examples": [
+      { "en": "The factory needs skilled labor to run the machines.", "zh": "工廠需要熟練的勞動力來操作機器。" },
+      { "en": "A shortage of labor slowed down the harvest.", "zh": "勞動力短缺拖慢了收成。" }
+    ],
+    "img": "line of construction workers with tools",
+    "theme": "經濟市場",
+    "level": 3
+  },
+  {
+    "word": "stock",
+    "kk": "[stɑk]",
+    "pos": "n.",
+    "meaning": "股票;股份",
+    "examples": [
+      { "en": "She bought some stock in a well-known tech company.", "zh": "她買了一家知名科技公司的股票。" },
+      { "en": "The price of the stock jumped after the good news.", "zh": "利多消息後股票價格大漲。" }
+    ],
+    "img": "stock ticker board with green numbers",
+    "theme": "經濟市場",
+    "level": 2
+  },
+  {
+    "word": "share",
+    "kk": "[ʃɛr]",
+    "pos": "n.",
+    "meaning": "股份;持股",
+    "examples": [
+      { "en": "He owns a small share of the family business.", "zh": "他持有家族企業的一小部分股份。" },
+      { "en": "The value of each share rose by ten dollars.", "zh": "每股的價值上漲了十美元。" }
+    ],
+    "img": "pie chart split into ownership slices",
+    "theme": "經濟市場",
+    "level": 2
+  },
+  {
+    "word": "shareholder",
+    "kk": "[ˋʃɛr͵holdɚ]",
+    "pos": "n.",
+    "meaning": "股東",
+    "examples": [
+      { "en": "Every shareholder was invited to the annual meeting.", "zh": "每位股東都受邀參加年度會議。" },
+      { "en": "Shareholders voted to keep the current president.", "zh": "股東們投票留任現任總裁。" }
+    ],
+    "img": "people raising hands at a company meeting",
+    "theme": "經濟市場",
+    "level": 3
+  },
+  {
+    "word": "dividend",
+    "kk": "[ˋdɪvə͵dɛnd]",
+    "pos": "n.",
+    "meaning": "股息;紅利",
+    "examples": [
+      { "en": "The company pays a dividend to investors every quarter.", "zh": "該公司每季發放股息給投資人。" },
+      { "en": "A steady dividend attracts long-term shareholders.", "zh": "穩定的股息能吸引長期股東。" }
+    ],
+    "img": "coins dropping into an investor's hand",
+    "theme": "經濟市場",
+    "level": 3
+  },
+  {
+    "word": "investor",
+    "kk": "[ɪnˋvɛstɚ]",
+    "pos": "n.",
+    "meaning": "投資者;投資人",
+    "examples": [
+      { "en": "The investor put her savings into the stock market.", "zh": "這位投資人把積蓄投入股市。" },
+      { "en": "Smart investors spread their money across many stocks.", "zh": "聰明的投資人會把資金分散到許多股票上。" }
+    ],
+    "img": "person studying charts on a laptop",
+    "theme": "經濟市場",
+    "level": 2
+  },
+  {
+    "word": "trade",
+    "kk": "[tred]",
+    "pos": "n.",
+    "meaning": "貿易;交易",
+    "examples": [
+      { "en": "Trade between the two countries grew quickly.", "zh": "兩國之間的貿易迅速成長。" },
+      { "en": "Free trade allows goods to move without heavy taxes.", "zh": "自由貿易讓貨物流通不必課重稅。" }
+    ],
+    "img": "cargo ships at a busy port",
+    "theme": "經濟市場",
+    "level": 2
+  },
+  {
+    "word": "export",
+    "kk": "[ˋɛksport]",
+    "pos": "n.",
+    "meaning": "出口;輸出品",
+    "examples": [
+      { "en": "Rice is one of the country's main exports.", "zh": "稻米是這個國家的主要出口品之一。" },
+      { "en": "Exports fell when foreign demand dropped.", "zh": "當國外需求下降時,出口也減少了。" }
+    ],
+    "img": "shipping containers loaded onto a ship",
+    "theme": "經濟市場",
+    "level": 2
+  },
+  {
+    "word": "import",
+    "kk": "[ˋɪmport]",
+    "pos": "n.",
+    "meaning": "進口;輸入品",
+    "examples": [
+      { "en": "Oil is a major import for many countries.", "zh": "石油是許多國家的主要進口品。" },
+      { "en": "The tax on imports made foreign cars more expensive.", "zh": "進口稅讓外國車變得更貴。" }
+    ],
+    "img": "truck unloading foreign goods at customs",
+    "theme": "經濟市場",
+    "level": 2
+  },
+  {
+    "word": "consumer",
+    "kk": "[kənˋsjumɚ]",
+    "pos": "n.",
+    "meaning": "消費者",
+    "examples": [
+      { "en": "Consumers spend more when they feel confident.", "zh": "消費者有信心時會花更多錢。" },
+      { "en": "Higher prices hurt the average consumer.", "zh": "更高的物價傷害了一般消費者。" }
+    ],
+    "img": "shopper pushing a full grocery cart",
+    "theme": "經濟市場",
+    "level": 2
+  },
+  {
+    "word": "producer",
+    "kk": "[prəˋdjusɚ]",
+    "pos": "n.",
+    "meaning": "生產者;製造商",
+    "examples": [
+      { "en": "Local producers sell their vegetables at the market.", "zh": "本地生產者在市場上販售蔬菜。" },
+      { "en": "Oil producers control much of the world's energy.", "zh": "石油生產者掌控了世界大部分的能源。" }
+    ],
+    "img": "farmer harvesting crops in a field",
+    "theme": "經濟市場",
+    "level": 2
+  },
+  {
+    "word": "output",
+    "kk": "[ˋaʊt͵pʊt]",
+    "pos": "n.",
+    "meaning": "產量;產出",
+    "examples": [
+      { "en": "The factory doubled its output after adding new machines.", "zh": "工廠增添新機器後產量翻倍。" },
+      { "en": "Falling output is often a sign of a weak economy.", "zh": "產量下滑往往是經濟疲弱的徵兆。" }
+    ],
+    "img": "assembly line producing many products",
+    "theme": "經濟市場",
+    "level": 3
+  },
+  {
+    "word": "productivity",
+    "kk": "[͵prodʌkˋtɪvətɪ]",
+    "pos": "n.",
+    "meaning": "生產力;生產率",
+    "examples": [
+      { "en": "New tools improved the team's productivity.", "zh": "新工具提升了團隊的生產力。" },
+      { "en": "Higher productivity lets workers make more in less time.", "zh": "更高的生產力讓工人在更短時間內產出更多。" }
+    ],
+    "img": "efficient factory with fast conveyor belt",
+    "theme": "經濟市場",
+    "level": 3
+  },
+  {
+    "word": "boom",
+    "kk": "[bum]",
+    "pos": "n.",
+    "meaning": "繁榮;景氣大好",
+    "examples": [
+      { "en": "The housing boom made many builders rich.", "zh": "房市榮景讓許多建商致富。" },
+      { "en": "A tech boom brought thousands of jobs to the city.", "zh": "科技榮景為這座城市帶來數千個工作。" }
+    ],
+    "img": "fireworks over a rising skyline",
+    "theme": "經濟市場",
+    "level": 3
+  },
+  {
+    "word": "slump",
+    "kk": "[slʌmp]",
+    "pos": "n.",
+    "meaning": "景氣低迷;暴跌",
+    "examples": [
+      { "en": "Car sales fell into a slump during the crisis.", "zh": "危機期間汽車銷售陷入低迷。" },
+      { "en": "The long slump forced many shops to close.", "zh": "長期的低迷迫使許多店家歇業。" }
+    ],
+    "img": "sharp downward line on a graph",
+    "theme": "經濟市場",
+    "level": 3
+  },
+  {
+    "word": "demand curve",
+    "kk": "[dɪˋmænd kɝv]",
+    "pos": "n.",
+    "meaning": "需求曲線",
+    "examples": [
+      { "en": "The teacher drew a demand curve on the board.", "zh": "老師在黑板上畫了一條需求曲線。" },
+      { "en": "The demand curve shows how price affects buying.", "zh": "需求曲線顯示價格如何影響購買。" }
+    ],
+    "img": "sloping line graph on a whiteboard",
+    "theme": "經濟市場",
+    "level": 3
+  },
+  {
+    "word": "price",
+    "kk": "[praɪs]",
+    "pos": "n.",
+    "meaning": "價格;物價",
+    "examples": [
+      { "en": "The price of gas keeps changing every week.", "zh": "汽油的價格每週都在變動。" },
+      { "en": "When demand rises, the price often goes up.", "zh": "當需求上升時,價格往往會上漲。" }
+    ],
+    "img": "price tag hanging on a product",
+    "theme": "經濟市場",
+    "level": 2
+  },
+  {
+    "word": "cost",
+    "kk": "[kɔst]",
+    "pos": "n.",
+    "meaning": "成本;費用",
+    "examples": [
+      { "en": "The cost of raw materials went up this year.", "zh": "原物料的成本今年上漲了。" },
+      { "en": "Rising costs cut into the company's profit.", "zh": "上升的成本侵蝕了公司的利潤。" }
+    ],
+    "img": "calculator next to stacks of receipts",
+    "theme": "經濟市場",
+    "level": 2
+  },
+  {
+    "word": "market",
+    "kk": "[ˋmɑrkɪt]",
+    "pos": "n.",
+    "meaning": "市場",
+    "examples": [
+      { "en": "The company hopes to enter the Asian market.", "zh": "這家公司希望進入亞洲市場。" },
+      { "en": "A free market lets prices adjust on their own.", "zh": "自由市場讓價格自行調整。" }
+    ],
+    "img": "busy trading floor with many people",
+    "theme": "經濟市場",
+    "level": 2
+  },
+  {
+    "word": "competition",
+    "kk": "[͵kɑmpəˋtɪʃən]",
+    "pos": "n.",
+    "meaning": "競爭",
+    "examples": [
+      { "en": "Competition between airlines lowered ticket prices.", "zh": "航空公司之間的競爭降低了票價。" },
+      { "en": "Strong competition pushes companies to improve.", "zh": "激烈的競爭促使公司不斷改進。" }
+    ],
+    "img": "two runners racing side by side",
+    "theme": "經濟市場",
+    "level": 3
+  },
+  {
+    "word": "monopoly",
+    "kk": "[məˋnɑpḷɪ]",
+    "pos": "n.",
+    "meaning": "壟斷;獨佔",
+    "examples": [
+      { "en": "The firm had a monopoly on the local water supply.", "zh": "該公司壟斷了當地的供水。" },
+      { "en": "A monopoly can charge high prices without competition.", "zh": "獨佔企業在沒有競爭下可以索取高價。" }
+    ],
+    "img": "one giant company controlling a market",
+    "theme": "經濟市場",
+    "level": 3
+  },
+  {
+    "word": "currency",
+    "kk": "[ˋkɝənsɪ]",
+    "pos": "n.",
+    "meaning": "貨幣;通貨",
+    "examples": [
+      { "en": "The dollar is a widely used currency around the world.", "zh": "美元是世界上廣泛使用的貨幣。" },
+      { "en": "A weak currency makes imports more expensive.", "zh": "疲弱的貨幣讓進口商品變得更貴。" }
+    ],
+    "img": "different banknotes from many countries",
+    "theme": "經濟市場",
+    "level": 3
+  },
+  {
+    "word": "value",
+    "kk": "[ˋvælju]",
+    "pos": "n.",
+    "meaning": "價值",
+    "examples": [
+      { "en": "The value of the house rose over the years.", "zh": "這棟房子的價值多年來上升了。" },
+      { "en": "Inflation lowers the value of your savings.", "zh": "通膨會降低你存款的價值。" }
+    ],
+    "img": "coin with an upward value arrow",
+    "theme": "經濟市場",
+    "level": 2
+  },
+  {
+    "word": "purchase",
+    "kk": "[ˋpɝtʃəs]",
+    "pos": "n.",
+    "meaning": "購買;購買物",
+    "examples": [
+      { "en": "The new car was her biggest purchase this year.", "zh": "這輛新車是她今年最大的一筆購買。" },
+      { "en": "Consumers delayed big purchases during the slump.", "zh": "消費者在景氣低迷時延後了大筆消費。" }
+    ],
+    "img": "customer paying at a checkout counter",
+    "theme": "經濟市場",
+    "level": 3
+  },
+  {
+    "word": "spending",
+    "kk": "[ˋspɛndɪŋ]",
+    "pos": "n.",
+    "meaning": "支出;消費",
+    "examples": [
+      { "en": "Consumer spending drives much of the economy.", "zh": "消費者支出推動了大部分的經濟。" },
+      { "en": "Families cut their spending when prices rose.", "zh": "物價上漲時家庭削減了支出。" }
+    ],
+    "img": "wallet with money flowing out",
+    "theme": "經濟市場",
+    "level": 2
+  },
+  {
+    "word": "downturn",
+    "kk": "[ˋdaʊn͵tɝn]",
+    "pos": "n.",
+    "meaning": "衰退;下滑",
+    "examples": [
+      { "en": "The economic downturn hurt small businesses the most.", "zh": "經濟下滑對小型企業的傷害最大。" },
+      { "en": "Sales dropped during the downturn.", "zh": "在景氣下滑期間銷售下降。" }
+    ],
+    "img": "declining graph with a red line",
+    "theme": "經濟市場",
+    "level": 3
+  },
+  {
+    "word": "recovery",
+    "kk": "[rɪˋkʌvərɪ]",
+    "pos": "n.",
+    "meaning": "復甦;好轉",
+    "examples": [
+      { "en": "The economy showed signs of recovery last spring.", "zh": "經濟在去年春天顯現復甦的跡象。" },
+      { "en": "A slow recovery brought jobs back little by little.", "zh": "緩慢的復甦讓工作機會一點一點回來。" }
+    ],
+    "img": "green sprout growing from coins",
+    "theme": "經濟市場",
+    "level": 3
+  },
+  {
+    "word": "index",
+    "kk": "[ˋɪndɛks]",
+    "pos": "n.",
+    "meaning": "指數",
+    "examples": [
+      { "en": "The stock index rose two percent today.", "zh": "股市指數今天上漲了百分之二。" },
+      { "en": "A price index tracks how living costs change.", "zh": "物價指數追蹤生活成本如何變化。" }
+    ],
+    "img": "stock index number on a screen",
+    "theme": "經濟市場",
+    "level": 3
+  },
+  {
+    "word": "rate",
+    "kk": "[ret]",
+    "pos": "n.",
+    "meaning": "比率;率",
+    "examples": [
+      { "en": "The unemployment rate fell to a five-year low.", "zh": "失業率降到五年來的低點。" },
+      { "en": "A high interest rate makes borrowing costly.", "zh": "高利率使借錢的成本變高。" }
+    ],
+    "img": "percentage sign on an economic dashboard",
+    "theme": "經濟市場",
+    "level": 2
+  },
+  {
+    "word": "goods",
+    "kk": "[gʊdz]",
+    "pos": "n.",
+    "meaning": "商品;貨物",
+    "examples": [
+      { "en": "Factories produce goods for people to buy.", "zh": "工廠生產供人們購買的商品。" },
+      { "en": "The price of everyday goods keeps rising.", "zh": "日常商品的價格持續上漲。" }
+    ],
+    "img": "shelves stocked with various products",
+    "theme": "經濟市場",
+    "level": 2
+  },
+  {
+    "word": "demand-side",
+    "kk": "[dɪˋmænd saɪd]",
+    "pos": "adj.",
+    "meaning": "需求面的",
+    "examples": [
+      { "en": "The government used demand-side policies to boost spending.", "zh": "政府運用需求面政策來刺激消費。" },
+      { "en": "Demand-side pressure pushed prices higher.", "zh": "需求面的壓力推高了物價。" }
+    ],
+    "img": "arrows pointing toward buyers in a diagram",
+    "theme": "經濟市場",
+    "level": 3
+  },
+  {
+    "word": "forecast",
+    "kk": "[ˋfor͵kæst]",
+    "pos": "n.",
+    "meaning": "預測;預估",
+    "examples": [
+      { "en": "The economic forecast points to slower growth.", "zh": "經濟預測指向成長趨緩。" },
+      { "en": "Analysts raised their forecast for next year.", "zh": "分析師調高了對明年的預測。" }
+    ],
+    "img": "analyst pointing at a future trend chart",
+    "theme": "經濟市場",
+    "level": 3
+  },
+  {
+    "word": "trend",
+    "kk": "[trɛnd]",
+    "pos": "n.",
+    "meaning": "趨勢;走向",
+    "examples": [
+      { "en": "The upward trend in prices worried shoppers.", "zh": "物價上升的趨勢讓購物者擔憂。" },
+      { "en": "Economists study long-term trends in the market.", "zh": "經濟學家研究市場的長期趨勢。" }
+    ],
+    "img": "arrow following a rising line on a chart",
+    "theme": "經濟市場",
+    "level": 2
+  },
+  {
+    "word": "prosperity",
+    "kk": "[prɑsˋpɛrətɪ]",
+    "pos": "n.",
+    "meaning": "繁榮;興旺",
+    "examples": [
+      { "en": "Years of prosperity raised the whole town's living standard.", "zh": "多年的繁榮提升了整個城鎮的生活水準。" },
+      { "en": "Trade brought prosperity to the coastal region.", "zh": "貿易為沿海地區帶來繁榮。" }
+    ],
+    "img": "thriving city street full of shoppers",
+    "theme": "經濟市場",
+    "level": 3
+  },
+  {
+    "word": "scarcity",
+    "kk": "[ˋskɛrsətɪ]",
+    "pos": "n.",
+    "meaning": "稀少;稀缺",
+    "examples": [
+      { "en": "The scarcity of clean water raised its price.", "zh": "乾淨水源的稀缺推高了它的價格。" },
+      { "en": "Scarcity of resources forces people to make choices.", "zh": "資源的稀缺迫使人們做出選擇。" }
+    ],
+    "img": "single water drop above dry cracked ground",
+    "theme": "經濟市場",
+    "level": 3
+  },
+  {
+    "word": "wealth",
+    "kk": "[wɛlθ]",
+    "pos": "n.",
+    "meaning": "財富;財產",
+    "examples": [
+      { "en": "The country's wealth grew as its exports rose.", "zh": "隨著出口上升,這個國家的財富增加了。" },
+      { "en": "Education helps people build long-term wealth.", "zh": "教育幫助人們建立長期的財富。" }
+    ],
+    "img": "growing pile of gold coins and property",
+    "theme": "經濟市場",
+    "level": 2
+  },
+  {
+    "word": "income",
+    "kk": "[ˋɪn͵kʌm]",
+    "pos": "n.",
+    "meaning": "收入;所得",
+    "examples": [
+      { "en": "Their monthly income barely covers the rent.", "zh": "他們的月收入勉強夠付房租。" },
+      { "en": "Higher wages raised the family's income.", "zh": "更高的工資提高了這家庭的收入。" }
+    ],
+    "img": "monthly paycheck deposited into an account",
+    "theme": "經濟市場",
+    "level": 2
+  },
+  {
+    "word": "gross",
+    "kk": "[gros]",
+    "pos": "adj.",
+    "meaning": "總的;毛的",
+    "examples": [
+      { "en": "Gross domestic product measures a country's total output.", "zh": "國內生產毛額衡量一國的總產出。" },
+      { "en": "The company's gross income was higher than expected.", "zh": "公司的毛收入高於預期。" }
+    ],
+    "img": "large total sum highlighted on a report",
+    "theme": "經濟市場",
+    "level": 3
+  },
+  {
+    "word": "domestic",
+    "kk": "[dəˋmɛstɪk]",
+    "pos": "adj.",
+    "meaning": "國內的;本國的",
+    "examples": [
+      { "en": "Domestic sales grew faster than exports this year.", "zh": "今年國內銷售的成長比出口更快。" },
+      { "en": "The policy aims to protect domestic industries.", "zh": "這項政策旨在保護國內產業。" }
+    ],
+    "img": "map of one country highlighted in color",
+    "theme": "經濟市場",
+    "level": 3
+  }
+]

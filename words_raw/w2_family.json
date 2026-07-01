@@ -1,0 +1,652 @@
+[
+  {
+    "word": "family",
+    "kk": "[ˋfæməlɪ]",
+    "pos": "n.",
+    "meaning": "家庭；家人",
+    "examples": [
+      { "en": "I love spending time with my family.", "zh": "我喜歡和家人相處。" },
+      { "en": "We are a big family.", "zh": "我們是個大家庭。" }
+    ],
+    "img": "happy family sitting together at home",
+    "theme": "家庭親戚",
+    "level": 1
+  },
+  {
+    "word": "father",
+    "kk": "[ˋfɑðɚ]",
+    "pos": "n.",
+    "meaning": "父親；爸爸",
+    "examples": [
+      { "en": "My father works at a bank.", "zh": "我爸爸在銀行工作。" },
+      { "en": "His father is very tall.", "zh": "他的父親很高。" }
+    ],
+    "img": "father smiling with child",
+    "theme": "家庭親戚",
+    "level": 1
+  },
+  {
+    "word": "mother",
+    "kk": "[ˋmʌðɚ]",
+    "pos": "n.",
+    "meaning": "母親；媽媽",
+    "examples": [
+      { "en": "My mother cooks dinner every night.", "zh": "我媽媽每晚都煮晚餐。" },
+      { "en": "Her mother is a teacher.", "zh": "她的母親是老師。" }
+    ],
+    "img": "mother hugging her child warmly",
+    "theme": "家庭親戚",
+    "level": 1
+  },
+  {
+    "word": "parent",
+    "kk": "[ˋpɛrənt]",
+    "pos": "n.",
+    "meaning": "父母親之一",
+    "examples": [
+      { "en": "Every parent wants the best for their kids.", "zh": "每位家長都希望給孩子最好的。" },
+      { "en": "My parents live in Taipei.", "zh": "我的父母住在台北。" }
+    ],
+    "img": "parents holding hands with toddler",
+    "theme": "家庭親戚",
+    "level": 1
+  },
+  {
+    "word": "brother",
+    "kk": "[ˋbrʌðɚ]",
+    "pos": "n.",
+    "meaning": "兄；弟",
+    "examples": [
+      { "en": "My brother is two years older than me.", "zh": "我哥哥比我大兩歲。" },
+      { "en": "Do you have a brother?", "zh": "你有兄弟嗎？" }
+    ],
+    "img": "two brothers playing together",
+    "theme": "家庭親戚",
+    "level": 1
+  },
+  {
+    "word": "sister",
+    "kk": "[ˋsɪstɚ]",
+    "pos": "n.",
+    "meaning": "姊；妹",
+    "examples": [
+      { "en": "My sister loves to sing.", "zh": "我姐姐喜歡唱歌。" },
+      { "en": "She is my little sister.", "zh": "她是我妹妹。" }
+    ],
+    "img": "two sisters laughing together",
+    "theme": "家庭親戚",
+    "level": 1
+  },
+  {
+    "word": "son",
+    "kk": "[sʌn]",
+    "pos": "n.",
+    "meaning": "兒子",
+    "examples": [
+      { "en": "They have one son and one daughter.", "zh": "他們有一個兒子和一個女兒。" },
+      { "en": "Her son just started school.", "zh": "她的兒子剛開始上學。" }
+    ],
+    "img": "father carrying young son on shoulders",
+    "theme": "家庭親戚",
+    "level": 1
+  },
+  {
+    "word": "daughter",
+    "kk": "[ˋdɔtɚ]",
+    "pos": "n.",
+    "meaning": "女兒",
+    "examples": [
+      { "en": "My daughter is five years old.", "zh": "我女兒五歲了。" },
+      { "en": "Their daughter plays the piano.", "zh": "他們的女兒會彈鋼琴。" }
+    ],
+    "img": "mother and young daughter reading",
+    "theme": "家庭親戚",
+    "level": 1
+  },
+  {
+    "word": "baby",
+    "kk": "[ˋbebɪ]",
+    "pos": "n.",
+    "meaning": "嬰兒；寶寶",
+    "examples": [
+      { "en": "The baby is sleeping now.", "zh": "寶寶現在正在睡覺。" },
+      { "en": "They just had a baby.", "zh": "他們剛生了一個寶寶。" }
+    ],
+    "img": "smiling baby in a crib",
+    "theme": "家庭親戚",
+    "level": 1
+  },
+  {
+    "word": "child",
+    "kk": "[tʃaɪld]",
+    "pos": "n.",
+    "meaning": "小孩；孩子",
+    "examples": [
+      { "en": "Every child needs love.", "zh": "每個孩子都需要愛。" },
+      { "en": "She is an only child.", "zh": "她是獨生女。" }
+    ],
+    "img": "happy child playing in park",
+    "theme": "家庭親戚",
+    "level": 1
+  },
+  {
+    "word": "kid",
+    "kk": "[kɪd]",
+    "pos": "n.",
+    "meaning": "小孩（口語）",
+    "examples": [
+      { "en": "How many kids do you have?", "zh": "你有幾個小孩？" },
+      { "en": "The kids are playing outside.", "zh": "孩子們在外面玩。" }
+    ],
+    "img": "group of kids playing outdoors",
+    "theme": "家庭親戚",
+    "level": 1
+  },
+  {
+    "word": "grandfather",
+    "kk": "[ˋɡrænd͵fɑðɚ]",
+    "pos": "n.",
+    "meaning": "祖父；外公",
+    "examples": [
+      { "en": "My grandfather tells great stories.", "zh": "我爺爺很會講故事。" },
+      { "en": "Her grandfather is ninety years old.", "zh": "她的祖父九十歲了。" }
+    ],
+    "img": "elderly grandfather with grandchild",
+    "theme": "家庭親戚",
+    "level": 1
+  },
+  {
+    "word": "grandmother",
+    "kk": "[ˋɡrænd͵mʌðɚ]",
+    "pos": "n.",
+    "meaning": "祖母；外婆",
+    "examples": [
+      { "en": "My grandmother bakes delicious cookies.", "zh": "我奶奶會烤好吃的餅乾。" },
+      { "en": "We visit our grandmother every weekend.", "zh": "我們每個週末去看奶奶。" }
+    ],
+    "img": "grandmother baking with grandchild",
+    "theme": "家庭親戚",
+    "level": 1
+  },
+  {
+    "word": "grandpa",
+    "kk": "[ˋɡrænd͵pɑ]",
+    "pos": "n.",
+    "meaning": "爺爺；外公（口語）",
+    "examples": [
+      { "en": "Grandpa likes to go fishing.", "zh": "爺爺喜歡去釣魚。" },
+      { "en": "I called my grandpa last night.", "zh": "我昨晚打電話給爺爺。" }
+    ],
+    "img": "grandpa fishing by the lake",
+    "theme": "家庭親戚",
+    "level": 1
+  },
+  {
+    "word": "grandma",
+    "kk": "[ˋɡrænd͵mɑ]",
+    "pos": "n.",
+    "meaning": "奶奶；外婆（口語）",
+    "examples": [
+      { "en": "Grandma always gives me candy.", "zh": "奶奶總是給我糖果。" },
+      { "en": "My grandma lives next door.", "zh": "我奶奶住在隔壁。" }
+    ],
+    "img": "grandma knitting in a chair",
+    "theme": "家庭親戚",
+    "level": 1
+  },
+  {
+    "word": "grandparent",
+    "kk": "[ˋɡrænd͵pɛrənt]",
+    "pos": "n.",
+    "meaning": "祖父母之一",
+    "examples": [
+      { "en": "My grandparents raised me.", "zh": "我的祖父母把我養大。" },
+      { "en": "Both grandparents came to my wedding.", "zh": "祖父母都來參加我的婚禮。" }
+    ],
+    "img": "grandparents sitting on a bench",
+    "theme": "家庭親戚",
+    "level": 2
+  },
+  {
+    "word": "grandson",
+    "kk": "[ˋɡrænd͵sʌn]",
+    "pos": "n.",
+    "meaning": "孫子；外孫",
+    "examples": [
+      { "en": "She is proud of her grandson.", "zh": "她以她的孫子為傲。" },
+      { "en": "My grandson just turned ten.", "zh": "我的孫子剛滿十歲。" }
+    ],
+    "img": "grandmother hugging young grandson",
+    "theme": "家庭親戚",
+    "level": 2
+  },
+  {
+    "word": "granddaughter",
+    "kk": "[ˋɡrænd͵dɔtɚ]",
+    "pos": "n.",
+    "meaning": "孫女；外孫女",
+    "examples": [
+      { "en": "His granddaughter loves painting.", "zh": "他的孫女喜歡畫畫。" },
+      { "en": "They spoil their granddaughter.", "zh": "他們很寵孫女。" }
+    ],
+    "img": "grandfather reading to granddaughter",
+    "theme": "家庭親戚",
+    "level": 2
+  },
+  {
+    "word": "uncle",
+    "kk": "[ˋʌŋkl̩]",
+    "pos": "n.",
+    "meaning": "叔叔；伯伯；舅舅",
+    "examples": [
+      { "en": "My uncle drives a big truck.", "zh": "我叔叔開一輛大卡車。" },
+      { "en": "Uncle Tom is coming for dinner.", "zh": "湯姆叔叔要來吃晚餐。" }
+    ],
+    "img": "uncle playing with nephew",
+    "theme": "家庭親戚",
+    "level": 1
+  },
+  {
+    "word": "aunt",
+    "kk": "[ænt]",
+    "pos": "n.",
+    "meaning": "阿姨；姑姑；嬸嬸",
+    "examples": [
+      { "en": "My aunt lives in Canada.", "zh": "我阿姨住在加拿大。" },
+      { "en": "Aunt Mary makes the best cakes.", "zh": "瑪莉阿姨做的蛋糕最好吃。" }
+    ],
+    "img": "aunt hugging her niece",
+    "theme": "家庭親戚",
+    "level": 1
+  },
+  {
+    "word": "cousin",
+    "kk": "[ˋkʌzn̩]",
+    "pos": "n.",
+    "meaning": "堂/表兄弟姊妹",
+    "examples": [
+      { "en": "My cousin and I are the same age.", "zh": "我和我的表哥同年齡。" },
+      { "en": "I have many cousins.", "zh": "我有很多表兄弟姊妹。" }
+    ],
+    "img": "cousins playing games together",
+    "theme": "家庭親戚",
+    "level": 2
+  },
+  {
+    "word": "nephew",
+    "kk": "[ˋnɛfju]",
+    "pos": "n.",
+    "meaning": "姪子；外甥",
+    "examples": [
+      { "en": "My nephew loves dinosaurs.", "zh": "我姪子喜歡恐龍。" },
+      { "en": "I bought a gift for my nephew.", "zh": "我幫姪子買了禮物。" }
+    ],
+    "img": "uncle giving gift to nephew",
+    "theme": "家庭親戚",
+    "level": 2
+  },
+  {
+    "word": "niece",
+    "kk": "[nis]",
+    "pos": "n.",
+    "meaning": "姪女；外甥女",
+    "examples": [
+      { "en": "My niece just learned to walk.", "zh": "我姪女剛學會走路。" },
+      { "en": "I take my niece to the park.", "zh": "我帶姪女去公園。" }
+    ],
+    "img": "aunt walking with little niece",
+    "theme": "家庭親戚",
+    "level": 2
+  },
+  {
+    "word": "husband",
+    "kk": "[ˋhʌzbənd]",
+    "pos": "n.",
+    "meaning": "丈夫；老公",
+    "examples": [
+      { "en": "Her husband works from home.", "zh": "她的丈夫在家工作。" },
+      { "en": "My husband loves cooking.", "zh": "我老公喜歡下廚。" }
+    ],
+    "img": "husband and wife cooking together",
+    "theme": "家庭親戚",
+    "level": 1
+  },
+  {
+    "word": "wife",
+    "kk": "[waɪf]",
+    "pos": "n.",
+    "meaning": "妻子；太太",
+    "examples": [
+      { "en": "His wife is a doctor.", "zh": "他的太太是醫生。" },
+      { "en": "My wife and I love traveling.", "zh": "我和我太太喜歡旅行。" }
+    ],
+    "img": "couple holding hands on walk",
+    "theme": "家庭親戚",
+    "level": 1
+  },
+  {
+    "word": "married",
+    "kk": "[ˋmærɪd]",
+    "pos": "adj.",
+    "meaning": "已婚的",
+    "examples": [
+      { "en": "They have been married for ten years.", "zh": "他們結婚十年了。" },
+      { "en": "Are you married?", "zh": "你結婚了嗎？" }
+    ],
+    "img": "married couple wearing wedding rings",
+    "theme": "家庭親戚",
+    "level": 2
+  },
+  {
+    "word": "wedding",
+    "kk": "[ˋwɛdɪŋ]",
+    "pos": "n.",
+    "meaning": "婚禮",
+    "examples": [
+      { "en": "Their wedding was beautiful.", "zh": "他們的婚禮很美。" },
+      { "en": "I'm going to my friend's wedding.", "zh": "我要去參加朋友的婚禮。" }
+    ],
+    "img": "bride and groom at wedding ceremony",
+    "theme": "家庭親戚",
+    "level": 2
+  },
+  {
+    "word": "couple",
+    "kk": "[ˋkʌpl̩]",
+    "pos": "n.",
+    "meaning": "夫妻；一對情侶",
+    "examples": [
+      { "en": "The couple lives near the beach.", "zh": "這對夫妻住在海邊附近。" },
+      { "en": "They make a lovely couple.", "zh": "他們是很登對的一對。" }
+    ],
+    "img": "young couple walking on beach",
+    "theme": "家庭親戚",
+    "level": 2
+  },
+  {
+    "word": "relative",
+    "kk": "[ˋrɛlətɪv]",
+    "pos": "n.",
+    "meaning": "親戚",
+    "examples": [
+      { "en": "We have relatives in the countryside.", "zh": "我們在鄉下有親戚。" },
+      { "en": "Many relatives came to the party.", "zh": "許多親戚來參加派對。" }
+    ],
+    "img": "large group of relatives gathering",
+    "theme": "家庭親戚",
+    "level": 2
+  },
+  {
+    "word": "twin",
+    "kk": "[twɪn]",
+    "pos": "n.",
+    "meaning": "雙胞胎之一",
+    "examples": [
+      { "en": "She has a twin sister.", "zh": "她有個雙胞胎妹妹。" },
+      { "en": "The twins look exactly alike.", "zh": "這對雙胞胎長得一模一樣。" }
+    ],
+    "img": "identical twin siblings side by side",
+    "theme": "家庭親戚",
+    "level": 2
+  },
+  {
+    "word": "sibling",
+    "kk": "[ˋsɪblɪŋ]",
+    "pos": "n.",
+    "meaning": "兄弟姊妹",
+    "examples": [
+      { "en": "How many siblings do you have?", "zh": "你有幾個兄弟姊妹？" },
+      { "en": "My siblings and I are very close.", "zh": "我和兄弟姊妹感情很好。" }
+    ],
+    "img": "three siblings sitting on couch",
+    "theme": "家庭親戚",
+    "level": 2
+  },
+  {
+    "word": "single",
+    "kk": "[ˋsɪŋɡl̩]",
+    "pos": "adj.",
+    "meaning": "單身的",
+    "examples": [
+      { "en": "He is still single.", "zh": "他還是單身。" },
+      { "en": "She likes being single.", "zh": "她喜歡單身生活。" }
+    ],
+    "img": "single person relaxing alone at home",
+    "theme": "家庭親戚",
+    "level": 2
+  },
+  {
+    "word": "engaged",
+    "kk": "[ɪnˋɡedʒd]",
+    "pos": "adj.",
+    "meaning": "訂婚的",
+    "examples": [
+      { "en": "They got engaged last month.", "zh": "他們上個月訂婚了。" },
+      { "en": "My sister is engaged now.", "zh": "我姐姐現在訂婚了。" }
+    ],
+    "img": "couple showing engagement ring",
+    "theme": "家庭親戚",
+    "level": 3
+  },
+  {
+    "word": "divorce",
+    "kk": "[dəˋvɔrs]",
+    "pos": "n./v.",
+    "meaning": "離婚",
+    "examples": [
+      { "en": "Their divorce surprised everyone.", "zh": "他們離婚讓大家很意外。" },
+      { "en": "They decided to divorce.", "zh": "他們決定離婚。" }
+    ],
+    "img": "torn wedding photo on table",
+    "theme": "家庭親戚",
+    "level": 3
+  },
+  {
+    "word": "stepfather",
+    "kk": "[ˋstɛp͵fɑðɚ]",
+    "pos": "n.",
+    "meaning": "繼父",
+    "examples": [
+      { "en": "My stepfather is very kind.", "zh": "我的繼父人很好。" },
+      { "en": "Her stepfather teaches math.", "zh": "她的繼父教數學。" }
+    ],
+    "img": "stepfather and teen playing catch",
+    "theme": "家庭親戚",
+    "level": 3
+  },
+  {
+    "word": "stepmother",
+    "kk": "[ˋstɛp͵mʌðɚ]",
+    "pos": "n.",
+    "meaning": "繼母",
+    "examples": [
+      { "en": "His stepmother cooks wonderful meals.", "zh": "他的繼母煮的菜很棒。" },
+      { "en": "I get along with my stepmother.", "zh": "我和繼母相處融洽。" }
+    ],
+    "img": "stepmother helping child with homework",
+    "theme": "家庭親戚",
+    "level": 3
+  },
+  {
+    "word": "in-law",
+    "kk": "[ˋɪn͵lɔ]",
+    "pos": "n.",
+    "meaning": "姻親",
+    "examples": [
+      { "en": "My in-laws are visiting this week.", "zh": "我的姻親這週來訪。" },
+      { "en": "She gets along with her in-laws.", "zh": "她和姻親相處得很好。" }
+    ],
+    "img": "family dinner with in-laws",
+    "theme": "家庭親戚",
+    "level": 3
+  },
+  {
+    "word": "ancestor",
+    "kk": "[ˋænsɛstɚ]",
+    "pos": "n.",
+    "meaning": "祖先",
+    "examples": [
+      { "en": "Our ancestors came from China.", "zh": "我們的祖先來自中國。" },
+      { "en": "We honor our ancestors every year.", "zh": "我們每年祭拜祖先。" }
+    ],
+    "img": "old family portraits on wall",
+    "theme": "家庭親戚",
+    "level": 3
+  },
+  {
+    "word": "generation",
+    "kk": "[͵dʒɛnəˋreʃən]",
+    "pos": "n.",
+    "meaning": "世代；一代",
+    "examples": [
+      { "en": "Three generations live in this house.", "zh": "三代人住在這間屋子裡。" },
+      { "en": "Each generation has its own style.", "zh": "每一代都有自己的風格。" }
+    ],
+    "img": "three generations of family together",
+    "theme": "家庭親戚",
+    "level": 3
+  },
+  {
+    "word": "household",
+    "kk": "[ˋhaʊs͵hold]",
+    "pos": "n.",
+    "meaning": "家庭；一戶人家",
+    "examples": [
+      { "en": "There are five people in our household.", "zh": "我們家有五口人。" },
+      { "en": "She manages the whole household.", "zh": "她打理整個家。" }
+    ],
+    "img": "busy family kitchen at home",
+    "theme": "家庭親戚",
+    "level": 3
+  },
+  {
+    "word": "raise",
+    "kk": "[rez]",
+    "pos": "v.",
+    "meaning": "養育；撫養",
+    "examples": [
+      { "en": "They raised four children.", "zh": "他們養育了四個孩子。" },
+      { "en": "It's hard to raise kids alone.", "zh": "獨自撫養孩子很辛苦。" }
+    ],
+    "img": "parents teaching child to walk",
+    "theme": "家庭親戚",
+    "level": 2
+  },
+  {
+    "word": "adopt",
+    "kk": "[əˋdɑpt]",
+    "pos": "v.",
+    "meaning": "收養",
+    "examples": [
+      { "en": "They adopted a little boy.", "zh": "他們收養了一個小男孩。" },
+      { "en": "She wants to adopt a child.", "zh": "她想收養一個孩子。" }
+    ],
+    "img": "couple welcoming adopted child home",
+    "theme": "家庭親戚",
+    "level": 3
+  },
+  {
+    "word": "pregnant",
+    "kk": "[ˋprɛɡnənt]",
+    "pos": "adj.",
+    "meaning": "懷孕的",
+    "examples": [
+      { "en": "My sister is pregnant.", "zh": "我姐姐懷孕了。" },
+      { "en": "She is six months pregnant.", "zh": "她懷孕六個月了。" }
+    ],
+    "img": "pregnant woman touching her belly",
+    "theme": "家庭親戚",
+    "level": 3
+  },
+  {
+    "word": "elder",
+    "kk": "[ˋɛldɚ]",
+    "pos": "n./adj.",
+    "meaning": "長輩；年長的",
+    "examples": [
+      { "en": "We should respect our elders.", "zh": "我們應該尊敬長輩。" },
+      { "en": "He is the elder brother.", "zh": "他是哥哥。" }
+    ],
+    "img": "young person helping an elder",
+    "theme": "家庭親戚",
+    "level": 3
+  },
+  {
+    "word": "godfather",
+    "kk": "[ˋɡɑd͵fɑðɚ]",
+    "pos": "n.",
+    "meaning": "教父",
+    "examples": [
+      { "en": "My godfather gave me this watch.", "zh": "我的教父送了我這隻手錶。" },
+      { "en": "He is my son's godfather.", "zh": "他是我兒子的教父。" }
+    ],
+    "img": "godfather holding baby at church",
+    "theme": "家庭親戚",
+    "level": 3
+  },
+  {
+    "word": "toddler",
+    "kk": "[ˋtɑdlɚ]",
+    "pos": "n.",
+    "meaning": "學步的幼兒",
+    "examples": [
+      { "en": "The toddler is learning to walk.", "zh": "這個幼兒正在學走路。" },
+      { "en": "Toddlers need a lot of attention.", "zh": "幼兒需要很多照顧。" }
+    ],
+    "img": "toddler taking first steps",
+    "theme": "家庭親戚",
+    "level": 3
+  },
+  {
+    "word": "orphan",
+    "kk": "[ˋɔrfən]",
+    "pos": "n.",
+    "meaning": "孤兒",
+    "examples": [
+      { "en": "The orphan was raised by his aunt.", "zh": "這個孤兒由他的阿姨扶養。" },
+      { "en": "She works at an orphan home.", "zh": "她在孤兒院工作。" }
+    ],
+    "img": "child alone holding a teddy bear",
+    "theme": "家庭親戚",
+    "level": 3
+  },
+  {
+    "word": "widow",
+    "kk": "[ˋwɪdo]",
+    "pos": "n.",
+    "meaning": "寡婦",
+    "examples": [
+      { "en": "The widow lives with her son.", "zh": "這位寡婦和兒子同住。" },
+      { "en": "She became a widow last year.", "zh": "她去年成了寡婦。" }
+    ],
+    "img": "elderly woman looking at old photo",
+    "theme": "家庭親戚",
+    "level": 3
+  },
+  {
+    "word": "reunion",
+    "kk": "[riˋjunjən]",
+    "pos": "n.",
+    "meaning": "團聚；聚會",
+    "examples": [
+      { "en": "Our family reunion is next month.", "zh": "我們的家庭聚會在下個月。" },
+      { "en": "The reunion made everyone happy.", "zh": "這次團聚讓大家很開心。" }
+    ],
+    "img": "big family reunion outdoor gathering",
+    "theme": "家庭親戚",
+    "level": 3
+  },
+  {
+    "word": "bond",
+    "kk": "[bɑnd]",
+    "pos": "n.",
+    "meaning": "情感連結；牽絆",
+    "examples": [
+      { "en": "The bond between them is strong.", "zh": "他們之間的情感連結很深。" },
+      { "en": "Family bonds are important.", "zh": "家庭的情感連結很重要。" }
+    ],
+    "img": "family holding hands in a circle",
+    "theme": "家庭親戚",
+    "level": 3
+  }
+]

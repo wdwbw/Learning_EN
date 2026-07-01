@@ -1,0 +1,652 @@
+[
+  {
+    "word": "camera",
+    "kk": "[ˋkæmərə]",
+    "pos": "n.",
+    "meaning": "相機;攝影機",
+    "examples": [
+      { "en": "She bought a new camera for her trip.", "zh": "她為了旅行買了一台新相機。" },
+      { "en": "Don't forget to charge the camera battery.", "zh": "別忘了幫相機電池充電。" }
+    ],
+    "img": "digital camera in hands",
+    "theme": "攝影影像",
+    "level": 2
+  },
+  {
+    "word": "lens",
+    "kk": "[lɛnz]",
+    "pos": "n.",
+    "meaning": "鏡頭;鏡片",
+    "examples": [
+      { "en": "He changed the lens to shoot faraway birds.", "zh": "他換了鏡頭來拍遠處的鳥。" },
+      { "en": "Please wipe the lens with a soft cloth.", "zh": "請用軟布擦拭鏡頭。" }
+    ],
+    "img": "camera lens close up",
+    "theme": "攝影影像",
+    "level": 2
+  },
+  {
+    "word": "aperture",
+    "kk": "[ˋæpɚˏtʃʊr]",
+    "pos": "n.",
+    "meaning": "光圈",
+    "examples": [
+      { "en": "A wide aperture lets in more light.", "zh": "大光圈能讓更多光線進入。" },
+      { "en": "She adjusted the aperture to blur the background.", "zh": "她調整光圈來模糊背景。" }
+    ],
+    "img": "camera aperture blades",
+    "theme": "攝影影像",
+    "level": 3
+  },
+  {
+    "word": "shutter",
+    "kk": "[ˋʃʌtɚ]",
+    "pos": "n.",
+    "meaning": "快門",
+    "examples": [
+      { "en": "Press the shutter gently to avoid shaking.", "zh": "輕輕按下快門以免晃動。" },
+      { "en": "A fast shutter freezes quick motion.", "zh": "高速快門能凝結快速動作。" }
+    ],
+    "img": "camera shutter button finger",
+    "theme": "攝影影像",
+    "level": 2
+  },
+  {
+    "word": "focus",
+    "kk": "[ˋfokəs]",
+    "pos": "v./n.",
+    "meaning": "對焦;焦點",
+    "examples": [
+      { "en": "The camera can focus on your eyes automatically.", "zh": "相機能自動對焦在你的眼睛上。" },
+      { "en": "Keep the subject in focus.", "zh": "讓主體保持清晰對焦。" }
+    ],
+    "img": "camera focus ring closeup",
+    "theme": "攝影影像",
+    "level": 2
+  },
+  {
+    "word": "exposure",
+    "kk": "[ɪkˋspoʒɚ]",
+    "pos": "n.",
+    "meaning": "曝光",
+    "examples": [
+      { "en": "The photo has too much exposure and looks white.", "zh": "這張照片曝光過度,看起來偏白。" },
+      { "en": "Correct exposure makes colors look natural.", "zh": "正確曝光讓色彩看起來自然。" }
+    ],
+    "img": "bright overexposed photo",
+    "theme": "攝影影像",
+    "level": 3
+  },
+  {
+    "word": "tripod",
+    "kk": "[ˋtraɪˏpɑd]",
+    "pos": "n.",
+    "meaning": "三腳架",
+    "examples": [
+      { "en": "Use a tripod to keep the camera steady at night.", "zh": "夜間用三腳架讓相機保持穩定。" },
+      { "en": "He set the tripod on the flat ground.", "zh": "他把三腳架架在平坦的地面上。" }
+    ],
+    "img": "camera on tripod outdoor",
+    "theme": "攝影影像",
+    "level": 2
+  },
+  {
+    "word": "flash",
+    "kk": "[flæʃ]",
+    "pos": "n./v.",
+    "meaning": "閃光燈;閃光",
+    "examples": [
+      { "en": "Turn on the flash in a dark room.", "zh": "在暗房裡打開閃光燈。" },
+      { "en": "The flash was too strong for the close-up.", "zh": "對近拍來說閃光燈太強了。" }
+    ],
+    "img": "camera flash light burst",
+    "theme": "攝影影像",
+    "level": 2
+  },
+  {
+    "word": "zoom",
+    "kk": "[zum]",
+    "pos": "v./n.",
+    "meaning": "變焦;拉近",
+    "examples": [
+      { "en": "Zoom in to see the details of the flower.", "zh": "拉近鏡頭看花的細節。" },
+      { "en": "This lens can zoom very far.", "zh": "這顆鏡頭可以拉得很遠。" }
+    ],
+    "img": "zoom lens extended",
+    "theme": "攝影影像",
+    "level": 2
+  },
+  {
+    "word": "portrait",
+    "kk": "[ˋportret]",
+    "pos": "n.",
+    "meaning": "人像;肖像照",
+    "examples": [
+      { "en": "She takes beautiful portraits of children.", "zh": "她拍的兒童人像照很美。" },
+      { "en": "A soft light is good for a portrait.", "zh": "柔和的光線適合拍人像。" }
+    ],
+    "img": "studio portrait photograph",
+    "theme": "攝影影像",
+    "level": 2
+  },
+  {
+    "word": "landscape",
+    "kk": "[ˋlændˏskep]",
+    "pos": "n.",
+    "meaning": "風景;風景照",
+    "examples": [
+      { "en": "He loves shooting mountain landscapes.", "zh": "他喜歡拍山景。" },
+      { "en": "The landscape looked golden at sunset.", "zh": "夕陽下的風景一片金黃。" }
+    ],
+    "img": "wide landscape mountain photo",
+    "theme": "攝影影像",
+    "level": 2
+  },
+  {
+    "word": "background",
+    "kk": "[ˋbækˏgraʊnd]",
+    "pos": "n.",
+    "meaning": "背景",
+    "examples": [
+      { "en": "Choose a simple background for the photo.", "zh": "為照片選一個簡單的背景。" },
+      { "en": "The blurry background makes her stand out.", "zh": "模糊的背景讓她更突出。" }
+    ],
+    "img": "blurred photo background",
+    "theme": "攝影影像",
+    "level": 2
+  },
+  {
+    "word": "foreground",
+    "kk": "[ˋforˏgraʊnd]",
+    "pos": "n.",
+    "meaning": "前景",
+    "examples": [
+      { "en": "The flowers in the foreground add depth.", "zh": "前景的花朵增加了層次感。" },
+      { "en": "Put a rock in the foreground for interest.", "zh": "在前景放一塊石頭增添趣味。" }
+    ],
+    "img": "foreground rocks landscape",
+    "theme": "攝影影像",
+    "level": 3
+  },
+  {
+    "word": "composition",
+    "kk": "[ˏkɑmpəˋzɪʃən]",
+    "pos": "n.",
+    "meaning": "構圖",
+    "examples": [
+      { "en": "Good composition makes a photo more pleasing.", "zh": "好的構圖讓照片更賞心悅目。" },
+      { "en": "Try to balance the composition on both sides.", "zh": "試著讓構圖左右平衡。" }
+    ],
+    "img": "photography composition grid",
+    "theme": "攝影影像",
+    "level": 3
+  },
+  {
+    "word": "frame",
+    "kk": "[frem]",
+    "pos": "n./v.",
+    "meaning": "取景框;框住",
+    "examples": [
+      { "en": "Frame the tree in the center of the shot.", "zh": "把樹取景在畫面正中央。" },
+      { "en": "Keep the horizon straight in the frame.", "zh": "讓地平線在畫面中保持水平。" }
+    ],
+    "img": "camera viewfinder frame",
+    "theme": "攝影影像",
+    "level": 2
+  },
+  {
+    "word": "angle",
+    "kk": "[ˋæŋgl]",
+    "pos": "n.",
+    "meaning": "角度",
+    "examples": [
+      { "en": "Try a low angle to make the building look tall.", "zh": "試試低角度讓建築物看起來更高。" },
+      { "en": "A new angle can change the whole photo.", "zh": "換個角度能改變整張照片。" }
+    ],
+    "img": "low angle photography shot",
+    "theme": "攝影影像",
+    "level": 2
+  },
+  {
+    "word": "subject",
+    "kk": "[ˋsʌbdʒɪkt]",
+    "pos": "n.",
+    "meaning": "主體;拍攝對象",
+    "examples": [
+      { "en": "The cat is the main subject of this photo.", "zh": "貓是這張照片的主要主體。" },
+      { "en": "Place your subject off to one side.", "zh": "把你的主體放在一側。" }
+    ],
+    "img": "photo subject focus point",
+    "theme": "攝影影像",
+    "level": 2
+  },
+  {
+    "word": "shot",
+    "kk": "[ʃɑt]",
+    "pos": "n.",
+    "meaning": "拍攝;一張照片",
+    "examples": [
+      { "en": "That was a great shot of the sunset.", "zh": "那張夕陽照拍得真好。" },
+      { "en": "Let me take one more shot.", "zh": "讓我再拍一張。" }
+    ],
+    "img": "photographer taking a shot",
+    "theme": "攝影影像",
+    "level": 2
+  },
+  {
+    "word": "snapshot",
+    "kk": "[ˋsnæpˏʃɑt]",
+    "pos": "n.",
+    "meaning": "快照;隨手拍",
+    "examples": [
+      { "en": "She took a quick snapshot of her friends.", "zh": "她隨手拍了朋友一張快照。" },
+      { "en": "It's just a casual snapshot, not a pro photo.", "zh": "這只是隨手拍,不是專業照片。" }
+    ],
+    "img": "casual snapshot friends",
+    "theme": "攝影影像",
+    "level": 2
+  },
+  {
+    "word": "image",
+    "kk": "[ˋɪmɪdʒ]",
+    "pos": "n.",
+    "meaning": "影像;圖像",
+    "examples": [
+      { "en": "The image is sharp and clear.", "zh": "這張影像清晰銳利。" },
+      { "en": "Save the image in a high quality.", "zh": "以高畫質儲存這張影像。" }
+    ],
+    "img": "digital image on screen",
+    "theme": "攝影影像",
+    "level": 2
+  },
+  {
+    "word": "resolution",
+    "kk": "[ˏrɛzəˋluʃən]",
+    "pos": "n.",
+    "meaning": "解析度",
+    "examples": [
+      { "en": "High resolution photos look very detailed.", "zh": "高解析度照片看起來很細緻。" },
+      { "en": "Low resolution makes the image blurry.", "zh": "低解析度使影像變模糊。" }
+    ],
+    "img": "high resolution pixels closeup",
+    "theme": "攝影影像",
+    "level": 3
+  },
+  {
+    "word": "pixel",
+    "kk": "[ˋpɪksl]",
+    "pos": "n.",
+    "meaning": "像素",
+    "examples": [
+      { "en": "This camera has millions of pixels.", "zh": "這台相機有數百萬像素。" },
+      { "en": "You can see the pixels when you zoom in too far.", "zh": "放太大就能看到像素。" }
+    ],
+    "img": "zoomed image pixels grid",
+    "theme": "攝影影像",
+    "level": 3
+  },
+  {
+    "word": "filter",
+    "kk": "[ˋfɪltɚ]",
+    "pos": "n./v.",
+    "meaning": "濾鏡;濾片",
+    "examples": [
+      { "en": "She added a warm filter to the photo.", "zh": "她為照片加了暖色濾鏡。" },
+      { "en": "A polarizing filter cuts reflections.", "zh": "偏光鏡能減少反光。" }
+    ],
+    "img": "photo filter effect preview",
+    "theme": "攝影影像",
+    "level": 2
+  },
+  {
+    "word": "edit",
+    "kk": "[ˋɛdɪt]",
+    "pos": "v.",
+    "meaning": "編輯;修圖",
+    "examples": [
+      { "en": "I need to edit these photos before posting.", "zh": "上傳前我得先修這些照片。" },
+      { "en": "She edits pictures on her laptop.", "zh": "她在筆電上修圖。" }
+    ],
+    "img": "photo editing software screen",
+    "theme": "攝影影像",
+    "level": 2
+  },
+  {
+    "word": "crop",
+    "kk": "[krɑp]",
+    "pos": "v./n.",
+    "meaning": "裁切",
+    "examples": [
+      { "en": "Crop the photo to remove the messy edge.", "zh": "裁切照片以去掉雜亂的邊緣。" },
+      { "en": "A tight crop focuses on the face.", "zh": "緊密裁切能聚焦在臉部。" }
+    ],
+    "img": "photo crop tool interface",
+    "theme": "攝影影像",
+    "level": 2
+  },
+  {
+    "word": "brightness",
+    "kk": "[ˋbraɪtnɪs]",
+    "pos": "n.",
+    "meaning": "亮度",
+    "examples": [
+      { "en": "Increase the brightness to see the dark corners.", "zh": "提高亮度就能看清暗角。" },
+      { "en": "The brightness is too high in this image.", "zh": "這張影像亮度太高了。" }
+    ],
+    "img": "brightness slider photo edit",
+    "theme": "攝影影像",
+    "level": 2
+  },
+  {
+    "word": "contrast",
+    "kk": "[ˋkɑntræst]",
+    "pos": "n.",
+    "meaning": "對比",
+    "examples": [
+      { "en": "More contrast makes the shadows darker.", "zh": "更高的對比讓陰影更深。" },
+      { "en": "Lower the contrast for a soft look.", "zh": "降低對比營造柔和感。" }
+    ],
+    "img": "high contrast black white photo",
+    "theme": "攝影影像",
+    "level": 3
+  },
+  {
+    "word": "saturation",
+    "kk": "[ˏsætʃəˋreʃən]",
+    "pos": "n.",
+    "meaning": "飽和度",
+    "examples": [
+      { "en": "High saturation makes the colors pop.", "zh": "高飽和度讓色彩更鮮豔。" },
+      { "en": "Reduce the saturation for a faded look.", "zh": "降低飽和度營造褪色感。" }
+    ],
+    "img": "color saturation slider",
+    "theme": "攝影影像",
+    "level": 3
+  },
+  {
+    "word": "retouch",
+    "kk": "[riˋtʌtʃ]",
+    "pos": "v.",
+    "meaning": "修飾;潤飾",
+    "examples": [
+      { "en": "The artist retouched the model's skin.", "zh": "美編潤飾了模特兒的膚質。" },
+      { "en": "Please retouch the small spots on the photo.", "zh": "請修掉照片上的小斑點。" }
+    ],
+    "img": "retouching portrait skin editing",
+    "theme": "攝影影像",
+    "level": 3
+  },
+  {
+    "word": "shadow",
+    "kk": "[ˋʃædo]",
+    "pos": "n.",
+    "meaning": "陰影",
+    "examples": [
+      { "en": "The long shadow adds drama to the shot.", "zh": "長長的陰影為畫面增添戲劇感。" },
+      { "en": "Lift the shadows to show more detail.", "zh": "提亮陰影以顯示更多細節。" }
+    ],
+    "img": "long shadow photography",
+    "theme": "攝影影像",
+    "level": 2
+  },
+  {
+    "word": "highlight",
+    "kk": "[ˋhaɪˏlaɪt]",
+    "pos": "n.",
+    "meaning": "亮部;高光",
+    "examples": [
+      { "en": "The highlights on the water look bright.", "zh": "水面上的高光看起來很亮。" },
+      { "en": "Reduce the highlights so the sky isn't white.", "zh": "降低亮部,天空才不會太白。" }
+    ],
+    "img": "highlights on water reflection",
+    "theme": "攝影影像",
+    "level": 3
+  },
+  {
+    "word": "lighting",
+    "kk": "[ˋlaɪtɪŋ]",
+    "pos": "n.",
+    "meaning": "光線;打光",
+    "examples": [
+      { "en": "Good lighting is key to a great photo.", "zh": "好的光線是拍出好照片的關鍵。" },
+      { "en": "The soft lighting made her look gentle.", "zh": "柔和的光線讓她顯得溫柔。" }
+    ],
+    "img": "soft studio lighting setup",
+    "theme": "攝影影像",
+    "level": 2
+  },
+  {
+    "word": "backlight",
+    "kk": "[ˋbækˏlaɪt]",
+    "pos": "n.",
+    "meaning": "逆光;背光",
+    "examples": [
+      { "en": "The backlight created a glowing edge on her hair.", "zh": "逆光在她的髮絲上勾出光邊。" },
+      { "en": "Shooting into backlight can be tricky.", "zh": "逆光拍攝可能很棘手。" }
+    ],
+    "img": "backlight silhouette sunset",
+    "theme": "攝影影像",
+    "level": 3
+  },
+  {
+    "word": "silhouette",
+    "kk": "[ˏsɪluˋɛt]",
+    "pos": "n.",
+    "meaning": "剪影",
+    "examples": [
+      { "en": "Their silhouette stood against the orange sky.", "zh": "他們的剪影襯著橘色的天空。" },
+      { "en": "A silhouette hides the details of the face.", "zh": "剪影會遮住臉部的細節。" }
+    ],
+    "img": "person silhouette at sunset",
+    "theme": "攝影影像",
+    "level": 3
+  },
+  {
+    "word": "blur",
+    "kk": "[blɝ]",
+    "pos": "n./v.",
+    "meaning": "模糊",
+    "examples": [
+      { "en": "The soft blur behind the flower looks nice.", "zh": "花朵後方柔和的模糊很好看。" },
+      { "en": "Motion blur shows the speed of the car.", "zh": "動態模糊呈現出車子的速度。" }
+    ],
+    "img": "background blur bokeh photo",
+    "theme": "攝影影像",
+    "level": 2
+  },
+  {
+    "word": "sharp",
+    "kk": "[ʃɑrp]",
+    "pos": "adj.",
+    "meaning": "清晰的;銳利的",
+    "examples": [
+      { "en": "The eyes are perfectly sharp in this photo.", "zh": "這張照片裡的眼睛非常清晰。" },
+      { "en": "Use a tripod to keep the image sharp.", "zh": "用三腳架讓影像保持清晰。" }
+    ],
+    "img": "sharp focus detailed photo",
+    "theme": "攝影影像",
+    "level": 2
+  },
+  {
+    "word": "grain",
+    "kk": "[gren]",
+    "pos": "n.",
+    "meaning": "顆粒;雜訊感",
+    "examples": [
+      { "en": "The old film photo has heavy grain.", "zh": "這張老底片照片顆粒感很重。" },
+      { "en": "Some grain gives the photo a vintage feel.", "zh": "一點顆粒感讓照片有復古味。" }
+    ],
+    "img": "grainy film photograph texture",
+    "theme": "攝影影像",
+    "level": 3
+  },
+  {
+    "word": "flare",
+    "kk": "[flɛr]",
+    "pos": "n.",
+    "meaning": "光斑;耀光",
+    "examples": [
+      { "en": "The lens flare added a dreamy touch.", "zh": "鏡頭耀光增添了夢幻感。" },
+      { "en": "Point away from the sun to avoid flare.", "zh": "避開太陽方向以免產生耀光。" }
+    ],
+    "img": "lens flare sunlight photo",
+    "theme": "攝影影像",
+    "level": 3
+  },
+  {
+    "word": "viewfinder",
+    "kk": "[ˋvjuˏfaɪndɚ]",
+    "pos": "n.",
+    "meaning": "觀景窗",
+    "examples": [
+      { "en": "Look through the viewfinder before you shoot.", "zh": "拍攝前先透過觀景窗看。" },
+      { "en": "The viewfinder shows what the lens sees.", "zh": "觀景窗顯示鏡頭所看到的畫面。" }
+    ],
+    "img": "eye looking through viewfinder",
+    "theme": "攝影影像",
+    "level": 3
+  },
+  {
+    "word": "memory card",
+    "kk": "[ˋmɛmərɪ kɑrd]",
+    "pos": "n.",
+    "meaning": "記憶卡",
+    "examples": [
+      { "en": "The memory card is full of photos.", "zh": "記憶卡裡塞滿了照片。" },
+      { "en": "Insert the memory card before shooting.", "zh": "拍攝前先插入記憶卡。" }
+    ],
+    "img": "sd memory card and camera",
+    "theme": "攝影影像",
+    "level": 2
+  },
+  {
+    "word": "photographer",
+    "kk": "[fəˋtɑgrəfɚ]",
+    "pos": "n.",
+    "meaning": "攝影師",
+    "examples": [
+      { "en": "The photographer asked us to smile.", "zh": "攝影師要我們微笑。" },
+      { "en": "She dreams of being a travel photographer.", "zh": "她夢想成為旅遊攝影師。" }
+    ],
+    "img": "photographer holding camera",
+    "theme": "攝影影像",
+    "level": 2
+  },
+  {
+    "word": "selfie",
+    "kk": "[ˋsɛlfɪ]",
+    "pos": "n.",
+    "meaning": "自拍",
+    "examples": [
+      { "en": "They took a selfie in front of the tower.", "zh": "他們在塔前自拍了一張。" },
+      { "en": "Her selfie got many likes online.", "zh": "她的自拍在網路上獲得許多讚。" }
+    ],
+    "img": "person taking a selfie phone",
+    "theme": "攝影影像",
+    "level": 2
+  },
+  {
+    "word": "album",
+    "kk": "[ˋælbəm]",
+    "pos": "n.",
+    "meaning": "相簿",
+    "examples": [
+      { "en": "She put the wedding photos in an album.", "zh": "她把婚禮照片放進相簿。" },
+      { "en": "Let's look at the old photo album.", "zh": "我們來看看老相簿吧。" }
+    ],
+    "img": "printed photo album pages",
+    "theme": "攝影影像",
+    "level": 2
+  },
+  {
+    "word": "print",
+    "kk": "[prɪnt]",
+    "pos": "v./n.",
+    "meaning": "沖印;印出",
+    "examples": [
+      { "en": "I want to print this photo for the frame.", "zh": "我想把這張照片印出來放進相框。" },
+      { "en": "The print came out a little dark.", "zh": "沖印出來有點偏暗。" }
+    ],
+    "img": "printed photograph coming out",
+    "theme": "攝影影像",
+    "level": 2
+  },
+  {
+    "word": "capture",
+    "kk": "[ˋkæptʃɚ]",
+    "pos": "v.",
+    "meaning": "捕捉;拍下",
+    "examples": [
+      { "en": "He captured the exact moment she laughed.", "zh": "他捕捉到她大笑的那一刻。" },
+      { "en": "Try to capture the beauty of the sunrise.", "zh": "試著拍下日出的美。" }
+    ],
+    "img": "capturing a candid moment photo",
+    "theme": "攝影影像",
+    "level": 3
+  },
+  {
+    "word": "pose",
+    "kk": "[poz]",
+    "pos": "v./n.",
+    "meaning": "擺姿勢;姿勢",
+    "examples": [
+      { "en": "The model posed near the window.", "zh": "模特兒在窗邊擺姿勢。" },
+      { "en": "Try a more natural pose.", "zh": "試試比較自然的姿勢。" }
+    ],
+    "img": "model posing for photo",
+    "theme": "攝影影像",
+    "level": 2
+  },
+  {
+    "word": "reflection",
+    "kk": "[rɪˋflɛkʃən]",
+    "pos": "n.",
+    "meaning": "倒影;反射",
+    "examples": [
+      { "en": "The lake showed a clear reflection of the sky.", "zh": "湖面清楚映出天空的倒影。" },
+      { "en": "Watch out for reflection on the glass.", "zh": "小心玻璃上的反光。" }
+    ],
+    "img": "mountain reflection in lake photo",
+    "theme": "攝影影像",
+    "level": 3
+  },
+  {
+    "word": "close-up",
+    "kk": "[ˋklosˏʌp]",
+    "pos": "n.",
+    "meaning": "特寫",
+    "examples": [
+      { "en": "He took a close-up of the dewdrop.", "zh": "他拍了露珠的特寫。" },
+      { "en": "A close-up shows the tiny details.", "zh": "特寫能呈現微小的細節。" }
+    ],
+    "img": "macro close-up dewdrop photo",
+    "theme": "攝影影像",
+    "level": 2
+  },
+  {
+    "word": "tone",
+    "kk": "[ton]",
+    "pos": "n.",
+    "meaning": "色調",
+    "examples": [
+      { "en": "The warm tone makes the photo feel cozy.", "zh": "暖色調讓照片感覺溫馨。" },
+      { "en": "She likes cool tones in her pictures.", "zh": "她喜歡照片中的冷色調。" }
+    ],
+    "img": "warm toned photograph editing",
+    "theme": "攝影影像",
+    "level": 3
+  },
+  {
+    "word": "preview",
+    "kk": "[ˋpriˏvju]",
+    "pos": "n./v.",
+    "meaning": "預覽",
+    "examples": [
+      { "en": "Check the preview on the screen after each shot.", "zh": "每拍一張就看看螢幕上的預覽。" },
+      { "en": "The preview helps you fix mistakes fast.", "zh": "預覽能幫你快速修正錯誤。" }
+    ],
+    "img": "camera screen photo preview",
+    "theme": "攝影影像",
+    "level": 2
+  }
+]

@@ -1,0 +1,652 @@
+[
+  {
+    "word": "election",
+    "kk": "[ɪˋlɛkʃən]",
+    "pos": "n.",
+    "meaning": "選舉",
+    "examples": [
+      { "en": "The presidential election will be held next November.", "zh": "總統選舉將於明年十一月舉行。" },
+      { "en": "Millions of people voted in the election.", "zh": "數百萬人參加了這場選舉投票。" }
+    ],
+    "img": "voting ballot box crowd",
+    "theme": "政治國際",
+    "level": 2
+  },
+  {
+    "word": "vote",
+    "kk": "[vot]",
+    "pos": "v. / n.",
+    "meaning": "投票；選票",
+    "examples": [
+      { "en": "Citizens have the right to vote at age eighteen.", "zh": "公民在十八歲時擁有投票權。" },
+      { "en": "Every vote counts in a close race.", "zh": "在勢均力敵的競爭中每一票都很重要。" }
+    ],
+    "img": "hand dropping ballot slip",
+    "theme": "政治國際",
+    "level": 2
+  },
+  {
+    "word": "candidate",
+    "kk": "[ˋkændədet]",
+    "pos": "n.",
+    "meaning": "候選人",
+    "examples": [
+      { "en": "Three candidates are running for mayor this year.", "zh": "今年有三位候選人競選市長。" },
+      { "en": "The candidate gave a speech about education reform.", "zh": "這位候選人發表了關於教育改革的演說。" }
+    ],
+    "img": "politician podium campaign speech",
+    "theme": "政治國際",
+    "level": 3
+  },
+  {
+    "word": "campaign",
+    "kk": "[kæmˋpen]",
+    "pos": "n. / v.",
+    "meaning": "競選活動；發起運動",
+    "examples": [
+      { "en": "Her campaign focused on lowering taxes.", "zh": "她的競選活動聚焦於降低稅收。" },
+      { "en": "Volunteers worked hard during the campaign.", "zh": "志工們在競選活動期間努力工作。" }
+    ],
+    "img": "campaign rally banners supporters",
+    "theme": "政治國際",
+    "level": 3
+  },
+  {
+    "word": "ballot",
+    "kk": "[ˋbælət]",
+    "pos": "n.",
+    "meaning": "選票；投票",
+    "examples": [
+      { "en": "Please mark your choice clearly on the ballot.", "zh": "請在選票上清楚標記你的選擇。" },
+      { "en": "The results of the ballot were announced at midnight.", "zh": "投票結果在午夜時公布。" }
+    ],
+    "img": "paper ballot pencil mark",
+    "theme": "政治國際",
+    "level": 3
+  },
+  {
+    "word": "government",
+    "kk": "[ˋɡʌvɚnmənt]",
+    "pos": "n.",
+    "meaning": "政府",
+    "examples": [
+      { "en": "The government announced a new health policy.", "zh": "政府宣布了一項新的健康政策。" },
+      { "en": "A stable government helps the economy grow.", "zh": "穩定的政府有助於經濟成長。" }
+    ],
+    "img": "government building parliament dome",
+    "theme": "政治國際",
+    "level": 2
+  },
+  {
+    "word": "president",
+    "kk": "[ˋprɛzədənt]",
+    "pos": "n.",
+    "meaning": "總統；主席",
+    "examples": [
+      { "en": "The president visited the flood-hit region.", "zh": "總統視察了受洪水侵襲的地區。" },
+      { "en": "She was elected president by a large margin.", "zh": "她以極大的優勢當選總統。" }
+    ],
+    "img": "president flag official portrait",
+    "theme": "政治國際",
+    "level": 2
+  },
+  {
+    "word": "policy",
+    "kk": "[ˋpɑləsɪ]",
+    "pos": "n.",
+    "meaning": "政策；方針",
+    "examples": [
+      { "en": "The new policy will reduce air pollution.", "zh": "這項新政策將減少空氣污染。" },
+      { "en": "Both parties disagree on foreign policy.", "zh": "兩黨在外交政策上意見分歧。" }
+    ],
+    "img": "policy document official desk",
+    "theme": "政治國際",
+    "level": 2
+  },
+  {
+    "word": "democracy",
+    "kk": "[dɪˋmɑkrəsɪ]",
+    "pos": "n.",
+    "meaning": "民主；民主制度",
+    "examples": [
+      { "en": "Democracy allows people to choose their leaders.", "zh": "民主讓人民能選擇自己的領導人。" },
+      { "en": "Free speech is important in a democracy.", "zh": "言論自由在民主制度中很重要。" }
+    ],
+    "img": "people voting hands raised freedom",
+    "theme": "政治國際",
+    "level": 3
+  },
+  {
+    "word": "citizen",
+    "kk": "[ˋsɪtəzn]",
+    "pos": "n.",
+    "meaning": "公民；市民",
+    "examples": [
+      { "en": "Every citizen must obey the law.", "zh": "每位公民都必須遵守法律。" },
+      { "en": "She became a citizen of this country last year.", "zh": "她去年成為這個國家的公民。" }
+    ],
+    "img": "diverse people passport flag",
+    "theme": "政治國際",
+    "level": 2
+  },
+  {
+    "word": "law",
+    "kk": "[lɔ]",
+    "pos": "n.",
+    "meaning": "法律；法規",
+    "examples": [
+      { "en": "The new law protects workers' rights.", "zh": "這項新法律保障勞工權益。" },
+      { "en": "Nobody is above the law.", "zh": "沒有人可以凌駕於法律之上。" }
+    ],
+    "img": "law book gavel scales justice",
+    "theme": "政治國際",
+    "level": 2
+  },
+  {
+    "word": "policy maker",
+    "kk": "[ˋpɑləsɪ ˋmekɚ]",
+    "pos": "n.",
+    "meaning": "政策制定者",
+    "examples": [
+      { "en": "Policy makers must consider public opinion.", "zh": "政策制定者必須考量民意。" },
+      { "en": "The report was written for policy makers.", "zh": "這份報告是為政策制定者而寫的。" }
+    ],
+    "img": "officials meeting table discussion",
+    "theme": "政治國際",
+    "level": 3
+  },
+  {
+    "word": "parliament",
+    "kk": "[ˋpɑrləmənt]",
+    "pos": "n.",
+    "meaning": "國會；議會",
+    "examples": [
+      { "en": "The bill was passed by parliament yesterday.", "zh": "這項法案昨天在國會通過。" },
+      { "en": "Members of parliament debated the issue for hours.", "zh": "議員們就此議題辯論了數小時。" }
+    ],
+    "img": "parliament chamber seats debate",
+    "theme": "政治國際",
+    "level": 3
+  },
+  {
+    "word": "senator",
+    "kk": "[ˋsɛnətɚ]",
+    "pos": "n.",
+    "meaning": "參議員",
+    "examples": [
+      { "en": "The senator supported the education bill.", "zh": "這位參議員支持這項教育法案。" },
+      { "en": "Several senators voted against the plan.", "zh": "數位參議員投票反對這項計畫。" }
+    ],
+    "img": "senator suit congress chamber",
+    "theme": "政治國際",
+    "level": 3
+  },
+  {
+    "word": "diplomat",
+    "kk": "[ˋdɪpləmæt]",
+    "pos": "n.",
+    "meaning": "外交官",
+    "examples": [
+      { "en": "The diplomat met with foreign leaders.", "zh": "這位外交官會見了外國領導人。" },
+      { "en": "A good diplomat must be patient and polite.", "zh": "優秀的外交官必須有耐心且有禮貌。" }
+    ],
+    "img": "diplomat handshake flags meeting",
+    "theme": "政治國際",
+    "level": 3
+  },
+  {
+    "word": "diplomacy",
+    "kk": "[dɪˋploməsɪ]",
+    "pos": "n.",
+    "meaning": "外交；外交手腕",
+    "examples": [
+      { "en": "The conflict was solved through diplomacy.", "zh": "這場衝突透過外交手段解決了。" },
+      { "en": "Diplomacy is better than war.", "zh": "外交比戰爭更好。" }
+    ],
+    "img": "two flags round table talks",
+    "theme": "政治國際",
+    "level": 3
+  },
+  {
+    "word": "embassy",
+    "kk": "[ˋɛmbəsɪ]",
+    "pos": "n.",
+    "meaning": "大使館",
+    "examples": [
+      { "en": "You can apply for a visa at the embassy.", "zh": "你可以在大使館申請簽證。" },
+      { "en": "The embassy is located downtown.", "zh": "大使館位於市中心。" }
+    ],
+    "img": "embassy building flag entrance",
+    "theme": "政治國際",
+    "level": 3
+  },
+  {
+    "word": "ambassador",
+    "kk": "[æmˋbæsədɚ]",
+    "pos": "n.",
+    "meaning": "大使",
+    "examples": [
+      { "en": "She was appointed ambassador to France.", "zh": "她被任命為駐法國大使。" },
+      { "en": "The ambassador gave a speech at the ceremony.", "zh": "大使在典禮上發表了演說。" }
+    ],
+    "img": "ambassador formal flag podium",
+    "theme": "政治國際",
+    "level": 3
+  },
+  {
+    "word": "treaty",
+    "kk": "[ˋtritɪ]",
+    "pos": "n.",
+    "meaning": "條約；協定",
+    "examples": [
+      { "en": "The two nations signed a peace treaty.", "zh": "兩國簽署了和平條約。" },
+      { "en": "The treaty took years to negotiate.", "zh": "這項條約花了多年才談成。" }
+    ],
+    "img": "signed document pen two flags",
+    "theme": "政治國際",
+    "level": 3
+  },
+  {
+    "word": "alliance",
+    "kk": "[əˋlaɪəns]",
+    "pos": "n.",
+    "meaning": "聯盟；同盟",
+    "examples": [
+      { "en": "The countries formed a military alliance.", "zh": "這些國家組成了軍事同盟。" },
+      { "en": "Their alliance made both nations stronger.", "zh": "他們的聯盟使兩國都變得更強大。" }
+    ],
+    "img": "flags linked chain partnership",
+    "theme": "政治國際",
+    "level": 3
+  },
+  {
+    "word": "nation",
+    "kk": "[ˋneʃən]",
+    "pos": "n.",
+    "meaning": "國家；民族",
+    "examples": [
+      { "en": "The nation celebrated its independence day.", "zh": "全國慶祝獨立紀念日。" },
+      { "en": "Many nations attended the summit.", "zh": "許多國家出席了高峰會。" }
+    ],
+    "img": "world map flags globe",
+    "theme": "政治國際",
+    "level": 2
+  },
+  {
+    "word": "border",
+    "kk": "[ˋbɔrdɚ]",
+    "pos": "n.",
+    "meaning": "邊界；國界",
+    "examples": [
+      { "en": "The two countries share a long border.", "zh": "這兩個國家有著漫長的邊界。" },
+      { "en": "Soldiers guard the border day and night.", "zh": "士兵們日夜守衛著邊界。" }
+    ],
+    "img": "border fence checkpoint map line",
+    "theme": "政治國際",
+    "level": 2
+  },
+  {
+    "word": "summit",
+    "kk": "[ˋsʌmɪt]",
+    "pos": "n.",
+    "meaning": "高峰會；峰會",
+    "examples": [
+      { "en": "World leaders met at the climate summit.", "zh": "世界領導人在氣候高峰會上會面。" },
+      { "en": "The summit lasted for three days.", "zh": "這場峰會持續了三天。" }
+    ],
+    "img": "leaders round table flags summit",
+    "theme": "政治國際",
+    "level": 3
+  },
+  {
+    "word": "negotiate",
+    "kk": "[nɪˋɡoʃɪˏet]",
+    "pos": "v.",
+    "meaning": "談判；協商",
+    "examples": [
+      { "en": "The two sides will negotiate a new deal.", "zh": "雙方將協商一項新協議。" },
+      { "en": "It took months to negotiate peace.", "zh": "花了數月才談成和平協議。" }
+    ],
+    "img": "two people table discussion deal",
+    "theme": "政治國際",
+    "level": 3
+  },
+  {
+    "word": "conflict",
+    "kk": "[ˋkɑnflɪkt]",
+    "pos": "n.",
+    "meaning": "衝突；爭端",
+    "examples": [
+      { "en": "The border conflict lasted for years.", "zh": "邊界衝突持續了多年。" },
+      { "en": "They tried to avoid an armed conflict.", "zh": "他們試圖避免武裝衝突。" }
+    ],
+    "img": "opposing arrows tension clash",
+    "theme": "政治國際",
+    "level": 3
+  },
+  {
+    "word": "peace",
+    "kk": "[pis]",
+    "pos": "n.",
+    "meaning": "和平；和睦",
+    "examples": [
+      { "en": "Everyone hopes for world peace.", "zh": "每個人都盼望世界和平。" },
+      { "en": "The leaders signed a peace agreement.", "zh": "領導人簽署了和平協議。" }
+    ],
+    "img": "white dove olive branch flag",
+    "theme": "政治國際",
+    "level": 2
+  },
+  {
+    "word": "protest",
+    "kk": "[ˋprotɛst]",
+    "pos": "n. / v.",
+    "meaning": "抗議；示威",
+    "examples": [
+      { "en": "Thousands joined the protest downtown.", "zh": "數千人參加了市中心的抗議活動。" },
+      { "en": "People protested against the new tax.", "zh": "人們抗議新的稅收。" }
+    ],
+    "img": "crowd signs banners street march",
+    "theme": "政治國際",
+    "level": 3
+  },
+  {
+    "word": "rights",
+    "kk": "[raɪts]",
+    "pos": "n.",
+    "meaning": "權利",
+    "examples": [
+      { "en": "Human rights must be protected everywhere.", "zh": "人權必須在各地受到保護。" },
+      { "en": "Workers fought for their rights.", "zh": "工人們為自己的權利而奮鬥。" }
+    ],
+    "img": "raised fist rights banner crowd",
+    "theme": "政治國際",
+    "level": 2
+  },
+  {
+    "word": "freedom",
+    "kk": "[ˋfridəm]",
+    "pos": "n.",
+    "meaning": "自由",
+    "examples": [
+      { "en": "Freedom of speech is a basic right.", "zh": "言論自由是一項基本權利。" },
+      { "en": "They fought for their freedom.", "zh": "他們為自由而戰。" }
+    ],
+    "img": "open birdcage sky flying bird",
+    "theme": "政治國際",
+    "level": 2
+  },
+  {
+    "word": "leader",
+    "kk": "[ˋlidɚ]",
+    "pos": "n.",
+    "meaning": "領導人；領袖",
+    "examples": [
+      { "en": "The leader promised to fight corruption.", "zh": "這位領導人承諾打擊貪腐。" },
+      { "en": "A good leader listens to the people.", "zh": "好的領導人會傾聽人民的聲音。" }
+    ],
+    "img": "leader podium crowd flag",
+    "theme": "政治國際",
+    "level": 2
+  },
+  {
+    "word": "official",
+    "kk": "[əˋfɪʃəl]",
+    "pos": "n. / adj.",
+    "meaning": "官員；官方的",
+    "examples": [
+      { "en": "A government official answered our questions.", "zh": "一位政府官員回答了我們的問題。" },
+      { "en": "The official results will be released soon.", "zh": "官方結果將很快公布。" }
+    ],
+    "img": "official suit badge desk stamp",
+    "theme": "政治國際",
+    "level": 3
+  },
+  {
+    "word": "minister",
+    "kk": "[ˋmɪnɪstɚ]",
+    "pos": "n.",
+    "meaning": "部長；大臣",
+    "examples": [
+      { "en": "The finance minister explained the budget.", "zh": "財政部長說明了預算。" },
+      { "en": "The prime minister visited three countries.", "zh": "首相出訪了三個國家。" }
+    ],
+    "img": "minister suit official conference",
+    "theme": "政治國際",
+    "level": 3
+  },
+  {
+    "word": "party",
+    "kk": "[ˋpɑrtɪ]",
+    "pos": "n.",
+    "meaning": "政黨",
+    "examples": [
+      { "en": "The party won the majority of seats.", "zh": "該政黨贏得了多數席次。" },
+      { "en": "He joined the political party in college.", "zh": "他在大學時加入了這個政黨。" }
+    ],
+    "img": "party logo flag rally colors",
+    "theme": "政治國際",
+    "level": 2
+  },
+  {
+    "word": "power",
+    "kk": "[ˋpaʊɚ]",
+    "pos": "n.",
+    "meaning": "權力；政權",
+    "examples": [
+      { "en": "The new party came to power last year.", "zh": "新政黨去年上台掌權。" },
+      { "en": "Power should not be abused by leaders.", "zh": "領導人不應濫用權力。" }
+    ],
+    "img": "throne crown scepter authority",
+    "theme": "政治國際",
+    "level": 2
+  },
+  {
+    "word": "authority",
+    "kk": "[əˋθɔrətɪ]",
+    "pos": "n.",
+    "meaning": "當局；權威",
+    "examples": [
+      { "en": "Local authorities closed the road for repairs.", "zh": "地方當局封閉道路進行維修。" },
+      { "en": "He has the authority to make decisions.", "zh": "他有權做出決定。" }
+    ],
+    "img": "official seal stamp document badge",
+    "theme": "政治國際",
+    "level": 3
+  },
+  {
+    "word": "reform",
+    "kk": "[rɪˋfɔrm]",
+    "pos": "n. / v.",
+    "meaning": "改革",
+    "examples": [
+      { "en": "The government promised education reform.", "zh": "政府承諾進行教育改革。" },
+      { "en": "They want to reform the tax system.", "zh": "他們想改革稅制。" }
+    ],
+    "img": "old to new arrow change gears",
+    "theme": "政治國際",
+    "level": 3
+  },
+  {
+    "word": "constitution",
+    "kk": "[ˏkɑnstəˋtjuʃən]",
+    "pos": "n.",
+    "meaning": "憲法",
+    "examples": [
+      { "en": "The constitution protects citizens' freedom.", "zh": "憲法保障公民的自由。" },
+      { "en": "The court ruled the law against the constitution.", "zh": "法院裁定該法律違反憲法。" }
+    ],
+    "img": "old scroll document seal quill",
+    "theme": "政治國際",
+    "level": 3
+  },
+  {
+    "word": "union",
+    "kk": "[ˋjunjən]",
+    "pos": "n.",
+    "meaning": "聯盟；工會",
+    "examples": [
+      { "en": "The European Union has many member states.", "zh": "歐盟有許多會員國。" },
+      { "en": "The workers' union asked for higher pay.", "zh": "工會要求提高薪資。" }
+    ],
+    "img": "linked flags circle stars union",
+    "theme": "政治國際",
+    "level": 2
+  },
+  {
+    "word": "sanction",
+    "kk": "[ˋsæŋkʃən]",
+    "pos": "n.",
+    "meaning": "制裁",
+    "examples": [
+      { "en": "The country faced economic sanctions.", "zh": "該國面臨經濟制裁。" },
+      { "en": "Sanctions were lifted after the agreement.", "zh": "協議達成後制裁被解除。" }
+    ],
+    "img": "blocked trade barrier stop sign",
+    "theme": "政治國際",
+    "level": 3
+  },
+  {
+    "word": "aid",
+    "kk": "[ed]",
+    "pos": "n. / v.",
+    "meaning": "援助；救助",
+    "examples": [
+      { "en": "Foreign aid helped rebuild the city.", "zh": "外國援助幫助重建了這座城市。" },
+      { "en": "They sent aid to the flood victims.", "zh": "他們向水災受害者提供援助。" }
+    ],
+    "img": "aid boxes helping hands supplies",
+    "theme": "政治國際",
+    "level": 2
+  },
+  {
+    "word": "refugee",
+    "kk": "[ˏrɛfjʊˋdʒi]",
+    "pos": "n.",
+    "meaning": "難民",
+    "examples": [
+      { "en": "Many refugees fled the war-torn country.", "zh": "許多難民逃離了飽受戰火的國家。" },
+      { "en": "The camp offers shelter to refugees.", "zh": "這個營地為難民提供庇護。" }
+    ],
+    "img": "refugee tents camp families belongings",
+    "theme": "政治國際",
+    "level": 3
+  },
+  {
+    "word": "immigration",
+    "kk": "[ˏɪməˋɡreʃən]",
+    "pos": "n.",
+    "meaning": "移民；入境管理",
+    "examples": [
+      { "en": "Immigration laws differ from country to country.", "zh": "各國的移民法各不相同。" },
+      { "en": "She works at the immigration office.", "zh": "她在移民局工作。" }
+    ],
+    "img": "airport passport stamp immigration desk",
+    "theme": "政治國際",
+    "level": 3
+  },
+  {
+    "word": "trade",
+    "kk": "[tred]",
+    "pos": "n. / v.",
+    "meaning": "貿易；交易",
+    "examples": [
+      { "en": "The two nations signed a trade agreement.", "zh": "兩國簽署了一項貿易協定。" },
+      { "en": "Free trade can benefit both countries.", "zh": "自由貿易可以使兩國受益。" }
+    ],
+    "img": "cargo ship containers trade globe",
+    "theme": "政治國際",
+    "level": 2
+  },
+  {
+    "word": "economy",
+    "kk": "[ɪˋkɑnəmɪ]",
+    "pos": "n.",
+    "meaning": "經濟",
+    "examples": [
+      { "en": "The country's economy is growing quickly.", "zh": "這個國家的經濟正快速成長。" },
+      { "en": "A strong economy creates more jobs.", "zh": "強勁的經濟能創造更多就業機會。" }
+    ],
+    "img": "rising chart coins city skyline",
+    "theme": "政治國際",
+    "level": 2
+  },
+  {
+    "word": "tax",
+    "kk": "[tæks]",
+    "pos": "n. / v.",
+    "meaning": "稅；徵稅",
+    "examples": [
+      { "en": "The government raised taxes this year.", "zh": "政府今年提高了稅收。" },
+      { "en": "Everyone must pay income tax.", "zh": "每個人都必須繳納所得稅。" }
+    ],
+    "img": "tax form calculator money coins",
+    "theme": "政治國際",
+    "level": 2
+  },
+  {
+    "word": "debate",
+    "kk": "[dɪˋbet]",
+    "pos": "n. / v.",
+    "meaning": "辯論；爭論",
+    "examples": [
+      { "en": "The two candidates had a live TV debate.", "zh": "兩位候選人進行了電視直播辯論。" },
+      { "en": "Lawmakers debated the bill all night.", "zh": "立法者們徹夜辯論這項法案。" }
+    ],
+    "img": "two podiums debate stage microphones",
+    "theme": "政治國際",
+    "level": 3
+  },
+  {
+    "word": "bill",
+    "kk": "[bɪl]",
+    "pos": "n.",
+    "meaning": "法案；議案",
+    "examples": [
+      { "en": "The bill was passed by a large majority.", "zh": "這項法案以壓倒性多數通過。" },
+      { "en": "Lawmakers introduced a new health bill.", "zh": "立法者提出了一項新的健康法案。" }
+    ],
+    "img": "legal document capitol vote paper",
+    "theme": "政治國際",
+    "level": 3
+  },
+  {
+    "word": "corruption",
+    "kk": "[kəˋrʌpʃən]",
+    "pos": "n.",
+    "meaning": "貪污；腐敗",
+    "examples": [
+      { "en": "The mayor was arrested for corruption.", "zh": "市長因貪污被逮捕。" },
+      { "en": "They launched a campaign against corruption.", "zh": "他們發起了一場反貪腐運動。" }
+    ],
+    "img": "money under table bribe handshake",
+    "theme": "政治國際",
+    "level": 3
+  },
+  {
+    "word": "independence",
+    "kk": "[ˏɪndɪˋpɛndəns]",
+    "pos": "n.",
+    "meaning": "獨立；自主",
+    "examples": [
+      { "en": "The country gained independence in 1947.", "zh": "這個國家在1947年獲得獨立。" },
+      { "en": "People celebrated the day of independence.", "zh": "人們慶祝獨立紀念日。" }
+    ],
+    "img": "flag raised fireworks celebration crowd",
+    "theme": "政治國際",
+    "level": 3
+  },
+  {
+    "word": "organization",
+    "kk": "[ˏɔrɡənəˋzeʃən]",
+    "pos": "n.",
+    "meaning": "組織；機構",
+    "examples": [
+      { "en": "The United Nations is an international organization.", "zh": "聯合國是一個國際組織。" },
+      { "en": "The organization helps children in need.", "zh": "這個組織幫助有需要的兒童。" }
+    ],
+    "img": "globe logo people network building",
+    "theme": "政治國際",
+    "level": 3
+  }
+]

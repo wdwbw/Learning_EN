@@ -1,0 +1,652 @@
+[
+  {
+    "word": "apartment",
+    "kk": "[əˈpɑrtmənt]",
+    "pos": "n.",
+    "meaning": "公寓",
+    "examples": [
+      { "en": "I live in a small apartment downtown.", "zh": "我住在市中心的一間小公寓。" },
+      { "en": "Their apartment has a great view.", "zh": "他們的公寓視野很好。" }
+    ],
+    "img": "modern apartment building exterior",
+    "theme": "居家房屋",
+    "level": 1
+  },
+  {
+    "word": "bedroom",
+    "kk": "[ˈbɛdˌrum]",
+    "pos": "n.",
+    "meaning": "臥室",
+    "examples": [
+      { "en": "My bedroom is at the end of the hall.", "zh": "我的臥室在走廊盡頭。" },
+      { "en": "This apartment has two bedrooms.", "zh": "這間公寓有兩間臥室。" }
+    ],
+    "img": "cozy bedroom with bed and window",
+    "theme": "居家房屋",
+    "level": 1
+  },
+  {
+    "word": "kitchen",
+    "kk": "[ˈkɪtʃɪn]",
+    "pos": "n.",
+    "meaning": "廚房",
+    "examples": [
+      { "en": "She's cooking in the kitchen.", "zh": "她正在廚房煮飯。" },
+      { "en": "We just remodeled our kitchen.", "zh": "我們剛重新裝修了廚房。" }
+    ],
+    "img": "bright modern kitchen with counter",
+    "theme": "居家房屋",
+    "level": 1
+  },
+  {
+    "word": "bathroom",
+    "kk": "[ˈbæθˌrum]",
+    "pos": "n.",
+    "meaning": "浴室；廁所",
+    "examples": [
+      { "en": "Where's the bathroom?", "zh": "廁所在哪裡？" },
+      { "en": "The bathroom needs a new mirror.", "zh": "浴室需要一面新鏡子。" }
+    ],
+    "img": "clean white bathroom with sink",
+    "theme": "居家房屋",
+    "level": 1
+  },
+  {
+    "word": "living room",
+    "kk": "[ˈlɪvɪŋ ˌrum]",
+    "pos": "n.",
+    "meaning": "客廳",
+    "examples": [
+      { "en": "Let's watch a movie in the living room.", "zh": "我們去客廳看部電影吧。" },
+      { "en": "The living room gets a lot of sunlight.", "zh": "客廳採光很好。" }
+    ],
+    "img": "living room with sofa and TV",
+    "theme": "居家房屋",
+    "level": 1
+  },
+  {
+    "word": "wall",
+    "kk": "[wɔl]",
+    "pos": "n.",
+    "meaning": "牆壁",
+    "examples": [
+      { "en": "Let's paint the wall blue.", "zh": "我們把牆漆成藍色吧。" },
+      { "en": "There's a crack in the wall.", "zh": "牆上有一道裂縫。" }
+    ],
+    "img": "empty painted interior wall",
+    "theme": "居家房屋",
+    "level": 1
+  },
+  {
+    "word": "floor",
+    "kk": "[flor]",
+    "pos": "n.",
+    "meaning": "地板；樓層",
+    "examples": [
+      { "en": "The floor is made of wood.", "zh": "地板是木頭做的。" },
+      { "en": "My office is on the third floor.", "zh": "我的辦公室在三樓。" }
+    ],
+    "img": "wooden floor in a room",
+    "theme": "居家房屋",
+    "level": 1
+  },
+  {
+    "word": "ceiling",
+    "kk": "[ˈsilɪŋ]",
+    "pos": "n.",
+    "meaning": "天花板",
+    "examples": [
+      { "en": "The ceiling is really high in here.", "zh": "這裡的天花板很高。" },
+      { "en": "A lamp hangs from the ceiling.", "zh": "一盞燈從天花板垂下來。" }
+    ],
+    "img": "white ceiling with light fixture",
+    "theme": "居家房屋",
+    "level": 1
+  },
+  {
+    "word": "door",
+    "kk": "[dor]",
+    "pos": "n.",
+    "meaning": "門",
+    "examples": [
+      { "en": "Please close the door.", "zh": "請把門關上。" },
+      { "en": "Someone's knocking at the door.", "zh": "有人在敲門。" }
+    ],
+    "img": "wooden front door of a house",
+    "theme": "居家房屋",
+    "level": 1
+  },
+  {
+    "word": "window",
+    "kk": "[ˈwɪndo]",
+    "pos": "n.",
+    "meaning": "窗戶",
+    "examples": [
+      { "en": "Open the window for some fresh air.", "zh": "打開窗戶透透氣。" },
+      { "en": "The window faces the garden.", "zh": "窗戶朝向花園。" }
+    ],
+    "img": "bright window with curtains",
+    "theme": "居家房屋",
+    "level": 1
+  },
+  {
+    "word": "table",
+    "kk": "[ˈtebl̩]",
+    "pos": "n.",
+    "meaning": "桌子",
+    "examples": [
+      { "en": "Dinner's on the table.", "zh": "晚餐已經擺在桌上了。" },
+      { "en": "We bought a new dining table.", "zh": "我們買了一張新餐桌。" }
+    ],
+    "img": "wooden dining table with chairs",
+    "theme": "居家房屋",
+    "level": 1
+  },
+  {
+    "word": "chair",
+    "kk": "[tʃɛr]",
+    "pos": "n.",
+    "meaning": "椅子",
+    "examples": [
+      { "en": "Pull up a chair and sit down.", "zh": "拉張椅子坐下吧。" },
+      { "en": "This chair is really comfortable.", "zh": "這張椅子很舒服。" }
+    ],
+    "img": "single wooden chair",
+    "theme": "居家房屋",
+    "level": 1
+  },
+  {
+    "word": "bed",
+    "kk": "[bɛd]",
+    "pos": "n.",
+    "meaning": "床",
+    "examples": [
+      { "en": "I'm so tired, I'm going to bed.", "zh": "我好累，要去睡覺了。" },
+      { "en": "The bed is too soft for me.", "zh": "這張床對我來說太軟了。" }
+    ],
+    "img": "double bed with pillows",
+    "theme": "居家房屋",
+    "level": 1
+  },
+  {
+    "word": "sofa",
+    "kk": "[ˈsofə]",
+    "pos": "n.",
+    "meaning": "沙發",
+    "examples": [
+      { "en": "Come sit on the sofa with me.", "zh": "來跟我一起坐沙發吧。" },
+      { "en": "The cat is sleeping on the sofa.", "zh": "貓在沙發上睡覺。" }
+    ],
+    "img": "gray fabric sofa in living room",
+    "theme": "居家房屋",
+    "level": 1
+  },
+  {
+    "word": "lamp",
+    "kk": "[læmp]",
+    "pos": "n.",
+    "meaning": "檯燈；燈",
+    "examples": [
+      { "en": "Turn on the lamp, it's dark.", "zh": "開燈吧，天黑了。" },
+      { "en": "I need a lamp for my desk.", "zh": "我書桌需要一盞檯燈。" }
+    ],
+    "img": "table lamp glowing warmly",
+    "theme": "居家房屋",
+    "level": 1
+  },
+  {
+    "word": "rent",
+    "kk": "[rɛnt]",
+    "pos": "n./v.",
+    "meaning": "租金；租",
+    "examples": [
+      { "en": "The rent is due on the first.", "zh": "租金一號要繳。" },
+      { "en": "We rent a two-bedroom place.", "zh": "我們租了一間兩房的房子。" }
+    ],
+    "img": "hand paying rent money",
+    "theme": "居家房屋",
+    "level": 1
+  },
+  {
+    "word": "key",
+    "kk": "[ki]",
+    "pos": "n.",
+    "meaning": "鑰匙",
+    "examples": [
+      { "en": "I lost my house key again.", "zh": "我又把家裡的鑰匙弄丟了。" },
+      { "en": "The landlord gave me two keys.", "zh": "房東給了我兩把鑰匙。" }
+    ],
+    "img": "house keys on a ring",
+    "theme": "居家房屋",
+    "level": 1
+  },
+  {
+    "word": "stairs",
+    "kk": "[stɛrz]",
+    "pos": "n.",
+    "meaning": "樓梯",
+    "examples": [
+      { "en": "The stairs are a bit steep.", "zh": "這樓梯有點陡。" },
+      { "en": "She ran up the stairs.", "zh": "她跑上樓梯。" }
+    ],
+    "img": "indoor wooden staircase",
+    "theme": "居家房屋",
+    "level": 1
+  },
+  {
+    "word": "garage",
+    "kk": "[gəˈrɑʒ]",
+    "pos": "n.",
+    "meaning": "車庫",
+    "examples": [
+      { "en": "The car is in the garage.", "zh": "車子停在車庫裡。" },
+      { "en": "We use the garage for storage.", "zh": "我們把車庫拿來放雜物。" }
+    ],
+    "img": "residential garage with car",
+    "theme": "居家房屋",
+    "level": 1
+  },
+  {
+    "word": "roof",
+    "kk": "[ruf]",
+    "pos": "n.",
+    "meaning": "屋頂",
+    "examples": [
+      { "en": "The roof is leaking again.", "zh": "屋頂又漏水了。" },
+      { "en": "There are solar panels on the roof.", "zh": "屋頂上裝了太陽能板。" }
+    ],
+    "img": "house roof with tiles",
+    "theme": "居家房屋",
+    "level": 1
+  },
+  {
+    "word": "closet",
+    "kk": "[ˈklɑzɪt]",
+    "pos": "n.",
+    "meaning": "壁櫥；衣櫃",
+    "examples": [
+      { "en": "Hang your coat in the closet.", "zh": "把你的外套掛在衣櫃裡。" },
+      { "en": "The closet is full of old clothes.", "zh": "衣櫃裡塞滿了舊衣服。" }
+    ],
+    "img": "walk-in closet with clothes",
+    "theme": "居家房屋",
+    "level": 2
+  },
+  {
+    "word": "hallway",
+    "kk": "[ˈhɔlˌwe]",
+    "pos": "n.",
+    "meaning": "走廊；玄關過道",
+    "examples": [
+      { "en": "The bathroom is down the hallway.", "zh": "浴室在走廊那頭。" },
+      { "en": "The hallway is a little narrow.", "zh": "這走廊有點窄。" }
+    ],
+    "img": "narrow home hallway with doors",
+    "theme": "居家房屋",
+    "level": 2
+  },
+  {
+    "word": "balcony",
+    "kk": "[ˈbælkəni]",
+    "pos": "n.",
+    "meaning": "陽台",
+    "examples": [
+      { "en": "We grow herbs on the balcony.", "zh": "我們在陽台上種香草。" },
+      { "en": "The balcony overlooks the street.", "zh": "陽台俯瞰街道。" }
+    ],
+    "img": "apartment balcony with plants",
+    "theme": "居家房屋",
+    "level": 2
+  },
+  {
+    "word": "furniture",
+    "kk": "[ˈfɝnɪtʃɚ]",
+    "pos": "n.",
+    "meaning": "家具（總稱）",
+    "examples": [
+      { "en": "The apartment comes with furniture.", "zh": "這間公寓附家具。" },
+      { "en": "We need to buy some new furniture.", "zh": "我們得買些新家具。" }
+    ],
+    "img": "living room furniture set",
+    "theme": "居家房屋",
+    "level": 2
+  },
+  {
+    "word": "drawer",
+    "kk": "[drɔr]",
+    "pos": "n.",
+    "meaning": "抽屜",
+    "examples": [
+      { "en": "The forks are in the top drawer.", "zh": "叉子在最上面的抽屜。" },
+      { "en": "This drawer keeps getting stuck.", "zh": "這個抽屜老是卡住。" }
+    ],
+    "img": "open wooden dresser drawer",
+    "theme": "居家房屋",
+    "level": 2
+  },
+  {
+    "word": "shelf",
+    "kk": "[ʃɛlf]",
+    "pos": "n.",
+    "meaning": "架子；層板",
+    "examples": [
+      { "en": "Put the books on the shelf.", "zh": "把書放到架子上。" },
+      { "en": "The top shelf is hard to reach.", "zh": "最上層的架子很難搆到。" }
+    ],
+    "img": "wooden wall shelf with books",
+    "theme": "居家房屋",
+    "level": 2
+  },
+  {
+    "word": "wardrobe",
+    "kk": "[ˈwɔrˌdrob]",
+    "pos": "n.",
+    "meaning": "衣櫥",
+    "examples": [
+      { "en": "She has a huge wardrobe in her room.", "zh": "她房裡有個大衣櫥。" },
+      { "en": "The wardrobe doesn't fit here.", "zh": "這衣櫥放不進這裡。" }
+    ],
+    "img": "tall wooden wardrobe closet",
+    "theme": "居家房屋",
+    "level": 2
+  },
+  {
+    "word": "landlord",
+    "kk": "[ˈlændˌlɔrd]",
+    "pos": "n.",
+    "meaning": "房東",
+    "examples": [
+      { "en": "The landlord raised the rent.", "zh": "房東漲租金了。" },
+      { "en": "I'll ask the landlord to fix it.", "zh": "我會請房東來修。" }
+    ],
+    "img": "landlord handing over keys",
+    "theme": "居家房屋",
+    "level": 2
+  },
+  {
+    "word": "tenant",
+    "kk": "[ˈtɛnənt]",
+    "pos": "n.",
+    "meaning": "房客；租客",
+    "examples": [
+      { "en": "The new tenant moves in Monday.", "zh": "新房客週一搬進來。" },
+      { "en": "Tenants must pay a deposit.", "zh": "房客必須付押金。" }
+    ],
+    "img": "tenant moving boxes into flat",
+    "theme": "居家房屋",
+    "level": 2
+  },
+  {
+    "word": "lease",
+    "kk": "[lis]",
+    "pos": "n.",
+    "meaning": "租約；租賃契約",
+    "examples": [
+      { "en": "We signed a one-year lease.", "zh": "我們簽了一年的租約。" },
+      { "en": "My lease ends next month.", "zh": "我的租約下個月到期。" }
+    ],
+    "img": "signing a lease contract",
+    "theme": "居家房屋",
+    "level": 2
+  },
+  {
+    "word": "deposit",
+    "kk": "[dɪˈpɑzɪt]",
+    "pos": "n.",
+    "meaning": "押金；訂金",
+    "examples": [
+      { "en": "The deposit is one month's rent.", "zh": "押金是一個月的租金。" },
+      { "en": "You'll get your deposit back later.", "zh": "你之後會拿回押金。" }
+    ],
+    "img": "cash deposit envelope with keys",
+    "theme": "居家房屋",
+    "level": 2
+  },
+  {
+    "word": "furnished",
+    "kk": "[ˈfɝnɪʃt]",
+    "pos": "adj.",
+    "meaning": "附家具的",
+    "examples": [
+      { "en": "We're looking for a furnished apartment.", "zh": "我們在找附家具的公寓。" },
+      { "en": "The room is fully furnished.", "zh": "這房間家具一應俱全。" }
+    ],
+    "img": "furnished apartment interior",
+    "theme": "居家房屋",
+    "level": 2
+  },
+  {
+    "word": "faucet",
+    "kk": "[ˈfɔsɪt]",
+    "pos": "n.",
+    "meaning": "水龍頭",
+    "examples": [
+      { "en": "The faucet is dripping.", "zh": "水龍頭在滴水。" },
+      { "en": "Turn off the faucet tightly.", "zh": "把水龍頭關緊。" }
+    ],
+    "img": "kitchen faucet with running water",
+    "theme": "居家房屋",
+    "level": 2
+  },
+  {
+    "word": "outlet",
+    "kk": "[ˈaʊtlɛt]",
+    "pos": "n.",
+    "meaning": "插座",
+    "examples": [
+      { "en": "There's an outlet behind the sofa.", "zh": "沙發後面有個插座。" },
+      { "en": "This outlet isn't working.", "zh": "這個插座壞了。" }
+    ],
+    "img": "wall electrical outlet",
+    "theme": "居家房屋",
+    "level": 2
+  },
+  {
+    "word": "switch",
+    "kk": "[swɪtʃ]",
+    "pos": "n.",
+    "meaning": "開關",
+    "examples": [
+      { "en": "The light switch is by the door.", "zh": "電燈開關在門邊。" },
+      { "en": "Flip the switch to turn it on.", "zh": "撥一下開關就能打開。" }
+    ],
+    "img": "light switch on wall",
+    "theme": "居家房屋",
+    "level": 2
+  },
+  {
+    "word": "pipe",
+    "kk": "[paɪp]",
+    "pos": "n.",
+    "meaning": "水管",
+    "examples": [
+      { "en": "A pipe burst under the sink.", "zh": "水槽下的水管爆裂了。" },
+      { "en": "The pipes are old and rusty.", "zh": "水管又舊又生鏽。" }
+    ],
+    "img": "water pipes under sink",
+    "theme": "居家房屋",
+    "level": 2
+  },
+  {
+    "word": "heater",
+    "kk": "[ˈhitɚ]",
+    "pos": "n.",
+    "meaning": "暖氣機；熱水器",
+    "examples": [
+      { "en": "Turn on the heater, it's freezing.", "zh": "開暖氣吧，冷死了。" },
+      { "en": "The water heater broke down.", "zh": "熱水器故障了。" }
+    ],
+    "img": "home space heater device",
+    "theme": "居家房屋",
+    "level": 2
+  },
+  {
+    "word": "curtain",
+    "kk": "[ˈkɝtn̩]",
+    "pos": "n.",
+    "meaning": "窗簾",
+    "examples": [
+      { "en": "Draw the curtains, it's too bright.", "zh": "拉上窗簾，太亮了。" },
+      { "en": "We hung new curtains yesterday.", "zh": "我們昨天掛了新窗簾。" }
+    ],
+    "img": "window curtains hanging",
+    "theme": "居家房屋",
+    "level": 2
+  },
+  {
+    "word": "carpet",
+    "kk": "[ˈkɑrpɪt]",
+    "pos": "n.",
+    "meaning": "地毯",
+    "examples": [
+      { "en": "There's a soft carpet in the bedroom.", "zh": "臥室裡鋪了柔軟的地毯。" },
+      { "en": "The carpet is a bit worn out.", "zh": "地毯有點磨損了。" }
+    ],
+    "img": "soft rug carpet on floor",
+    "theme": "居家房屋",
+    "level": 2
+  },
+  {
+    "word": "mattress",
+    "kk": "[ˈmætrɪs]",
+    "pos": "n.",
+    "meaning": "床墊",
+    "examples": [
+      { "en": "This mattress is too firm.", "zh": "這床墊太硬了。" },
+      { "en": "We need to flip the mattress.", "zh": "我們得把床墊翻面。" }
+    ],
+    "img": "bed mattress on frame",
+    "theme": "居家房屋",
+    "level": 2
+  },
+  {
+    "word": "attic",
+    "kk": "[ˈætɪk]",
+    "pos": "n.",
+    "meaning": "閣樓",
+    "examples": [
+      { "en": "We store boxes in the attic.", "zh": "我們把箱子放在閣樓。" },
+      { "en": "The attic is full of dust.", "zh": "閣樓滿是灰塵。" }
+    ],
+    "img": "attic room with slanted roof",
+    "theme": "居家房屋",
+    "level": 3
+  },
+  {
+    "word": "basement",
+    "kk": "[ˈbesmənt]",
+    "pos": "n.",
+    "meaning": "地下室",
+    "examples": [
+      { "en": "The laundry room is in the basement.", "zh": "洗衣間在地下室。" },
+      { "en": "Their basement often floods.", "zh": "他們的地下室常淹水。" }
+    ],
+    "img": "finished home basement room",
+    "theme": "居家房屋",
+    "level": 3
+  },
+  {
+    "word": "layout",
+    "kk": "[ˈleˌaʊt]",
+    "pos": "n.",
+    "meaning": "格局；配置",
+    "examples": [
+      { "en": "I really like the open layout.", "zh": "我很喜歡這種開放式格局。" },
+      { "en": "The layout makes the room feel bigger.", "zh": "這格局讓房間顯得更大。" }
+    ],
+    "img": "apartment floor plan layout",
+    "theme": "居家房屋",
+    "level": 3
+  },
+  {
+    "word": "renovate",
+    "kk": "[ˈrɛnəˌvet]",
+    "pos": "v.",
+    "meaning": "翻修；整修",
+    "examples": [
+      { "en": "They plan to renovate the old house.", "zh": "他們打算翻修這棟老房子。" },
+      { "en": "We renovated the kitchen last year.", "zh": "我們去年整修了廚房。" }
+    ],
+    "img": "home renovation in progress",
+    "theme": "居家房屋",
+    "level": 3
+  },
+  {
+    "word": "mortgage",
+    "kk": "[ˈmɔrgɪdʒ]",
+    "pos": "n.",
+    "meaning": "房貸；抵押貸款",
+    "examples": [
+      { "en": "We're still paying off the mortgage.", "zh": "我們還在還房貸。" },
+      { "en": "Mortgage rates went up again.", "zh": "房貸利率又上升了。" }
+    ],
+    "img": "house with mortgage documents",
+    "theme": "居家房屋",
+    "level": 3
+  },
+  {
+    "word": "utilities",
+    "kk": "[juˈtɪlətiz]",
+    "pos": "n.",
+    "meaning": "水電瓦斯等公用事業費",
+    "examples": [
+      { "en": "Rent doesn't include utilities.", "zh": "房租不含水電費。" },
+      { "en": "Utilities are pretty high in winter.", "zh": "冬天的水電費相當高。" }
+    ],
+    "img": "utility bills electricity water gas",
+    "theme": "居家房屋",
+    "level": 3
+  },
+  {
+    "word": "insulation",
+    "kk": "[ˌɪnsəˈleʃən]",
+    "pos": "n.",
+    "meaning": "隔熱／隔音材料",
+    "examples": [
+      { "en": "Good insulation keeps the house warm.", "zh": "良好的隔熱讓房子保暖。" },
+      { "en": "The walls need better insulation.", "zh": "這些牆需要更好的隔熱材料。" }
+    ],
+    "img": "wall insulation foam panels",
+    "theme": "居家房屋",
+    "level": 3
+  },
+  {
+    "word": "tile",
+    "kk": "[taɪl]",
+    "pos": "n.",
+    "meaning": "磁磚",
+    "examples": [
+      { "en": "The bathroom has white tiles.", "zh": "浴室鋪了白色磁磚。" },
+      { "en": "One of the tiles cracked.", "zh": "有一塊磁磚裂了。" }
+    ],
+    "img": "ceramic wall tiles pattern",
+    "theme": "居家房屋",
+    "level": 3
+  },
+  {
+    "word": "wallpaper",
+    "kk": "[ˈwɔlˌpepɚ]",
+    "pos": "n.",
+    "meaning": "壁紙",
+    "examples": [
+      { "en": "We put up floral wallpaper.", "zh": "我們貼了花卉圖案的壁紙。" },
+      { "en": "The wallpaper is starting to peel.", "zh": "壁紙開始剝落了。" }
+    ],
+    "img": "patterned wallpaper on wall",
+    "theme": "居家房屋",
+    "level": 3
+  },
+  {
+    "word": "appliance",
+    "kk": "[əˈplaɪəns]",
+    "pos": "n.",
+    "meaning": "家電；家用電器",
+    "examples": [
+      { "en": "The kitchen appliances are brand new.", "zh": "廚房家電都是全新的。" },
+      { "en": "This appliance uses a lot of power.", "zh": "這個家電很耗電。" }
+    ],
+    "img": "kitchen appliances refrigerator oven",
+    "theme": "居家房屋",
+    "level": 3
+  }
+]

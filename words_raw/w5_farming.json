@@ -1,0 +1,652 @@
+[
+  {
+    "word": "farm",
+    "kk": "[fɑrm]",
+    "pos": "n.",
+    "meaning": "農場",
+    "examples": [
+      { "en": "My grandparents own a small farm in the countryside.", "zh": "我祖父母在鄉下擁有一座小農場。" },
+      { "en": "The farm produces rice and vegetables every year.", "zh": "這座農場每年生產稻米和蔬菜。" }
+    ],
+    "img": "green farm field with barn",
+    "theme": "農業食物",
+    "level": 2
+  },
+  {
+    "word": "farmer",
+    "kk": "[ˋfɑrmɚ]",
+    "pos": "n.",
+    "meaning": "農夫;農民",
+    "examples": [
+      { "en": "The farmer wakes up early to feed the animals.", "zh": "農夫很早起床餵動物。" },
+      { "en": "Farmers work hard during the harvest season.", "zh": "農民在收成季節努力工作。" }
+    ],
+    "img": "farmer in straw hat holding tools",
+    "theme": "農業食物",
+    "level": 2
+  },
+  {
+    "word": "crop",
+    "kk": "[krɑp]",
+    "pos": "n.",
+    "meaning": "作物;農作物",
+    "examples": [
+      { "en": "Rice is the main crop in this region.", "zh": "稻米是這個地區的主要作物。" },
+      { "en": "Heavy rain damaged many crops last month.", "zh": "上個月的大雨損害了許多作物。" }
+    ],
+    "img": "rows of crops in field",
+    "theme": "農業食物",
+    "level": 2
+  },
+  {
+    "word": "soil",
+    "kk": "[sɔɪl]",
+    "pos": "n.",
+    "meaning": "土壤",
+    "examples": [
+      { "en": "Rich soil helps plants grow faster.", "zh": "肥沃的土壤幫助植物長得更快。" },
+      { "en": "The farmer tested the soil before planting.", "zh": "農夫在種植前檢測了土壤。" }
+    ],
+    "img": "dark brown soil in hands",
+    "theme": "農業食物",
+    "level": 2
+  },
+  {
+    "word": "seed",
+    "kk": "[sid]",
+    "pos": "n.",
+    "meaning": "種子",
+    "examples": [
+      { "en": "She planted the seeds in neat rows.", "zh": "她把種子種成整齊的一排排。" },
+      { "en": "Each seed can grow into a large plant.", "zh": "每顆種子都能長成一株大植物。" }
+    ],
+    "img": "seeds in open palm",
+    "theme": "農業食物",
+    "level": 2
+  },
+  {
+    "word": "plant",
+    "kk": "[plænt]",
+    "pos": "v.",
+    "meaning": "種植",
+    "examples": [
+      { "en": "We plant tomatoes in the spring.", "zh": "我們在春天種植番茄。" },
+      { "en": "They planted trees along the road.", "zh": "他們沿著路種了樹。" }
+    ],
+    "img": "hands planting seedling in soil",
+    "theme": "農業食物",
+    "level": 2
+  },
+  {
+    "word": "grow",
+    "kk": "[gro]",
+    "pos": "v.",
+    "meaning": "生長;栽培",
+    "examples": [
+      { "en": "These plants grow well in warm weather.", "zh": "這些植物在溫暖的天氣裡長得很好。" },
+      { "en": "My uncle grows corn on his land.", "zh": "我叔叔在他的地上種玉米。" }
+    ],
+    "img": "young green plants growing in rows",
+    "theme": "農業食物",
+    "level": 2
+  },
+  {
+    "word": "harvest",
+    "kk": "[ˋhɑrvɪst]",
+    "pos": "n.",
+    "meaning": "收成;收穫",
+    "examples": [
+      { "en": "This year's harvest was very good.", "zh": "今年的收成非常好。" },
+      { "en": "The whole village helps with the harvest.", "zh": "整個村莊都幫忙收成。" }
+    ],
+    "img": "golden wheat field ready for harvest",
+    "theme": "農業食物",
+    "level": 2
+  },
+  {
+    "word": "field",
+    "kk": "[fild]",
+    "pos": "n.",
+    "meaning": "田地;田野",
+    "examples": [
+      { "en": "The field is full of yellow flowers.", "zh": "田野裡開滿了黃色的花。" },
+      { "en": "Cows are grazing in the field.", "zh": "牛群在田野裡吃草。" }
+    ],
+    "img": "wide open green field under sky",
+    "theme": "農業食物",
+    "level": 2
+  },
+  {
+    "word": "barn",
+    "kk": "[bɑrn]",
+    "pos": "n.",
+    "meaning": "穀倉;畜舍",
+    "examples": [
+      { "en": "The horses sleep in the red barn.", "zh": "馬兒睡在紅色的穀倉裡。" },
+      { "en": "They store hay inside the barn.", "zh": "他們把乾草儲存在穀倉裡。" }
+    ],
+    "img": "red wooden barn on farm",
+    "theme": "農業食物",
+    "level": 2
+  },
+  {
+    "word": "tractor",
+    "kk": "[ˋtræktɚ]",
+    "pos": "n.",
+    "meaning": "拖拉機;耕耘機",
+    "examples": [
+      { "en": "The farmer drove the tractor across the field.", "zh": "農夫開著拖拉機穿過田地。" },
+      { "en": "A tractor makes plowing much easier.", "zh": "拖拉機讓犁田輕鬆許多。" }
+    ],
+    "img": "green tractor in farm field",
+    "theme": "農業食物",
+    "level": 2
+  },
+  {
+    "word": "livestock",
+    "kk": "[ˋlaɪv͵stɑk]",
+    "pos": "n.",
+    "meaning": "家畜;牲畜",
+    "examples": [
+      { "en": "The farm raises livestock such as cows and pigs.", "zh": "這座農場飼養牛和豬等家畜。" },
+      { "en": "Clean water is important for healthy livestock.", "zh": "乾淨的水對健康的家畜很重要。" }
+    ],
+    "img": "cows and sheep on farm",
+    "theme": "農業食物",
+    "level": 3
+  },
+  {
+    "word": "cattle",
+    "kk": "[ˋkætl]",
+    "pos": "n.",
+    "meaning": "牛群",
+    "examples": [
+      { "en": "A large herd of cattle crossed the road.", "zh": "一大群牛穿過了馬路。" },
+      { "en": "The cattle eat grass in the pasture.", "zh": "這些牛在牧場吃草。" }
+    ],
+    "img": "herd of cattle grazing",
+    "theme": "農業食物",
+    "level": 3
+  },
+  {
+    "word": "poultry",
+    "kk": "[ˋpoltrɪ]",
+    "pos": "n.",
+    "meaning": "家禽",
+    "examples": [
+      { "en": "Chickens and ducks are common poultry on farms.", "zh": "雞和鴨是農場常見的家禽。" },
+      { "en": "The poultry are kept in a clean coop.", "zh": "這些家禽養在乾淨的雞舍裡。" }
+    ],
+    "img": "chickens and ducks in farm yard",
+    "theme": "農業食物",
+    "level": 3
+  },
+  {
+    "word": "graze",
+    "kk": "[grez]",
+    "pos": "v.",
+    "meaning": "(牲畜)吃草",
+    "examples": [
+      { "en": "Sheep graze quietly on the hillside.", "zh": "羊群在山坡上安靜地吃草。" },
+      { "en": "The cows graze all day in the field.", "zh": "牛群整天在田裡吃草。" }
+    ],
+    "img": "sheep grazing on green hill",
+    "theme": "農業食物",
+    "level": 3
+  },
+  {
+    "word": "pasture",
+    "kk": "[ˋpæstʃɚ]",
+    "pos": "n.",
+    "meaning": "牧場;牧草地",
+    "examples": [
+      { "en": "The horses run freely in the open pasture.", "zh": "馬兒在開闊的牧場自由奔跑。" },
+      { "en": "Green pasture stretches to the hills.", "zh": "綠色的牧草地一直延伸到山邊。" }
+    ],
+    "img": "green pasture with grazing animals",
+    "theme": "農業食物",
+    "level": 3
+  },
+  {
+    "word": "herd",
+    "kk": "[hɝd]",
+    "pos": "n.",
+    "meaning": "獸群;牧群",
+    "examples": [
+      { "en": "A herd of goats climbed the rocky hill.", "zh": "一群山羊爬上了岩石山丘。" },
+      { "en": "The farmer moved the herd to fresh grass.", "zh": "農夫把牧群趕到新鮮的草地。" }
+    ],
+    "img": "herd of goats on hillside",
+    "theme": "農業食物",
+    "level": 3
+  },
+  {
+    "word": "plow",
+    "kk": "[plaʊ]",
+    "pos": "v.",
+    "meaning": "犁(田)",
+    "examples": [
+      { "en": "Farmers plow the land before planting.", "zh": "農夫在種植前犁田。" },
+      { "en": "He plowed the field with an old machine.", "zh": "他用一台舊機器犁田。" }
+    ],
+    "img": "plow turning soil in field",
+    "theme": "農業食物",
+    "level": 3
+  },
+  {
+    "word": "irrigation",
+    "kk": "[͵ɪrəˋgeʃən]",
+    "pos": "n.",
+    "meaning": "灌溉",
+    "examples": [
+      { "en": "Good irrigation keeps the crops alive in summer.", "zh": "良好的灌溉讓作物在夏天存活。" },
+      { "en": "The village built a new irrigation system.", "zh": "村莊建了一套新的灌溉系統。" }
+    ],
+    "img": "irrigation channels watering crops",
+    "theme": "農業食物",
+    "level": 3
+  },
+  {
+    "word": "fertilizer",
+    "kk": "[ˋfɝtl͵aɪzɚ]",
+    "pos": "n.",
+    "meaning": "肥料",
+    "examples": [
+      { "en": "Farmers add fertilizer to help plants grow.", "zh": "農夫加肥料幫助植物生長。" },
+      { "en": "Too much fertilizer can harm the soil.", "zh": "太多肥料會傷害土壤。" }
+    ],
+    "img": "hand spreading fertilizer on soil",
+    "theme": "農業食物",
+    "level": 3
+  },
+  {
+    "word": "organic",
+    "kk": "[ɔrˋgænɪk]",
+    "pos": "adj.",
+    "meaning": "有機的",
+    "examples": [
+      { "en": "She only buys organic vegetables.", "zh": "她只買有機蔬菜。" },
+      { "en": "Organic farming uses no chemical sprays.", "zh": "有機耕作不使用化學噴劑。" }
+    ],
+    "img": "organic vegetables with green label",
+    "theme": "農業食物",
+    "level": 3
+  },
+  {
+    "word": "greenhouse",
+    "kk": "[ˋgrin͵haʊs]",
+    "pos": "n.",
+    "meaning": "溫室",
+    "examples": [
+      { "en": "Tomatoes grow well inside the greenhouse.", "zh": "番茄在溫室裡長得很好。" },
+      { "en": "The greenhouse stays warm even in winter.", "zh": "溫室即使在冬天也很溫暖。" }
+    ],
+    "img": "glass greenhouse full of plants",
+    "theme": "農業食物",
+    "level": 3
+  },
+  {
+    "word": "orchard",
+    "kk": "[ˋɔrtʃɚd]",
+    "pos": "n.",
+    "meaning": "果園",
+    "examples": [
+      { "en": "We picked apples in the orchard.", "zh": "我們在果園裡採蘋果。" },
+      { "en": "The orchard is full of ripe peaches.", "zh": "果園裡滿是成熟的桃子。" }
+    ],
+    "img": "apple orchard with fruit trees",
+    "theme": "農業食物",
+    "level": 3
+  },
+  {
+    "word": "vineyard",
+    "kk": "[ˋvɪnjɚd]",
+    "pos": "n.",
+    "meaning": "葡萄園",
+    "examples": [
+      { "en": "The vineyard grows grapes for wine.", "zh": "這座葡萄園種植釀酒的葡萄。" },
+      { "en": "Rows of vines cover the whole vineyard.", "zh": "一排排葡萄藤覆蓋整個葡萄園。" }
+    ],
+    "img": "rows of grape vines in vineyard",
+    "theme": "農業食物",
+    "level": 3
+  },
+  {
+    "word": "grain",
+    "kk": "[gren]",
+    "pos": "n.",
+    "meaning": "穀物;穀粒",
+    "examples": [
+      { "en": "Wheat and rice are common grains.", "zh": "小麥和稻米是常見的穀物。" },
+      { "en": "The grain is stored in large bags.", "zh": "穀物儲存在大袋子裡。" }
+    ],
+    "img": "golden grain in wooden bowl",
+    "theme": "農業食物",
+    "level": 2
+  },
+  {
+    "word": "wheat",
+    "kk": "[hwit]",
+    "pos": "n.",
+    "meaning": "小麥",
+    "examples": [
+      { "en": "Bread is made from wheat.", "zh": "麵包是用小麥做的。" },
+      { "en": "The wheat turns golden in summer.", "zh": "小麥在夏天變成金黃色。" }
+    ],
+    "img": "golden wheat stalks in field",
+    "theme": "農業食物",
+    "level": 2
+  },
+  {
+    "word": "corn",
+    "kk": "[kɔrn]",
+    "pos": "n.",
+    "meaning": "玉米",
+    "examples": [
+      { "en": "The farmer grows corn in large fields.", "zh": "農夫在大片田地裡種玉米。" },
+      { "en": "We picked fresh corn this morning.", "zh": "我們今天早上採了新鮮的玉米。" }
+    ],
+    "img": "yellow corn on the stalk",
+    "theme": "農業食物",
+    "level": 2
+  },
+  {
+    "word": "ranch",
+    "kk": "[ræntʃ]",
+    "pos": "n.",
+    "meaning": "大牧場",
+    "examples": [
+      { "en": "They raise horses on a large ranch.", "zh": "他們在一座大牧場養馬。" },
+      { "en": "The ranch covers hundreds of acres.", "zh": "這座牧場占地數百英畝。" }
+    ],
+    "img": "wide cattle ranch with fences",
+    "theme": "農業食物",
+    "level": 3
+  },
+  {
+    "word": "dairy",
+    "kk": "[ˋdɛrɪ]",
+    "pos": "adj.",
+    "meaning": "乳製品的;酪農的",
+    "examples": [
+      { "en": "The dairy farm produces fresh milk daily.", "zh": "這座酪農場每天生產新鮮牛奶。" },
+      { "en": "Cheese and butter are dairy products.", "zh": "起司和奶油是乳製品。" }
+    ],
+    "img": "dairy cows and milk bottles",
+    "theme": "農業食物",
+    "level": 3
+  },
+  {
+    "word": "hay",
+    "kk": "[he]",
+    "pos": "n.",
+    "meaning": "乾草",
+    "examples": [
+      { "en": "The horses eat hay in winter.", "zh": "馬兒在冬天吃乾草。" },
+      { "en": "Round bales of hay lie in the field.", "zh": "圓形的乾草捆躺在田裡。" }
+    ],
+    "img": "round hay bales in field",
+    "theme": "農業食物",
+    "level": 2
+  },
+  {
+    "word": "weed",
+    "kk": "[wid]",
+    "pos": "n.",
+    "meaning": "雜草",
+    "examples": [
+      { "en": "We must pull the weeds from the garden.", "zh": "我們必須把花園裡的雜草拔掉。" },
+      { "en": "Weeds can steal water from crops.", "zh": "雜草會奪走作物的水分。" }
+    ],
+    "img": "weeds growing among crops",
+    "theme": "農業食物",
+    "level": 2
+  },
+  {
+    "word": "ripe",
+    "kk": "[raɪp]",
+    "pos": "adj.",
+    "meaning": "成熟的",
+    "examples": [
+      { "en": "The tomatoes are ripe and ready to pick.", "zh": "番茄成熟了,可以採收。" },
+      { "en": "Ripe fruit tastes sweet and juicy.", "zh": "成熟的水果嚐起來又甜又多汁。" }
+    ],
+    "img": "ripe red tomatoes on vine",
+    "theme": "農業食物",
+    "level": 2
+  },
+  {
+    "word": "produce",
+    "kk": "[ˋprɑdjus]",
+    "pos": "n.",
+    "meaning": "農產品",
+    "examples": [
+      { "en": "The market sells fresh local produce.", "zh": "市場販售新鮮的當地農產品。" },
+      { "en": "Farm produce is delivered every morning.", "zh": "農產品每天早上送達。" }
+    ],
+    "img": "baskets of fresh farm produce",
+    "theme": "農業食物",
+    "level": 3
+  },
+  {
+    "word": "acre",
+    "kk": "[ˋekɚ]",
+    "pos": "n.",
+    "meaning": "英畝",
+    "examples": [
+      { "en": "The farm covers over fifty acres.", "zh": "這座農場占地超過五十英畝。" },
+      { "en": "They planted rice on ten acres of land.", "zh": "他們在十英畝的土地上種稻。" }
+    ],
+    "img": "aerial view of large farmland",
+    "theme": "農業食物",
+    "level": 3
+  },
+  {
+    "word": "cultivate",
+    "kk": "[ˋkʌltə͵vet]",
+    "pos": "v.",
+    "meaning": "耕種;栽培",
+    "examples": [
+      { "en": "Farmers cultivate the land every spring.", "zh": "農夫每年春天耕種土地。" },
+      { "en": "They cultivate rice and beans together.", "zh": "他們同時栽培稻米和豆子。" }
+    ],
+    "img": "farmer cultivating field rows",
+    "theme": "農業食物",
+    "level": 3
+  },
+  {
+    "word": "sow",
+    "kk": "[so]",
+    "pos": "v.",
+    "meaning": "播種",
+    "examples": [
+      { "en": "They sow the seeds early in spring.", "zh": "他們在早春播種。" },
+      { "en": "The farmer sowed wheat across the field.", "zh": "農夫在田裡播下小麥種子。" }
+    ],
+    "img": "hand sowing seeds in soil",
+    "theme": "農業食物",
+    "level": 3
+  },
+  {
+    "word": "barnyard",
+    "kk": "[ˋbɑrn͵jɑrd]",
+    "pos": "n.",
+    "meaning": "農家庭院;畜欄場",
+    "examples": [
+      { "en": "Chickens run around the barnyard.", "zh": "雞在農家庭院裡跑來跑去。" },
+      { "en": "The barnyard was noisy in the morning.", "zh": "農家庭院早上很吵鬧。" }
+    ],
+    "img": "farm animals in barnyard",
+    "theme": "農業食物",
+    "level": 3
+  },
+  {
+    "word": "manure",
+    "kk": "[məˋnjʊr]",
+    "pos": "n.",
+    "meaning": "糞肥;有機肥",
+    "examples": [
+      { "en": "Animal manure makes good natural fertilizer.", "zh": "動物糞肥是很好的天然肥料。" },
+      { "en": "They spread manure over the field.", "zh": "他們把糞肥撒在田裡。" }
+    ],
+    "img": "manure spread on farm soil",
+    "theme": "農業食物",
+    "level": 3
+  },
+  {
+    "word": "sprout",
+    "kk": "[spraʊt]",
+    "pos": "v.",
+    "meaning": "發芽",
+    "examples": [
+      { "en": "The seeds sprout after a few days.", "zh": "種子幾天後就發芽。" },
+      { "en": "New leaves sprout in the warm sun.", "zh": "新葉在溫暖的陽光下發芽。" }
+    ],
+    "img": "green seedling sprouting from soil",
+    "theme": "農業食物",
+    "level": 3
+  },
+  {
+    "word": "pesticide",
+    "kk": "[ˋpɛstɪ͵saɪd]",
+    "pos": "n.",
+    "meaning": "殺蟲劑;農藥",
+    "examples": [
+      { "en": "Some farmers avoid using pesticides.", "zh": "有些農夫避免使用農藥。" },
+      { "en": "Pesticides kill insects that harm crops.", "zh": "農藥殺死危害作物的昆蟲。" }
+    ],
+    "img": "farmer spraying crops with pesticide",
+    "theme": "農業食物",
+    "level": 3
+  },
+  {
+    "word": "harvester",
+    "kk": "[ˋhɑrvɪstɚ]",
+    "pos": "n.",
+    "meaning": "收割機",
+    "examples": [
+      { "en": "The harvester cuts the wheat quickly.", "zh": "收割機很快地割下小麥。" },
+      { "en": "A modern harvester saves a lot of time.", "zh": "現代收割機節省許多時間。" }
+    ],
+    "img": "harvester machine cutting wheat",
+    "theme": "農業食物",
+    "level": 3
+  },
+  {
+    "word": "farmland",
+    "kk": "[ˋfɑrm͵lænd]",
+    "pos": "n.",
+    "meaning": "農地;耕地",
+    "examples": [
+      { "en": "Rich farmland surrounds the small town.", "zh": "肥沃的農地環繞著這座小鎮。" },
+      { "en": "Much farmland is used to grow rice.", "zh": "許多農地用來種植稻米。" }
+    ],
+    "img": "wide farmland with green fields",
+    "theme": "農業食物",
+    "level": 2
+  },
+  {
+    "word": "shepherd",
+    "kk": "[ˋʃɛpɚd]",
+    "pos": "n.",
+    "meaning": "牧羊人",
+    "examples": [
+      { "en": "The shepherd leads the sheep to the hills.", "zh": "牧羊人把羊群帶到山上。" },
+      { "en": "A shepherd watches the flock all day.", "zh": "牧羊人整天看顧羊群。" }
+    ],
+    "img": "shepherd with flock of sheep",
+    "theme": "農業食物",
+    "level": 3
+  },
+  {
+    "word": "flock",
+    "kk": "[flɑk]",
+    "pos": "n.",
+    "meaning": "(羊、鳥)群",
+    "examples": [
+      { "en": "A flock of sheep grazed near the barn.", "zh": "一群羊在穀倉附近吃草。" },
+      { "en": "The farmer counted his flock each night.", "zh": "農夫每晚清點他的羊群。" }
+    ],
+    "img": "flock of sheep in green field",
+    "theme": "農業食物",
+    "level": 3
+  },
+  {
+    "word": "yield",
+    "kk": "[jild]",
+    "pos": "n.",
+    "meaning": "產量;收益",
+    "examples": [
+      { "en": "Good weather gave a high crop yield.", "zh": "好天氣帶來了高作物產量。" },
+      { "en": "The rice yield doubled this year.", "zh": "今年的稻米產量翻了一倍。" }
+    ],
+    "img": "abundant harvest of grain",
+    "theme": "農業食物",
+    "level": 3
+  },
+  {
+    "word": "seedling",
+    "kk": "[ˋsidlɪŋ]",
+    "pos": "n.",
+    "meaning": "幼苗;秧苗",
+    "examples": [
+      { "en": "The seedlings need sunlight and water.", "zh": "幼苗需要陽光和水。" },
+      { "en": "She moved the seedlings into the field.", "zh": "她把秧苗移到田裡。" }
+    ],
+    "img": "small green seedlings in tray",
+    "theme": "農業食物",
+    "level": 3
+  },
+  {
+    "word": "rural",
+    "kk": "[ˋrʊrəl]",
+    "pos": "adj.",
+    "meaning": "鄉村的;農村的",
+    "examples": [
+      { "en": "Many farmers live in rural areas.", "zh": "許多農夫住在農村地區。" },
+      { "en": "Life is quiet in the rural village.", "zh": "農村小村莊的生活很安靜。" }
+    ],
+    "img": "peaceful rural village with fields",
+    "theme": "農業食物",
+    "level": 3
+  },
+  {
+    "word": "harvesttime",
+    "kk": "[ˋhɑrvɪst͵taɪm]",
+    "pos": "n.",
+    "meaning": "收成期",
+    "examples": [
+      { "en": "Everyone is busy at harvesttime.", "zh": "收成期時大家都很忙碌。" },
+      { "en": "Harvesttime comes in early autumn.", "zh": "收成期在初秋來臨。" }
+    ],
+    "img": "busy farmers during harvest season",
+    "theme": "農業食物",
+    "level": 3
+  },
+  {
+    "word": "scarecrow",
+    "kk": "[ˋskɛr͵kro]",
+    "pos": "n.",
+    "meaning": "稻草人",
+    "examples": [
+      { "en": "The scarecrow keeps birds away from the crops.", "zh": "稻草人讓鳥兒遠離作物。" },
+      { "en": "A tall scarecrow stands in the rice field.", "zh": "一個高高的稻草人立在稻田裡。" }
+    ],
+    "img": "scarecrow standing in crop field",
+    "theme": "農業食物",
+    "level": 2
+  },
+  {
+    "word": "harvestable",
+    "kk": "[ˋhɑrvɪstəbl]",
+    "pos": "adj.",
+    "meaning": "可收成的",
+    "examples": [
+      { "en": "The wheat will be harvestable next week.", "zh": "小麥下週就可以收成了。" },
+      { "en": "Only ripe crops are harvestable.", "zh": "只有成熟的作物才可收成。" }
+    ],
+    "img": "ripe crops ready to harvest",
+    "theme": "農業食物",
+    "level": 3
+  }
+]

@@ -1,0 +1,652 @@
+[
+  {
+    "word": "moisturizer",
+    "kk": "[ˋmɔɪstʃə͵raɪzɚ]",
+    "pos": "n.",
+    "meaning": "保濕乳液；潤膚霜",
+    "examples": [
+      { "en": "I apply moisturizer every night before bed.", "zh": "我每晚睡前塗保濕乳液。" },
+      { "en": "This moisturizer keeps my skin soft in winter.", "zh": "這款保濕霜讓我的皮膚在冬天保持柔嫩。" }
+    ],
+    "img": "hand applying white face cream jar",
+    "theme": "美容保養",
+    "level": 2
+  },
+  {
+    "word": "cleanser",
+    "kk": "[ˋklɛnzɚ]",
+    "pos": "n.",
+    "meaning": "洗面乳；潔膚品",
+    "examples": [
+      { "en": "Use a gentle cleanser to wash your face.", "zh": "用溫和的洗面乳洗臉。" },
+      { "en": "This foaming cleanser removes makeup easily.", "zh": "這款泡沫洗面乳能輕鬆卸妝。" }
+    ],
+    "img": "foaming facial cleanser bottle bathroom",
+    "theme": "美容保養",
+    "level": 2
+  },
+  {
+    "word": "toner",
+    "kk": "[ˋtonɚ]",
+    "pos": "n.",
+    "meaning": "化妝水；爽膚水",
+    "examples": [
+      { "en": "She pats toner onto her skin after cleansing.", "zh": "她洗臉後把化妝水輕拍在皮膚上。" },
+      { "en": "A good toner balances your skin.", "zh": "好的化妝水能平衡膚質。" }
+    ],
+    "img": "cotton pad toner bottle skincare",
+    "theme": "美容保養",
+    "level": 2
+  },
+  {
+    "word": "serum",
+    "kk": "[ˋsɪrəm]",
+    "pos": "n.",
+    "meaning": "精華液",
+    "examples": [
+      { "en": "Vitamin C serum brightens the skin.", "zh": "維他命C精華液能提亮膚色。" },
+      { "en": "Apply the serum before your moisturizer.", "zh": "在保濕霜之前塗上精華液。" }
+    ],
+    "img": "dropper serum bottle glass skincare",
+    "theme": "美容保養",
+    "level": 3
+  },
+  {
+    "word": "sunscreen",
+    "kk": "[ˋsʌn͵skrin]",
+    "pos": "n.",
+    "meaning": "防曬乳",
+    "examples": [
+      { "en": "Don't forget to wear sunscreen at the beach.", "zh": "去海邊別忘了擦防曬乳。" },
+      { "en": "This sunscreen protects against UV rays.", "zh": "這款防曬乳能抵擋紫外線。" }
+    ],
+    "img": "sunscreen tube lotion beach sun",
+    "theme": "美容保養",
+    "level": 2
+  },
+  {
+    "word": "exfoliate",
+    "kk": "[ɛksˋfolɪ͵et]",
+    "pos": "v.",
+    "meaning": "去角質",
+    "examples": [
+      { "en": "Exfoliate your skin twice a week.", "zh": "一週去角質兩次。" },
+      { "en": "Exfoliating removes dead skin cells.", "zh": "去角質能去除老廢角質。" }
+    ],
+    "img": "scrub exfoliating skin hand shower",
+    "theme": "美容保養",
+    "level": 3
+  },
+  {
+    "word": "foundation",
+    "kk": "[faʊnˋdeʃən]",
+    "pos": "n.",
+    "meaning": "粉底",
+    "examples": [
+      { "en": "She blended the foundation with a sponge.", "zh": "她用海綿把粉底推勻。" },
+      { "en": "This foundation matches my skin tone.", "zh": "這款粉底和我的膚色很搭。" }
+    ],
+    "img": "liquid foundation bottle makeup sponge",
+    "theme": "美容保養",
+    "level": 2
+  },
+  {
+    "word": "concealer",
+    "kk": "[kənˋsilɚ]",
+    "pos": "n.",
+    "meaning": "遮瑕膏",
+    "examples": [
+      { "en": "Use concealer to hide dark circles.", "zh": "用遮瑕膏遮蓋黑眼圈。" },
+      { "en": "A little concealer covers the pimple.", "zh": "一點遮瑕膏就能蓋住痘痘。" }
+    ],
+    "img": "concealer stick makeup under eye",
+    "theme": "美容保養",
+    "level": 3
+  },
+  {
+    "word": "mascara",
+    "kk": "[mæsˋkærə]",
+    "pos": "n.",
+    "meaning": "睫毛膏",
+    "examples": [
+      { "en": "She put on mascara to lengthen her lashes.", "zh": "她塗睫毛膏讓睫毛變長。" },
+      { "en": "This mascara is waterproof.", "zh": "這款睫毛膏防水。" }
+    ],
+    "img": "mascara wand black eyelashes closeup",
+    "theme": "美容保養",
+    "level": 2
+  },
+  {
+    "word": "eyeliner",
+    "kk": "[ˋaɪ͵laɪnɚ]",
+    "pos": "n.",
+    "meaning": "眼線筆；眼線液",
+    "examples": [
+      { "en": "She drew a thin line with eyeliner.", "zh": "她用眼線筆畫了一條細線。" },
+      { "en": "Black eyeliner makes eyes look bigger.", "zh": "黑色眼線讓眼睛看起來更大。" }
+    ],
+    "img": "eyeliner pen drawing eye makeup",
+    "theme": "美容保養",
+    "level": 2
+  },
+  {
+    "word": "eyeshadow",
+    "kk": "[ˋaɪ͵ʃædo]",
+    "pos": "n.",
+    "meaning": "眼影",
+    "examples": [
+      { "en": "She chose a pink eyeshadow for the party.", "zh": "她為派對挑了粉色眼影。" },
+      { "en": "Blend the eyeshadow with a brush.", "zh": "用刷子把眼影暈開。" }
+    ],
+    "img": "eyeshadow palette colorful makeup brush",
+    "theme": "美容保養",
+    "level": 2
+  },
+  {
+    "word": "blush",
+    "kk": "[blʌʃ]",
+    "pos": "n.",
+    "meaning": "腮紅",
+    "examples": [
+      { "en": "A touch of blush adds color to her cheeks.", "zh": "一點腮紅為她的臉頰增添氣色。" },
+      { "en": "She swept blush across her cheekbones.", "zh": "她把腮紅刷在顴骨上。" }
+    ],
+    "img": "pink blush compact makeup cheek",
+    "theme": "美容保養",
+    "level": 2
+  },
+  {
+    "word": "lipstick",
+    "kk": "[ˋlɪp͵stɪk]",
+    "pos": "n.",
+    "meaning": "口紅",
+    "examples": [
+      { "en": "She wore red lipstick to the dinner.", "zh": "她擦紅色口紅去晚餐。" },
+      { "en": "This lipstick lasts all day.", "zh": "這支口紅可以持妝一整天。" }
+    ],
+    "img": "red lipstick tube open makeup",
+    "theme": "美容保養",
+    "level": 2
+  },
+  {
+    "word": "lip gloss",
+    "kk": "[ˋlɪp͵glɔs]",
+    "pos": "n.",
+    "meaning": "唇蜜",
+    "examples": [
+      { "en": "Lip gloss gives your lips a shiny look.", "zh": "唇蜜讓嘴唇看起來亮亮的。" },
+      { "en": "She added lip gloss over her lipstick.", "zh": "她在口紅上再擦了唇蜜。" }
+    ],
+    "img": "shiny lip gloss wand pink lips",
+    "theme": "美容保養",
+    "level": 2
+  },
+  {
+    "word": "primer",
+    "kk": "[ˋpraɪmɚ]",
+    "pos": "n.",
+    "meaning": "妝前乳；隔離霜",
+    "examples": [
+      { "en": "Apply primer before foundation for a smooth base.", "zh": "上粉底前先擦妝前乳打造平滑底妝。" },
+      { "en": "Primer helps makeup stay on longer.", "zh": "妝前乳能讓妝容更持久。" }
+    ],
+    "img": "makeup primer tube smooth face base",
+    "theme": "美容保養",
+    "level": 3
+  },
+  {
+    "word": "highlighter",
+    "kk": "[ˋhaɪ͵laɪtɚ]",
+    "pos": "n.",
+    "meaning": "打亮；亮粉",
+    "examples": [
+      { "en": "She dabbed highlighter on her cheekbones.", "zh": "她在顴骨點上打亮。" },
+      { "en": "Highlighter gives your skin a glow.", "zh": "打亮讓肌膚散發光澤。" }
+    ],
+    "img": "glowing highlighter powder cheekbone shimmer",
+    "theme": "美容保養",
+    "level": 3
+  },
+  {
+    "word": "fragrance",
+    "kk": "[ˋfregrəns]",
+    "pos": "n.",
+    "meaning": "香水；香氣",
+    "examples": [
+      { "en": "She loves the fresh fragrance of this perfume.", "zh": "她喜歡這款香水清新的香氣。" },
+      { "en": "The lotion has a light floral fragrance.", "zh": "這款乳液有淡淡的花香。" }
+    ],
+    "img": "elegant perfume bottle fragrance flowers",
+    "theme": "美容保養",
+    "level": 3
+  },
+  {
+    "word": "cosmetics",
+    "kk": "[kɑzˋmɛtɪks]",
+    "pos": "n.",
+    "meaning": "化妝品",
+    "examples": [
+      { "en": "She keeps her cosmetics in a small bag.", "zh": "她把化妝品放在一個小包裡。" },
+      { "en": "The store sells natural cosmetics.", "zh": "這家店賣天然化妝品。" }
+    ],
+    "img": "cosmetics collection makeup products table",
+    "theme": "美容保養",
+    "level": 3
+  },
+  {
+    "word": "complexion",
+    "kk": "[kəmˋplɛkʃən]",
+    "pos": "n.",
+    "meaning": "膚色；面色",
+    "examples": [
+      { "en": "She has a clear, healthy complexion.", "zh": "她有著乾淨健康的膚色。" },
+      { "en": "Enough sleep improves your complexion.", "zh": "充足的睡眠能改善面色。" }
+    ],
+    "img": "close up clear healthy facial skin",
+    "theme": "美容保養",
+    "level": 3
+  },
+  {
+    "word": "wrinkle",
+    "kk": "[ˋrɪŋkl̩]",
+    "pos": "n.",
+    "meaning": "皺紋",
+    "examples": [
+      { "en": "This cream reduces fine wrinkles.", "zh": "這款乳霜能減少細紋。" },
+      { "en": "Wrinkles appear as we get older.", "zh": "隨著年紀增長會出現皺紋。" }
+    ],
+    "img": "close up skin wrinkles around eye",
+    "theme": "美容保養",
+    "level": 2
+  },
+  {
+    "word": "pore",
+    "kk": "[por]",
+    "pos": "n.",
+    "meaning": "毛孔",
+    "examples": [
+      { "en": "This mask cleans out clogged pores.", "zh": "這款面膜能清潔阻塞的毛孔。" },
+      { "en": "Cold water helps tighten pores.", "zh": "冷水有助於收縮毛孔。" }
+    ],
+    "img": "close up facial skin pores texture",
+    "theme": "美容保養",
+    "level": 2
+  },
+  {
+    "word": "acne",
+    "kk": "[ˋæknɪ]",
+    "pos": "n.",
+    "meaning": "痘痘；粉刺",
+    "examples": [
+      { "en": "This gel treats acne on the chin.", "zh": "這款凝膠能治療下巴的痘痘。" },
+      { "en": "Many teenagers struggle with acne.", "zh": "許多青少年為粉刺所苦。" }
+    ],
+    "img": "close up skin acne breakout face",
+    "theme": "美容保養",
+    "level": 3
+  },
+  {
+    "word": "blemish",
+    "kk": "[ˋblɛmɪʃ]",
+    "pos": "n.",
+    "meaning": "瑕疵；斑點",
+    "examples": [
+      { "en": "Concealer can hide a small blemish.", "zh": "遮瑕膏能遮住小斑點。" },
+      { "en": "The cream fades dark blemishes over time.", "zh": "這款乳霜能慢慢淡化深色斑點。" }
+    ],
+    "img": "close up skin blemish spot cheek",
+    "theme": "美容保養",
+    "level": 3
+  },
+  {
+    "word": "facial",
+    "kk": "[ˋfeʃəl]",
+    "pos": "n.",
+    "meaning": "臉部護理；做臉",
+    "examples": [
+      { "en": "She booked a facial at the spa.", "zh": "她在水療中心預約了做臉。" },
+      { "en": "A monthly facial keeps my skin fresh.", "zh": "每月做一次臉讓我的皮膚保持清爽。" }
+    ],
+    "img": "woman spa facial treatment relaxing",
+    "theme": "美容保養",
+    "level": 2
+  },
+  {
+    "word": "mask",
+    "kk": "[mæsk]",
+    "pos": "n.",
+    "meaning": "面膜",
+    "examples": [
+      { "en": "I put on a sheet mask before bed.", "zh": "我睡前敷了一片面膜。" },
+      { "en": "This clay mask deep-cleans the skin.", "zh": "這款泥面膜能深層清潔肌膚。" }
+    ],
+    "img": "woman wearing sheet face mask relax",
+    "theme": "美容保養",
+    "level": 2
+  },
+  {
+    "word": "trim",
+    "kk": "[trɪm]",
+    "pos": "v.",
+    "meaning": "修剪",
+    "examples": [
+      { "en": "The barber trimmed my hair a little.", "zh": "理髮師幫我修剪了一點頭髮。" },
+      { "en": "Could you trim the ends, please?", "zh": "可以幫我修一下髮尾嗎?" }
+    ],
+    "img": "hairdresser trimming hair scissors salon",
+    "theme": "美容保養",
+    "level": 2
+  },
+  {
+    "word": "bangs",
+    "kk": "[bæŋz]",
+    "pos": "n.",
+    "meaning": "瀏海",
+    "examples": [
+      { "en": "She cut her bangs shorter this week.", "zh": "她這週把瀏海剪短了。" },
+      { "en": "Bangs can change your whole look.", "zh": "瀏海能改變整個造型。" }
+    ],
+    "img": "woman with straight bangs front hair",
+    "theme": "美容保養",
+    "level": 2
+  },
+  {
+    "word": "highlights",
+    "kk": "[ˋhaɪ͵laɪts]",
+    "pos": "n.",
+    "meaning": "挑染",
+    "examples": [
+      { "en": "She got blonde highlights at the salon.", "zh": "她在髮廊做了金色挑染。" },
+      { "en": "Highlights add dimension to your hair.", "zh": "挑染能讓頭髮更有層次。" }
+    ],
+    "img": "blonde hair highlights salon color strands",
+    "theme": "美容保養",
+    "level": 3
+  },
+  {
+    "word": "dye",
+    "kk": "[daɪ]",
+    "pos": "v.",
+    "meaning": "染(髮)",
+    "examples": [
+      { "en": "She decided to dye her hair brown.", "zh": "她決定把頭髮染成棕色。" },
+      { "en": "Don't dye your hair too often.", "zh": "別太常染頭髮。" }
+    ],
+    "img": "hairdresser dyeing hair color brush foil",
+    "theme": "美容保養",
+    "level": 2
+  },
+  {
+    "word": "perm",
+    "kk": "[pɝm]",
+    "pos": "n.",
+    "meaning": "燙髮",
+    "examples": [
+      { "en": "She got a perm to add curls.", "zh": "她燙髮做出捲度。" },
+      { "en": "A perm lasts for several months.", "zh": "燙髮可以維持好幾個月。" }
+    ],
+    "img": "curly permed hair salon rollers",
+    "theme": "美容保養",
+    "level": 3
+  },
+  {
+    "word": "conditioner",
+    "kk": "[kənˋdɪʃənɚ]",
+    "pos": "n.",
+    "meaning": "潤髮乳",
+    "examples": [
+      { "en": "Use conditioner after shampoo.", "zh": "洗髮後使用潤髮乳。" },
+      { "en": "This conditioner makes my hair smooth.", "zh": "這款潤髮乳讓我的頭髮很滑順。" }
+    ],
+    "img": "conditioner bottle shower wet hair",
+    "theme": "美容保養",
+    "level": 2
+  },
+  {
+    "word": "shampoo",
+    "kk": "[ʃæmˋpu]",
+    "pos": "n.",
+    "meaning": "洗髮精",
+    "examples": [
+      { "en": "This shampoo is good for oily hair.", "zh": "這款洗髮精適合油性髮質。" },
+      { "en": "She washed her hair with herbal shampoo.", "zh": "她用草本洗髮精洗頭。" }
+    ],
+    "img": "shampoo bottle bubbles shower hair wash",
+    "theme": "美容保養",
+    "level": 2
+  },
+  {
+    "word": "blow-dry",
+    "kk": "[ˋblo͵draɪ]",
+    "pos": "v.",
+    "meaning": "吹乾(頭髮)",
+    "examples": [
+      { "en": "She blow-dried her hair after the shower.", "zh": "她洗完澡後把頭髮吹乾。" },
+      { "en": "The stylist blow-dried it into soft waves.", "zh": "髮型師把頭髮吹成柔軟的波浪。" }
+    ],
+    "img": "hairdryer blowing woman hair salon",
+    "theme": "美容保養",
+    "level": 3
+  },
+  {
+    "word": "straighten",
+    "kk": "[ˋstretn̩]",
+    "pos": "v.",
+    "meaning": "拉直(頭髮)",
+    "examples": [
+      { "en": "She used an iron to straighten her hair.", "zh": "她用電棒把頭髮拉直。" },
+      { "en": "Straightening makes curly hair smooth.", "zh": "拉直能讓捲髮變得柔順。" }
+    ],
+    "img": "flat iron straightening long hair",
+    "theme": "美容保養",
+    "level": 2
+  },
+  {
+    "word": "curl",
+    "kk": "[kɝl]",
+    "pos": "v.",
+    "meaning": "捲(頭髮)",
+    "examples": [
+      { "en": "She curled her hair for the wedding.", "zh": "她為婚禮把頭髮捲起來。" },
+      { "en": "Use a curling iron to curl the ends.", "zh": "用電捲棒把髮尾捲起來。" }
+    ],
+    "img": "curling iron wavy hair styling",
+    "theme": "美容保養",
+    "level": 2
+  },
+  {
+    "word": "hairstyle",
+    "kk": "[ˋhɛr͵staɪl]",
+    "pos": "n.",
+    "meaning": "髮型",
+    "examples": [
+      { "en": "I want to try a new hairstyle.", "zh": "我想試試新髮型。" },
+      { "en": "Her short hairstyle suits her well.", "zh": "她的短髮型很適合她。" }
+    ],
+    "img": "woman stylish haircut hairstyle salon mirror",
+    "theme": "美容保養",
+    "level": 2
+  },
+  {
+    "word": "manicure",
+    "kk": "[ˋmænɪ͵kjʊr]",
+    "pos": "n.",
+    "meaning": "美甲；修指甲",
+    "examples": [
+      { "en": "She got a manicure before the trip.", "zh": "她旅行前做了美甲。" },
+      { "en": "A manicure keeps your nails neat.", "zh": "美甲能讓指甲整齊。" }
+    ],
+    "img": "manicure hands painted nails salon",
+    "theme": "美容保養",
+    "level": 3
+  },
+  {
+    "word": "pedicure",
+    "kk": "[ˋpɛdɪ͵kjʊr]",
+    "pos": "n.",
+    "meaning": "足部護理；修腳趾甲",
+    "examples": [
+      { "en": "She enjoys a pedicure in summer.", "zh": "她夏天喜歡做足部護理。" },
+      { "en": "The pedicure made her toes look pretty.", "zh": "足部護理讓她的腳趾看起來很美。" }
+    ],
+    "img": "pedicure feet painted toenails spa",
+    "theme": "美容保養",
+    "level": 3
+  },
+  {
+    "word": "nail polish",
+    "kk": "[ˋnel͵pɑlɪʃ]",
+    "pos": "n.",
+    "meaning": "指甲油",
+    "examples": [
+      { "en": "She painted her nails with red nail polish.", "zh": "她用紅色指甲油塗指甲。" },
+      { "en": "This nail polish dries quickly.", "zh": "這款指甲油乾得很快。" }
+    ],
+    "img": "nail polish bottle red painting nails",
+    "theme": "美容保養",
+    "level": 2
+  },
+  {
+    "word": "cuticle",
+    "kk": "[ˋkjutɪkl̩]",
+    "pos": "n.",
+    "meaning": "指甲上皮；甘皮",
+    "examples": [
+      { "en": "Push back your cuticles gently.", "zh": "輕輕把甘皮往後推。" },
+      { "en": "Cuticle oil keeps your nails healthy.", "zh": "甘皮油能讓指甲保持健康。" }
+    ],
+    "img": "close up fingernail cuticle care tool",
+    "theme": "美容保養",
+    "level": 3
+  },
+  {
+    "word": "tweezers",
+    "kk": "[ˋtwizɚz]",
+    "pos": "n.",
+    "meaning": "鑷子；眉夾",
+    "examples": [
+      { "en": "She shaped her brows with tweezers.", "zh": "她用眉夾修出眉形。" },
+      { "en": "Use tweezers to pull out the stray hair.", "zh": "用鑷子拔掉雜毛。" }
+    ],
+    "img": "tweezers plucking eyebrow close up",
+    "theme": "美容保養",
+    "level": 3
+  },
+  {
+    "word": "hydrate",
+    "kk": "[ˋhaɪdret]",
+    "pos": "v.",
+    "meaning": "補水；保濕",
+    "examples": [
+      { "en": "This lotion hydrates dry skin.", "zh": "這款乳液能為乾燥肌膚補水。" },
+      { "en": "Drinking water helps hydrate your skin.", "zh": "喝水有助於為皮膚補水。" }
+    ],
+    "img": "water drops fresh hydrated glowing skin",
+    "theme": "美容保養",
+    "level": 3
+  },
+  {
+    "word": "nourish",
+    "kk": "[ˋnɝɪʃ]",
+    "pos": "v.",
+    "meaning": "滋養",
+    "examples": [
+      { "en": "This oil nourishes damaged hair.", "zh": "這款油能滋養受損的頭髮。" },
+      { "en": "The cream nourishes and softens the skin.", "zh": "這款乳霜能滋養並柔嫩肌膚。" }
+    ],
+    "img": "nourishing oil dropper healthy hair skin",
+    "theme": "美容保養",
+    "level": 3
+  },
+  {
+    "word": "peel",
+    "kk": "[pil]",
+    "pos": "n.",
+    "meaning": "去角質敷膜；煥膚",
+    "examples": [
+      { "en": "She tried a gentle chemical peel.", "zh": "她試了溫和的化學煥膚。" },
+      { "en": "This peel brightens dull skin.", "zh": "這款煥膚能提亮暗沉肌膚。" }
+    ],
+    "img": "facial peel treatment glowing skin spa",
+    "theme": "美容保養",
+    "level": 3
+  },
+  {
+    "word": "lotion",
+    "kk": "[ˋloʃən]",
+    "pos": "n.",
+    "meaning": "乳液",
+    "examples": [
+      { "en": "She rubbed lotion on her dry hands.", "zh": "她把乳液抹在乾燥的手上。" },
+      { "en": "Body lotion keeps skin soft after a shower.", "zh": "身體乳液能在洗澡後讓肌膚保持柔嫩。" }
+    ],
+    "img": "body lotion pump bottle hands cream",
+    "theme": "美容保養",
+    "level": 2
+  },
+  {
+    "word": "scrub",
+    "kk": "[skrʌb]",
+    "pos": "n.",
+    "meaning": "磨砂膏；去角質霜",
+    "examples": [
+      { "en": "She used a sugar scrub on her lips.", "zh": "她用糖磨砂膏護理嘴唇。" },
+      { "en": "A body scrub leaves skin smooth.", "zh": "身體磨砂膏能讓肌膚變光滑。" }
+    ],
+    "img": "sugar body scrub jar exfoliating skin",
+    "theme": "美容保養",
+    "level": 2
+  },
+  {
+    "word": "brow",
+    "kk": "[braʊ]",
+    "pos": "n.",
+    "meaning": "眉毛",
+    "examples": [
+      { "en": "She filled in her brows with a pencil.", "zh": "她用眉筆把眉毛畫滿。" },
+      { "en": "Well-shaped brows frame the face.", "zh": "修好的眉毛能襯托臉型。" }
+    ],
+    "img": "eyebrow pencil shaping brow close up",
+    "theme": "美容保養",
+    "level": 2
+  },
+  {
+    "word": "lash",
+    "kk": "[læʃ]",
+    "pos": "n.",
+    "meaning": "睫毛",
+    "examples": [
+      { "en": "She curled her lashes before mascara.", "zh": "她在塗睫毛膏前先夾睫毛。" },
+      { "en": "False lashes make eyes look dramatic.", "zh": "假睫毛讓眼睛看起來更有神。" }
+    ],
+    "img": "long eyelashes curler close up eye",
+    "theme": "美容保養",
+    "level": 2
+  },
+  {
+    "word": "radiant",
+    "kk": "[ˋredɪənt]",
+    "pos": "adj.",
+    "meaning": "容光煥發的；光彩的",
+    "examples": [
+      { "en": "Her skin looked radiant after the facial.", "zh": "做完臉後她的皮膚看起來容光煥發。" },
+      { "en": "This cream gives you a radiant glow.", "zh": "這款乳霜能讓你散發光采。" }
+    ],
+    "img": "woman radiant glowing healthy skin light",
+    "theme": "美容保養",
+    "level": 3
+  },
+  {
+    "word": "salon",
+    "kk": "[səˋlɑn]",
+    "pos": "n.",
+    "meaning": "美容院；沙龍",
+    "examples": [
+      { "en": "She booked an appointment at the hair salon.", "zh": "她在美髮沙龍預約了時間。" },
+      { "en": "This salon offers nail and facial services.", "zh": "這家沙龍提供美甲和臉部護理服務。" }
+    ],
+    "img": "modern beauty salon interior chairs mirrors",
+    "theme": "美容保養",
+    "level": 2
+  }
+]

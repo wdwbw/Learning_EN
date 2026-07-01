@@ -1,0 +1,639 @@
+[
+  {
+    "word": "run",
+    "kk": "[rʌn]",
+    "pos": "v.",
+    "meaning": "跑步",
+    "examples": [
+      { "en": "I run in the park every morning.", "zh": "我每天早上在公園跑步。" },
+      { "en": "Let's run together this weekend.", "zh": "我們這週末一起跑步吧。" }
+    ],
+    "img": "person running in park",
+    "theme": "運動健身",
+    "level": 1
+  },
+  {
+    "word": "jump",
+    "kk": "[dʒʌmp]",
+    "pos": "v.",
+    "meaning": "跳",
+    "examples": [
+      { "en": "Can you jump over that box?", "zh": "你能跳過那個箱子嗎?" },
+      { "en": "The kids love to jump on the bed.", "zh": "孩子們喜歡在床上跳。" }
+    ],
+    "img": "person jumping high",
+    "theme": "運動健身",
+    "level": 1
+  },
+  {
+    "word": "walk",
+    "kk": "[wɔk]",
+    "pos": "v.",
+    "meaning": "走路;散步",
+    "examples": [
+      { "en": "I walk to school every day.", "zh": "我每天走路上學。" },
+      { "en": "Let's take a walk after dinner.", "zh": "晚餐後我們去散步吧。" }
+    ],
+    "img": "people walking outdoors",
+    "theme": "運動健身",
+    "level": 1
+  },
+  {
+    "word": "ball",
+    "kk": "[bɔl]",
+    "pos": "n.",
+    "meaning": "球",
+    "examples": [
+      { "en": "Throw the ball to me!", "zh": "把球丟給我!" },
+      { "en": "The ball rolled under the table.", "zh": "球滾到桌子底下了。" }
+    ],
+    "img": "colorful sports ball",
+    "theme": "運動健身",
+    "level": 1
+  },
+  {
+    "word": "swim",
+    "kk": "[swɪm]",
+    "pos": "v.",
+    "meaning": "游泳",
+    "examples": [
+      { "en": "I like to swim in summer.", "zh": "我喜歡在夏天游泳。" },
+      { "en": "She can swim really fast.", "zh": "她游泳游得很快。" }
+    ],
+    "img": "person swimming in pool",
+    "theme": "運動健身",
+    "level": 1
+  },
+  {
+    "word": "team",
+    "kk": "[tim]",
+    "pos": "n.",
+    "meaning": "隊伍;團隊",
+    "examples": [
+      { "en": "Our team won the game.", "zh": "我們隊贏了比賽。" },
+      { "en": "He is the best player on the team.", "zh": "他是隊上最好的球員。" }
+    ],
+    "img": "sports team together",
+    "theme": "運動健身",
+    "level": 1
+  },
+  {
+    "word": "game",
+    "kk": "[gem]",
+    "pos": "n.",
+    "meaning": "比賽;遊戲",
+    "examples": [
+      { "en": "The game starts at seven.", "zh": "比賽七點開始。" },
+      { "en": "We watched a basketball game last night.", "zh": "我們昨晚看了一場籃球賽。" }
+    ],
+    "img": "sports game stadium",
+    "theme": "運動健身",
+    "level": 1
+  },
+  {
+    "word": "kick",
+    "kk": "[kɪk]",
+    "pos": "v.",
+    "meaning": "踢",
+    "examples": [
+      { "en": "He kicked the ball into the goal.", "zh": "他把球踢進球門。" },
+      { "en": "Don't kick the chair.", "zh": "不要踢椅子。" }
+    ],
+    "img": "player kicking soccer ball",
+    "theme": "運動健身",
+    "level": 1
+  },
+  {
+    "word": "throw",
+    "kk": "[θro]",
+    "pos": "v.",
+    "meaning": "丟;投擲",
+    "examples": [
+      { "en": "Throw the ball as far as you can.", "zh": "盡量把球丟遠。" },
+      { "en": "He threw the ball to first base.", "zh": "他把球傳向一壘。" }
+    ],
+    "img": "person throwing ball",
+    "theme": "運動健身",
+    "level": 1
+  },
+  {
+    "word": "catch",
+    "kk": "[kætʃ]",
+    "pos": "v.",
+    "meaning": "接住;抓住",
+    "examples": [
+      { "en": "Catch the ball with both hands.", "zh": "用雙手接球。" },
+      { "en": "She caught the ball easily.", "zh": "她輕鬆地接住了球。" }
+    ],
+    "img": "hands catching ball",
+    "theme": "運動健身",
+    "level": 1
+  },
+  {
+    "word": "soccer",
+    "kk": "[ˈsɑkɚ]",
+    "pos": "n.",
+    "meaning": "足球",
+    "examples": [
+      { "en": "We play soccer after school.", "zh": "我們放學後踢足球。" },
+      { "en": "Soccer is popular around the world.", "zh": "足球在全世界很受歡迎。" }
+    ],
+    "img": "soccer field with ball",
+    "theme": "運動健身",
+    "level": 1
+  },
+  {
+    "word": "basketball",
+    "kk": "[ˈbæskɪtˌbɔl]",
+    "pos": "n.",
+    "meaning": "籃球",
+    "examples": [
+      { "en": "He is good at basketball.", "zh": "他很擅長打籃球。" },
+      { "en": "Let's play basketball at the gym.", "zh": "我們去體育館打籃球吧。" }
+    ],
+    "img": "basketball and hoop",
+    "theme": "運動健身",
+    "level": 1
+  },
+  {
+    "word": "bike",
+    "kk": "[baɪk]",
+    "pos": "n.",
+    "meaning": "腳踏車",
+    "examples": [
+      { "en": "I ride my bike to work.", "zh": "我騎腳踏車上班。" },
+      { "en": "Her new bike is red.", "zh": "她的新腳踏車是紅色的。" }
+    ],
+    "img": "bicycle on road",
+    "theme": "運動健身",
+    "level": 1
+  },
+  {
+    "word": "jog",
+    "kk": "[dʒɑg]",
+    "pos": "v.",
+    "meaning": "慢跑",
+    "examples": [
+      { "en": "I jog for thirty minutes every day.", "zh": "我每天慢跑三十分鐘。" },
+      { "en": "They jog along the river.", "zh": "他們沿著河邊慢跑。" }
+    ],
+    "img": "person jogging outdoors",
+    "theme": "運動健身",
+    "level": 2
+  },
+  {
+    "word": "stretch",
+    "kk": "[strɛtʃ]",
+    "pos": "v.",
+    "meaning": "伸展",
+    "examples": [
+      { "en": "Always stretch before you exercise.", "zh": "運動前一定要伸展。" },
+      { "en": "She stretched her arms and legs.", "zh": "她伸展了手臂和腿。" }
+    ],
+    "img": "person stretching muscles",
+    "theme": "運動健身",
+    "level": 2
+  },
+  {
+    "word": "workout",
+    "kk": "[ˈwɝkˌaʊt]",
+    "pos": "n.",
+    "meaning": "健身;鍛鍊",
+    "examples": [
+      { "en": "My workout takes about an hour.", "zh": "我的健身大約要一個小時。" },
+      { "en": "That was a tough workout today.", "zh": "今天的鍛鍊很辛苦。" }
+    ],
+    "img": "person doing workout",
+    "theme": "運動健身",
+    "level": 2
+  },
+  {
+    "word": "exercise",
+    "kk": "[ˈɛksɚˌsaɪz]",
+    "pos": "v.",
+    "meaning": "運動;鍛鍊",
+    "examples": [
+      { "en": "You should exercise three times a week.", "zh": "你應該一週運動三次。" },
+      { "en": "Exercise helps you stay healthy.", "zh": "運動幫助你保持健康。" }
+    ],
+    "img": "people exercising gym",
+    "theme": "運動健身",
+    "level": 2
+  },
+  {
+    "word": "coach",
+    "kk": "[kotʃ]",
+    "pos": "n.",
+    "meaning": "教練",
+    "examples": [
+      { "en": "Our coach is very strict.", "zh": "我們的教練很嚴格。" },
+      { "en": "The coach taught us new skills.", "zh": "教練教了我們新技巧。" }
+    ],
+    "img": "sports coach with team",
+    "theme": "運動健身",
+    "level": 2
+  },
+  {
+    "word": "match",
+    "kk": "[mætʃ]",
+    "pos": "n.",
+    "meaning": "比賽;對抗賽",
+    "examples": [
+      { "en": "The tennis match lasted two hours.", "zh": "這場網球賽持續了兩個小時。" },
+      { "en": "We lost the match by one point.", "zh": "我們以一分之差輸了比賽。" }
+    ],
+    "img": "tennis match court",
+    "theme": "運動健身",
+    "level": 2
+  },
+  {
+    "word": "score",
+    "kk": "[skor]",
+    "pos": "v.",
+    "meaning": "得分",
+    "examples": [
+      { "en": "He scored two goals in the game.", "zh": "他在比賽中攻進兩球。" },
+      { "en": "She scored at the last minute.", "zh": "她在最後一分鐘得分。" }
+    ],
+    "img": "player scoring goal",
+    "theme": "運動健身",
+    "level": 2
+  },
+  {
+    "word": "referee",
+    "kk": "[ˌrɛfəˈri]",
+    "pos": "n.",
+    "meaning": "裁判",
+    "examples": [
+      { "en": "The referee blew the whistle.", "zh": "裁判吹了哨子。" },
+      { "en": "The referee gave him a yellow card.", "zh": "裁判給了他一張黃牌。" }
+    ],
+    "img": "referee on field",
+    "theme": "運動健身",
+    "level": 2
+  },
+  {
+    "word": "treadmill",
+    "kk": "[ˈtrɛdˌmɪl]",
+    "pos": "n.",
+    "meaning": "跑步機",
+    "examples": [
+      { "en": "I ran on the treadmill for an hour.", "zh": "我在跑步機上跑了一個小時。" },
+      { "en": "The treadmill at the gym is broken.", "zh": "健身房的跑步機壞了。" }
+    ],
+    "img": "gym treadmill machine",
+    "theme": "運動健身",
+    "level": 2
+  },
+  {
+    "word": "dumbbell",
+    "kk": "[ˈdʌmˌbɛl]",
+    "pos": "n.",
+    "meaning": "啞鈴",
+    "examples": [
+      { "en": "She lifts dumbbells to build muscle.", "zh": "她舉啞鈴來鍛鍊肌肉。" },
+      { "en": "Grab a light dumbbell to start.", "zh": "先拿一個輕的啞鈴開始。" }
+    ],
+    "img": "dumbbell weights gym",
+    "theme": "運動健身",
+    "level": 2
+  },
+  {
+    "word": "push-up",
+    "kk": "[ˈpʊʃˌʌp]",
+    "pos": "n.",
+    "meaning": "伏地挺身",
+    "examples": [
+      { "en": "I can do twenty push-ups.", "zh": "我能做二十下伏地挺身。" },
+      { "en": "Push-ups make your arms stronger.", "zh": "伏地挺身讓你的手臂更強壯。" }
+    ],
+    "img": "person doing push-up",
+    "theme": "運動健身",
+    "level": 2
+  },
+  {
+    "word": "sit-up",
+    "kk": "[ˈsɪtˌʌp]",
+    "pos": "n.",
+    "meaning": "仰臥起坐",
+    "examples": [
+      { "en": "She does sit-ups every night.", "zh": "她每晚做仰臥起坐。" },
+      { "en": "Sit-ups are good for your stomach.", "zh": "仰臥起坐對你的腹部很好。" }
+    ],
+    "img": "person doing sit-up",
+    "theme": "運動健身",
+    "level": 2
+  },
+  {
+    "word": "warm up",
+    "kk": "[wɔrm ʌp]",
+    "pos": "v. phr.",
+    "meaning": "熱身",
+    "examples": [
+      { "en": "Let's warm up before the game.", "zh": "比賽前我們先熱身吧。" },
+      { "en": "Warming up helps prevent injuries.", "zh": "熱身有助於防止受傷。" }
+    ],
+    "img": "athletes warming up",
+    "theme": "運動健身",
+    "level": 2
+  },
+  {
+    "word": "lift weights",
+    "kk": "[lɪft wets]",
+    "pos": "v. phr.",
+    "meaning": "舉重;重量訓練",
+    "examples": [
+      { "en": "He lifts weights at the gym every day.", "zh": "他每天在健身房重訓。" },
+      { "en": "Lifting weights makes you stronger.", "zh": "舉重讓你更強壯。" }
+    ],
+    "img": "person lifting weights",
+    "theme": "運動健身",
+    "level": 2
+  },
+  {
+    "word": "gym",
+    "kk": "[dʒɪm]",
+    "pos": "n.",
+    "meaning": "健身房",
+    "examples": [
+      { "en": "I go to the gym after work.", "zh": "我下班後去健身房。" },
+      { "en": "The gym is open until midnight.", "zh": "健身房營業到午夜。" }
+    ],
+    "img": "modern gym interior",
+    "theme": "運動健身",
+    "level": 2
+  },
+  {
+    "word": "sweat",
+    "kk": "[swɛt]",
+    "pos": "v.",
+    "meaning": "流汗",
+    "examples": [
+      { "en": "I always sweat a lot when I run.", "zh": "我跑步時總是流很多汗。" },
+      { "en": "He was sweating after the workout.", "zh": "運動後他滿身大汗。" }
+    ],
+    "img": "athlete sweating face",
+    "theme": "運動健身",
+    "level": 2
+  },
+  {
+    "word": "practice",
+    "kk": "[ˈpræktɪs]",
+    "pos": "v.",
+    "meaning": "練習",
+    "examples": [
+      { "en": "We practice soccer twice a week.", "zh": "我們一週練習足球兩次。" },
+      { "en": "You need to practice more.", "zh": "你需要多練習。" }
+    ],
+    "img": "team practice field",
+    "theme": "運動健身",
+    "level": 2
+  },
+  {
+    "word": "goal",
+    "kk": "[gol]",
+    "pos": "n.",
+    "meaning": "球門;進球",
+    "examples": [
+      { "en": "He scored an amazing goal.", "zh": "他攻進了一顆精彩的進球。" },
+      { "en": "The goalkeeper stood by the goal.", "zh": "守門員站在球門旁。" }
+    ],
+    "img": "soccer goal net",
+    "theme": "運動健身",
+    "level": 2
+  },
+  {
+    "word": "racket",
+    "kk": "[ˈrækɪt]",
+    "pos": "n.",
+    "meaning": "球拍",
+    "examples": [
+      { "en": "She bought a new tennis racket.", "zh": "她買了一支新的網球拍。" },
+      { "en": "My racket has broken strings.", "zh": "我的球拍斷了線。" }
+    ],
+    "img": "tennis racket close up",
+    "theme": "運動健身",
+    "level": 2
+  },
+  {
+    "word": "helmet",
+    "kk": "[ˈhɛlmɪt]",
+    "pos": "n.",
+    "meaning": "安全帽",
+    "examples": [
+      { "en": "Always wear a helmet when you bike.", "zh": "騎腳踏車時一定要戴安全帽。" },
+      { "en": "His helmet protected his head.", "zh": "他的安全帽保護了他的頭。" }
+    ],
+    "img": "bike helmet gear",
+    "theme": "運動健身",
+    "level": 2
+  },
+  {
+    "word": "sneakers",
+    "kk": "[ˈsnikɚz]",
+    "pos": "n.",
+    "meaning": "運動鞋",
+    "examples": [
+      { "en": "I bought new sneakers for running.", "zh": "我買了新的運動鞋來跑步。" },
+      { "en": "These sneakers are very comfortable.", "zh": "這雙運動鞋很舒服。" }
+    ],
+    "img": "running sneakers pair",
+    "theme": "運動健身",
+    "level": 2
+  },
+  {
+    "word": "yoga",
+    "kk": "[ˈjogə]",
+    "pos": "n.",
+    "meaning": "瑜伽",
+    "examples": [
+      { "en": "She does yoga to relax.", "zh": "她做瑜伽來放鬆。" },
+      { "en": "Yoga is good for your body and mind.", "zh": "瑜伽對身心都有益。" }
+    ],
+    "img": "person doing yoga pose",
+    "theme": "運動健身",
+    "level": 2
+  },
+  {
+    "word": "endurance",
+    "kk": "[ɪnˈdʊrəns]",
+    "pos": "n.",
+    "meaning": "耐力",
+    "examples": [
+      { "en": "Running builds your endurance.", "zh": "跑步能增強你的耐力。" },
+      { "en": "Marathons require great endurance.", "zh": "馬拉松需要極大的耐力。" }
+    ],
+    "img": "runner marathon endurance",
+    "theme": "運動健身",
+    "level": 3
+  },
+  {
+    "word": "flexibility",
+    "kk": "[ˌflɛksəˈbɪləti]",
+    "pos": "n.",
+    "meaning": "柔軟度",
+    "examples": [
+      { "en": "Stretching improves your flexibility.", "zh": "伸展能改善你的柔軟度。" },
+      { "en": "Dancers need great flexibility.", "zh": "舞者需要很好的柔軟度。" }
+    ],
+    "img": "gymnast flexibility stretch",
+    "theme": "運動健身",
+    "level": 3
+  },
+  {
+    "word": "cardio",
+    "kk": "[ˈkɑrdiˌo]",
+    "pos": "n.",
+    "meaning": "有氧運動",
+    "examples": [
+      { "en": "Cardio is great for your heart.", "zh": "有氧運動對你的心臟很好。" },
+      { "en": "I do cardio three times a week.", "zh": "我一週做三次有氧運動。" }
+    ],
+    "img": "person doing cardio exercise",
+    "theme": "運動健身",
+    "level": 3
+  },
+  {
+    "word": "opponent",
+    "kk": "[əˈponənt]",
+    "pos": "n.",
+    "meaning": "對手",
+    "examples": [
+      { "en": "Our opponent was very strong.", "zh": "我們的對手非常強。" },
+      { "en": "He shook hands with his opponent.", "zh": "他和對手握手。" }
+    ],
+    "img": "two athletes competing",
+    "theme": "運動健身",
+    "level": 3
+  },
+  {
+    "word": "champion",
+    "kk": "[ˈtʃæmpiən]",
+    "pos": "n.",
+    "meaning": "冠軍",
+    "examples": [
+      { "en": "She became the world champion.", "zh": "她成為了世界冠軍。" },
+      { "en": "The champion lifted the trophy.", "zh": "冠軍舉起了獎盃。" }
+    ],
+    "img": "champion holding trophy",
+    "theme": "運動健身",
+    "level": 3
+  },
+  {
+    "word": "tournament",
+    "kk": "[ˈtʊrnəmənt]",
+    "pos": "n.",
+    "meaning": "錦標賽",
+    "examples": [
+      { "en": "They won the tennis tournament.", "zh": "他們贏得了網球錦標賽。" },
+      { "en": "The tournament will last a week.", "zh": "這場錦標賽將持續一週。" }
+    ],
+    "img": "sports tournament bracket",
+    "theme": "運動健身",
+    "level": 3
+  },
+  {
+    "word": "muscle",
+    "kk": "[ˈmʌsl̩]",
+    "pos": "n.",
+    "meaning": "肌肉",
+    "examples": [
+      { "en": "Weightlifting builds muscle.", "zh": "舉重能鍛鍊肌肉。" },
+      { "en": "My muscles are sore after exercise.", "zh": "運動後我的肌肉痠痛。" }
+    ],
+    "img": "arm muscle flex",
+    "theme": "運動健身",
+    "level": 3
+  },
+  {
+    "word": "sprint",
+    "kk": "[sprɪnt]",
+    "pos": "v.",
+    "meaning": "衝刺;短跑",
+    "examples": [
+      { "en": "He sprinted to the finish line.", "zh": "他衝刺到終點線。" },
+      { "en": "She can sprint one hundred meters fast.", "zh": "她能快速跑完一百公尺。" }
+    ],
+    "img": "runner sprinting track",
+    "theme": "運動健身",
+    "level": 3
+  },
+  {
+    "word": "squat",
+    "kk": "[skwɑt]",
+    "pos": "n.",
+    "meaning": "深蹲",
+    "examples": [
+      { "en": "Squats work your leg muscles.", "zh": "深蹲能鍛鍊你的腿部肌肉。" },
+      { "en": "I do thirty squats every morning.", "zh": "我每天早上做三十下深蹲。" }
+    ],
+    "img": "person doing squat exercise",
+    "theme": "運動健身",
+    "level": 3
+  },
+  {
+    "word": "posture",
+    "kk": "[ˈpɑstʃɚ]",
+    "pos": "n.",
+    "meaning": "姿勢;體態",
+    "examples": [
+      { "en": "Good posture helps prevent back pain.", "zh": "良好的姿勢有助於預防背痛。" },
+      { "en": "Keep good posture while lifting.", "zh": "舉重時保持正確姿勢。" }
+    ],
+    "img": "person good posture standing",
+    "theme": "運動健身",
+    "level": 3
+  },
+  {
+    "word": "stamina",
+    "kk": "[ˈstæmənə]",
+    "pos": "n.",
+    "meaning": "體力;耐力",
+    "examples": [
+      { "en": "Swimming improves your stamina.", "zh": "游泳能提升你的體力。" },
+      { "en": "You need stamina to finish a race.", "zh": "跑完全程比賽需要體力。" }
+    ],
+    "img": "athlete running strong stamina",
+    "theme": "運動健身",
+    "level": 3
+  },
+  {
+    "word": "athlete",
+    "kk": "[ˈæθlit]",
+    "pos": "n.",
+    "meaning": "運動員",
+    "examples": [
+      { "en": "She is a professional athlete.", "zh": "她是一名職業運動員。" },
+      { "en": "Athletes train very hard.", "zh": "運動員訓練得非常刻苦。" }
+    ],
+    "img": "athlete on track field",
+    "theme": "運動健身",
+    "level": 3
+  },
+  {
+    "word": "work out",
+    "kk": "[wɝk aʊt]",
+    "pos": "v. phr.",
+    "meaning": "健身;運動",
+    "examples": [
+      { "en": "I work out five days a week.", "zh": "我一週健身五天。" },
+      { "en": "He works out to stay in shape.", "zh": "他健身以保持身材。" }
+    ],
+    "img": "person working out gym",
+    "theme": "運動健身",
+    "level": 3
+  },
+  {
+    "word": "cool down",
+    "kk": "[kul daʊn]",
+    "pos": "v. phr.",
+    "meaning": "緩和運動;放鬆",
+    "examples": [
+      { "en": "Cool down slowly after running.", "zh": "跑步後慢慢做緩和運動。" },
+      { "en": "Stretching helps you cool down.", "zh": "伸展能幫助你緩和下來。" }
+    ],
+    "img": "athlete cooling down stretch",
+    "theme": "運動健身",
+    "level": 3
+  }
+]

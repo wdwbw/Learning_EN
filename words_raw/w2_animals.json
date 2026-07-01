@@ -1,0 +1,639 @@
+[
+  {
+    "word": "dog",
+    "kk": "[dɔɡ]",
+    "pos": "n.",
+    "meaning": "狗",
+    "examples": [
+      { "en": "My dog loves to play in the park.", "zh": "我的狗喜歡在公園裡玩。" },
+      { "en": "That dog is so friendly!", "zh": "那隻狗好友善！" }
+    ],
+    "img": "happy golden retriever dog",
+    "theme": "動物寵物",
+    "level": 1
+  },
+  {
+    "word": "cat",
+    "kk": "[kæt]",
+    "pos": "n.",
+    "meaning": "貓",
+    "examples": [
+      { "en": "The cat is sleeping on the sofa.", "zh": "貓正睡在沙發上。" },
+      { "en": "Do you have a cat at home?", "zh": "你家裡有養貓嗎？" }
+    ],
+    "img": "cute orange tabby cat",
+    "theme": "動物寵物",
+    "level": 1
+  },
+  {
+    "word": "bird",
+    "kk": "[bɝd]",
+    "pos": "n.",
+    "meaning": "鳥",
+    "examples": [
+      { "en": "A bird is singing outside my window.", "zh": "一隻鳥在我窗外唱歌。" },
+      { "en": "Birds can fly high in the sky.", "zh": "鳥能在天空高高飛翔。" }
+    ],
+    "img": "colorful small bird on branch",
+    "theme": "動物寵物",
+    "level": 1
+  },
+  {
+    "word": "fish",
+    "kk": "[fɪʃ]",
+    "pos": "n.",
+    "meaning": "魚",
+    "examples": [
+      { "en": "We keep goldfish in a small tank.", "zh": "我們在小魚缸裡養金魚。" },
+      { "en": "Look at that big fish!", "zh": "看那條大魚！" }
+    ],
+    "img": "goldfish in aquarium tank",
+    "theme": "動物寵物",
+    "level": 1
+  },
+  {
+    "word": "rabbit",
+    "kk": "[ˋræbɪt]",
+    "pos": "n.",
+    "meaning": "兔子",
+    "examples": [
+      { "en": "The rabbit hops across the grass.", "zh": "兔子跳過草地。" },
+      { "en": "My rabbit loves eating carrots.", "zh": "我的兔子愛吃紅蘿蔔。" }
+    ],
+    "img": "white fluffy rabbit eating carrot",
+    "theme": "動物寵物",
+    "level": 1
+  },
+  {
+    "word": "horse",
+    "kk": "[hɔrs]",
+    "pos": "n.",
+    "meaning": "馬",
+    "examples": [
+      { "en": "She rides a horse every weekend.", "zh": "她每個週末都騎馬。" },
+      { "en": "The horse runs very fast.", "zh": "那匹馬跑得很快。" }
+    ],
+    "img": "brown horse running in field",
+    "theme": "動物寵物",
+    "level": 1
+  },
+  {
+    "word": "cow",
+    "kk": "[kaʊ]",
+    "pos": "n.",
+    "meaning": "牛;母牛",
+    "examples": [
+      { "en": "The cow gives us fresh milk.", "zh": "牛提供我們新鮮牛奶。" },
+      { "en": "Cows are eating grass on the farm.", "zh": "牛在農場上吃草。" }
+    ],
+    "img": "black and white dairy cow",
+    "theme": "動物寵物",
+    "level": 1
+  },
+  {
+    "word": "pig",
+    "kk": "[pɪɡ]",
+    "pos": "n.",
+    "meaning": "豬",
+    "examples": [
+      { "en": "The pig is rolling in the mud.", "zh": "豬在泥巴裡打滾。" },
+      { "en": "Pigs are actually very smart animals.", "zh": "豬其實是很聰明的動物。" }
+    ],
+    "img": "pink pig in farm mud",
+    "theme": "動物寵物",
+    "level": 1
+  },
+  {
+    "word": "duck",
+    "kk": "[dʌk]",
+    "pos": "n.",
+    "meaning": "鴨子",
+    "examples": [
+      { "en": "The ducks are swimming in the pond.", "zh": "鴨子在池塘裡游泳。" },
+      { "en": "A baby duck followed its mother.", "zh": "一隻小鴨跟著牠的媽媽。" }
+    ],
+    "img": "yellow duck swimming in pond",
+    "theme": "動物寵物",
+    "level": 1
+  },
+  {
+    "word": "chicken",
+    "kk": "[ˋtʃɪkɪn]",
+    "pos": "n.",
+    "meaning": "雞",
+    "examples": [
+      { "en": "The chicken laid an egg this morning.", "zh": "那隻雞今天早上下了一顆蛋。" },
+      { "en": "We raise chickens in our backyard.", "zh": "我們在後院養雞。" }
+    ],
+    "img": "brown hen chicken in yard",
+    "theme": "動物寵物",
+    "level": 1
+  },
+  {
+    "word": "sheep",
+    "kk": "[ʃip]",
+    "pos": "n.",
+    "meaning": "綿羊",
+    "examples": [
+      { "en": "The sheep have thick white wool.", "zh": "綿羊有厚厚的白色羊毛。" },
+      { "en": "A flock of sheep crossed the road.", "zh": "一群綿羊穿過馬路。" }
+    ],
+    "img": "fluffy white sheep in meadow",
+    "theme": "動物寵物",
+    "level": 1
+  },
+  {
+    "word": "mouse",
+    "kk": "[maʊs]",
+    "pos": "n.",
+    "meaning": "老鼠",
+    "examples": [
+      { "en": "A little mouse ran under the table.", "zh": "一隻小老鼠跑到桌子底下。" },
+      { "en": "The cat is chasing a mouse.", "zh": "貓正在追一隻老鼠。" }
+    ],
+    "img": "small gray mouse close up",
+    "theme": "動物寵物",
+    "level": 1
+  },
+  {
+    "word": "puppy",
+    "kk": "[ˋpʌpɪ]",
+    "pos": "n.",
+    "meaning": "小狗",
+    "examples": [
+      { "en": "The puppy is chewing on my shoe.", "zh": "小狗在咬我的鞋子。" },
+      { "en": "We just got a new puppy!", "zh": "我們剛養了一隻新的小狗！" }
+    ],
+    "img": "adorable puppy with big eyes",
+    "theme": "動物寵物",
+    "level": 1
+  },
+  {
+    "word": "kitten",
+    "kk": "[ˋkɪtn̩]",
+    "pos": "n.",
+    "meaning": "小貓",
+    "examples": [
+      { "en": "The kitten is playing with a ball of yarn.", "zh": "小貓在玩一團毛線。" },
+      { "en": "That kitten is only two weeks old.", "zh": "那隻小貓才兩週大。" }
+    ],
+    "img": "tiny gray kitten playing yarn",
+    "theme": "動物寵物",
+    "level": 1
+  },
+  {
+    "word": "pet",
+    "kk": "[pɛt]",
+    "pos": "n.",
+    "meaning": "寵物",
+    "examples": [
+      { "en": "Do you have any pets?", "zh": "你有養寵物嗎？" },
+      { "en": "A pet needs love and care.", "zh": "寵物需要愛與照顧。" }
+    ],
+    "img": "child hugging pet dog",
+    "theme": "動物寵物",
+    "level": 1
+  },
+  {
+    "word": "tail",
+    "kk": "[tel]",
+    "pos": "n.",
+    "meaning": "尾巴",
+    "examples": [
+      { "en": "The dog wags its tail when it's happy.", "zh": "狗開心時會搖尾巴。" },
+      { "en": "A cat's tail helps it keep balance.", "zh": "貓的尾巴幫助牠保持平衡。" }
+    ],
+    "img": "dog wagging fluffy tail",
+    "theme": "動物寵物",
+    "level": 1
+  },
+  {
+    "word": "feed",
+    "kk": "[fid]",
+    "pos": "v.",
+    "meaning": "餵食",
+    "examples": [
+      { "en": "Don't forget to feed the cat.", "zh": "別忘了餵貓。" },
+      { "en": "I feed my fish twice a day.", "zh": "我一天餵魚兩次。" }
+    ],
+    "img": "person feeding pet dog bowl",
+    "theme": "動物寵物",
+    "level": 1
+  },
+  {
+    "word": "bark",
+    "kk": "[bɑrk]",
+    "pos": "v.",
+    "meaning": "吠叫",
+    "examples": [
+      { "en": "The dog barks at strangers.", "zh": "這隻狗會對陌生人吠叫。" },
+      { "en": "Why does your dog bark so much?", "zh": "你的狗為什麼叫得這麼兇？" }
+    ],
+    "img": "dog barking with open mouth",
+    "theme": "動物寵物",
+    "level": 2
+  },
+  {
+    "word": "meow",
+    "kk": "[mɪˋaʊ]",
+    "pos": "v.",
+    "meaning": "喵喵叫",
+    "examples": [
+      { "en": "The cat meows when it's hungry.", "zh": "貓餓的時候會喵喵叫。" },
+      { "en": "My cat meows at the door every morning.", "zh": "我的貓每天早上在門口喵喵叫。" }
+    ],
+    "img": "cat meowing with open mouth",
+    "theme": "動物寵物",
+    "level": 2
+  },
+  {
+    "word": "leash",
+    "kk": "[liʃ]",
+    "pos": "n.",
+    "meaning": "牽繩",
+    "examples": [
+      { "en": "Always keep your dog on a leash in the park.", "zh": "在公園裡一定要用牽繩牽好你的狗。" },
+      { "en": "He grabbed the leash and took the dog out.", "zh": "他抓起牽繩帶狗出門。" }
+    ],
+    "img": "dog on leash walking",
+    "theme": "動物寵物",
+    "level": 2
+  },
+  {
+    "word": "collar",
+    "kk": "[ˋkɑlɚ]",
+    "pos": "n.",
+    "meaning": "項圈",
+    "examples": [
+      { "en": "The cat's collar has a small bell.", "zh": "貓的項圈上有個小鈴鐺。" },
+      { "en": "Put the name tag on the collar.", "zh": "把名牌掛在項圈上。" }
+    ],
+    "img": "dog wearing collar with tag",
+    "theme": "動物寵物",
+    "level": 2
+  },
+  {
+    "word": "cage",
+    "kk": "[kedʒ]",
+    "pos": "n.",
+    "meaning": "籠子",
+    "examples": [
+      { "en": "The hamster sleeps in its cage.", "zh": "倉鼠睡在牠的籠子裡。" },
+      { "en": "Please clean the bird's cage today.", "zh": "今天請清理鳥籠。" }
+    ],
+    "img": "hamster inside metal cage",
+    "theme": "動物寵物",
+    "level": 2
+  },
+  {
+    "word": "vet",
+    "kk": "[vɛt]",
+    "pos": "n.",
+    "meaning": "獸醫",
+    "examples": [
+      { "en": "I took my dog to the vet yesterday.", "zh": "我昨天帶我的狗去看獸醫。" },
+      { "en": "The vet said the cat is healthy.", "zh": "獸醫說這隻貓很健康。" }
+    ],
+    "img": "vet examining dog clinic",
+    "theme": "動物寵物",
+    "level": 2
+  },
+  {
+    "word": "groom",
+    "kk": "[ɡrum]",
+    "pos": "v.",
+    "meaning": "梳理毛髮",
+    "examples": [
+      { "en": "Cats groom themselves every day.", "zh": "貓每天都會梳理自己的毛。" },
+      { "en": "We groom our dog once a month.", "zh": "我們一個月幫狗梳理一次毛。" }
+    ],
+    "img": "person brushing dog fur",
+    "theme": "動物寵物",
+    "level": 2
+  },
+  {
+    "word": "hamster",
+    "kk": "[ˋhæmstɚ]",
+    "pos": "n.",
+    "meaning": "倉鼠",
+    "examples": [
+      { "en": "The hamster runs on its wheel at night.", "zh": "倉鼠晚上在滾輪上跑步。" },
+      { "en": "My hamster stores food in its cheeks.", "zh": "我的倉鼠把食物藏在頰囊裡。" }
+    ],
+    "img": "cute hamster in cheeks",
+    "theme": "動物寵物",
+    "level": 2
+  },
+  {
+    "word": "turtle",
+    "kk": "[ˋtɝtl̩]",
+    "pos": "n.",
+    "meaning": "烏龜",
+    "examples": [
+      { "en": "The turtle moves very slowly.", "zh": "烏龜移動得很慢。" },
+      { "en": "My pet turtle likes to bask in the sun.", "zh": "我的寵物龜喜歡曬太陽。" }
+    ],
+    "img": "green turtle on rock",
+    "theme": "動物寵物",
+    "level": 2
+  },
+  {
+    "word": "parrot",
+    "kk": "[ˋpærət]",
+    "pos": "n.",
+    "meaning": "鸚鵡",
+    "examples": [
+      { "en": "The parrot can say a few words.", "zh": "這隻鸚鵡會說幾個字。" },
+      { "en": "Her parrot has bright green feathers.", "zh": "她的鸚鵡有鮮豔的綠色羽毛。" }
+    ],
+    "img": "colorful parrot on perch",
+    "theme": "動物寵物",
+    "level": 2
+  },
+  {
+    "word": "paw",
+    "kk": "[pɔ]",
+    "pos": "n.",
+    "meaning": "腳掌;爪子",
+    "examples": [
+      { "en": "The dog gave me its paw.", "zh": "狗把腳掌伸給我。" },
+      { "en": "The kitten hurt its paw.", "zh": "小貓的腳掌受傷了。" }
+    ],
+    "img": "dog paw close up",
+    "theme": "動物寵物",
+    "level": 2
+  },
+  {
+    "word": "fur",
+    "kk": "[fɝ]",
+    "pos": "n.",
+    "meaning": "毛皮",
+    "examples": [
+      { "en": "The cat has soft, shiny fur.", "zh": "這隻貓有柔軟又亮麗的毛皮。" },
+      { "en": "Dogs shed their fur in summer.", "zh": "狗在夏天會掉毛。" }
+    ],
+    "img": "close up soft cat fur",
+    "theme": "動物寵物",
+    "level": 2
+  },
+  {
+    "word": "wing",
+    "kk": "[wɪŋ]",
+    "pos": "n.",
+    "meaning": "翅膀",
+    "examples": [
+      { "en": "The bird spread its wings and flew away.", "zh": "鳥張開翅膀飛走了。" },
+      { "en": "A butterfly has beautiful wings.", "zh": "蝴蝶有美麗的翅膀。" }
+    ],
+    "img": "bird spreading wings flight",
+    "theme": "動物寵物",
+    "level": 2
+  },
+  {
+    "word": "feather",
+    "kk": "[ˋfɛðɚ]",
+    "pos": "n.",
+    "meaning": "羽毛",
+    "examples": [
+      { "en": "I found a bird feather on the ground.", "zh": "我在地上撿到一根鳥羽毛。" },
+      { "en": "The peacock has colorful feathers.", "zh": "孔雀有色彩繽紛的羽毛。" }
+    ],
+    "img": "single colorful bird feather",
+    "theme": "動物寵物",
+    "level": 2
+  },
+  {
+    "word": "scratch",
+    "kk": "[skrætʃ]",
+    "pos": "v.",
+    "meaning": "抓;搔",
+    "examples": [
+      { "en": "The cat likes to scratch the sofa.", "zh": "貓喜歡抓沙發。" },
+      { "en": "My dog scratches its ear a lot.", "zh": "我的狗常常抓耳朵。" }
+    ],
+    "img": "cat scratching post",
+    "theme": "動物寵物",
+    "level": 2
+  },
+  {
+    "word": "wag",
+    "kk": "[wæɡ]",
+    "pos": "v.",
+    "meaning": "搖(尾巴)",
+    "examples": [
+      { "en": "The puppy wags its tail happily.", "zh": "小狗開心地搖著尾巴。" },
+      { "en": "Dogs wag their tails to greet you.", "zh": "狗會搖尾巴來跟你打招呼。" }
+    ],
+    "img": "happy dog wagging tail",
+    "theme": "動物寵物",
+    "level": 2
+  },
+  {
+    "word": "purr",
+    "kk": "[pɝ]",
+    "pos": "v.",
+    "meaning": "(貓)發出呼嚕聲",
+    "examples": [
+      { "en": "The cat purrs when I pet it.", "zh": "我摸貓時牠會發出呼嚕聲。" },
+      { "en": "A purring cat sounds so relaxing.", "zh": "呼嚕的貓聽起來好放鬆。" }
+    ],
+    "img": "content cat purring being petted",
+    "theme": "動物寵物",
+    "level": 2
+  },
+  {
+    "word": "litter",
+    "kk": "[ˋlɪtɚ]",
+    "pos": "n.",
+    "meaning": "貓砂;一窩幼崽",
+    "examples": [
+      { "en": "I need to change the cat's litter box.", "zh": "我得換貓砂盆了。" },
+      { "en": "The dog had a litter of six puppies.", "zh": "這隻狗生了一窩六隻小狗。" }
+    ],
+    "img": "cat litter box tray",
+    "theme": "動物寵物",
+    "level": 2
+  },
+  {
+    "word": "adopt",
+    "kk": "[əˋdɑpt]",
+    "pos": "v.",
+    "meaning": "領養",
+    "examples": [
+      { "en": "We decided to adopt a dog from the shelter.", "zh": "我們決定從收容所領養一隻狗。" },
+      { "en": "You can adopt a cat instead of buying one.", "zh": "你可以領養貓，而不是用買的。" }
+    ],
+    "img": "family adopting shelter dog",
+    "theme": "動物寵物",
+    "level": 3
+  },
+  {
+    "word": "obedient",
+    "kk": "[əˋbidɪənt]",
+    "pos": "adj.",
+    "meaning": "順從的;聽話的",
+    "examples": [
+      { "en": "Her dog is very obedient and well-trained.", "zh": "她的狗很聽話又受過良好訓練。" },
+      { "en": "An obedient pet follows commands easily.", "zh": "聽話的寵物容易服從指令。" }
+    ],
+    "img": "obedient dog sitting on command",
+    "theme": "動物寵物",
+    "level": 3
+  },
+  {
+    "word": "loyal",
+    "kk": "[ˋlɔɪəl]",
+    "pos": "adj.",
+    "meaning": "忠誠的",
+    "examples": [
+      { "en": "Dogs are known for being loyal.", "zh": "狗以忠誠聞名。" },
+      { "en": "A loyal pet stays by your side.", "zh": "忠誠的寵物會待在你身邊。" }
+    ],
+    "img": "loyal dog beside owner",
+    "theme": "動物寵物",
+    "level": 3
+  },
+  {
+    "word": "aggressive",
+    "kk": "[əˋɡrɛsɪv]",
+    "pos": "adj.",
+    "meaning": "有攻擊性的",
+    "examples": [
+      { "en": "The dog becomes aggressive when it feels scared.", "zh": "這隻狗感到害怕時會變得有攻擊性。" },
+      { "en": "Never touch an aggressive animal.", "zh": "千萬別去碰有攻擊性的動物。" }
+    ],
+    "img": "aggressive dog showing teeth",
+    "theme": "動物寵物",
+    "level": 3
+  },
+  {
+    "word": "instinct",
+    "kk": "[ˋɪnstɪŋkt]",
+    "pos": "n.",
+    "meaning": "本能",
+    "examples": [
+      { "en": "Hunting is a natural instinct for cats.", "zh": "狩獵是貓的天生本能。" },
+      { "en": "Animals rely on instinct to survive.", "zh": "動物靠本能生存。" }
+    ],
+    "img": "cat hunting pouncing instinct",
+    "theme": "動物寵物",
+    "level": 3
+  },
+  {
+    "word": "domesticated",
+    "kk": "[dəˋmɛstəˏketɪd]",
+    "pos": "adj.",
+    "meaning": "馴養的",
+    "examples": [
+      { "en": "Dogs were domesticated thousands of years ago.", "zh": "狗在數千年前就被馴養了。" },
+      { "en": "A domesticated animal lives close to humans.", "zh": "馴養的動物與人類生活得很近。" }
+    ],
+    "img": "domesticated dog with family",
+    "theme": "動物寵物",
+    "level": 3
+  },
+  {
+    "word": "nocturnal",
+    "kk": "[nɑkˋtɝnl̩]",
+    "pos": "adj.",
+    "meaning": "夜行性的",
+    "examples": [
+      { "en": "Hamsters are nocturnal, so they are active at night.", "zh": "倉鼠是夜行性的，所以在晚上很活躍。" },
+      { "en": "Owls are nocturnal hunters.", "zh": "貓頭鷹是夜行性的獵手。" }
+    ],
+    "img": "owl at night nocturnal",
+    "theme": "動物寵物",
+    "level": 3
+  },
+  {
+    "word": "vaccinate",
+    "kk": "[ˋvæksnˏet]",
+    "pos": "v.",
+    "meaning": "為...接種疫苗",
+    "examples": [
+      { "en": "You should vaccinate your puppy early.", "zh": "你應該及早幫小狗接種疫苗。" },
+      { "en": "The vet will vaccinate the cat next week.", "zh": "獸醫下週會幫貓打疫苗。" }
+    ],
+    "img": "vet vaccinating puppy syringe",
+    "theme": "動物寵物",
+    "level": 3
+  },
+  {
+    "word": "breed",
+    "kk": "[brid]",
+    "pos": "n.",
+    "meaning": "品種",
+    "examples": [
+      { "en": "What breed is your dog?", "zh": "你的狗是什麼品種？" },
+      { "en": "This breed is gentle and good with kids.", "zh": "這個品種很溫和，跟小孩相處融洽。" }
+    ],
+    "img": "different dog breeds together",
+    "theme": "動物寵物",
+    "level": 3
+  },
+  {
+    "word": "shelter",
+    "kk": "[ˋʃɛltɚ]",
+    "pos": "n.",
+    "meaning": "收容所;庇護所",
+    "examples": [
+      { "en": "The animal shelter is full of stray dogs.", "zh": "動物收容所裡滿是流浪狗。" },
+      { "en": "Volunteers help care for pets at the shelter.", "zh": "志工在收容所幫忙照顧寵物。" }
+    ],
+    "img": "animal shelter dogs kennels",
+    "theme": "動物寵物",
+    "level": 3
+  },
+  {
+    "word": "stray",
+    "kk": "[stre]",
+    "pos": "adj.",
+    "meaning": "流浪的;走失的",
+    "examples": [
+      { "en": "A stray cat has been living near our house.", "zh": "有隻流浪貓一直住在我們家附近。" },
+      { "en": "She feeds the stray dogs every evening.", "zh": "她每天傍晚都餵那些流浪狗。" }
+    ],
+    "img": "stray cat on street",
+    "theme": "動物寵物",
+    "level": 3
+  },
+  {
+    "word": "companion",
+    "kk": "[kəmˋpænjən]",
+    "pos": "n.",
+    "meaning": "同伴;夥伴",
+    "examples": [
+      { "en": "A dog can be a wonderful companion.", "zh": "狗可以是很棒的同伴。" },
+      { "en": "For many elderly people, a pet is their closest companion.", "zh": "對許多長者來說，寵物是他們最親近的夥伴。" }
+    ],
+    "img": "elderly person with pet companion",
+    "theme": "動物寵物",
+    "level": 3
+  },
+  {
+    "word": "hibernate",
+    "kk": "[ˋhaɪbɚˏnet]",
+    "pos": "v.",
+    "meaning": "冬眠",
+    "examples": [
+      { "en": "Bears hibernate through the cold winter.", "zh": "熊在寒冷的冬天會冬眠。" },
+      { "en": "Some turtles hibernate when it gets cold.", "zh": "有些烏龜天氣變冷時會冬眠。" }
+    ],
+    "img": "bear sleeping hibernation cave",
+    "theme": "動物寵物",
+    "level": 3
+  },
+  {
+    "word": "tame",
+    "kk": "[tem]",
+    "pos": "adj.",
+    "meaning": "溫馴的;馴服的",
+    "examples": [
+      { "en": "The rabbit is very tame and gentle.", "zh": "這隻兔子很溫馴又溫和。" },
+      { "en": "It took months to make the parrot tame.", "zh": "花了好幾個月才讓這隻鸚鵡變得溫馴。" }
+    ],
+    "img": "tame rabbit held gently hands",
+    "theme": "動物寵物",
+    "level": 3
+  }
+]

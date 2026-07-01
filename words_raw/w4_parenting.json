@@ -1,0 +1,652 @@
+[
+  {
+    "word": "diaper",
+    "kk": "[ˈdaɪpɚ]",
+    "pos": "n.",
+    "meaning": "尿布",
+    "examples": [
+      { "en": "The baby needs a fresh diaper after her nap.", "zh": "寶寶午睡後需要換一片乾淨的尿布。" },
+      { "en": "We ran out of diapers, so I went to the store.", "zh": "我們尿布用完了,所以我去了商店。" }
+    ],
+    "img": "baby diaper changing table",
+    "theme": "育兒嬰幼",
+    "level": 2
+  },
+  {
+    "word": "toddler",
+    "kk": "[ˈtɑdlɚ]",
+    "pos": "n.",
+    "meaning": "學步幼兒",
+    "examples": [
+      { "en": "The toddler took his first wobbly steps today.", "zh": "這名幼兒今天踏出了搖搖晃晃的第一步。" },
+      { "en": "Toddlers love to explore everything around them.", "zh": "學步幼兒喜歡探索周遭的一切。" }
+    ],
+    "img": "toddler walking living room",
+    "theme": "育兒嬰幼",
+    "level": 2
+  },
+  {
+    "word": "stroller",
+    "kk": "[ˈstrolɚ]",
+    "pos": "n.",
+    "meaning": "嬰兒推車",
+    "examples": [
+      { "en": "She pushed the stroller through the park.", "zh": "她推著嬰兒推車穿過公園。" },
+      { "en": "The stroller folds up to fit in the car trunk.", "zh": "這台推車可以折疊放進後車廂。" }
+    ],
+    "img": "baby stroller in park",
+    "theme": "育兒嬰幼",
+    "level": 2
+  },
+  {
+    "word": "nap",
+    "kk": "[næp]",
+    "pos": "n.",
+    "meaning": "小睡",
+    "examples": [
+      { "en": "The baby takes a long nap every afternoon.", "zh": "寶寶每天下午都會睡個長長的午覺。" },
+      { "en": "He gets cranky when he misses his nap.", "zh": "他沒睡午覺時會變得暴躁。" }
+    ],
+    "img": "baby sleeping in crib",
+    "theme": "育兒嬰幼",
+    "level": 2
+  },
+  {
+    "word": "crawl",
+    "kk": "[krɔl]",
+    "pos": "v.",
+    "meaning": "爬行",
+    "examples": [
+      { "en": "The baby learned to crawl at seven months.", "zh": "寶寶在七個月大時學會爬行。" },
+      { "en": "She crawled across the floor to reach her toy.", "zh": "她爬過地板去拿玩具。" }
+    ],
+    "img": "baby crawling on floor",
+    "theme": "育兒嬰幼",
+    "level": 2
+  },
+  {
+    "word": "bottle",
+    "kk": "[ˈbɑtḷ]",
+    "pos": "n.",
+    "meaning": "奶瓶",
+    "examples": [
+      { "en": "I warmed the bottle before feeding him.", "zh": "餵他之前我先把奶瓶加熱。" },
+      { "en": "The baby finished the whole bottle quickly.", "zh": "寶寶很快就喝完整瓶奶。" }
+    ],
+    "img": "baby milk bottle",
+    "theme": "育兒嬰幼",
+    "level": 2
+  },
+  {
+    "word": "pacifier",
+    "kk": "[ˈpæsəˌfaɪɚ]",
+    "pos": "n.",
+    "meaning": "奶嘴",
+    "examples": [
+      { "en": "The pacifier helped the baby calm down.", "zh": "奶嘴幫助寶寶冷靜下來。" },
+      { "en": "He dropped his pacifier on the ground again.", "zh": "他又把奶嘴掉在地上了。" }
+    ],
+    "img": "baby pacifier close up",
+    "theme": "育兒嬰幼",
+    "level": 3
+  },
+  {
+    "word": "crib",
+    "kk": "[krɪb]",
+    "pos": "n.",
+    "meaning": "嬰兒床",
+    "examples": [
+      { "en": "We placed the baby gently in the crib.", "zh": "我們輕輕地把寶寶放進嬰兒床。" },
+      { "en": "The crib has soft bars for safety.", "zh": "這張嬰兒床有柔軟的護欄以策安全。" }
+    ],
+    "img": "wooden baby crib nursery",
+    "theme": "育兒嬰幼",
+    "level": 2
+  },
+  {
+    "word": "burp",
+    "kk": "[bɝp]",
+    "pos": "v.",
+    "meaning": "拍嗝;打嗝",
+    "examples": [
+      { "en": "You should burp the baby after feeding.", "zh": "餵完奶後應該幫寶寶拍嗝。" },
+      { "en": "The baby gave a loud burp and smiled.", "zh": "寶寶大聲打了個嗝,然後笑了。" }
+    ],
+    "img": "parent burping baby shoulder",
+    "theme": "育兒嬰幼",
+    "level": 2
+  },
+  {
+    "word": "teething",
+    "kk": "[ˈtiðɪŋ]",
+    "pos": "n.",
+    "meaning": "長牙(期)",
+    "examples": [
+      { "en": "The baby cries a lot during teething.", "zh": "寶寶在長牙期會哭很多。" },
+      { "en": "A cold ring can ease teething pain.", "zh": "冰涼的固齒器可以緩解長牙的疼痛。" }
+    ],
+    "img": "baby chewing teething ring",
+    "theme": "育兒嬰幼",
+    "level": 3
+  },
+  {
+    "word": "cradle",
+    "kk": "[ˈkredḷ]",
+    "pos": "v.",
+    "meaning": "輕抱;搖籃",
+    "examples": [
+      { "en": "She cradled the newborn in her arms.", "zh": "她把新生兒輕輕抱在懷裡。" },
+      { "en": "He gently cradled the baby until she slept.", "zh": "他輕輕搖抱著寶寶直到她睡著。" }
+    ],
+    "img": "mother cradling newborn arms",
+    "theme": "育兒嬰幼",
+    "level": 3
+  },
+  {
+    "word": "soothe",
+    "kk": "[suð]",
+    "pos": "v.",
+    "meaning": "安撫",
+    "examples": [
+      { "en": "A soft song can soothe a crying baby.", "zh": "輕柔的歌聲能安撫哭泣的寶寶。" },
+      { "en": "She rocked him to soothe his fussing.", "zh": "她搖著他來安撫他的哭鬧。" }
+    ],
+    "img": "parent soothing crying baby",
+    "theme": "育兒嬰幼",
+    "level": 3
+  },
+  {
+    "word": "nursery",
+    "kk": "[ˈnɝsərɪ]",
+    "pos": "n.",
+    "meaning": "育嬰室",
+    "examples": [
+      { "en": "We painted the nursery a soft yellow.", "zh": "我們把育嬰室漆成柔和的黃色。" },
+      { "en": "The nursery is full of stuffed animals.", "zh": "育嬰室裡滿是絨毛玩具。" }
+    ],
+    "img": "baby nursery room decor",
+    "theme": "育兒嬰幼",
+    "level": 3
+  },
+  {
+    "word": "highchair",
+    "kk": "[ˈhaɪˌtʃɛr]",
+    "pos": "n.",
+    "meaning": "高腳餐椅",
+    "examples": [
+      { "en": "The baby sat in the highchair for lunch.", "zh": "寶寶坐在高腳餐椅上吃午餐。" },
+      { "en": "Please buckle her into the highchair.", "zh": "請把她扣好在高腳餐椅上。" }
+    ],
+    "img": "baby in highchair eating",
+    "theme": "育兒嬰幼",
+    "level": 2
+  },
+  {
+    "word": "bib",
+    "kk": "[bɪb]",
+    "pos": "n.",
+    "meaning": "圍兜",
+    "examples": [
+      { "en": "Put a bib on him before he eats.", "zh": "他吃飯前先幫他戴上圍兜。" },
+      { "en": "The bib caught all the spilled food.", "zh": "圍兜接住了所有掉落的食物。" }
+    ],
+    "img": "baby wearing bib mealtime",
+    "theme": "育兒嬰幼",
+    "level": 2
+  },
+  {
+    "word": "wipe",
+    "kk": "[waɪp]",
+    "pos": "n.",
+    "meaning": "濕紙巾",
+    "examples": [
+      { "en": "I used a wipe to clean her sticky hands.", "zh": "我用濕紙巾擦乾淨她黏黏的手。" },
+      { "en": "Keep some wipes in the diaper bag.", "zh": "在尿布包裡放一些濕紙巾。" }
+    ],
+    "img": "baby wet wipes pack",
+    "theme": "育兒嬰幼",
+    "level": 2
+  },
+  {
+    "word": "rattle",
+    "kk": "[ˈrætḷ]",
+    "pos": "n.",
+    "meaning": "搖鈴玩具",
+    "examples": [
+      { "en": "The baby shook the rattle happily.", "zh": "寶寶開心地搖著手搖鈴。" },
+      { "en": "A colorful rattle can grab her attention.", "zh": "色彩繽紛的搖鈴能吸引她的注意力。" }
+    ],
+    "img": "colorful baby rattle toy",
+    "theme": "育兒嬰幼",
+    "level": 2
+  },
+  {
+    "word": "swaddle",
+    "kk": "[ˈswɑdḷ]",
+    "pos": "v.",
+    "meaning": "包裹(襁褓)",
+    "examples": [
+      { "en": "Nurses swaddle newborns to keep them cozy.", "zh": "護理師會把新生兒包起來讓他們感到舒適。" },
+      { "en": "He learned how to swaddle the baby snugly.", "zh": "他學會了如何把寶寶緊緊包好。" }
+    ],
+    "img": "swaddled newborn baby blanket",
+    "theme": "育兒嬰幼",
+    "level": 3
+  },
+  {
+    "word": "lullaby",
+    "kk": "[ˈlʌləˌbaɪ]",
+    "pos": "n.",
+    "meaning": "搖籃曲",
+    "examples": [
+      { "en": "She sang a soft lullaby at bedtime.", "zh": "她在睡前唱了一首輕柔的搖籃曲。" },
+      { "en": "The lullaby slowly put him to sleep.", "zh": "搖籃曲慢慢地哄他入睡。" }
+    ],
+    "img": "mother singing lullaby baby",
+    "theme": "育兒嬰幼",
+    "level": 3
+  },
+  {
+    "word": "fuss",
+    "kk": "[fʌs]",
+    "pos": "v.",
+    "meaning": "哭鬧;煩躁",
+    "examples": [
+      { "en": "The baby started to fuss before dinner.", "zh": "寶寶在晚餐前開始哭鬧。" },
+      { "en": "He fusses whenever he feels tired.", "zh": "他一累就會鬧脾氣。" }
+    ],
+    "img": "fussy crying baby face",
+    "theme": "育兒嬰幼",
+    "level": 3
+  },
+  {
+    "word": "giggle",
+    "kk": "[ˈɡɪɡḷ]",
+    "pos": "v.",
+    "meaning": "咯咯笑",
+    "examples": [
+      { "en": "The baby giggled at the funny faces.", "zh": "寶寶看到鬼臉咯咯地笑。" },
+      { "en": "She giggles every time we play peekaboo.", "zh": "每次玩躲貓貓她都會咯咯笑。" }
+    ],
+    "img": "giggling happy baby smile",
+    "theme": "育兒嬰幼",
+    "level": 2
+  },
+  {
+    "word": "drool",
+    "kk": "[drul]",
+    "pos": "v.",
+    "meaning": "流口水",
+    "examples": [
+      { "en": "Babies often drool when they are teething.", "zh": "寶寶長牙時常常流口水。" },
+      { "en": "His shirt was wet where he drooled.", "zh": "他流口水的地方把衣服弄濕了。" }
+    ],
+    "img": "drooling baby chin bib",
+    "theme": "育兒嬰幼",
+    "level": 3
+  },
+  {
+    "word": "nurse",
+    "kk": "[nɝs]",
+    "pos": "v.",
+    "meaning": "哺乳",
+    "examples": [
+      { "en": "She nurses the baby every three hours.", "zh": "她每三小時哺乳寶寶一次。" },
+      { "en": "He fell asleep while nursing.", "zh": "他在哺乳時睡著了。" }
+    ],
+    "img": "mother nursing baby chair",
+    "theme": "育兒嬰幼",
+    "level": 3
+  },
+  {
+    "word": "formula",
+    "kk": "[ˈfɔrmjələ]",
+    "pos": "n.",
+    "meaning": "配方奶",
+    "examples": [
+      { "en": "We feed him formula when I am at work.", "zh": "我上班時我們餵他配方奶。" },
+      { "en": "Mix the formula with warm water.", "zh": "把配方奶和溫水混合。" }
+    ],
+    "img": "baby formula milk powder",
+    "theme": "育兒嬰幼",
+    "level": 3
+  },
+  {
+    "word": "spoon-feed",
+    "kk": "[ˈspunˌfid]",
+    "pos": "v.",
+    "meaning": "用湯匙餵",
+    "examples": [
+      { "en": "I spoon-feed her mashed carrots.", "zh": "我用湯匙餵她吃胡蘿蔔泥。" },
+      { "en": "He is too little to eat without being spoon-fed.", "zh": "他太小了,不用湯匙餵就吃不了。" }
+    ],
+    "img": "parent spoon feeding baby",
+    "theme": "育兒嬰幼",
+    "level": 3
+  },
+  {
+    "word": "mashed",
+    "kk": "[mæʃt]",
+    "pos": "adj.",
+    "meaning": "搗碎的",
+    "examples": [
+      { "en": "Mashed banana is easy for babies to eat.", "zh": "搗碎的香蕉寶寶容易入口。" },
+      { "en": "She made some mashed potatoes for lunch.", "zh": "她做了一些馬鈴薯泥當午餐。" }
+    ],
+    "img": "mashed baby food bowl",
+    "theme": "育兒嬰幼",
+    "level": 2
+  },
+  {
+    "word": "solid",
+    "kk": "[ˈsɑlɪd]",
+    "pos": "n.",
+    "meaning": "副食品(固體食物)",
+    "examples": [
+      { "en": "The doctor said we can start solids at six months.", "zh": "醫生說我們六個月大時可以開始吃副食品。" },
+      { "en": "He is slowly getting used to solids.", "zh": "他正慢慢習慣吃固體食物。" }
+    ],
+    "img": "baby eating solid food",
+    "theme": "育兒嬰幼",
+    "level": 3
+  },
+  {
+    "word": "growth",
+    "kk": "[ɡroθ]",
+    "pos": "n.",
+    "meaning": "成長",
+    "examples": [
+      { "en": "The doctor tracks the baby's growth every month.", "zh": "醫生每個月追蹤寶寶的成長狀況。" },
+      { "en": "Good sleep supports a child's growth.", "zh": "良好的睡眠有助於孩子的成長。" }
+    ],
+    "img": "baby growth chart wall",
+    "theme": "育兒嬰幼",
+    "level": 2
+  },
+  {
+    "word": "milestone",
+    "kk": "[ˈmaɪlˌston]",
+    "pos": "n.",
+    "meaning": "發展里程碑",
+    "examples": [
+      { "en": "Walking is an exciting milestone for babies.", "zh": "走路是寶寶令人興奮的里程碑。" },
+      { "en": "We celebrate every little milestone.", "zh": "我們慶祝每一個小小的里程碑。" }
+    ],
+    "img": "baby first steps milestone",
+    "theme": "育兒嬰幼",
+    "level": 3
+  },
+  {
+    "word": "babble",
+    "kk": "[ˈbæbḷ]",
+    "pos": "v.",
+    "meaning": "牙牙學語",
+    "examples": [
+      { "en": "The baby babbles happily in the morning.", "zh": "寶寶早上會開心地牙牙學語。" },
+      { "en": "She babbles as if telling a story.", "zh": "她咿咿呀呀的,好像在講故事。" }
+    ],
+    "img": "babbling baby open mouth",
+    "theme": "育兒嬰幼",
+    "level": 3
+  },
+  {
+    "word": "tantrum",
+    "kk": "[ˈtæntrəm]",
+    "pos": "n.",
+    "meaning": "耍脾氣;鬧脾氣",
+    "examples": [
+      { "en": "The toddler threw a tantrum in the store.", "zh": "那個幼兒在商店裡大鬧脾氣。" },
+      { "en": "Stay calm when your child has a tantrum.", "zh": "孩子鬧脾氣時要保持冷靜。" }
+    ],
+    "img": "toddler tantrum crying floor",
+    "theme": "育兒嬰幼",
+    "level": 3
+  },
+  {
+    "word": "cuddle",
+    "kk": "[ˈkʌdḷ]",
+    "pos": "v.",
+    "meaning": "依偎;摟抱",
+    "examples": [
+      { "en": "The baby loves to cuddle before sleep.", "zh": "寶寶睡前喜歡依偎撒嬌。" },
+      { "en": "They cuddled on the sofa all afternoon.", "zh": "他們整個下午都窩在沙發上摟抱著。" }
+    ],
+    "img": "parent cuddling baby sofa",
+    "theme": "育兒嬰幼",
+    "level": 2
+  },
+  {
+    "word": "rock",
+    "kk": "[rɑk]",
+    "pos": "v.",
+    "meaning": "輕搖(哄睡)",
+    "examples": [
+      { "en": "She rocks the baby gently to sleep.", "zh": "她輕輕搖著寶寶入睡。" },
+      { "en": "He rocked the cradle back and forth.", "zh": "他來回搖著搖籃。" }
+    ],
+    "img": "mother rocking baby chair",
+    "theme": "育兒嬰幼",
+    "level": 2
+  },
+  {
+    "word": "bathe",
+    "kk": "[beð]",
+    "pos": "v.",
+    "meaning": "幫…洗澡",
+    "examples": [
+      { "en": "We bathe the baby every evening.", "zh": "我們每天晚上幫寶寶洗澡。" },
+      { "en": "Always test the water before you bathe him.", "zh": "幫他洗澡前一定要先試水溫。" }
+    ],
+    "img": "baby bath tub water",
+    "theme": "育兒嬰幼",
+    "level": 2
+  },
+  {
+    "word": "onesie",
+    "kk": "[ˈwʌnzi]",
+    "pos": "n.",
+    "meaning": "連身衣",
+    "examples": [
+      { "en": "The baby looks cute in the striped onesie.", "zh": "寶寶穿條紋連身衣看起來好可愛。" },
+      { "en": "I packed three onesies for the trip.", "zh": "我為這趟旅行打包了三件連身衣。" }
+    ],
+    "img": "baby onesie folded clothes",
+    "theme": "育兒嬰幼",
+    "level": 3
+  },
+  {
+    "word": "chubby",
+    "kk": "[ˈtʃʌbɪ]",
+    "pos": "adj.",
+    "meaning": "圓潤胖嘟嘟的",
+    "examples": [
+      { "en": "I love his chubby little cheeks.", "zh": "我好愛他胖嘟嘟的小臉頰。" },
+      { "en": "The baby has chubby arms and legs.", "zh": "寶寶有著圓潤的手臂和腿。" }
+    ],
+    "img": "chubby baby cheeks smiling",
+    "theme": "育兒嬰幼",
+    "level": 2
+  },
+  {
+    "word": "gentle",
+    "kk": "[ˈdʒɛntḷ]",
+    "pos": "adj.",
+    "meaning": "溫柔的",
+    "examples": [
+      { "en": "Be gentle when you hold the newborn.", "zh": "抱新生兒時要溫柔。" },
+      { "en": "She has a gentle way with children.", "zh": "她對孩子很溫柔。" }
+    ],
+    "img": "gentle hands holding baby",
+    "theme": "育兒嬰幼",
+    "level": 2
+  },
+  {
+    "word": "newborn",
+    "kk": "[ˈnjuˌbɔrn]",
+    "pos": "n.",
+    "meaning": "新生兒",
+    "examples": [
+      { "en": "A newborn sleeps most of the day.", "zh": "新生兒一天大部分時間都在睡覺。" },
+      { "en": "The newborn gripped my finger tightly.", "zh": "新生兒緊緊抓住我的手指。" }
+    ],
+    "img": "sleeping newborn baby hospital",
+    "theme": "育兒嬰幼",
+    "level": 2
+  },
+  {
+    "word": "infant",
+    "kk": "[ˈɪnfənt]",
+    "pos": "n.",
+    "meaning": "嬰兒",
+    "examples": [
+      { "en": "The infant needs feeding every few hours.", "zh": "這名嬰兒每隔幾小時就需要餵一次。" },
+      { "en": "Car seats are required for every infant.", "zh": "每個嬰兒都必須使用安全座椅。" }
+    ],
+    "img": "infant car seat safety",
+    "theme": "育兒嬰幼",
+    "level": 2
+  },
+  {
+    "word": "diaper rash",
+    "kk": "[ˈdaɪpɚ ræʃ]",
+    "pos": "n.",
+    "meaning": "尿布疹",
+    "examples": [
+      { "en": "The cream helps clear up diaper rash.", "zh": "這款乳膏有助於改善尿布疹。" },
+      { "en": "Change diapers often to prevent diaper rash.", "zh": "勤換尿布以預防尿布疹。" }
+    ],
+    "img": "baby cream diaper care",
+    "theme": "育兒嬰幼",
+    "level": 3
+  },
+  {
+    "word": "bedtime",
+    "kk": "[ˈbɛdˌtaɪm]",
+    "pos": "n.",
+    "meaning": "就寢時間",
+    "examples": [
+      { "en": "We read a story every bedtime.", "zh": "我們每天就寢時間都讀故事。" },
+      { "en": "A steady bedtime helps the baby sleep well.", "zh": "固定的就寢時間有助於寶寶睡得好。" }
+    ],
+    "img": "bedtime story baby book",
+    "theme": "育兒嬰幼",
+    "level": 2
+  },
+  {
+    "word": "routine",
+    "kk": "[ruˈtin]",
+    "pos": "n.",
+    "meaning": "作息;例行程序",
+    "examples": [
+      { "en": "A daily routine keeps the baby calm.", "zh": "規律的作息能讓寶寶保持平靜。" },
+      { "en": "Bath, milk, and sleep is our nightly routine.", "zh": "洗澡、喝奶、睡覺是我們每晚的例行流程。" }
+    ],
+    "img": "baby daily routine schedule",
+    "theme": "育兒嬰幼",
+    "level": 3
+  },
+  {
+    "word": "wean",
+    "kk": "[win]",
+    "pos": "v.",
+    "meaning": "斷奶",
+    "examples": [
+      { "en": "We slowly weaned her off the bottle.", "zh": "我們慢慢地幫她戒掉奶瓶。" },
+      { "en": "Most babies are weaned around one year.", "zh": "大多數寶寶在一歲左右斷奶。" }
+    ],
+    "img": "baby cup weaning milk",
+    "theme": "育兒嬰幼",
+    "level": 3
+  },
+  {
+    "word": "cranky",
+    "kk": "[ˈkræŋkɪ]",
+    "pos": "adj.",
+    "meaning": "易怒的;鬧脾氣的",
+    "examples": [
+      { "en": "The baby gets cranky when he is hungry.", "zh": "寶寶餓的時候會變得暴躁。" },
+      { "en": "She was cranky after a short nap.", "zh": "她小睡不夠後變得脾氣暴躁。" }
+    ],
+    "img": "cranky tired baby frown",
+    "theme": "育兒嬰幼",
+    "level": 3
+  },
+  {
+    "word": "potty",
+    "kk": "[ˈpɑtɪ]",
+    "pos": "n.",
+    "meaning": "幼兒便盆",
+    "examples": [
+      { "en": "We are teaching him to use the potty.", "zh": "我們正在教他使用便盆。" },
+      { "en": "She sat on the potty like a big girl.", "zh": "她像個大女孩一樣坐在便盆上。" }
+    ],
+    "img": "toddler potty training seat",
+    "theme": "育兒嬰幼",
+    "level": 3
+  },
+  {
+    "word": "highchair tray",
+    "kk": "[ˈhaɪˌtʃɛr tre]",
+    "pos": "n.",
+    "meaning": "餐椅托盤",
+    "examples": [
+      { "en": "She spread the snacks on the highchair tray.", "zh": "她把點心攤在餐椅托盤上。" },
+      { "en": "Wipe the highchair tray after each meal.", "zh": "每餐後擦拭餐椅托盤。" }
+    ],
+    "img": "highchair tray baby snacks",
+    "theme": "育兒嬰幼",
+    "level": 3
+  },
+  {
+    "word": "cling",
+    "kk": "[klɪŋ]",
+    "pos": "v.",
+    "meaning": "黏著(依附)",
+    "examples": [
+      { "en": "The toddler clings to his mom at daycare.", "zh": "這個幼兒在托嬰中心緊黏著媽媽。" },
+      { "en": "She clings to her blanket wherever she goes.", "zh": "她走到哪都緊抓著她的小毯子。" }
+    ],
+    "img": "toddler clinging to parent",
+    "theme": "育兒嬰幼",
+    "level": 3
+  },
+  {
+    "word": "playpen",
+    "kk": "[ˈpleˌpɛn]",
+    "pos": "n.",
+    "meaning": "遊戲圍欄",
+    "examples": [
+      { "en": "The baby played safely in the playpen.", "zh": "寶寶在遊戲圍欄裡安全地玩耍。" },
+      { "en": "I put a few toys in the playpen for her.", "zh": "我在遊戲圍欄裡放了幾個玩具給她。" }
+    ],
+    "img": "baby playpen with toys",
+    "theme": "育兒嬰幼",
+    "level": 3
+  },
+  {
+    "word": "feed",
+    "kk": "[fid]",
+    "pos": "v.",
+    "meaning": "餵食",
+    "examples": [
+      { "en": "It is time to feed the baby again.", "zh": "又到了餵寶寶的時間了。" },
+      { "en": "He learned to feed himself with a spoon.", "zh": "他學會了自己用湯匙吃飯。" }
+    ],
+    "img": "parent feeding baby spoon",
+    "theme": "育兒嬰幼",
+    "level": 2
+  },
+  {
+    "word": "diaper bag",
+    "kk": "[ˈdaɪpɚ bæɡ]",
+    "pos": "n.",
+    "meaning": "媽媽包(尿布袋)",
+    "examples": [
+      { "en": "Don't forget the diaper bag before we leave.", "zh": "出門前別忘了媽媽包。" },
+      { "en": "The diaper bag has room for bottles and wipes.", "zh": "這個媽媽包有空間放奶瓶和濕紙巾。" }
+    ],
+    "img": "diaper bag baby essentials",
+    "theme": "育兒嬰幼",
+    "level": 2
+  }
+]

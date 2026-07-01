@@ -1,0 +1,652 @@
+[
+  {
+    "word": "contract",
+    "kk": "[ˈkɑntrækt]",
+    "pos": "n.",
+    "meaning": "合約;契約",
+    "examples": [
+      { "en": "Both parties signed the contract yesterday.", "zh": "雙方昨天簽署了合約。" },
+      { "en": "Please read the contract carefully before signing.", "zh": "簽名前請仔細閱讀合約。" }
+    ],
+    "img": "two people signing a paper document",
+    "theme": "合約法律",
+    "level": 2
+  },
+  {
+    "word": "clause",
+    "kk": "[klɔz]",
+    "pos": "n.",
+    "meaning": "條款",
+    "examples": [
+      { "en": "This clause protects the buyer's rights.", "zh": "這項條款保護買方的權利。" },
+      { "en": "We added a new clause to the agreement.", "zh": "我們在協議中加入了一項新條款。" }
+    ],
+    "img": "highlighted paragraph in a legal document",
+    "theme": "合約法律",
+    "level": 3
+  },
+  {
+    "word": "agreement",
+    "kk": "[əˈɡrimənt]",
+    "pos": "n.",
+    "meaning": "協議;協定",
+    "examples": [
+      { "en": "They reached an agreement after long talks.", "zh": "經過長時間的談判後他們達成協議。" },
+      { "en": "The agreement takes effect next month.", "zh": "該協議下個月生效。" }
+    ],
+    "img": "two hands shaking over a table",
+    "theme": "合約法律",
+    "level": 2
+  },
+  {
+    "word": "obligation",
+    "kk": "[ˌɑbləˈɡeʃən]",
+    "pos": "n.",
+    "meaning": "義務;責任",
+    "examples": [
+      { "en": "Paying taxes is a legal obligation.", "zh": "繳稅是一項法律義務。" },
+      { "en": "He failed to meet his obligation under the contract.", "zh": "他未能履行合約中的義務。" }
+    ],
+    "img": "person carrying a heavy box of duties",
+    "theme": "合約法律",
+    "level": 3
+  },
+  {
+    "word": "liability",
+    "kk": "[ˌlaɪəˈbɪlətɪ]",
+    "pos": "n.",
+    "meaning": "法律責任;賠償責任",
+    "examples": [
+      { "en": "The company accepts liability for the damage.", "zh": "公司承認對損害負有賠償責任。" },
+      { "en": "The contract limits our liability to a fixed amount.", "zh": "合約將我們的責任限定在固定金額內。" }
+    ],
+    "img": "scale weighing a warning sign",
+    "theme": "合約法律",
+    "level": 3
+  },
+  {
+    "word": "breach",
+    "kk": "[britʃ]",
+    "pos": "n.",
+    "meaning": "違約;違反",
+    "examples": [
+      { "en": "Late delivery is a breach of contract.", "zh": "延遲交貨屬於違約。" },
+      { "en": "They sued him for breach of the agreement.", "zh": "他們因違反協議而控告他。" }
+    ],
+    "img": "cracked contract paper breaking apart",
+    "theme": "合約法律",
+    "level": 3
+  },
+  {
+    "word": "lawsuit",
+    "kk": "[ˈlɔˌsut]",
+    "pos": "n.",
+    "meaning": "訴訟;官司",
+    "examples": [
+      { "en": "She filed a lawsuit against the factory.", "zh": "她對工廠提起訴訟。" },
+      { "en": "The lawsuit lasted almost three years.", "zh": "這場官司持續了將近三年。" }
+    ],
+    "img": "gavel resting on legal papers",
+    "theme": "合約法律",
+    "level": 2
+  },
+  {
+    "word": "plaintiff",
+    "kk": "[ˈplentɪf]",
+    "pos": "n.",
+    "meaning": "原告",
+    "examples": [
+      { "en": "The plaintiff asked for full compensation.", "zh": "原告要求全額賠償。" },
+      { "en": "The plaintiff appeared in court on time.", "zh": "原告準時出庭。" }
+    ],
+    "img": "person pointing across a courtroom",
+    "theme": "合約法律",
+    "level": 3
+  },
+  {
+    "word": "defendant",
+    "kk": "[dɪˈfɛndənt]",
+    "pos": "n.",
+    "meaning": "被告",
+    "examples": [
+      { "en": "The defendant denied all the charges.", "zh": "被告否認所有指控。" },
+      { "en": "The defendant hired a famous lawyer.", "zh": "被告聘請了一位知名律師。" }
+    ],
+    "img": "person standing behind a courtroom stand",
+    "theme": "合約法律",
+    "level": 3
+  },
+  {
+    "word": "compensation",
+    "kk": "[ˌkɑmpənˈseʃən]",
+    "pos": "n.",
+    "meaning": "賠償;補償",
+    "examples": [
+      { "en": "He received compensation for his injury.", "zh": "他因受傷獲得賠償。" },
+      { "en": "The court ordered fair compensation.", "zh": "法院裁定合理的賠償。" }
+    ],
+    "img": "hand giving stack of money as repayment",
+    "theme": "合約法律",
+    "level": 3
+  },
+  {
+    "word": "damages",
+    "kk": "[ˈdæmɪdʒɪz]",
+    "pos": "n.",
+    "meaning": "損害賠償金",
+    "examples": [
+      { "en": "The judge awarded her damages of ten thousand dollars.", "zh": "法官判給她一萬美元的損害賠償金。" },
+      { "en": "They claimed damages for the broken machine.", "zh": "他們就損壞的機器索取損害賠償金。" }
+    ],
+    "img": "money next to a broken object",
+    "theme": "合約法律",
+    "level": 3
+  },
+  {
+    "word": "warranty",
+    "kk": "[ˈwɔrəntɪ]",
+    "pos": "n.",
+    "meaning": "保固;擔保",
+    "examples": [
+      { "en": "The laptop comes with a two-year warranty.", "zh": "這台筆電附有兩年保固。" },
+      { "en": "The seller offered a warranty on the product.", "zh": "賣方為產品提供擔保。" }
+    ],
+    "img": "warranty certificate with a shield stamp",
+    "theme": "合約法律",
+    "level": 2
+  },
+  {
+    "word": "indemnity",
+    "kk": "[ɪnˈdɛmnətɪ]",
+    "pos": "n.",
+    "meaning": "賠償保證;補償",
+    "examples": [
+      { "en": "The contract includes an indemnity clause.", "zh": "合約包含一項賠償保證條款。" },
+      { "en": "He signed an indemnity to cover any loss.", "zh": "他簽署賠償保證以承擔任何損失。" }
+    ],
+    "img": "protective umbrella over money and documents",
+    "theme": "合約法律",
+    "level": 3
+  },
+  {
+    "word": "negligence",
+    "kk": "[ˈnɛɡlɪdʒəns]",
+    "pos": "n.",
+    "meaning": "過失;疏忽",
+    "examples": [
+      { "en": "The accident was caused by his negligence.", "zh": "這起事故是由他的過失造成的。" },
+      { "en": "The hospital was found guilty of negligence.", "zh": "醫院被判有疏忽過失。" }
+    ],
+    "img": "worker ignoring a warning sign",
+    "theme": "合約法律",
+    "level": 3
+  },
+  {
+    "word": "settlement",
+    "kk": "[ˈsɛtlmənt]",
+    "pos": "n.",
+    "meaning": "和解;協議解決",
+    "examples": [
+      { "en": "The two sides reached a settlement out of court.", "zh": "雙方在庭外達成和解。" },
+      { "en": "The settlement saved them a long trial.", "zh": "和解讓他們免於漫長的審判。" }
+    ],
+    "img": "two people shaking hands with lawyers",
+    "theme": "合約法律",
+    "level": 3
+  },
+  {
+    "word": "arbitration",
+    "kk": "[ˌɑrbəˈtreʃən]",
+    "pos": "n.",
+    "meaning": "仲裁",
+    "examples": [
+      { "en": "They chose arbitration instead of a lawsuit.", "zh": "他們選擇仲裁而非訴訟。" },
+      { "en": "The dispute was solved through arbitration.", "zh": "這場爭議透過仲裁解決。" }
+    ],
+    "img": "neutral judge between two arguing parties",
+    "theme": "合約法律",
+    "level": 3
+  },
+  {
+    "word": "jurisdiction",
+    "kk": "[ˌdʒʊrɪsˈdɪkʃən]",
+    "pos": "n.",
+    "meaning": "管轄權;司法權",
+    "examples": [
+      { "en": "This court has jurisdiction over the case.", "zh": "本法院對此案件有管轄權。" },
+      { "en": "The matter falls outside our jurisdiction.", "zh": "此事不在我們的管轄權範圍內。" }
+    ],
+    "img": "map with a court building and boundary line",
+    "theme": "合約法律",
+    "level": 3
+  },
+  {
+    "word": "verdict",
+    "kk": "[ˈvɝdɪkt]",
+    "pos": "n.",
+    "meaning": "裁決;判決",
+    "examples": [
+      { "en": "The jury reached a guilty verdict.", "zh": "陪審團作出有罪的裁決。" },
+      { "en": "Everyone waited for the final verdict.", "zh": "大家都等待最終的判決。" }
+    ],
+    "img": "jury announcing a decision in court",
+    "theme": "合約法律",
+    "level": 3
+  },
+  {
+    "word": "testimony",
+    "kk": "[ˈtɛstəˌmonɪ]",
+    "pos": "n.",
+    "meaning": "證詞;證言",
+    "examples": [
+      { "en": "Her testimony helped win the case.", "zh": "她的證詞幫助贏得了官司。" },
+      { "en": "The witness gave clear testimony.", "zh": "證人提供了清楚的證詞。" }
+    ],
+    "img": "witness speaking on a courtroom stand",
+    "theme": "合約法律",
+    "level": 3
+  },
+  {
+    "word": "evidence",
+    "kk": "[ˈɛvədəns]",
+    "pos": "n.",
+    "meaning": "證據",
+    "examples": [
+      { "en": "The police found strong evidence at the scene.", "zh": "警方在現場找到強力的證據。" },
+      { "en": "There was no evidence to support the claim.", "zh": "沒有證據支持這項主張。" }
+    ],
+    "img": "magnifying glass over labeled clues",
+    "theme": "合約法律",
+    "level": 2
+  },
+  {
+    "word": "witness",
+    "kk": "[ˈwɪtnɪs]",
+    "pos": "n.",
+    "meaning": "證人;目擊者",
+    "examples": [
+      { "en": "The witness saw the whole accident.", "zh": "證人目睹了整起事故。" },
+      { "en": "A key witness testified in court.", "zh": "一名關鍵證人在法庭作證。" }
+    ],
+    "img": "person raising a hand to swear an oath",
+    "theme": "合約法律",
+    "level": 2
+  },
+  {
+    "word": "attorney",
+    "kk": "[əˈtɝnɪ]",
+    "pos": "n.",
+    "meaning": "律師;代理人",
+    "examples": [
+      { "en": "Her attorney advised her not to speak.", "zh": "她的律師建議她不要發言。" },
+      { "en": "You should hire an attorney for this case.", "zh": "這個案子你應該聘請律師。" }
+    ],
+    "img": "lawyer in a suit holding a briefcase",
+    "theme": "合約法律",
+    "level": 3
+  },
+  {
+    "word": "prosecutor",
+    "kk": "[ˈprɑsɪˌkjutɚ]",
+    "pos": "n.",
+    "meaning": "檢察官",
+    "examples": [
+      { "en": "The prosecutor presented strong evidence.", "zh": "檢察官提出了有力的證據。" },
+      { "en": "The prosecutor asked the witness many questions.", "zh": "檢察官向證人提出許多問題。" }
+    ],
+    "img": "official questioning a witness in court",
+    "theme": "合約法律",
+    "level": 3
+  },
+  {
+    "word": "appeal",
+    "kk": "[əˈpil]",
+    "pos": "n.",
+    "meaning": "上訴",
+    "examples": [
+      { "en": "They filed an appeal against the ruling.", "zh": "他們針對判決提出上訴。" },
+      { "en": "The appeal was heard by a higher court.", "zh": "上訴由更高等的法院審理。" }
+    ],
+    "img": "arrow pointing up to a taller court building",
+    "theme": "合約法律",
+    "level": 3
+  },
+  {
+    "word": "ruling",
+    "kk": "[ˈrulɪŋ]",
+    "pos": "n.",
+    "meaning": "裁定;判決",
+    "examples": [
+      { "en": "The judge's ruling surprised everyone.", "zh": "法官的裁定讓所有人驚訝。" },
+      { "en": "The company accepted the court's ruling.", "zh": "公司接受了法院的裁定。" }
+    ],
+    "img": "judge announcing a decision with a gavel",
+    "theme": "合約法律",
+    "level": 3
+  },
+  {
+    "word": "enforce",
+    "kk": "[ɪnˈfɔrs]",
+    "pos": "v.",
+    "meaning": "執行;強制實施",
+    "examples": [
+      { "en": "The court will enforce the contract.", "zh": "法院將強制執行合約。" },
+      { "en": "Police enforce the law fairly.", "zh": "警方公正地執行法律。" }
+    ],
+    "img": "officer holding up a law document firmly",
+    "theme": "合約法律",
+    "level": 3
+  },
+  {
+    "word": "violate",
+    "kk": "[ˈvaɪəˌlet]",
+    "pos": "v.",
+    "meaning": "違反;侵犯",
+    "examples": [
+      { "en": "He violated the terms of the deal.", "zh": "他違反了交易的條款。" },
+      { "en": "Do not violate the company rules.", "zh": "請勿違反公司規定。" }
+    ],
+    "img": "hand crossing out a rulebook line",
+    "theme": "合約法律",
+    "level": 3
+  },
+  {
+    "word": "amend",
+    "kk": "[əˈmɛnd]",
+    "pos": "v.",
+    "meaning": "修改;修正",
+    "examples": [
+      { "en": "We need to amend the contract terms.", "zh": "我們需要修改合約條款。" },
+      { "en": "They amended the agreement last week.", "zh": "他們上週修正了協議。" }
+    ],
+    "img": "red pen editing a printed document",
+    "theme": "合約法律",
+    "level": 3
+  },
+  {
+    "word": "terminate",
+    "kk": "[ˈtɝməˌnet]",
+    "pos": "v.",
+    "meaning": "終止;解除",
+    "examples": [
+      { "en": "Either side may terminate the contract.", "zh": "任何一方都可以終止合約。" },
+      { "en": "They terminated the deal early.", "zh": "他們提前終止了交易。" }
+    ],
+    "img": "hand tearing a contract in half",
+    "theme": "合約法律",
+    "level": 3
+  },
+  {
+    "word": "negotiate",
+    "kk": "[nɪˈɡoʃɪˌet]",
+    "pos": "v.",
+    "meaning": "協商;談判",
+    "examples": [
+      { "en": "They negotiated a better price.", "zh": "他們談判出更好的價格。" },
+      { "en": "We will negotiate the terms tomorrow.", "zh": "我們明天將協商條款。" }
+    ],
+    "img": "two people talking across a meeting table",
+    "theme": "合約法律",
+    "level": 2
+  },
+  {
+    "word": "sue",
+    "kk": "[su]",
+    "pos": "v.",
+    "meaning": "控告;起訴",
+    "examples": [
+      { "en": "She decided to sue the company.", "zh": "她決定控告該公司。" },
+      { "en": "They may sue him for the loss.", "zh": "他們可能因這筆損失而起訴他。" }
+    ],
+    "img": "person handing legal papers to another",
+    "theme": "合約法律",
+    "level": 2
+  },
+  {
+    "word": "testify",
+    "kk": "[ˈtɛstəˌfaɪ]",
+    "pos": "v.",
+    "meaning": "作證",
+    "examples": [
+      { "en": "He agreed to testify in court.", "zh": "他同意在法庭作證。" },
+      { "en": "The doctor testified about the injury.", "zh": "醫生就傷勢作證。" }
+    ],
+    "img": "person speaking with a raised hand in court",
+    "theme": "合約法律",
+    "level": 3
+  },
+  {
+    "word": "copyright",
+    "kk": "[ˈkɑpɪˌraɪt]",
+    "pos": "n.",
+    "meaning": "著作權;版權",
+    "examples": [
+      { "en": "The book is protected by copyright.", "zh": "這本書受著作權保護。" },
+      { "en": "He owns the copyright to the song.", "zh": "他擁有這首歌的版權。" }
+    ],
+    "img": "copyright symbol stamped on a book",
+    "theme": "合約法律",
+    "level": 2
+  },
+  {
+    "word": "patent",
+    "kk": "[ˈpætnt]",
+    "pos": "n.",
+    "meaning": "專利",
+    "examples": [
+      { "en": "She filed a patent for her invention.", "zh": "她為她的發明申請了專利。" },
+      { "en": "The patent lasts for twenty years.", "zh": "該專利有效期為二十年。" }
+    ],
+    "img": "invention drawing with an official seal",
+    "theme": "合約法律",
+    "level": 3
+  },
+  {
+    "word": "trademark",
+    "kk": "[ˈtredˌmɑrk]",
+    "pos": "n.",
+    "meaning": "商標",
+    "examples": [
+      { "en": "The logo is a registered trademark.", "zh": "這個標誌是註冊商標。" },
+      { "en": "They protected the brand's trademark.", "zh": "他們保護了品牌的商標。" }
+    ],
+    "img": "brand logo with a small TM symbol",
+    "theme": "合約法律",
+    "level": 3
+  },
+  {
+    "word": "infringement",
+    "kk": "[ɪnˈfrɪndʒmənt]",
+    "pos": "n.",
+    "meaning": "侵權;侵害",
+    "examples": [
+      { "en": "Copying the design is an infringement.", "zh": "複製這個設計屬於侵權。" },
+      { "en": "They sued for patent infringement.", "zh": "他們就專利侵權提起訴訟。" }
+    ],
+    "img": "copied product next to an original with warning",
+    "theme": "合約法律",
+    "level": 3
+  },
+  {
+    "word": "intellectual property",
+    "kk": "[ˌɪntəˈlɛktʃuəl ˈprɑpɚtɪ]",
+    "pos": "n.",
+    "meaning": "智慧財產權",
+    "examples": [
+      { "en": "The company protects its intellectual property.", "zh": "公司保護其智慧財產權。" },
+      { "en": "Ideas can be intellectual property too.", "zh": "創意也可以是智慧財產權。" }
+    ],
+    "img": "lightbulb locked inside a shield",
+    "theme": "合約法律",
+    "level": 3
+  },
+  {
+    "word": "royalty",
+    "kk": "[ˈrɔɪəltɪ]",
+    "pos": "n.",
+    "meaning": "權利金;版稅",
+    "examples": [
+      { "en": "The author earns a royalty on each sale.", "zh": "作者每售出一本可得版稅。" },
+      { "en": "They pay a royalty to use the design.", "zh": "他們支付權利金以使用該設計。" }
+    ],
+    "img": "coins flowing from a book to an author",
+    "theme": "合約法律",
+    "level": 3
+  },
+  {
+    "word": "license",
+    "kk": "[ˈlaɪsns]",
+    "pos": "n.",
+    "meaning": "授權;許可",
+    "examples": [
+      { "en": "They bought a license to use the software.", "zh": "他們購買了軟體的使用授權。" },
+      { "en": "The license allows limited copying.", "zh": "這項授權允許有限度的複製。" }
+    ],
+    "img": "official permit certificate with a key",
+    "theme": "合約法律",
+    "level": 2
+  },
+  {
+    "word": "confidential",
+    "kk": "[ˌkɑnfəˈdɛnʃəl]",
+    "pos": "adj.",
+    "meaning": "機密的;保密的",
+    "examples": [
+      { "en": "This report is strictly confidential.", "zh": "這份報告是嚴格保密的。" },
+      { "en": "Keep the client's data confidential.", "zh": "請將客戶資料保密。" }
+    ],
+    "img": "folder stamped with a confidential label",
+    "theme": "合約法律",
+    "level": 3
+  },
+  {
+    "word": "disclosure",
+    "kk": "[dɪsˈkloʒɚ]",
+    "pos": "n.",
+    "meaning": "揭露;公開",
+    "examples": [
+      { "en": "Full disclosure of risks is required.", "zh": "必須完整揭露風險。" },
+      { "en": "The disclosure hurt the company's image.", "zh": "這次揭露損害了公司的形象。" }
+    ],
+    "img": "hand opening a sealed envelope of secrets",
+    "theme": "合約法律",
+    "level": 3
+  },
+  {
+    "word": "provision",
+    "kk": "[prəˈvɪʒən]",
+    "pos": "n.",
+    "meaning": "條文;規定",
+    "examples": [
+      { "en": "The provision covers late payments.", "zh": "此條文涵蓋逾期付款的情況。" },
+      { "en": "Read every provision before you agree.", "zh": "同意前請閱讀每一條規定。" }
+    ],
+    "img": "numbered section in a legal contract",
+    "theme": "合約法律",
+    "level": 3
+  },
+  {
+    "word": "party",
+    "kk": "[ˈpɑrtɪ]",
+    "pos": "n.",
+    "meaning": "當事人;一方",
+    "examples": [
+      { "en": "Each party must sign the document.", "zh": "每一方當事人都必須簽署文件。" },
+      { "en": "The other party agreed to the terms.", "zh": "另一方當事人同意了這些條款。" }
+    ],
+    "img": "two labeled figures on opposite sides",
+    "theme": "合約法律",
+    "level": 2
+  },
+  {
+    "word": "waiver",
+    "kk": "[ˈwevɚ]",
+    "pos": "n.",
+    "meaning": "棄權;免責聲明",
+    "examples": [
+      { "en": "You must sign a waiver before the tour.", "zh": "參加行程前你必須簽署免責聲明。" },
+      { "en": "The waiver releases them from blame.", "zh": "這份棄權書免除了他們的責任。" }
+    ],
+    "img": "person signing a release form",
+    "theme": "合約法律",
+    "level": 3
+  },
+  {
+    "word": "valid",
+    "kk": "[ˈvælɪd]",
+    "pos": "adj.",
+    "meaning": "有效的;合法的",
+    "examples": [
+      { "en": "The contract is still valid.", "zh": "這份合約仍然有效。" },
+      { "en": "A valid signature is required here.", "zh": "此處需要有效的簽名。" }
+    ],
+    "img": "document with a green checkmark stamp",
+    "theme": "合約法律",
+    "level": 2
+  },
+  {
+    "word": "binding",
+    "kk": "[ˈbaɪndɪŋ]",
+    "pos": "adj.",
+    "meaning": "有約束力的",
+    "examples": [
+      { "en": "This agreement is legally binding.", "zh": "這份協議具有法律約束力。" },
+      { "en": "Their promise is not binding.", "zh": "他們的承諾沒有約束力。" }
+    ],
+    "img": "contract wrapped tightly with a chain",
+    "theme": "合約法律",
+    "level": 3
+  },
+  {
+    "word": "penalty",
+    "kk": "[ˈpɛnltɪ]",
+    "pos": "n.",
+    "meaning": "罰則;違約金",
+    "examples": [
+      { "en": "There is a penalty for late payment.", "zh": "逾期付款會有罰則。" },
+      { "en": "The contract sets a heavy penalty.", "zh": "合約設定了高額的違約金。" }
+    ],
+    "img": "red stamp showing a fine amount",
+    "theme": "合約法律",
+    "level": 2
+  },
+  {
+    "word": "deadline",
+    "kk": "[ˈdɛdˌlaɪn]",
+    "pos": "n.",
+    "meaning": "期限;截止日",
+    "examples": [
+      { "en": "The payment deadline is next Friday.", "zh": "付款期限是下週五。" },
+      { "en": "They missed the delivery deadline.", "zh": "他們錯過了交貨期限。" }
+    ],
+    "img": "calendar with a circled red date",
+    "theme": "合約法律",
+    "level": 2
+  },
+  {
+    "word": "signature",
+    "kk": "[ˈsɪɡnətʃɚ]",
+    "pos": "n.",
+    "meaning": "簽名",
+    "examples": [
+      { "en": "Your signature is needed at the bottom.", "zh": "底部需要你的簽名。" },
+      { "en": "The signature made the deal official.", "zh": "簽名使這筆交易正式成立。" }
+    ],
+    "img": "hand signing a name with a pen",
+    "theme": "合約法律",
+    "level": 2
+  },
+  {
+    "word": "dispute",
+    "kk": "[dɪˈspjut]",
+    "pos": "n.",
+    "meaning": "爭議;糾紛",
+    "examples": [
+      { "en": "The dispute went to court.", "zh": "這場爭議鬧上了法院。" },
+      { "en": "They solved the dispute quickly.", "zh": "他們很快解決了糾紛。" }
+    ],
+    "img": "two people arguing over a document",
+    "theme": "合約法律",
+    "level": 2
+  }
+]

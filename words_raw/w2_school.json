@@ -1,0 +1,652 @@
+[
+  {
+    "word": "school",
+    "kk": "[skul]",
+    "pos": "n.",
+    "meaning": "學校",
+    "examples": [
+      { "en": "I go to school by bus every day.", "zh": "我每天搭公車上學。" },
+      { "en": "Our school is near the park.", "zh": "我們學校在公園附近。" }
+    ],
+    "img": "school building with students and flag",
+    "theme": "教育學校",
+    "level": 1
+  },
+  {
+    "word": "teacher",
+    "kk": "[ˋtitʃɚ]",
+    "pos": "n.",
+    "meaning": "老師",
+    "examples": [
+      { "en": "My teacher is very kind.", "zh": "我的老師很親切。" },
+      { "en": "The teacher wrote on the board.", "zh": "老師在黑板上寫字。" }
+    ],
+    "img": "teacher standing by whiteboard pointing",
+    "theme": "教育學校",
+    "level": 1
+  },
+  {
+    "word": "student",
+    "kk": "[ˋstjudnt]",
+    "pos": "n.",
+    "meaning": "學生",
+    "examples": [
+      { "en": "She is a good student.", "zh": "她是個好學生。" },
+      { "en": "The students are reading books.", "zh": "學生們正在讀書。" }
+    ],
+    "img": "student with backpack holding books",
+    "theme": "教育學校",
+    "level": 1
+  },
+  {
+    "word": "class",
+    "kk": "[klæs]",
+    "pos": "n.",
+    "meaning": "課;班級",
+    "examples": [
+      { "en": "Our class starts at nine.", "zh": "我們的課九點開始。" },
+      { "en": "There are thirty kids in my class.", "zh": "我班上有三十個小孩。" }
+    ],
+    "img": "classroom full of students at desks",
+    "theme": "教育學校",
+    "level": 1
+  },
+  {
+    "word": "classroom",
+    "kk": "[ˋklæsͺrum]",
+    "pos": "n.",
+    "meaning": "教室",
+    "examples": [
+      { "en": "The classroom is clean and bright.", "zh": "教室又乾淨又明亮。" },
+      { "en": "Please be quiet in the classroom.", "zh": "在教室裡請安靜。" }
+    ],
+    "img": "bright classroom with desks and whiteboard",
+    "theme": "教育學校",
+    "level": 1
+  },
+  {
+    "word": "book",
+    "kk": "[bʊk]",
+    "pos": "n.",
+    "meaning": "書",
+    "examples": [
+      { "en": "I am reading an English book.", "zh": "我正在讀一本英文書。" },
+      { "en": "Open your book to page ten.", "zh": "把書翻到第十頁。" }
+    ],
+    "img": "open textbook on a wooden desk",
+    "theme": "教育學校",
+    "level": 1
+  },
+  {
+    "word": "pen",
+    "kk": "[pɛn]",
+    "pos": "n.",
+    "meaning": "筆;原子筆",
+    "examples": [
+      { "en": "Can I borrow your pen?", "zh": "我可以借你的筆嗎?" },
+      { "en": "This pen writes in blue.", "zh": "這支筆寫出來是藍色的。" }
+    ],
+    "img": "blue ballpoint pen on notebook",
+    "theme": "教育學校",
+    "level": 1
+  },
+  {
+    "word": "pencil",
+    "kk": "[ˋpɛns!]",
+    "pos": "n.",
+    "meaning": "鉛筆",
+    "examples": [
+      { "en": "I need to sharpen my pencil.", "zh": "我需要削鉛筆。" },
+      { "en": "She drew a cat with a pencil.", "zh": "她用鉛筆畫了一隻貓。" }
+    ],
+    "img": "yellow pencil with sharp point",
+    "theme": "教育學校",
+    "level": 1
+  },
+  {
+    "word": "desk",
+    "kk": "[dɛsk]",
+    "pos": "n.",
+    "meaning": "書桌;課桌",
+    "examples": [
+      { "en": "Put your bag on the desk.", "zh": "把你的書包放在桌上。" },
+      { "en": "My desk is by the window.", "zh": "我的課桌在窗戶旁邊。" }
+    ],
+    "img": "wooden school desk with books",
+    "theme": "教育學校",
+    "level": 1
+  },
+  {
+    "word": "study",
+    "kk": "[ˋstʌdɪ]",
+    "pos": "v.",
+    "meaning": "讀書;學習",
+    "examples": [
+      { "en": "I study English every night.", "zh": "我每晚讀英文。" },
+      { "en": "We study together after class.", "zh": "我們下課後一起讀書。" }
+    ],
+    "img": "student studying at desk with lamp",
+    "theme": "教育學校",
+    "level": 1
+  },
+  {
+    "word": "learn",
+    "kk": "[lɝn]",
+    "pos": "v.",
+    "meaning": "學習;學會",
+    "examples": [
+      { "en": "I want to learn how to swim.", "zh": "我想學游泳。" },
+      { "en": "We learn new words in class.", "zh": "我們在課堂上學新單字。" }
+    ],
+    "img": "child learning with open notebook",
+    "theme": "教育學校",
+    "level": 1
+  },
+  {
+    "word": "read",
+    "kk": "[rid]",
+    "pos": "v.",
+    "meaning": "閱讀;讀",
+    "examples": [
+      { "en": "I like to read before bed.", "zh": "我喜歡睡前閱讀。" },
+      { "en": "Please read this out loud.", "zh": "請把這個大聲讀出來。" }
+    ],
+    "img": "person reading a book quietly",
+    "theme": "教育學校",
+    "level": 1
+  },
+  {
+    "word": "write",
+    "kk": "[raɪt]",
+    "pos": "v.",
+    "meaning": "寫;書寫",
+    "examples": [
+      { "en": "Write your name here, please.", "zh": "請在這裡寫上你的名字。" },
+      { "en": "She likes to write short stories.", "zh": "她喜歡寫短篇故事。" }
+    ],
+    "img": "hand writing in a notebook",
+    "theme": "教育學校",
+    "level": 1
+  },
+  {
+    "word": "homework",
+    "kk": "[ˋhomͺwɝk]",
+    "pos": "n.",
+    "meaning": "家庭作業",
+    "examples": [
+      { "en": "I have a lot of homework today.", "zh": "我今天有很多作業。" },
+      { "en": "Did you finish your homework?", "zh": "你作業寫完了嗎?" }
+    ],
+    "img": "homework worksheet with pencil",
+    "theme": "教育學校",
+    "level": 1
+  },
+  {
+    "word": "test",
+    "kk": "[tɛst]",
+    "pos": "n.",
+    "meaning": "測驗;考試",
+    "examples": [
+      { "en": "We have a math test tomorrow.", "zh": "我們明天有數學測驗。" },
+      { "en": "I passed the test.", "zh": "我通過了測驗。" }
+    ],
+    "img": "test paper with pencil and clock",
+    "theme": "教育學校",
+    "level": 1
+  },
+  {
+    "word": "math",
+    "kk": "[mæθ]",
+    "pos": "n.",
+    "meaning": "數學",
+    "examples": [
+      { "en": "Math is my favorite subject.", "zh": "數學是我最喜歡的科目。" },
+      { "en": "He is good at math.", "zh": "他數學很好。" }
+    ],
+    "img": "math numbers and equations on board",
+    "theme": "教育學校",
+    "level": 1
+  },
+  {
+    "word": "English",
+    "kk": "[ˋɪŋglɪʃ]",
+    "pos": "n.",
+    "meaning": "英文;英語",
+    "examples": [
+      { "en": "I speak English at school.", "zh": "我在學校說英文。" },
+      { "en": "English class is fun.", "zh": "英文課很有趣。" }
+    ],
+    "img": "English alphabet letters on chalkboard",
+    "theme": "教育學校",
+    "level": 1
+  },
+  {
+    "word": "science",
+    "kk": "[ˋsaɪəns]",
+    "pos": "n.",
+    "meaning": "科學;自然科",
+    "examples": [
+      { "en": "We do experiments in science class.", "zh": "我們在自然課做實驗。" },
+      { "en": "Science is really interesting.", "zh": "科學真的很有趣。" }
+    ],
+    "img": "science beakers and microscope",
+    "theme": "教育學校",
+    "level": 1
+  },
+  {
+    "word": "bag",
+    "kk": "[bæg]",
+    "pos": "n.",
+    "meaning": "袋子;書包",
+    "examples": [
+      { "en": "My school bag is heavy.", "zh": "我的書包很重。" },
+      { "en": "Put the books in your bag.", "zh": "把書放進你的書包。" }
+    ],
+    "img": "school backpack full of books",
+    "theme": "教育學校",
+    "level": 1
+  },
+  {
+    "word": "answer",
+    "kk": "[ˋænsɚ]",
+    "pos": "n.",
+    "meaning": "答案;回答",
+    "examples": [
+      { "en": "I don't know the answer.", "zh": "我不知道答案。" },
+      { "en": "Her answer was correct.", "zh": "她的答案是對的。" }
+    ],
+    "img": "answer key with red check marks",
+    "theme": "教育學校",
+    "level": 1
+  },
+  {
+    "word": "subject",
+    "kk": "[ˋsʌbdʒɪkt]",
+    "pos": "n.",
+    "meaning": "科目",
+    "examples": [
+      { "en": "What is your favorite subject?", "zh": "你最喜歡哪個科目?" },
+      { "en": "History is a hard subject for me.", "zh": "歷史對我來說是個難的科目。" }
+    ],
+    "img": "school subject icons on notebook",
+    "theme": "教育學校",
+    "level": 2
+  },
+  {
+    "word": "exam",
+    "kk": "[ɪgˋzæm]",
+    "pos": "n.",
+    "meaning": "考試",
+    "examples": [
+      { "en": "The final exam is next week.", "zh": "期末考在下週。" },
+      { "en": "I studied hard for the exam.", "zh": "我為考試很努力讀書。" }
+    ],
+    "img": "students taking an exam in hall",
+    "theme": "教育學校",
+    "level": 2
+  },
+  {
+    "word": "grade",
+    "kk": "[gred]",
+    "pos": "n.",
+    "meaning": "成績;年級",
+    "examples": [
+      { "en": "She got a good grade on the test.", "zh": "她考試拿到好成績。" },
+      { "en": "My sister is in the third grade.", "zh": "我妹妹讀三年級。" }
+    ],
+    "img": "report card with letter grades",
+    "theme": "教育學校",
+    "level": 2
+  },
+  {
+    "word": "lesson",
+    "kk": "[ˋlɛsn]",
+    "pos": "n.",
+    "meaning": "課;課程",
+    "examples": [
+      { "en": "Today's lesson is about animals.", "zh": "今天的課是關於動物。" },
+      { "en": "We learned a lot in the lesson.", "zh": "我們在這堂課學到很多。" }
+    ],
+    "img": "open lesson book with notes",
+    "theme": "教育學校",
+    "level": 2
+  },
+  {
+    "word": "notebook",
+    "kk": "[ˋnotͺbʊk]",
+    "pos": "n.",
+    "meaning": "筆記本",
+    "examples": [
+      { "en": "Write it down in your notebook.", "zh": "把它記在你的筆記本上。" },
+      { "en": "My notebook is full of notes.", "zh": "我的筆記本寫滿了筆記。" }
+    ],
+    "img": "spiral notebook with handwritten notes",
+    "theme": "教育學校",
+    "level": 2
+  },
+  {
+    "word": "library",
+    "kk": "[ˋlaɪͺbrɛrɪ]",
+    "pos": "n.",
+    "meaning": "圖書館",
+    "examples": [
+      { "en": "I borrowed a book from the library.", "zh": "我從圖書館借了一本書。" },
+      { "en": "The library is quiet.", "zh": "圖書館很安靜。" }
+    ],
+    "img": "library with tall bookshelves",
+    "theme": "教育學校",
+    "level": 2
+  },
+  {
+    "word": "campus",
+    "kk": "[ˋkæmpəs]",
+    "pos": "n.",
+    "meaning": "校園",
+    "examples": [
+      { "en": "The campus is big and green.", "zh": "校園又大又綠。" },
+      { "en": "We walked around the campus.", "zh": "我們在校園裡走了走。" }
+    ],
+    "img": "college campus with lawn and trees",
+    "theme": "教育學校",
+    "level": 2
+  },
+  {
+    "word": "playground",
+    "kk": "[ˋpleͺgraʊnd]",
+    "pos": "n.",
+    "meaning": "操場;遊戲場",
+    "examples": [
+      { "en": "Kids play on the playground.", "zh": "孩子們在操場上玩。" },
+      { "en": "The playground is behind the school.", "zh": "操場在學校後面。" }
+    ],
+    "img": "school playground with slides and swings",
+    "theme": "教育學校",
+    "level": 2
+  },
+  {
+    "word": "grammar",
+    "kk": "[ˋgræmɚ]",
+    "pos": "n.",
+    "meaning": "文法;語法",
+    "examples": [
+      { "en": "English grammar can be tricky.", "zh": "英文文法有時很棘手。" },
+      { "en": "We studied grammar today.", "zh": "我們今天學了文法。" }
+    ],
+    "img": "grammar rules written on chalkboard",
+    "theme": "教育學校",
+    "level": 2
+  },
+  {
+    "word": "quiz",
+    "kk": "[kwɪz]",
+    "pos": "n.",
+    "meaning": "小考;隨堂測驗",
+    "examples": [
+      { "en": "We have a short quiz today.", "zh": "我們今天有個小考。" },
+      { "en": "The quiz has only five questions.", "zh": "這個小考只有五題。" }
+    ],
+    "img": "short quiz sheet with questions",
+    "theme": "教育學校",
+    "level": 2
+  },
+  {
+    "word": "question",
+    "kk": "[ˋkwɛstʃən]",
+    "pos": "n.",
+    "meaning": "問題",
+    "examples": [
+      { "en": "May I ask a question?", "zh": "我可以問個問題嗎?" },
+      { "en": "This question is difficult.", "zh": "這個問題很難。" }
+    ],
+    "img": "question mark on a raised hand",
+    "theme": "教育學校",
+    "level": 2
+  },
+  {
+    "word": "practice",
+    "kk": "[ˋpræktɪs]",
+    "pos": "v.",
+    "meaning": "練習",
+    "examples": [
+      { "en": "You need to practice speaking.", "zh": "你需要練習說話。" },
+      { "en": "I practice piano every day.", "zh": "我每天練鋼琴。" }
+    ],
+    "img": "student practicing writing repeatedly",
+    "theme": "教育學校",
+    "level": 2
+  },
+  {
+    "word": "review",
+    "kk": "[rɪˋvju]",
+    "pos": "v.",
+    "meaning": "複習",
+    "examples": [
+      { "en": "Let's review before the test.", "zh": "我們考試前複習一下。" },
+      { "en": "I review my notes every weekend.", "zh": "我每週末複習筆記。" }
+    ],
+    "img": "student reviewing highlighted notes",
+    "theme": "教育學校",
+    "level": 2
+  },
+  {
+    "word": "grade point",
+    "kk": "[gred pɔɪnt]",
+    "pos": "n.",
+    "meaning": "學分績點",
+    "examples": [
+      { "en": "Her grade point is very high.", "zh": "她的績點很高。" },
+      { "en": "I want to raise my grade point.", "zh": "我想提高我的績點。" }
+    ],
+    "img": "report card showing GPA scores",
+    "theme": "教育學校",
+    "level": 2
+  },
+  {
+    "word": "textbook",
+    "kk": "[ˋtɛkstͺbʊk]",
+    "pos": "n.",
+    "meaning": "教科書;課本",
+    "examples": [
+      { "en": "Open your textbook, please.", "zh": "請打開你的課本。" },
+      { "en": "This textbook is easy to read.", "zh": "這本課本很好讀。" }
+    ],
+    "img": "stack of school textbooks",
+    "theme": "教育學校",
+    "level": 2
+  },
+  {
+    "word": "chalkboard",
+    "kk": "[ˋtʃɔkͺbord]",
+    "pos": "n.",
+    "meaning": "黑板",
+    "examples": [
+      { "en": "The teacher wrote on the chalkboard.", "zh": "老師在黑板上寫字。" },
+      { "en": "Please clean the chalkboard.", "zh": "請把黑板擦乾淨。" }
+    ],
+    "img": "green chalkboard with white chalk",
+    "theme": "教育學校",
+    "level": 2
+  },
+  {
+    "word": "uniform",
+    "kk": "[ˋjunəͺfɔrm]",
+    "pos": "n.",
+    "meaning": "制服",
+    "examples": [
+      { "en": "We wear a uniform to school.", "zh": "我們穿制服上學。" },
+      { "en": "Her uniform is blue and white.", "zh": "她的制服是藍白相間的。" }
+    ],
+    "img": "student wearing school uniform",
+    "theme": "教育學校",
+    "level": 2
+  },
+  {
+    "word": "recess",
+    "kk": "[ˋrisɛs]",
+    "pos": "n.",
+    "meaning": "下課時間;休息",
+    "examples": [
+      { "en": "We play outside during recess.", "zh": "下課時間我們在外面玩。" },
+      { "en": "Recess is my favorite time.", "zh": "下課時間是我最愛的時光。" }
+    ],
+    "img": "children playing during school recess",
+    "theme": "教育學校",
+    "level": 2
+  },
+  {
+    "word": "attend",
+    "kk": "[əˋtɛnd]",
+    "pos": "v.",
+    "meaning": "出席;參加",
+    "examples": [
+      { "en": "I attend class every day.", "zh": "我每天上課。" },
+      { "en": "She attends a good school.", "zh": "她就讀一所好學校。" }
+    ],
+    "img": "students attending a lecture room",
+    "theme": "教育學校",
+    "level": 2
+  },
+  {
+    "word": "score",
+    "kk": "[skor]",
+    "pos": "n.",
+    "meaning": "分數",
+    "examples": [
+      { "en": "I got a high score on the test.", "zh": "我這次考試分數很高。" },
+      { "en": "What was your score?", "zh": "你考幾分?" }
+    ],
+    "img": "test paper marked with a score",
+    "theme": "教育學校",
+    "level": 2
+  },
+  {
+    "word": "assignment",
+    "kk": "[əˋsaɪnmənt]",
+    "pos": "n.",
+    "meaning": "作業;指派任務",
+    "examples": [
+      { "en": "The assignment is due on Friday.", "zh": "作業星期五要交。" },
+      { "en": "I finished my assignment early.", "zh": "我提早完成作業了。" }
+    ],
+    "img": "assignment paper with deadline note",
+    "theme": "教育學校",
+    "level": 3
+  },
+  {
+    "word": "semester",
+    "kk": "[səˋmɛstɚ]",
+    "pos": "n.",
+    "meaning": "學期",
+    "examples": [
+      { "en": "The new semester begins in September.", "zh": "新學期九月開始。" },
+      { "en": "I did well this semester.", "zh": "我這學期表現不錯。" }
+    ],
+    "img": "academic calendar showing semester",
+    "theme": "教育學校",
+    "level": 3
+  },
+  {
+    "word": "schedule",
+    "kk": "[ˋskɛdʒʊl]",
+    "pos": "n.",
+    "meaning": "課表;時間表",
+    "examples": [
+      { "en": "Check the class schedule first.", "zh": "先看一下課表。" },
+      { "en": "My schedule is full today.", "zh": "我今天的行程很滿。" }
+    ],
+    "img": "weekly class schedule timetable",
+    "theme": "教育學校",
+    "level": 3
+  },
+  {
+    "word": "attendance",
+    "kk": "[əˋtɛndəns]",
+    "pos": "n.",
+    "meaning": "出席;出勤",
+    "examples": [
+      { "en": "The teacher takes attendance every morning.", "zh": "老師每天早上點名。" },
+      { "en": "Your attendance is very good.", "zh": "你的出席狀況很好。" }
+    ],
+    "img": "teacher checking attendance sheet",
+    "theme": "教育學校",
+    "level": 3
+  },
+  {
+    "word": "curriculum",
+    "kk": "[kəˋrɪkjələm]",
+    "pos": "n.",
+    "meaning": "課程;課綱",
+    "examples": [
+      { "en": "The school has a new curriculum.", "zh": "學校有新的課程。" },
+      { "en": "Art is part of the curriculum.", "zh": "美術是課程的一部分。" }
+    ],
+    "img": "curriculum plan document on desk",
+    "theme": "教育學校",
+    "level": 3
+  },
+  {
+    "word": "graduate",
+    "kk": "[ˋgrædʒʊͺet]",
+    "pos": "v.",
+    "meaning": "畢業",
+    "examples": [
+      { "en": "I will graduate next year.", "zh": "我明年畢業。" },
+      { "en": "She graduated from high school.", "zh": "她高中畢業了。" }
+    ],
+    "img": "student in graduation cap and gown",
+    "theme": "教育學校",
+    "level": 3
+  },
+  {
+    "word": "lecture",
+    "kk": "[ˋlɛktʃɚ]",
+    "pos": "n.",
+    "meaning": "講課;演講",
+    "examples": [
+      { "en": "The lecture lasted two hours.", "zh": "這場講課持續了兩小時。" },
+      { "en": "I took notes during the lecture.", "zh": "我在講課時做了筆記。" }
+    ],
+    "img": "professor giving a lecture hall talk",
+    "theme": "教育學校",
+    "level": 3
+  },
+  {
+    "word": "principal",
+    "kk": "[ˋprɪnsəp!]",
+    "pos": "n.",
+    "meaning": "校長",
+    "examples": [
+      { "en": "The principal spoke to all students.", "zh": "校長對全體學生講話。" },
+      { "en": "Our principal is very friendly.", "zh": "我們的校長很友善。" }
+    ],
+    "img": "school principal in office smiling",
+    "theme": "教育學校",
+    "level": 3
+  },
+  {
+    "word": "scholarship",
+    "kk": "[ˋskɑlɚͺʃɪp]",
+    "pos": "n.",
+    "meaning": "獎學金",
+    "examples": [
+      { "en": "He won a scholarship for college.", "zh": "他拿到了大學獎學金。" },
+      { "en": "She applied for a scholarship.", "zh": "她申請了獎學金。" }
+    ],
+    "img": "scholarship certificate with ribbon",
+    "theme": "教育學校",
+    "level": 3
+  },
+  {
+    "word": "concentrate",
+    "kk": "[ˋkɑnsɛnͺtret]",
+    "pos": "v.",
+    "meaning": "專心;集中注意力",
+    "examples": [
+      { "en": "I can't concentrate when it's noisy.", "zh": "吵的時候我沒辦法專心。" },
+      { "en": "Try to concentrate on your work.", "zh": "試著專心做你的功課。" }
+    ],
+    "img": "student concentrating hard at desk",
+    "theme": "教育學校",
+    "level": 3
+  }
+]

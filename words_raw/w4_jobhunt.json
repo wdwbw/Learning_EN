@@ -1,0 +1,652 @@
+[
+  {
+    "word": "resume",
+    "kk": "[ˋrɛzʊ͵me]",
+    "pos": "n.",
+    "meaning": "履歷表",
+    "examples": [
+      { "en": "Please attach your resume to the application email.", "zh": "請將你的履歷附在應徵信中。" },
+      { "en": "She updated her resume before the job fair.", "zh": "她在就業博覽會前更新了履歷。" }
+    ],
+    "img": "printed resume document on desk",
+    "theme": "面試求職",
+    "level": 2
+  },
+  {
+    "word": "applicant",
+    "kk": "[ˋæpləkənt]",
+    "pos": "n.",
+    "meaning": "應徵者;申請人",
+    "examples": [
+      { "en": "Every applicant must fill out the online form.", "zh": "每位應徵者都必須填寫線上表格。" },
+      { "en": "They received over a hundred applicants for one position.", "zh": "他們一個職位收到超過一百位應徵者。" }
+    ],
+    "img": "person handing in job application",
+    "theme": "面試求職",
+    "level": 2
+  },
+  {
+    "word": "candidate",
+    "kk": "[ˋkændə͵det]",
+    "pos": "n.",
+    "meaning": "求職候選人",
+    "examples": [
+      { "en": "The manager interviewed three strong candidates today.", "zh": "經理今天面試了三位優秀的候選人。" },
+      { "en": "She was the ideal candidate for the marketing role.", "zh": "她是行銷職位的理想人選。" }
+    ],
+    "img": "candidate waiting outside interview room",
+    "theme": "面試求職",
+    "level": 2
+  },
+  {
+    "word": "employer",
+    "kk": "[ɪmˋplɔɪɚ]",
+    "pos": "n.",
+    "meaning": "雇主",
+    "examples": [
+      { "en": "A good employer offers training to new staff.", "zh": "好的雇主會提供新進員工訓練。" },
+      { "en": "Your employer will contact you about the offer.", "zh": "你的雇主會就錄取事宜聯絡你。" }
+    ],
+    "img": "boss shaking hands with employee",
+    "theme": "面試求職",
+    "level": 2
+  },
+  {
+    "word": "employee",
+    "kk": "[͵ɛmplɔɪˋi]",
+    "pos": "n.",
+    "meaning": "員工;受雇者",
+    "examples": [
+      { "en": "The company has over five hundred employees.", "zh": "這家公司有超過五百名員工。" },
+      { "en": "New employees attend orientation on their first day.", "zh": "新員工在第一天參加職前說明。" }
+    ],
+    "img": "office employees at their desks",
+    "theme": "面試求職",
+    "level": 2
+  },
+  {
+    "word": "recruit",
+    "kk": "[rɪˋkrut]",
+    "pos": "v.",
+    "meaning": "招募;徵才",
+    "examples": [
+      { "en": "The firm is recruiting engineers this quarter.", "zh": "這家公司這一季正在招募工程師。" },
+      { "en": "They recruit fresh graduates every summer.", "zh": "他們每年夏天招募社會新鮮人。" }
+    ],
+    "img": "hiring recruiter reviewing candidates",
+    "theme": "面試求職",
+    "level": 2
+  },
+  {
+    "word": "vacancy",
+    "kk": "[ˋvekənsɪ]",
+    "pos": "n.",
+    "meaning": "職缺;空缺",
+    "examples": [
+      { "en": "There is a vacancy in the sales department.", "zh": "業務部門有一個職缺。" },
+      { "en": "The vacancy was filled within two weeks.", "zh": "這個職缺在兩週內就補滿了。" }
+    ],
+    "img": "job vacancy sign in window",
+    "theme": "面試求職",
+    "level": 3
+  },
+  {
+    "word": "position",
+    "kk": "[pəˋzɪʃən]",
+    "pos": "n.",
+    "meaning": "職位",
+    "examples": [
+      { "en": "He applied for a management position abroad.", "zh": "他應徵了一個國外的管理職位。" },
+      { "en": "This position requires two years of experience.", "zh": "這個職位需要兩年工作經驗。" }
+    ],
+    "img": "nameplate on office desk",
+    "theme": "面試求職",
+    "level": 2
+  },
+  {
+    "word": "qualification",
+    "kk": "[͵kwɑləfəˋkeʃən]",
+    "pos": "n.",
+    "meaning": "資格;條件",
+    "examples": [
+      { "en": "List your qualifications at the top of the resume.", "zh": "把你的資格條件列在履歷最上方。" },
+      { "en": "She has all the qualifications for the job.", "zh": "她具備這份工作所需的所有資格。" }
+    ],
+    "img": "checklist of skills and diplomas",
+    "theme": "面試求職",
+    "level": 3
+  },
+  {
+    "word": "experience",
+    "kk": "[ɪkˋspɪrɪəns]",
+    "pos": "n.",
+    "meaning": "經驗;經歷",
+    "examples": [
+      { "en": "The role calls for three years of work experience.", "zh": "這個職務要求三年工作經歷。" },
+      { "en": "Relevant experience will boost your application.", "zh": "相關經驗會讓你的應徵更有優勢。" }
+    ],
+    "img": "timeline of work history",
+    "theme": "面試求職",
+    "level": 2
+  },
+  {
+    "word": "skill",
+    "kk": "[skɪl]",
+    "pos": "n.",
+    "meaning": "技能;專長",
+    "examples": [
+      { "en": "Communication is a key skill for this job.", "zh": "溝通是這份工作的關鍵技能。" },
+      { "en": "He listed his computer skills on the resume.", "zh": "他在履歷上列出他的電腦技能。" }
+    ],
+    "img": "hands showing multiple ability icons",
+    "theme": "面試求職",
+    "level": 2
+  },
+  {
+    "word": "interview",
+    "kk": "[ˋɪntɚ͵vju]",
+    "pos": "n.",
+    "meaning": "面試",
+    "examples": [
+      { "en": "I have a job interview tomorrow morning.", "zh": "我明天早上有一場工作面試。" },
+      { "en": "The interview lasted nearly an hour.", "zh": "面試持續了將近一個小時。" }
+    ],
+    "img": "two people talking across a table",
+    "theme": "面試求職",
+    "level": 2
+  },
+  {
+    "word": "interviewer",
+    "kk": "[ˋɪntɚ͵vjuɚ]",
+    "pos": "n.",
+    "meaning": "面試官",
+    "examples": [
+      { "en": "The interviewer asked about my career goals.", "zh": "面試官問了我的職涯目標。" },
+      { "en": "Make eye contact with the interviewer.", "zh": "要與面試官保持眼神接觸。" }
+    ],
+    "img": "interviewer holding a clipboard",
+    "theme": "面試求職",
+    "level": 2
+  },
+  {
+    "word": "candidate pool",
+    "kk": "[ˋkændə͵det pul]",
+    "pos": "n.",
+    "meaning": "人才庫;候選人群",
+    "examples": [
+      { "en": "We have a strong candidate pool this year.", "zh": "我們今年有很強的人才庫。" },
+      { "en": "Her name stayed in the candidate pool for later.", "zh": "她的名字被留在人才庫供日後參考。" }
+    ],
+    "img": "group of profile cards on board",
+    "theme": "面試求職",
+    "level": 3
+  },
+  {
+    "word": "cover letter",
+    "kk": "[ˋkʌvɚ ˋlɛtɚ]",
+    "pos": "n.",
+    "meaning": "求職信;自薦信",
+    "examples": [
+      { "en": "A short cover letter should explain why you fit.", "zh": "簡短的求職信應說明你為何適合。" },
+      { "en": "He tailored his cover letter for each company.", "zh": "他為每家公司量身撰寫求職信。" }
+    ],
+    "img": "letter clipped to a resume",
+    "theme": "面試求職",
+    "level": 3
+  },
+  {
+    "word": "reference",
+    "kk": "[ˋrɛfərəns]",
+    "pos": "n.",
+    "meaning": "推薦人;推薦信",
+    "examples": [
+      { "en": "Please provide two professional references.", "zh": "請提供兩位專業推薦人。" },
+      { "en": "Her former boss agreed to be a reference.", "zh": "她的前主管同意當推薦人。" }
+    ],
+    "img": "recommendation letter with signature",
+    "theme": "面試求職",
+    "level": 2
+  },
+  {
+    "word": "salary",
+    "kk": "[ˋsælərɪ]",
+    "pos": "n.",
+    "meaning": "薪水;薪資",
+    "examples": [
+      { "en": "The salary for this role is quite competitive.", "zh": "這個職務的薪資相當有競爭力。" },
+      { "en": "They discussed salary at the final interview.", "zh": "他們在最後一輪面試談了薪資。" }
+    ],
+    "img": "pay slip with amount",
+    "theme": "面試求職",
+    "level": 2
+  },
+  {
+    "word": "wage",
+    "kk": "[wedʒ]",
+    "pos": "n.",
+    "meaning": "工資(時薪或週薪)",
+    "examples": [
+      { "en": "The part-time job pays an hourly wage.", "zh": "這份兼職是按時薪計酬。" },
+      { "en": "Minimum wage rose again this year.", "zh": "基本工資今年又調漲了。" }
+    ],
+    "img": "hourly pay clock and coins",
+    "theme": "面試求職",
+    "level": 2
+  },
+  {
+    "word": "benefit",
+    "kk": "[ˋbɛnəfɪt]",
+    "pos": "n.",
+    "meaning": "福利;津貼",
+    "examples": [
+      { "en": "The company offers great health benefits.", "zh": "這家公司提供很好的健康福利。" },
+      { "en": "Paid leave is one of the job's benefits.", "zh": "有薪假是這份工作的福利之一。" }
+    ],
+    "img": "employee benefits package icons",
+    "theme": "面試求職",
+    "level": 2
+  },
+  {
+    "word": "bonus",
+    "kk": "[ˋbonəs]",
+    "pos": "n.",
+    "meaning": "獎金;紅利",
+    "examples": [
+      { "en": "Staff receive a year-end bonus in January.", "zh": "員工在一月領到年終獎金。" },
+      { "en": "A performance bonus motivates the team.", "zh": "績效獎金能激勵團隊。" }
+    ],
+    "img": "extra cash in envelope",
+    "theme": "面試求職",
+    "level": 2
+  },
+  {
+    "word": "offer",
+    "kk": "[ˋɔfɚ]",
+    "pos": "n.",
+    "meaning": "錄取通知;工作邀約",
+    "examples": [
+      { "en": "She accepted the job offer right away.", "zh": "她立刻接受了這份錄取通知。" },
+      { "en": "The offer included a signing bonus.", "zh": "這份工作邀約包含簽約獎金。" }
+    ],
+    "img": "job offer letter in hand",
+    "theme": "面試求職",
+    "level": 2
+  },
+  {
+    "word": "hire",
+    "kk": "[haɪr]",
+    "pos": "v.",
+    "meaning": "雇用",
+    "examples": [
+      { "en": "The startup plans to hire ten developers.", "zh": "這家新創打算雇用十名開發人員。" },
+      { "en": "They hired her on the spot.", "zh": "他們當場就錄用了她。" }
+    ],
+    "img": "handshake with new employee badge",
+    "theme": "面試求職",
+    "level": 2
+  },
+  {
+    "word": "reject",
+    "kk": "[rɪˋdʒɛkt]",
+    "pos": "v.",
+    "meaning": "拒絕;婉拒",
+    "examples": [
+      { "en": "They rejected my application without a reason.", "zh": "他們沒說明理由就拒絕了我的申請。" },
+      { "en": "Don't give up if one company rejects you.", "zh": "被一家公司拒絕別放棄。" }
+    ],
+    "img": "rejection email on screen",
+    "theme": "面試求職",
+    "level": 2
+  },
+  {
+    "word": "promotion",
+    "kk": "[prəˋmoʃən]",
+    "pos": "n.",
+    "meaning": "升遷;晉升",
+    "examples": [
+      { "en": "He earned a promotion after two years.", "zh": "他兩年後獲得升遷。" },
+      { "en": "A promotion often means more responsibility.", "zh": "升遷通常代表更多責任。" }
+    ],
+    "img": "employee climbing career stairs",
+    "theme": "面試求職",
+    "level": 2
+  },
+  {
+    "word": "career",
+    "kk": "[kəˋrɪr]",
+    "pos": "n.",
+    "meaning": "職涯;事業",
+    "examples": [
+      { "en": "She built a successful career in finance.", "zh": "她在金融業建立了成功的職涯。" },
+      { "en": "This job is a great start to your career.", "zh": "這份工作是你職涯的絕佳起點。" }
+    ],
+    "img": "path rising over years graphic",
+    "theme": "面試求職",
+    "level": 2
+  },
+  {
+    "word": "profession",
+    "kk": "[prəˋfɛʃən]",
+    "pos": "n.",
+    "meaning": "專業;行業",
+    "examples": [
+      { "en": "Teaching is a rewarding profession.", "zh": "教學是一份有意義的專業。" },
+      { "en": "She is proud of her profession.", "zh": "她對自己的行業感到驕傲。" }
+    ],
+    "img": "professionals in different uniforms",
+    "theme": "面試求職",
+    "level": 3
+  },
+  {
+    "word": "internship",
+    "kk": "[ˋɪntɚn͵ʃɪp]",
+    "pos": "n.",
+    "meaning": "實習",
+    "examples": [
+      { "en": "The internship gave her real work experience.", "zh": "這份實習給了她真實的工作經驗。" },
+      { "en": "He did a summer internship at a bank.", "zh": "他在一家銀行做了暑期實習。" }
+    ],
+    "img": "intern learning at office desk",
+    "theme": "面試求職",
+    "level": 2
+  },
+  {
+    "word": "probation",
+    "kk": "[proˋbeʃən]",
+    "pos": "n.",
+    "meaning": "試用期",
+    "examples": [
+      { "en": "New hires go through a three-month probation.", "zh": "新進員工要經過三個月的試用期。" },
+      { "en": "She passed her probation with strong reviews.", "zh": "她以優異評價通過了試用期。" }
+    ],
+    "img": "calendar marking trial period",
+    "theme": "面試求職",
+    "level": 3
+  },
+  {
+    "word": "contract",
+    "kk": "[ˋkɑntrækt]",
+    "pos": "n.",
+    "meaning": "合約;契約",
+    "examples": [
+      { "en": "Read the contract carefully before signing.", "zh": "簽約前要仔細閱讀合約。" },
+      { "en": "Her contract runs for one year.", "zh": "她的合約為期一年。" }
+    ],
+    "img": "signing employment contract with pen",
+    "theme": "面試求職",
+    "level": 2
+  },
+  {
+    "word": "negotiate",
+    "kk": "[nɪˋgoʃɪ͵et]",
+    "pos": "v.",
+    "meaning": "協商;談判",
+    "examples": [
+      { "en": "You can negotiate your salary before accepting.", "zh": "接受前你可以協商薪資。" },
+      { "en": "They negotiated the start date politely.", "zh": "他們客氣地協商了報到日期。" }
+    ],
+    "img": "two people discussing terms at table",
+    "theme": "面試求職",
+    "level": 3
+  },
+  {
+    "word": "networking",
+    "kk": "[ˋnɛt͵wɝkɪŋ]",
+    "pos": "n.",
+    "meaning": "人脈經營;建立關係",
+    "examples": [
+      { "en": "Networking helped him find hidden job openings.", "zh": "人脈經營幫他找到未公開的職缺。" },
+      { "en": "She attends events for networking.", "zh": "她參加活動來拓展人脈。" }
+    ],
+    "img": "people exchanging business cards",
+    "theme": "面試求職",
+    "level": 3
+  },
+  {
+    "word": "portfolio",
+    "kk": "[portˋfolɪ͵o]",
+    "pos": "n.",
+    "meaning": "作品集",
+    "examples": [
+      { "en": "Designers should bring a portfolio to interviews.", "zh": "設計師面試應攜帶作品集。" },
+      { "en": "Her online portfolio impressed the manager.", "zh": "她的線上作品集讓經理印象深刻。" }
+    ],
+    "img": "folder of design work samples",
+    "theme": "面試求職",
+    "level": 3
+  },
+  {
+    "word": "deadline",
+    "kk": "[ˋdɛd͵laɪn]",
+    "pos": "n.",
+    "meaning": "截止期限",
+    "examples": [
+      { "en": "The application deadline is next Friday.", "zh": "應徵截止日期是下週五。" },
+      { "en": "Submit your resume before the deadline.", "zh": "請在截止期限前繳交履歷。" }
+    ],
+    "img": "calendar with red circled date",
+    "theme": "面試求職",
+    "level": 2
+  },
+  {
+    "word": "colleague",
+    "kk": "[ˋkɑlig]",
+    "pos": "n.",
+    "meaning": "同事",
+    "examples": [
+      { "en": "My colleagues are friendly and helpful.", "zh": "我的同事既友善又樂於助人。" },
+      { "en": "She trained a new colleague last week.", "zh": "她上週訓練了一位新同事。" }
+    ],
+    "img": "coworkers collaborating in office",
+    "theme": "面試求職",
+    "level": 2
+  },
+  {
+    "word": "supervisor",
+    "kk": "[ˋsupɚ͵vaɪzɚ]",
+    "pos": "n.",
+    "meaning": "主管;上司",
+    "examples": [
+      { "en": "Report any problems to your supervisor.", "zh": "有任何問題要向你的主管回報。" },
+      { "en": "Her supervisor praised her hard work.", "zh": "她的主管稱讚她的努力。" }
+    ],
+    "img": "manager guiding a team member",
+    "theme": "面試求職",
+    "level": 2
+  },
+  {
+    "word": "department",
+    "kk": "[dɪˋpɑrtmənt]",
+    "pos": "n.",
+    "meaning": "部門",
+    "examples": [
+      { "en": "She works in the human resources department.", "zh": "她在人力資源部門工作。" },
+      { "en": "Each department has its own manager.", "zh": "每個部門都有自己的經理。" }
+    ],
+    "img": "office floor divided into sections",
+    "theme": "面試求職",
+    "level": 2
+  },
+  {
+    "word": "overtime",
+    "kk": "[ˋovɚ͵taɪm]",
+    "pos": "n.",
+    "meaning": "加班",
+    "examples": [
+      { "en": "He worked overtime to meet the deadline.", "zh": "他為了趕上截止日而加班。" },
+      { "en": "Overtime is paid at a higher rate.", "zh": "加班以較高費率計酬。" }
+    ],
+    "img": "worker at desk late at night",
+    "theme": "面試求職",
+    "level": 2
+  },
+  {
+    "word": "resign",
+    "kk": "[rɪˋzaɪn]",
+    "pos": "v.",
+    "meaning": "辭職",
+    "examples": [
+      { "en": "She decided to resign after five years.", "zh": "她決定在五年後辭職。" },
+      { "en": "He resigned to start his own business.", "zh": "他辭職去創業。" }
+    ],
+    "img": "resignation letter on desk",
+    "theme": "面試求職",
+    "level": 3
+  },
+  {
+    "word": "reputation",
+    "kk": "[͵rɛpjəˋteʃən]",
+    "pos": "n.",
+    "meaning": "名聲;信譽",
+    "examples": [
+      { "en": "The company has a strong reputation for training.", "zh": "這家公司在培訓方面聲譽卓著。" },
+      { "en": "A good reputation attracts top talent.", "zh": "良好的信譽能吸引頂尖人才。" }
+    ],
+    "img": "five star rating over a building",
+    "theme": "面試求職",
+    "level": 3
+  },
+  {
+    "word": "achievement",
+    "kk": "[əˋtʃivmənt]",
+    "pos": "n.",
+    "meaning": "成就;成績",
+    "examples": [
+      { "en": "Highlight your achievements on the resume.", "zh": "在履歷上凸顯你的成就。" },
+      { "en": "Winning that award was a huge achievement.", "zh": "贏得那個獎項是一大成就。" }
+    ],
+    "img": "trophy and award ribbon",
+    "theme": "面試求職",
+    "level": 2
+  },
+  {
+    "word": "strength",
+    "kk": "[strɛŋθ]",
+    "pos": "n.",
+    "meaning": "優點;強項",
+    "examples": [
+      { "en": "The interviewer asked about my strengths.", "zh": "面試官問了我的優點。" },
+      { "en": "Teamwork is one of her greatest strengths.", "zh": "團隊合作是她最大的強項之一。" }
+    ],
+    "img": "flexing arm strong icon",
+    "theme": "面試求職",
+    "level": 2
+  },
+  {
+    "word": "weakness",
+    "kk": "[ˋwiknɪs]",
+    "pos": "n.",
+    "meaning": "缺點;弱項",
+    "examples": [
+      { "en": "Talk about a weakness you are improving.", "zh": "談一個你正在改進的缺點。" },
+      { "en": "Being too detailed is his main weakness.", "zh": "過於注重細節是他主要的缺點。" }
+    ],
+    "img": "cracked link in a chain",
+    "theme": "面試求職",
+    "level": 2
+  },
+  {
+    "word": "confident",
+    "kk": "[ˋkɑnfədənt]",
+    "pos": "adj.",
+    "meaning": "有自信的",
+    "examples": [
+      { "en": "Stay confident during the whole interview.", "zh": "整場面試都要保持自信。" },
+      { "en": "She sounded confident when answering questions.", "zh": "她回答問題時聽起來很有自信。" }
+    ],
+    "img": "person standing tall smiling",
+    "theme": "面試求職",
+    "level": 2
+  },
+  {
+    "word": "professional",
+    "kk": "[prəˋfɛʃənl]",
+    "pos": "adj.",
+    "meaning": "專業的;職業的",
+    "examples": [
+      { "en": "Wear professional clothes to the interview.", "zh": "面試要穿專業的服裝。" },
+      { "en": "He gave a very professional presentation.", "zh": "他做了一場非常專業的簡報。" }
+    ],
+    "img": "person in business suit",
+    "theme": "面試求職",
+    "level": 2
+  },
+  {
+    "word": "responsibility",
+    "kk": "[rɪ͵spɑnsəˋbɪlətɪ]",
+    "pos": "n.",
+    "meaning": "責任;職責",
+    "examples": [
+      { "en": "Managing the budget is my main responsibility.", "zh": "管理預算是我主要的職責。" },
+      { "en": "The role comes with a lot of responsibility.", "zh": "這個職務伴隨許多責任。" }
+    ],
+    "img": "hands holding a heavy box",
+    "theme": "面試求職",
+    "level": 3
+  },
+  {
+    "word": "opportunity",
+    "kk": "[͵ɑpɚˋtjunətɪ]",
+    "pos": "n.",
+    "meaning": "機會",
+    "examples": [
+      { "en": "This job is a great opportunity to grow.", "zh": "這份工作是成長的絕佳機會。" },
+      { "en": "Don't miss the opportunity to learn new skills.", "zh": "別錯過學習新技能的機會。" }
+    ],
+    "img": "open door with bright light",
+    "theme": "面試求職",
+    "level": 2
+  },
+  {
+    "word": "apply",
+    "kk": "[əˋplaɪ]",
+    "pos": "v.",
+    "meaning": "應徵;申請",
+    "examples": [
+      { "en": "I plan to apply for that marketing job.", "zh": "我打算應徵那份行銷工作。" },
+      { "en": "You can apply online in a few minutes.", "zh": "你幾分鐘就能在線上完成應徵。" }
+    ],
+    "img": "clicking apply button on laptop",
+    "theme": "面試求職",
+    "level": 2
+  },
+  {
+    "word": "shortlist",
+    "kk": "[ˋʃɔrt͵lɪst]",
+    "pos": "v.",
+    "meaning": "列入候選名單",
+    "examples": [
+      { "en": "Only five applicants were shortlisted.", "zh": "只有五位應徵者被列入候選名單。" },
+      { "en": "Being shortlisted is already a good sign.", "zh": "被列入候選名單已是好兆頭。" }
+    ],
+    "img": "highlighted names on a list",
+    "theme": "面試求職",
+    "level": 3
+  },
+  {
+    "word": "relocate",
+    "kk": "[riˋloket]",
+    "pos": "v.",
+    "meaning": "搬遷(至他地工作)",
+    "examples": [
+      { "en": "The offer requires you to relocate to Taipei.", "zh": "這份工作邀約要求你搬遷到台北。" },
+      { "en": "She is willing to relocate for the right job.", "zh": "為了合適的工作她願意搬遷。" }
+    ],
+    "img": "moving boxes with map pin",
+    "theme": "面試求職",
+    "level": 3
+  },
+  {
+    "word": "onboarding",
+    "kk": "[ˋɑn͵bɔrdɪŋ]",
+    "pos": "n.",
+    "meaning": "新人到職培訓",
+    "examples": [
+      { "en": "Onboarding takes about one week here.", "zh": "這裡的新人培訓大約需要一週。" },
+      { "en": "Good onboarding helps new hires settle in.", "zh": "良好的到職培訓能幫新人快速適應。" }
+    ],
+    "img": "new employee welcome checklist",
+    "theme": "面試求職",
+    "level": 3
+  }
+]

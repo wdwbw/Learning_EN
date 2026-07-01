@@ -1,0 +1,639 @@
+[
+  {
+    "word": "mountain",
+    "kk": "[ˈmaʊntn̩]",
+    "pos": "n.",
+    "meaning": "山；高山",
+    "examples": [
+      { "en": "We climbed the mountain all morning.", "zh": "我們整個早上都在爬山。" },
+      { "en": "The mountain is covered with snow.", "zh": "那座山被雪覆蓋著。" }
+    ],
+    "img": "tall rocky mountain peak with snow",
+    "theme": "自然環境",
+    "level": 1
+  },
+  {
+    "word": "river",
+    "kk": "[ˈrɪvɚ]",
+    "pos": "n.",
+    "meaning": "河；河流",
+    "examples": [
+      { "en": "The river flows into the sea.", "zh": "這條河流入大海。" },
+      { "en": "Kids are swimming in the river.", "zh": "孩子們正在河裡游泳。" }
+    ],
+    "img": "wide flowing river through green valley",
+    "theme": "自然環境",
+    "level": 1
+  },
+  {
+    "word": "forest",
+    "kk": "[ˈfɔrɪst]",
+    "pos": "n.",
+    "meaning": "森林",
+    "examples": [
+      { "en": "The forest is full of tall trees.", "zh": "這座森林滿是高大的樹木。" },
+      { "en": "We got lost in the dark forest.", "zh": "我們在黑暗的森林裡迷路了。" }
+    ],
+    "img": "dense green forest with tall trees",
+    "theme": "自然環境",
+    "level": 1
+  },
+  {
+    "word": "lake",
+    "kk": "[lek]",
+    "pos": "n.",
+    "meaning": "湖；湖泊",
+    "examples": [
+      { "en": "The lake is calm and clear today.", "zh": "今天湖面平靜又清澈。" },
+      { "en": "They went fishing by the lake.", "zh": "他們去湖邊釣魚。" }
+    ],
+    "img": "calm blue lake surrounded by hills",
+    "theme": "自然環境",
+    "level": 1
+  },
+  {
+    "word": "hill",
+    "kk": "[hɪl]",
+    "pos": "n.",
+    "meaning": "小山；山丘",
+    "examples": [
+      { "en": "There is a small house on the hill.", "zh": "山丘上有一間小房子。" },
+      { "en": "We ran down the grassy hill.", "zh": "我們沿著青草山丘往下跑。" }
+    ],
+    "img": "small green grassy hill under blue sky",
+    "theme": "自然環境",
+    "level": 1
+  },
+  {
+    "word": "tree",
+    "kk": "[tri]",
+    "pos": "n.",
+    "meaning": "樹；樹木",
+    "examples": [
+      { "en": "A bird is sitting in the tree.", "zh": "一隻鳥停在樹上。" },
+      { "en": "We planted a tree in the yard.", "zh": "我們在院子裡種了一棵樹。" }
+    ],
+    "img": "single large green tree in open field",
+    "theme": "自然環境",
+    "level": 1
+  },
+  {
+    "word": "grass",
+    "kk": "[ɡræs]",
+    "pos": "n.",
+    "meaning": "草；草地",
+    "examples": [
+      { "en": "The kids are playing on the grass.", "zh": "孩子們正在草地上玩耍。" },
+      { "en": "The grass turns green in spring.", "zh": "草在春天變綠。" }
+    ],
+    "img": "fresh green grass field close up",
+    "theme": "自然環境",
+    "level": 1
+  },
+  {
+    "word": "flower",
+    "kk": "[ˈflaʊɚ]",
+    "pos": "n.",
+    "meaning": "花；花朵",
+    "examples": [
+      { "en": "She picked a yellow flower.", "zh": "她摘了一朵黃色的花。" },
+      { "en": "These flowers smell very sweet.", "zh": "這些花聞起來很香。" }
+    ],
+    "img": "colorful blooming flowers in garden",
+    "theme": "自然環境",
+    "level": 1
+  },
+  {
+    "word": "leaf",
+    "kk": "[lif]",
+    "pos": "n.",
+    "meaning": "葉子；樹葉",
+    "examples": [
+      { "en": "A green leaf fell on the ground.", "zh": "一片綠葉落在地上。" },
+      { "en": "The leaf is wet from the rain.", "zh": "葉子被雨淋濕了。" }
+    ],
+    "img": "single green leaf with water drops",
+    "theme": "自然環境",
+    "level": 1
+  },
+  {
+    "word": "sea",
+    "kk": "[si]",
+    "pos": "n.",
+    "meaning": "海；海洋",
+    "examples": [
+      { "en": "We walked along the sea at sunset.", "zh": "我們在日落時沿著海邊散步。" },
+      { "en": "The sea is deep and blue.", "zh": "大海又深又藍。" }
+    ],
+    "img": "wide blue sea meeting the horizon",
+    "theme": "自然環境",
+    "level": 1
+  },
+  {
+    "word": "beach",
+    "kk": "[bitʃ]",
+    "pos": "n.",
+    "meaning": "海灘；沙灘",
+    "examples": [
+      { "en": "We built a sandcastle on the beach.", "zh": "我們在沙灘上堆沙堡。" },
+      { "en": "The beach is crowded in summer.", "zh": "夏天海灘上人很多。" }
+    ],
+    "img": "sandy beach with gentle ocean waves",
+    "theme": "自然環境",
+    "level": 1
+  },
+  {
+    "word": "sand",
+    "kk": "[sænd]",
+    "pos": "n.",
+    "meaning": "沙；沙子",
+    "examples": [
+      { "en": "The sand feels warm under my feet.", "zh": "沙子在我腳下暖暖的。" },
+      { "en": "Don't get sand in your shoes.", "zh": "別讓沙子跑進鞋子裡。" }
+    ],
+    "img": "close up of golden beach sand",
+    "theme": "自然環境",
+    "level": 1
+  },
+  {
+    "word": "rock",
+    "kk": "[rɑk]",
+    "pos": "n.",
+    "meaning": "岩石；石頭",
+    "examples": [
+      { "en": "A big rock blocked the path.", "zh": "一塊大石頭擋住了路。" },
+      { "en": "He sat on a flat rock to rest.", "zh": "他坐在一塊平坦的石頭上休息。" }
+    ],
+    "img": "large gray rock on mountain trail",
+    "theme": "自然環境",
+    "level": 1
+  },
+  {
+    "word": "island",
+    "kk": "[ˈaɪlənd]",
+    "pos": "n.",
+    "meaning": "島；島嶼",
+    "examples": [
+      { "en": "The island is far from the coast.", "zh": "那座島離海岸很遠。" },
+      { "en": "We took a boat to the island.", "zh": "我們搭船去那座島。" }
+    ],
+    "img": "small green island in blue ocean",
+    "theme": "自然環境",
+    "level": 1
+  },
+  {
+    "word": "plant",
+    "kk": "[plænt]",
+    "pos": "n.",
+    "meaning": "植物；花草",
+    "examples": [
+      { "en": "This plant needs more sunlight.", "zh": "這株植物需要更多陽光。" },
+      { "en": "I water my plants every day.", "zh": "我每天幫植物澆水。" }
+    ],
+    "img": "small green potted plant on windowsill",
+    "theme": "自然環境",
+    "level": 1
+  },
+  {
+    "word": "valley",
+    "kk": "[ˈvælɪ]",
+    "pos": "n.",
+    "meaning": "山谷；溪谷",
+    "examples": [
+      { "en": "A river runs through the valley.", "zh": "一條河流穿過山谷。" },
+      { "en": "The valley looks green in spring.", "zh": "山谷在春天看起來一片翠綠。" }
+    ],
+    "img": "green valley between two mountains",
+    "theme": "自然環境",
+    "level": 2
+  },
+  {
+    "word": "desert",
+    "kk": "[ˈdɛzɚt]",
+    "pos": "n.",
+    "meaning": "沙漠",
+    "examples": [
+      { "en": "The desert is hot and dry.", "zh": "沙漠又熱又乾。" },
+      { "en": "Few plants grow in the desert.", "zh": "沙漠裡很少有植物生長。" }
+    ],
+    "img": "vast sandy desert with dunes",
+    "theme": "自然環境",
+    "level": 2
+  },
+  {
+    "word": "waterfall",
+    "kk": "[ˈwɔtɚˌfɔl]",
+    "pos": "n.",
+    "meaning": "瀑布",
+    "examples": [
+      { "en": "The waterfall makes a loud sound.", "zh": "瀑布發出很大的聲音。" },
+      { "en": "We took photos near the waterfall.", "zh": "我們在瀑布旁拍照。" }
+    ],
+    "img": "tall waterfall falling into pool",
+    "theme": "自然環境",
+    "level": 2
+  },
+  {
+    "word": "coast",
+    "kk": "[kost]",
+    "pos": "n.",
+    "meaning": "海岸；沿岸",
+    "examples": [
+      { "en": "They live near the east coast.", "zh": "他們住在東海岸附近。" },
+      { "en": "We drove along the coast.", "zh": "我們沿著海岸開車。" }
+    ],
+    "img": "rocky coastline with ocean waves",
+    "theme": "自然環境",
+    "level": 2
+  },
+  {
+    "word": "cave",
+    "kk": "[kev]",
+    "pos": "n.",
+    "meaning": "洞穴；山洞",
+    "examples": [
+      { "en": "The cave is dark and cold inside.", "zh": "洞穴裡又暗又冷。" },
+      { "en": "Bats live deep in the cave.", "zh": "蝙蝠住在洞穴深處。" }
+    ],
+    "img": "dark rocky cave entrance",
+    "theme": "自然環境",
+    "level": 2
+  },
+  {
+    "word": "cliff",
+    "kk": "[klɪf]",
+    "pos": "n.",
+    "meaning": "懸崖；峭壁",
+    "examples": [
+      { "en": "The house stands on a steep cliff.", "zh": "那間房子矗立在陡峭的懸崖上。" },
+      { "en": "Don't stand too close to the cliff.", "zh": "別站得離懸崖太近。" }
+    ],
+    "img": "steep ocean cliff with crashing waves",
+    "theme": "自然環境",
+    "level": 2
+  },
+  {
+    "word": "pond",
+    "kk": "[pɑnd]",
+    "pos": "n.",
+    "meaning": "池塘",
+    "examples": [
+      { "en": "Ducks are swimming in the pond.", "zh": "鴨子在池塘裡游泳。" },
+      { "en": "The pond froze over in winter.", "zh": "池塘在冬天結冰了。" }
+    ],
+    "img": "small pond with lily pads and ducks",
+    "theme": "自然環境",
+    "level": 2
+  },
+  {
+    "word": "root",
+    "kk": "[rut]",
+    "pos": "n.",
+    "meaning": "根；根部",
+    "examples": [
+      { "en": "The tree's roots are very deep.", "zh": "這棵樹的根很深。" },
+      { "en": "Roots help the plant get water.", "zh": "根幫助植物吸收水分。" }
+    ],
+    "img": "tree roots spreading into brown soil",
+    "theme": "自然環境",
+    "level": 2
+  },
+  {
+    "word": "branch",
+    "kk": "[bræntʃ]",
+    "pos": "n.",
+    "meaning": "樹枝；枝條",
+    "examples": [
+      { "en": "A bird built a nest on the branch.", "zh": "一隻鳥在樹枝上築巢。" },
+      { "en": "The branch broke in the storm.", "zh": "樹枝在暴風雨中折斷了。" }
+    ],
+    "img": "tree branch with green leaves",
+    "theme": "自然環境",
+    "level": 2
+  },
+  {
+    "word": "seed",
+    "kk": "[sid]",
+    "pos": "n.",
+    "meaning": "種子",
+    "examples": [
+      { "en": "We put the seeds in the soil.", "zh": "我們把種子放進土裡。" },
+      { "en": "A small seed can grow into a tree.", "zh": "一顆小種子可以長成大樹。" }
+    ],
+    "img": "hand holding small brown seeds",
+    "theme": "自然環境",
+    "level": 2
+  },
+  {
+    "word": "soil",
+    "kk": "[sɔɪl]",
+    "pos": "n.",
+    "meaning": "土壤；泥土",
+    "examples": [
+      { "en": "This soil is good for growing rice.", "zh": "這種土壤很適合種稻米。" },
+      { "en": "The soil feels soft and wet.", "zh": "土壤摸起來又軟又濕。" }
+    ],
+    "img": "rich dark brown soil in garden",
+    "theme": "自然環境",
+    "level": 2
+  },
+  {
+    "word": "wave",
+    "kk": "[wev]",
+    "pos": "n.",
+    "meaning": "波浪；海浪",
+    "examples": [
+      { "en": "Big waves hit the rocks hard.", "zh": "大浪重重拍打岩石。" },
+      { "en": "The kids jumped over the waves.", "zh": "孩子們跳過一道道海浪。" }
+    ],
+    "img": "large ocean wave curling and breaking",
+    "theme": "自然環境",
+    "level": 2
+  },
+  {
+    "word": "shore",
+    "kk": "[ʃor]",
+    "pos": "n.",
+    "meaning": "岸；岸邊",
+    "examples": [
+      { "en": "The boat reached the shore safely.", "zh": "船安全地抵達岸邊。" },
+      { "en": "Shells lay all along the shore.", "zh": "貝殼散落在整個岸邊。" }
+    ],
+    "img": "sandy shore where waves meet land",
+    "theme": "自然環境",
+    "level": 2
+  },
+  {
+    "word": "coral",
+    "kk": "[ˈkɔrəl]",
+    "pos": "n.",
+    "meaning": "珊瑚",
+    "examples": [
+      { "en": "The coral comes in many colors.", "zh": "珊瑚有許多顏色。" },
+      { "en": "Many fish live around the coral.", "zh": "許多魚住在珊瑚周圍。" }
+    ],
+    "img": "colorful coral reef underwater",
+    "theme": "自然環境",
+    "level": 2
+  },
+  {
+    "word": "wildlife",
+    "kk": "[ˈwaɪldˌlaɪf]",
+    "pos": "n.",
+    "meaning": "野生動物；野生生物",
+    "examples": [
+      { "en": "The park protects local wildlife.", "zh": "這座公園保護當地的野生動物。" },
+      { "en": "We saw lots of wildlife on the trip.", "zh": "旅途中我們看到許多野生動物。" }
+    ],
+    "img": "wild deer and birds in green forest",
+    "theme": "自然環境",
+    "level": 2
+  },
+  {
+    "word": "recycle",
+    "kk": "[riˈsaɪkl̩]",
+    "pos": "v.",
+    "meaning": "回收；再利用",
+    "examples": [
+      { "en": "We recycle paper and plastic at home.", "zh": "我們在家回收紙張和塑膠。" },
+      { "en": "Please recycle these bottles.", "zh": "請把這些瓶子拿去回收。" }
+    ],
+    "img": "hands sorting bottles into recycling bin",
+    "theme": "自然環境",
+    "level": 2
+  },
+  {
+    "word": "plastic",
+    "kk": "[ˈplæstɪk]",
+    "pos": "n.",
+    "meaning": "塑膠；塑料",
+    "examples": [
+      { "en": "We should use less plastic.", "zh": "我們應該少用塑膠。" },
+      { "en": "This bag is made of plastic.", "zh": "這個袋子是塑膠做的。" }
+    ],
+    "img": "pile of used plastic bottles",
+    "theme": "自然環境",
+    "level": 2
+  },
+  {
+    "word": "trash",
+    "kk": "[træʃ]",
+    "pos": "n.",
+    "meaning": "垃圾；廢物",
+    "examples": [
+      { "en": "Please throw the trash in the bin.", "zh": "請把垃圾丟進垃圾桶。" },
+      { "en": "The beach was full of trash.", "zh": "海灘上滿是垃圾。" }
+    ],
+    "img": "overflowing trash bin with garbage",
+    "theme": "自然環境",
+    "level": 2
+  },
+  {
+    "word": "pollution",
+    "kk": "[pəˈluʃən]",
+    "pos": "n.",
+    "meaning": "污染",
+    "examples": [
+      { "en": "Air pollution is bad for our health.", "zh": "空氣污染對我們的健康有害。" },
+      { "en": "Cars cause a lot of pollution.", "zh": "汽車造成大量污染。" }
+    ],
+    "img": "factory smoke polluting gray sky",
+    "theme": "自然環境",
+    "level": 2
+  },
+  {
+    "word": "energy",
+    "kk": "[ˈɛnɚdʒɪ]",
+    "pos": "n.",
+    "meaning": "能源；能量",
+    "examples": [
+      { "en": "Solar energy is clean and free.", "zh": "太陽能既乾淨又免費。" },
+      { "en": "We must save energy at home.", "zh": "我們必須在家節約能源。" }
+    ],
+    "img": "solar panels and wind turbines in field",
+    "theme": "自然環境",
+    "level": 2
+  },
+  {
+    "word": "protect",
+    "kk": "[prəˈtɛkt]",
+    "pos": "v.",
+    "meaning": "保護；保衛",
+    "examples": [
+      { "en": "We should protect the ocean.", "zh": "我們應該保護海洋。" },
+      { "en": "Trees protect the soil from rain.", "zh": "樹木保護土壤免受雨水沖刷。" }
+    ],
+    "img": "hands holding green earth carefully",
+    "theme": "自然環境",
+    "level": 2
+  },
+  {
+    "word": "environment",
+    "kk": "[ɪnˈvaɪrənmənt]",
+    "pos": "n.",
+    "meaning": "環境；生態環境",
+    "examples": [
+      { "en": "We must care for the environment.", "zh": "我們必須愛護環境。" },
+      { "en": "Pollution harms the environment.", "zh": "污染危害環境。" }
+    ],
+    "img": "clean green nature landscape with river",
+    "theme": "自然環境",
+    "level": 3
+  },
+  {
+    "word": "peninsula",
+    "kk": "[pəˈnɪnsələ]",
+    "pos": "n.",
+    "meaning": "半島",
+    "examples": [
+      { "en": "The town sits on a narrow peninsula.", "zh": "這座小鎮位於一個狹長的半島上。" },
+      { "en": "Water surrounds the peninsula on three sides.", "zh": "海水從三面環繞著這座半島。" }
+    ],
+    "img": "narrow peninsula surrounded by blue sea",
+    "theme": "自然環境",
+    "level": 3
+  },
+  {
+    "word": "glacier",
+    "kk": "[ˈɡleʃɚ]",
+    "pos": "n.",
+    "meaning": "冰河；冰川",
+    "examples": [
+      { "en": "The glacier moves very slowly.", "zh": "冰河移動得非常緩慢。" },
+      { "en": "Many glaciers are melting fast.", "zh": "許多冰河正快速融化。" }
+    ],
+    "img": "huge blue glacier in cold mountains",
+    "theme": "自然環境",
+    "level": 3
+  },
+  {
+    "word": "wetland",
+    "kk": "[ˈwɛtˌlænd]",
+    "pos": "n.",
+    "meaning": "濕地",
+    "examples": [
+      { "en": "Many birds rest in the wetland.", "zh": "許多鳥類在濕地休息。" },
+      { "en": "The wetland is home to rare frogs.", "zh": "這片濕地是稀有青蛙的家。" }
+    ],
+    "img": "marshy wetland with reeds and birds",
+    "theme": "自然環境",
+    "level": 3
+  },
+  {
+    "word": "ecosystem",
+    "kk": "[ˈikoˌsɪstəm]",
+    "pos": "n.",
+    "meaning": "生態系統",
+    "examples": [
+      { "en": "A healthy ecosystem needs many species.", "zh": "健康的生態系統需要許多物種。" },
+      { "en": "Pollution can destroy an ecosystem.", "zh": "污染可能摧毀一個生態系統。" }
+    ],
+    "img": "balanced forest ecosystem with animals and plants",
+    "theme": "自然環境",
+    "level": 3
+  },
+  {
+    "word": "habitat",
+    "kk": "[ˈhæbəˌtæt]",
+    "pos": "n.",
+    "meaning": "棲息地；生長環境",
+    "examples": [
+      { "en": "The forest is a habitat for many animals.", "zh": "森林是許多動物的棲息地。" },
+      { "en": "We must not destroy their habitat.", "zh": "我們絕不能破壞牠們的棲息地。" }
+    ],
+    "img": "natural animal habitat in green jungle",
+    "theme": "自然環境",
+    "level": 3
+  },
+  {
+    "word": "vegetation",
+    "kk": "[ˌvɛdʒəˈteʃən]",
+    "pos": "n.",
+    "meaning": "植被；草木",
+    "examples": [
+      { "en": "Thick vegetation covers the hillside.", "zh": "茂密的植被覆蓋著山坡。" },
+      { "en": "Little vegetation grows in the desert.", "zh": "沙漠裡很少有植被生長。" }
+    ],
+    "img": "lush green vegetation on hillside",
+    "theme": "自然環境",
+    "level": 3
+  },
+  {
+    "word": "renewable",
+    "kk": "[rɪˈnuəbl̩]",
+    "pos": "adj.",
+    "meaning": "可再生的；可更新的",
+    "examples": [
+      { "en": "Wind is a renewable source of power.", "zh": "風力是一種可再生的能源。" },
+      { "en": "We need more renewable energy.", "zh": "我們需要更多可再生能源。" }
+    ],
+    "img": "wind turbines and solar panels for renewable energy",
+    "theme": "自然環境",
+    "level": 3
+  },
+  {
+    "word": "sustainable",
+    "kk": "[səˈstenəbl̩]",
+    "pos": "adj.",
+    "meaning": "永續的；可持續的",
+    "examples": [
+      { "en": "We should choose sustainable products.", "zh": "我們應該選擇永續的產品。" },
+      { "en": "Sustainable farming protects the land.", "zh": "永續農業保護土地。" }
+    ],
+    "img": "green sustainable farm with solar panels",
+    "theme": "自然環境",
+    "level": 3
+  },
+  {
+    "word": "compost",
+    "kk": "[ˈkɑmpost]",
+    "pos": "n.",
+    "meaning": "堆肥",
+    "examples": [
+      { "en": "We turn food waste into compost.", "zh": "我們把廚餘變成堆肥。" },
+      { "en": "Compost helps plants grow better.", "zh": "堆肥幫助植物長得更好。" }
+    ],
+    "img": "compost bin with food scraps and soil",
+    "theme": "自然環境",
+    "level": 3
+  },
+  {
+    "word": "landfill",
+    "kk": "[ˈlændˌfɪl]",
+    "pos": "n.",
+    "meaning": "垃圾掩埋場",
+    "examples": [
+      { "en": "Too much trash goes to the landfill.", "zh": "太多垃圾被送進掩埋場。" },
+      { "en": "Recycling keeps waste out of landfills.", "zh": "回收讓廢棄物不進掩埋場。" }
+    ],
+    "img": "large landfill site with piles of waste",
+    "theme": "自然環境",
+    "level": 3
+  },
+  {
+    "word": "conserve",
+    "kk": "[kənˈsɝv]",
+    "pos": "v.",
+    "meaning": "節約；保育",
+    "examples": [
+      { "en": "We should conserve water in summer.", "zh": "夏天我們應該節約用水。" },
+      { "en": "Parks help conserve wild animals.", "zh": "公園有助於保育野生動物。" }
+    ],
+    "img": "person turning off tap to conserve water",
+    "theme": "自然環境",
+    "level": 3
+  },
+  {
+    "word": "biodiversity",
+    "kk": "[ˌbaɪodaɪˈvɝsətɪ]",
+    "pos": "n.",
+    "meaning": "生物多樣性",
+    "examples": [
+      { "en": "Rainforests have rich biodiversity.", "zh": "雨林擁有豐富的生物多樣性。" },
+      { "en": "Biodiversity keeps nature in balance.", "zh": "生物多樣性維持大自然的平衡。" }
+    ],
+    "img": "diverse plants and animals in tropical rainforest",
+    "theme": "自然環境",
+    "level": 3
+  }
+]

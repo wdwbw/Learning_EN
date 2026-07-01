@@ -1,0 +1,665 @@
+[
+  {
+    "word": "pick up",
+    "kk": "[pɪk ʌp]",
+    "pos": "phr.",
+    "meaning": "拿起;接(人);學會",
+    "examples": [
+      { "en": "Can you pick me up at the station later?", "zh": "你等一下可以來車站接我嗎?" },
+      { "en": "She picked up some Spanish while traveling.", "zh": "她旅行時學會了一些西班牙語。" }
+    ],
+    "img": "hand picking up keys",
+    "theme": "動詞片語",
+    "level": 1
+  },
+  {
+    "word": "show up",
+    "kk": "[ʃo ʌp]",
+    "pos": "phr.",
+    "meaning": "出現;到場",
+    "examples": [
+      { "en": "He didn't show up to the meeting.", "zh": "他沒有出現在會議上。" },
+      { "en": "A lot of people showed up for the party.", "zh": "很多人來參加派對。" }
+    ],
+    "img": "person arriving at door",
+    "theme": "動詞片語",
+    "level": 1
+  },
+  {
+    "word": "work out",
+    "kk": "[wɝk aʊt]",
+    "pos": "phr.",
+    "meaning": "健身;解決;順利進行",
+    "examples": [
+      { "en": "I work out at the gym three times a week.", "zh": "我一週去健身房運動三次。" },
+      { "en": "Don't worry, everything will work out.", "zh": "別擔心,一切都會順利的。" }
+    ],
+    "img": "person lifting dumbbells",
+    "theme": "動詞片語",
+    "level": 2
+  },
+  {
+    "word": "deal with",
+    "kk": "[dil wɪð]",
+    "pos": "phr.",
+    "meaning": "處理;應付",
+    "examples": [
+      { "en": "I have to deal with this problem today.", "zh": "我今天必須處理這個問題。" },
+      { "en": "She's good at dealing with angry customers.", "zh": "她很擅長應付生氣的客人。" }
+    ],
+    "img": "person handling paperwork",
+    "theme": "動詞片語",
+    "level": 2
+  },
+  {
+    "word": "come up with",
+    "kk": "[kʌm ʌp wɪð]",
+    "pos": "phr.",
+    "meaning": "想出;提出(點子)",
+    "examples": [
+      { "en": "Can you come up with a better idea?", "zh": "你能想出更好的點子嗎?" },
+      { "en": "We came up with a plan overnight.", "zh": "我們一夜之間想出了一個計畫。" }
+    ],
+    "img": "lightbulb over head",
+    "theme": "動詞片語",
+    "level": 3
+  },
+  {
+    "word": "give up",
+    "kk": "[ɡɪv ʌp]",
+    "pos": "phr.",
+    "meaning": "放棄",
+    "examples": [
+      { "en": "Never give up on your dreams.", "zh": "永遠不要放棄你的夢想。" },
+      { "en": "I gave up trying to fix it myself.", "zh": "我放棄自己修它了。" }
+    ],
+    "img": "white flag surrender",
+    "theme": "動詞片語",
+    "level": 1
+  },
+  {
+    "word": "look for",
+    "kk": "[lʊk fɔr]",
+    "pos": "phr.",
+    "meaning": "尋找",
+    "examples": [
+      { "en": "I'm looking for my phone.", "zh": "我在找我的手機。" },
+      { "en": "She's looking for a new job.", "zh": "她正在找新工作。" }
+    ],
+    "img": "person searching with magnifier",
+    "theme": "動詞片語",
+    "level": 1
+  },
+  {
+    "word": "take care of",
+    "kk": "[tek kɛr ʌv]",
+    "pos": "phr.",
+    "meaning": "照顧;負責處理",
+    "examples": [
+      { "en": "Can you take care of the kids tonight?", "zh": "你今晚能照顧小孩嗎?" },
+      { "en": "I'll take care of the bill.", "zh": "我來付這筆帳單。" }
+    ],
+    "img": "parent holding child hand",
+    "theme": "動詞片語",
+    "level": 2
+  },
+  {
+    "word": "turn on",
+    "kk": "[tɝn ɑn]",
+    "pos": "phr.",
+    "meaning": "打開(電器)",
+    "examples": [
+      { "en": "Please turn on the lights.", "zh": "請打開燈。" },
+      { "en": "He turned on the TV to watch the news.", "zh": "他打開電視看新聞。" }
+    ],
+    "img": "hand flipping light switch",
+    "theme": "動詞片語",
+    "level": 1
+  },
+  {
+    "word": "turn off",
+    "kk": "[tɝn ɔf]",
+    "pos": "phr.",
+    "meaning": "關掉(電器)",
+    "examples": [
+      { "en": "Don't forget to turn off the stove.", "zh": "別忘了關瓦斯爐。" },
+      { "en": "Turn off your phone during the movie.", "zh": "看電影時把手機關掉。" }
+    ],
+    "img": "hand switching off lamp",
+    "theme": "動詞片語",
+    "level": 1
+  },
+  {
+    "word": "put on",
+    "kk": "[pʊt ɑn]",
+    "pos": "phr.",
+    "meaning": "穿上;戴上",
+    "examples": [
+      { "en": "Put on your jacket, it's cold.", "zh": "穿上外套,外面很冷。" },
+      { "en": "She put on her glasses to read.", "zh": "她戴上眼鏡看書。" }
+    ],
+    "img": "person wearing jacket",
+    "theme": "動詞片語",
+    "level": 1
+  },
+  {
+    "word": "take off",
+    "kk": "[tek ɔf]",
+    "pos": "phr.",
+    "meaning": "脫下;起飛",
+    "examples": [
+      { "en": "Please take off your shoes here.", "zh": "請在這裡脫鞋。" },
+      { "en": "The plane took off on time.", "zh": "飛機準時起飛了。" }
+    ],
+    "img": "airplane taking off",
+    "theme": "動詞片語",
+    "level": 2
+  },
+  {
+    "word": "get up",
+    "kk": "[ɡɛt ʌp]",
+    "pos": "phr.",
+    "meaning": "起床;站起來",
+    "examples": [
+      { "en": "I get up at seven every morning.", "zh": "我每天早上七點起床。" },
+      { "en": "He got up and left the room.", "zh": "他站起來離開了房間。" }
+    ],
+    "img": "person getting out of bed",
+    "theme": "動詞片語",
+    "level": 1
+  },
+  {
+    "word": "wake up",
+    "kk": "[wek ʌp]",
+    "pos": "phr.",
+    "meaning": "醒來;叫醒",
+    "examples": [
+      { "en": "I woke up early today.", "zh": "我今天很早醒來。" },
+      { "en": "Can you wake me up at six?", "zh": "你能六點叫醒我嗎?" }
+    ],
+    "img": "alarm clock ringing",
+    "theme": "動詞片語",
+    "level": 1
+  },
+  {
+    "word": "find out",
+    "kk": "[faɪnd aʊt]",
+    "pos": "phr.",
+    "meaning": "查明;發現",
+    "examples": [
+      { "en": "I need to find out the truth.", "zh": "我需要查明真相。" },
+      { "en": "How did you find out about this?", "zh": "你是怎麼知道這件事的?" }
+    ],
+    "img": "person discovering clue",
+    "theme": "動詞片語",
+    "level": 2
+  },
+  {
+    "word": "look after",
+    "kk": "[lʊk ˋæftɚ]",
+    "pos": "phr.",
+    "meaning": "照顧;看管",
+    "examples": [
+      { "en": "Could you look after my dog this weekend?", "zh": "這個週末你能幫我看顧我的狗嗎?" },
+      { "en": "She looks after her grandparents.", "zh": "她照顧她的祖父母。" }
+    ],
+    "img": "person caring for pet",
+    "theme": "動詞片語",
+    "level": 2
+  },
+  {
+    "word": "give back",
+    "kk": "[ɡɪv bæk]",
+    "pos": "phr.",
+    "meaning": "歸還",
+    "examples": [
+      { "en": "Please give back my book tomorrow.", "zh": "請明天把我的書還給我。" },
+      { "en": "He gave back the money he borrowed.", "zh": "他歸還了他借的錢。" }
+    ],
+    "img": "handing book to friend",
+    "theme": "動詞片語",
+    "level": 1
+  },
+  {
+    "word": "go on",
+    "kk": "[ɡo ɑn]",
+    "pos": "phr.",
+    "meaning": "繼續;發生",
+    "examples": [
+      { "en": "Please go on with your story.", "zh": "請繼續說你的故事。" },
+      { "en": "What's going on here?", "zh": "這裡發生了什麼事?" }
+    ],
+    "img": "arrow moving forward",
+    "theme": "動詞片語",
+    "level": 2
+  },
+  {
+    "word": "come back",
+    "kk": "[kʌm bæk]",
+    "pos": "phr.",
+    "meaning": "回來",
+    "examples": [
+      { "en": "When will you come back?", "zh": "你什麼時候回來?" },
+      { "en": "He came back home late last night.", "zh": "他昨晚很晚才回家。" }
+    ],
+    "img": "person returning home",
+    "theme": "動詞片語",
+    "level": 1
+  },
+  {
+    "word": "throw away",
+    "kk": "[θro əˋwe]",
+    "pos": "phr.",
+    "meaning": "丟掉;扔掉",
+    "examples": [
+      { "en": "Don't throw away those old photos.", "zh": "別把那些舊照片丟掉。" },
+      { "en": "She threw away the empty box.", "zh": "她把空箱子扔掉了。" }
+    ],
+    "img": "tossing trash in bin",
+    "theme": "動詞片語",
+    "level": 2
+  },
+  {
+    "word": "put off",
+    "kk": "[pʊt ɔf]",
+    "pos": "phr.",
+    "meaning": "延遲;拖延",
+    "examples": [
+      { "en": "Don't put off your homework.", "zh": "別拖延你的作業。" },
+      { "en": "The meeting was put off until Friday.", "zh": "會議延到週五了。" }
+    ],
+    "img": "calendar with delay arrow",
+    "theme": "動詞片語",
+    "level": 3
+  },
+  {
+    "word": "get on",
+    "kk": "[ɡɛt ɑn]",
+    "pos": "phr.",
+    "meaning": "上(車);登上",
+    "examples": [
+      { "en": "Let's get on the bus quickly.", "zh": "我們快點上公車吧。" },
+      { "en": "She got on the train at the last stop.", "zh": "她在最後一站上了火車。" }
+    ],
+    "img": "person boarding bus",
+    "theme": "動詞片語",
+    "level": 2
+  },
+  {
+    "word": "get off",
+    "kk": "[ɡɛt ɔf]",
+    "pos": "phr.",
+    "meaning": "下(車)",
+    "examples": [
+      { "en": "We get off at the next stop.", "zh": "我們在下一站下車。" },
+      { "en": "He got off the train and walked home.", "zh": "他下了火車走路回家。" }
+    ],
+    "img": "person exiting train",
+    "theme": "動詞片語",
+    "level": 2
+  },
+  {
+    "word": "look forward to",
+    "kk": "[lʊk ˋfɔrwɚd tu]",
+    "pos": "phr.",
+    "meaning": "期待;盼望",
+    "examples": [
+      { "en": "I look forward to seeing you soon.", "zh": "我很期待很快見到你。" },
+      { "en": "They look forward to the holidays.", "zh": "他們很期待假期。" }
+    ],
+    "img": "person waiting excitedly",
+    "theme": "動詞片語",
+    "level": 3
+  },
+  {
+    "word": "put up with",
+    "kk": "[pʊt ʌp wɪð]",
+    "pos": "phr.",
+    "meaning": "忍受;容忍",
+    "examples": [
+      { "en": "I can't put up with the noise anymore.", "zh": "我再也受不了這噪音了。" },
+      { "en": "She puts up with a lot at work.", "zh": "她在工作上忍受了很多。" }
+    ],
+    "img": "person covering ears",
+    "theme": "動詞片語",
+    "level": 3
+  },
+  {
+    "word": "get rid of",
+    "kk": "[ɡɛt rɪd ʌv]",
+    "pos": "phr.",
+    "meaning": "擺脫;除去",
+    "examples": [
+      { "en": "I want to get rid of these old clothes.", "zh": "我想處理掉這些舊衣服。" },
+      { "en": "How do I get rid of this cold?", "zh": "我要怎麼擺脫這感冒?" }
+    ],
+    "img": "clearing out clutter",
+    "theme": "動詞片語",
+    "level": 3
+  },
+  {
+    "word": "break down",
+    "kk": "[brek daʊn]",
+    "pos": "phr.",
+    "meaning": "故障;崩潰",
+    "examples": [
+      { "en": "My car broke down on the highway.", "zh": "我的車在高速公路上拋錨了。" },
+      { "en": "The old machine finally broke down.", "zh": "那台舊機器終於壞了。" }
+    ],
+    "img": "broken car on road",
+    "theme": "動詞片語",
+    "level": 3
+  },
+  {
+    "word": "get back",
+    "kk": "[ɡɛt bæk]",
+    "pos": "phr.",
+    "meaning": "回到;取回",
+    "examples": [
+      { "en": "I'll get back to you tomorrow.", "zh": "我明天回覆你。" },
+      { "en": "When did you get back from your trip?", "zh": "你旅行什麼時候回來的?" }
+    ],
+    "img": "person walking back",
+    "theme": "動詞片語",
+    "level": 2
+  },
+  {
+    "word": "turn out",
+    "kk": "[tɝn aʊt]",
+    "pos": "phr.",
+    "meaning": "結果是;原來",
+    "examples": [
+      { "en": "It turned out to be a great day.", "zh": "結果那是很棒的一天。" },
+      { "en": "The party turned out really well.", "zh": "派對辦得很成功。" }
+    ],
+    "img": "surprise reveal moment",
+    "theme": "動詞片語",
+    "level": 3
+  },
+  {
+    "word": "point out",
+    "kk": "[pɔɪnt aʊt]",
+    "pos": "phr.",
+    "meaning": "指出;指明",
+    "examples": [
+      { "en": "She pointed out my mistake.", "zh": "她指出了我的錯誤。" },
+      { "en": "Let me point out the main problem.", "zh": "讓我指出主要的問題。" }
+    ],
+    "img": "finger pointing at chart",
+    "theme": "動詞片語",
+    "level": 3
+  },
+  {
+    "word": "bring up",
+    "kk": "[brɪŋ ʌp]",
+    "pos": "phr.",
+    "meaning": "提起(話題);養育",
+    "examples": [
+      { "en": "Don't bring up that topic again.", "zh": "別再提起那個話題了。" },
+      { "en": "She was brought up in the countryside.", "zh": "她在鄉下長大。" }
+    ],
+    "img": "speech bubble raised",
+    "theme": "動詞片語",
+    "level": 3
+  },
+  {
+    "word": "give in",
+    "kk": "[ɡɪv ɪn]",
+    "pos": "phr.",
+    "meaning": "屈服;讓步",
+    "examples": [
+      { "en": "Don't give in to the pressure.", "zh": "別向壓力屈服。" },
+      { "en": "He finally gave in and said yes.", "zh": "他最後讓步答應了。" }
+    ],
+    "img": "person raising hands up",
+    "theme": "動詞片語",
+    "level": 3
+  },
+  {
+    "word": "call off",
+    "kk": "[kɔl ɔf]",
+    "pos": "phr.",
+    "meaning": "取消",
+    "examples": [
+      { "en": "They called off the game because of rain.", "zh": "他們因為下雨取消了比賽。" },
+      { "en": "The trip was called off at the last minute.", "zh": "旅行在最後一刻被取消了。" }
+    ],
+    "img": "cancelled event sign",
+    "theme": "動詞片語",
+    "level": 3
+  },
+  {
+    "word": "look up",
+    "kk": "[lʊk ʌp]",
+    "pos": "phr.",
+    "meaning": "查詢;查閱",
+    "examples": [
+      { "en": "Look up the word in the dictionary.", "zh": "在字典裡查這個字。" },
+      { "en": "I looked up the address online.", "zh": "我上網查了地址。" }
+    ],
+    "img": "person searching dictionary",
+    "theme": "動詞片語",
+    "level": 2
+  },
+  {
+    "word": "fill out",
+    "kk": "[fɪl aʊt]",
+    "pos": "phr.",
+    "meaning": "填寫(表格)",
+    "examples": [
+      { "en": "Please fill out this form.", "zh": "請填寫這張表格。" },
+      { "en": "I filled out the application yesterday.", "zh": "我昨天填好了申請表。" }
+    ],
+    "img": "pen filling paper form",
+    "theme": "動詞片語",
+    "level": 2
+  },
+  {
+    "word": "check in",
+    "kk": "[tʃɛk ɪn]",
+    "pos": "phr.",
+    "meaning": "報到;登記入住",
+    "examples": [
+      { "en": "We checked in at the hotel at noon.", "zh": "我們中午在飯店辦了入住。" },
+      { "en": "Let's check in for our flight.", "zh": "我們去辦登機手續吧。" }
+    ],
+    "img": "hotel reception desk",
+    "theme": "動詞片語",
+    "level": 2
+  },
+  {
+    "word": "check out",
+    "kk": "[tʃɛk aʊt]",
+    "pos": "phr.",
+    "meaning": "退房;看看",
+    "examples": [
+      { "en": "Check out this cool video!", "zh": "來看看這個很酷的影片!" },
+      { "en": "We need to check out by eleven.", "zh": "我們得在十一點前退房。" }
+    ],
+    "img": "person browsing shelf",
+    "theme": "動詞片語",
+    "level": 2
+  },
+  {
+    "word": "hang on",
+    "kk": "[hæŋ ɑn]",
+    "pos": "phr.",
+    "meaning": "稍等;抓緊",
+    "examples": [
+      { "en": "Hang on, I'll be right there.", "zh": "稍等,我馬上到。" },
+      { "en": "Hang on tight, the road is bumpy.", "zh": "抓緊,路很顛。" }
+    ],
+    "img": "hand gripping rail",
+    "theme": "動詞片語",
+    "level": 2
+  },
+  {
+    "word": "calm down",
+    "kk": "[kɑm daʊn]",
+    "pos": "phr.",
+    "meaning": "冷靜;平靜下來",
+    "examples": [
+      { "en": "Calm down and take a deep breath.", "zh": "冷靜下來,深呼吸。" },
+      { "en": "It took her a while to calm down.", "zh": "她花了一會兒才平靜下來。" }
+    ],
+    "img": "person breathing deeply",
+    "theme": "動詞片語",
+    "level": 2
+  },
+  {
+    "word": "grow up",
+    "kk": "[ɡro ʌp]",
+    "pos": "phr.",
+    "meaning": "長大;成熟",
+    "examples": [
+      { "en": "I grew up in a small town.", "zh": "我在一個小鎮長大。" },
+      { "en": "Kids grow up so fast these days.", "zh": "現在的孩子長得好快。" }
+    ],
+    "img": "child growing taller",
+    "theme": "動詞片語",
+    "level": 2
+  },
+  {
+    "word": "keep up",
+    "kk": "[kip ʌp]",
+    "pos": "phr.",
+    "meaning": "跟上;維持",
+    "examples": [
+      { "en": "I can't keep up with the fast pace.", "zh": "我跟不上這麼快的節奏。" },
+      { "en": "Keep up the good work!", "zh": "繼續保持好表現!" }
+    ],
+    "img": "runner chasing another",
+    "theme": "動詞片語",
+    "level": 3
+  },
+  {
+    "word": "sign up",
+    "kk": "[saɪn ʌp]",
+    "pos": "phr.",
+    "meaning": "報名;註冊",
+    "examples": [
+      { "en": "I signed up for a yoga class.", "zh": "我報名了瑜珈課。" },
+      { "en": "You can sign up on the website.", "zh": "你可以在網站上註冊。" }
+    ],
+    "img": "person filling signup form",
+    "theme": "動詞片語",
+    "level": 2
+  },
+  {
+    "word": "run into",
+    "kk": "[rʌn ˋɪntu]",
+    "pos": "phr.",
+    "meaning": "偶遇;碰到",
+    "examples": [
+      { "en": "I ran into an old friend today.", "zh": "我今天巧遇一位老朋友。" },
+      { "en": "We ran into some trouble on the way.", "zh": "我們途中遇到一些麻煩。" }
+    ],
+    "img": "two people meeting surprised",
+    "theme": "動詞片語",
+    "level": 3
+  },
+  {
+    "word": "get along with",
+    "kk": "[ɡɛt əˋlɔŋ wɪð]",
+    "pos": "phr.",
+    "meaning": "與…相處融洽",
+    "examples": [
+      { "en": "I get along with my coworkers well.", "zh": "我和同事相處融洽。" },
+      { "en": "Do you get along with your roommate?", "zh": "你和室友處得來嗎?" }
+    ],
+    "img": "friends laughing together",
+    "theme": "動詞片語",
+    "level": 3
+  },
+  {
+    "word": "decide",
+    "kk": "[dɪˋsaɪd]",
+    "pos": "v.",
+    "meaning": "決定",
+    "examples": [
+      { "en": "I can't decide what to eat.", "zh": "我決定不了要吃什麼。" },
+      { "en": "We decided to stay home tonight.", "zh": "我們決定今晚待在家。" }
+    ],
+    "img": "person choosing two paths",
+    "theme": "動詞片語",
+    "level": 1
+  },
+  {
+    "word": "borrow",
+    "kk": "[ˋbɑro]",
+    "pos": "v.",
+    "meaning": "借(入)",
+    "examples": [
+      { "en": "Can I borrow your pen?", "zh": "我可以借你的筆嗎?" },
+      { "en": "She borrowed a book from the library.", "zh": "她從圖書館借了一本書。" }
+    ],
+    "img": "hand lending pen",
+    "theme": "動詞片語",
+    "level": 1
+  },
+  {
+    "word": "explain",
+    "kk": "[ɪkˋsplen]",
+    "pos": "v.",
+    "meaning": "解釋;說明",
+    "examples": [
+      { "en": "Can you explain this to me?", "zh": "你可以跟我解釋這個嗎?" },
+      { "en": "She explained the rules clearly.", "zh": "她清楚地說明了規則。" }
+    ],
+    "img": "teacher explaining board",
+    "theme": "動詞片語",
+    "level": 2
+  },
+  {
+    "word": "prepare",
+    "kk": "[prɪˋpɛr]",
+    "pos": "v.",
+    "meaning": "準備",
+    "examples": [
+      { "en": "I need to prepare for the exam.", "zh": "我需要準備考試。" },
+      { "en": "She prepared dinner for the family.", "zh": "她為家人準備了晚餐。" }
+    ],
+    "img": "person cooking in kitchen",
+    "theme": "動詞片語",
+    "level": 2
+  },
+  {
+    "word": "notice",
+    "kk": "[ˋnotɪs]",
+    "pos": "v.",
+    "meaning": "注意到;察覺",
+    "examples": [
+      { "en": "Did you notice the new sign?", "zh": "你有注意到那個新招牌嗎?" },
+      { "en": "I noticed she looked tired.", "zh": "我注意到她看起來很累。" }
+    ],
+    "img": "eye spotting detail",
+    "theme": "動詞片語",
+    "level": 2
+  },
+  {
+    "word": "realize",
+    "kk": "[ˋrɪəˏlaɪz]",
+    "pos": "v.",
+    "meaning": "意識到;領悟",
+    "examples": [
+      { "en": "I realized I left my keys at home.", "zh": "我發現我把鑰匙忘在家裡了。" },
+      { "en": "She realized she was wrong.", "zh": "她意識到自己錯了。" }
+    ],
+    "img": "person with sudden idea",
+    "theme": "動詞片語",
+    "level": 3
+  },
+  {
+    "word": "suggest",
+    "kk": "[səˋdʒɛst]",
+    "pos": "v.",
+    "meaning": "建議;提議",
+    "examples": [
+      { "en": "I suggest we leave early.", "zh": "我建議我們早點出發。" },
+      { "en": "She suggested a good restaurant.", "zh": "她推薦了一家不錯的餐廳。" }
+    ],
+    "img": "person raising hand idea",
+    "theme": "動詞片語",
+    "level": 3
+  }
+]

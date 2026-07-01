@@ -1,0 +1,639 @@
+[
+  {
+    "word": "shirt",
+    "kk": "[ʃɝt]",
+    "pos": "n.",
+    "meaning": "襯衫",
+    "examples": [
+      { "en": "I need to iron my shirt before work.", "zh": "我上班前得燙一下襯衫。" },
+      { "en": "This shirt is too tight on me.", "zh": "這件襯衫我穿太緊了。" }
+    ],
+    "img": "button-up shirt",
+    "theme": "外表衣著",
+    "level": 1
+  },
+  {
+    "word": "pants",
+    "kk": "[pænts]",
+    "pos": "n.",
+    "meaning": "褲子",
+    "examples": [
+      { "en": "These pants are really comfortable.", "zh": "這條褲子真的很舒服。" },
+      { "en": "He spilled coffee on his pants.", "zh": "他把咖啡灑到褲子上了。" }
+    ],
+    "img": "casual pants",
+    "theme": "外表衣著",
+    "level": 1
+  },
+  {
+    "word": "dress",
+    "kk": "[drɛs]",
+    "pos": "n.",
+    "meaning": "洋裝",
+    "examples": [
+      { "en": "She wore a red dress to the party.", "zh": "她穿了一件紅色洋裝去派對。" },
+      { "en": "That dress looks great on you.", "zh": "那件洋裝你穿很好看。" }
+    ],
+    "img": "red dress",
+    "theme": "外表衣著",
+    "level": 1
+  },
+  {
+    "word": "shoes",
+    "kk": "[ʃuz]",
+    "pos": "n.",
+    "meaning": "鞋子",
+    "examples": [
+      { "en": "Take off your shoes before you come in.", "zh": "進來前先脫鞋。" },
+      { "en": "My shoes got wet in the rain.", "zh": "我的鞋子在雨中濕了。" }
+    ],
+    "img": "pair of shoes",
+    "theme": "外表衣著",
+    "level": 1
+  },
+  {
+    "word": "hat",
+    "kk": "[hæt]",
+    "pos": "n.",
+    "meaning": "帽子",
+    "examples": [
+      { "en": "Wear a hat, it's sunny outside.", "zh": "戴頂帽子吧,外面很曬。" },
+      { "en": "I left my hat on the bus.", "zh": "我把帽子忘在公車上了。" }
+    ],
+    "img": "sun hat",
+    "theme": "外表衣著",
+    "level": 1
+  },
+  {
+    "word": "jacket",
+    "kk": "[ˈdʒækɪt]",
+    "pos": "n.",
+    "meaning": "外套;夾克",
+    "examples": [
+      { "en": "Bring a jacket, it gets cold at night.", "zh": "帶件外套,晚上會變冷。" },
+      { "en": "He hung his jacket on the chair.", "zh": "他把夾克掛在椅子上。" }
+    ],
+    "img": "denim jacket",
+    "theme": "外表衣著",
+    "level": 1
+  },
+  {
+    "word": "socks",
+    "kk": "[sɑks]",
+    "pos": "n.",
+    "meaning": "襪子",
+    "examples": [
+      { "en": "I can't find a matching pair of socks.", "zh": "我找不到一雙成對的襪子。" },
+      { "en": "These socks have a hole in them.", "zh": "這雙襪子破了個洞。" }
+    ],
+    "img": "cotton socks",
+    "theme": "外表衣著",
+    "level": 1
+  },
+  {
+    "word": "skirt",
+    "kk": "[skɝt]",
+    "pos": "n.",
+    "meaning": "裙子",
+    "examples": [
+      { "en": "She bought a new skirt for spring.", "zh": "她買了一件春天穿的新裙子。" },
+      { "en": "This skirt is a little too short.", "zh": "這件裙子有點太短了。" }
+    ],
+    "img": "pleated skirt",
+    "theme": "外表衣著",
+    "level": 1
+  },
+  {
+    "word": "coat",
+    "kk": "[kot]",
+    "pos": "n.",
+    "meaning": "大衣;外套",
+    "examples": [
+      { "en": "Put on your coat, it's freezing.", "zh": "穿上你的大衣,外面冷死了。" },
+      { "en": "Her coat is made of wool.", "zh": "她的大衣是羊毛做的。" }
+    ],
+    "img": "winter coat",
+    "theme": "外表衣著",
+    "level": 1
+  },
+  {
+    "word": "glasses",
+    "kk": "[ˈɡlæsɪz]",
+    "pos": "n.",
+    "meaning": "眼鏡",
+    "examples": [
+      { "en": "I can't read without my glasses.", "zh": "沒戴眼鏡我看不清字。" },
+      { "en": "He just got a new pair of glasses.", "zh": "他剛配了一副新眼鏡。" }
+    ],
+    "img": "eyeglasses",
+    "theme": "外表衣著",
+    "level": 1
+  },
+  {
+    "word": "tall",
+    "kk": "[tɔl]",
+    "pos": "adj.",
+    "meaning": "高的",
+    "examples": [
+      { "en": "Her brother is really tall.", "zh": "她哥哥真的很高。" },
+      { "en": "You have to be tall to play basketball well.", "zh": "要打好籃球得長得高。" }
+    ],
+    "img": "tall person",
+    "theme": "外表衣著",
+    "level": 1
+  },
+  {
+    "word": "short",
+    "kk": "[ʃɔrt]",
+    "pos": "adj.",
+    "meaning": "矮的;短的",
+    "examples": [
+      { "en": "I'm too short to reach the top shelf.", "zh": "我太矮了,搆不到最上層的架子。" },
+      { "en": "She has short hair now.", "zh": "她現在留短髮。" }
+    ],
+    "img": "short person",
+    "theme": "外表衣著",
+    "level": 1
+  },
+  {
+    "word": "hair",
+    "kk": "[hɛr]",
+    "pos": "n.",
+    "meaning": "頭髮",
+    "examples": [
+      { "en": "Your hair looks nice today.", "zh": "你今天的頭髮看起來很好看。" },
+      { "en": "I need to wash my hair.", "zh": "我得洗頭了。" }
+    ],
+    "img": "long hair",
+    "theme": "外表衣著",
+    "level": 1
+  },
+  {
+    "word": "young",
+    "kk": "[jʌŋ]",
+    "pos": "adj.",
+    "meaning": "年輕的",
+    "examples": [
+      { "en": "She looks younger than her age.", "zh": "她看起來比實際年齡年輕。" },
+      { "en": "He started working at a young age.", "zh": "他很年輕就開始工作了。" }
+    ],
+    "img": "young woman",
+    "theme": "外表衣著",
+    "level": 1
+  },
+  {
+    "word": "cute",
+    "kk": "[kjut]",
+    "pos": "adj.",
+    "meaning": "可愛的",
+    "examples": [
+      { "en": "That baby is so cute!", "zh": "那個寶寶好可愛!" },
+      { "en": "She wore a cute little dress.", "zh": "她穿了一件可愛的小洋裝。" }
+    ],
+    "img": "cute baby",
+    "theme": "外表衣著",
+    "level": 1
+  },
+  {
+    "word": "T-shirt",
+    "kk": "[ˈtiˌʃɝt]",
+    "pos": "n.",
+    "meaning": "T恤",
+    "examples": [
+      { "en": "He wears a T-shirt and jeans every day.", "zh": "他每天穿T恤和牛仔褲。" },
+      { "en": "I got this T-shirt at a concert.", "zh": "這件T恤是我在演唱會買的。" }
+    ],
+    "img": "plain t-shirt",
+    "theme": "外表衣著",
+    "level": 1
+  },
+  {
+    "word": "jeans",
+    "kk": "[dʒinz]",
+    "pos": "n.",
+    "meaning": "牛仔褲",
+    "examples": [
+      { "en": "These jeans fit me perfectly.", "zh": "這條牛仔褲我穿剛剛好。" },
+      { "en": "She ripped her jeans at the knee.", "zh": "她的牛仔褲膝蓋磨破了。" }
+    ],
+    "img": "blue jeans",
+    "theme": "外表衣著",
+    "level": 1
+  },
+  {
+    "word": "sweater",
+    "kk": "[ˈswɛtɚ]",
+    "pos": "n.",
+    "meaning": "毛衣",
+    "examples": [
+      { "en": "This sweater keeps me warm.", "zh": "這件毛衣讓我很暖。" },
+      { "en": "My grandma knitted me a sweater.", "zh": "我奶奶織了一件毛衣給我。" }
+    ],
+    "img": "wool sweater",
+    "theme": "外表衣著",
+    "level": 2
+  },
+  {
+    "word": "scarf",
+    "kk": "[skɑrf]",
+    "pos": "n.",
+    "meaning": "圍巾",
+    "examples": [
+      { "en": "She wrapped a scarf around her neck.", "zh": "她把圍巾圍在脖子上。" },
+      { "en": "This scarf goes well with your coat.", "zh": "這條圍巾跟你的大衣很搭。" }
+    ],
+    "img": "wool scarf",
+    "theme": "外表衣著",
+    "level": 2
+  },
+  {
+    "word": "gloves",
+    "kk": "[ɡlʌvz]",
+    "pos": "n.",
+    "meaning": "手套",
+    "examples": [
+      { "en": "Wear gloves so your hands don't freeze.", "zh": "戴手套,手才不會凍僵。" },
+      { "en": "I lost one of my gloves.", "zh": "我弄丟了一隻手套。" }
+    ],
+    "img": "winter gloves",
+    "theme": "外表衣著",
+    "level": 2
+  },
+  {
+    "word": "boots",
+    "kk": "[buts]",
+    "pos": "n.",
+    "meaning": "靴子",
+    "examples": [
+      { "en": "These boots are great for hiking.", "zh": "這雙靴子很適合爬山。" },
+      { "en": "She wears boots in the winter.", "zh": "她冬天都穿靴子。" }
+    ],
+    "img": "leather boots",
+    "theme": "外表衣著",
+    "level": 2
+  },
+  {
+    "word": "sneakers",
+    "kk": "[ˈsnikɚz]",
+    "pos": "n.",
+    "meaning": "運動鞋;球鞋",
+    "examples": [
+      { "en": "He collects limited-edition sneakers.", "zh": "他收集限量版球鞋。" },
+      { "en": "My sneakers are worn out.", "zh": "我的運動鞋磨壞了。" }
+    ],
+    "img": "white sneakers",
+    "theme": "外表衣著",
+    "level": 2
+  },
+  {
+    "word": "belt",
+    "kk": "[bɛlt]",
+    "pos": "n.",
+    "meaning": "皮帶;腰帶",
+    "examples": [
+      { "en": "He tightened his belt one notch.", "zh": "他把皮帶收緊了一格。" },
+      { "en": "This belt matches your shoes.", "zh": "這條皮帶跟你的鞋子很配。" }
+    ],
+    "img": "leather belt",
+    "theme": "外表衣著",
+    "level": 2
+  },
+  {
+    "word": "necklace",
+    "kk": "[ˈnɛklɪs]",
+    "pos": "n.",
+    "meaning": "項鍊",
+    "examples": [
+      { "en": "She wore a gold necklace to dinner.", "zh": "她戴著金項鍊去吃晚餐。" },
+      { "en": "This necklace was a gift from my mom.", "zh": "這條項鍊是我媽送的。" }
+    ],
+    "img": "gold necklace",
+    "theme": "外表衣著",
+    "level": 2
+  },
+  {
+    "word": "ring",
+    "kk": "[rɪŋ]",
+    "pos": "n.",
+    "meaning": "戒指",
+    "examples": [
+      { "en": "She wears a ring on her left hand.", "zh": "她左手戴著戒指。" },
+      { "en": "He bought her a diamond ring.", "zh": "他買了一枚鑽戒給她。" }
+    ],
+    "img": "diamond ring",
+    "theme": "外表衣著",
+    "level": 2
+  },
+  {
+    "word": "handsome",
+    "kk": "[ˈhænsəm]",
+    "pos": "adj.",
+    "meaning": "英俊的",
+    "examples": [
+      { "en": "He's tall and handsome.", "zh": "他又高又帥。" },
+      { "en": "You look so handsome in that suit.", "zh": "你穿那套西裝看起來好帥。" }
+    ],
+    "img": "handsome man",
+    "theme": "外表衣著",
+    "level": 2
+  },
+  {
+    "word": "beautiful",
+    "kk": "[ˈbjutəfəl]",
+    "pos": "adj.",
+    "meaning": "美麗的",
+    "examples": [
+      { "en": "She has a beautiful smile.", "zh": "她有著美麗的笑容。" },
+      { "en": "What a beautiful dress!", "zh": "多美的一件洋裝!" }
+    ],
+    "img": "beautiful woman",
+    "theme": "外表衣著",
+    "level": 2
+  },
+  {
+    "word": "thin",
+    "kk": "[θɪn]",
+    "pos": "adj.",
+    "meaning": "瘦的",
+    "examples": [
+      { "en": "He's gotten thin since he started running.", "zh": "他開始跑步後瘦了下來。" },
+      { "en": "She's naturally thin.", "zh": "她天生就瘦。" }
+    ],
+    "img": "thin person",
+    "theme": "外表衣著",
+    "level": 2
+  },
+  {
+    "word": "curly",
+    "kk": "[ˈkɝli]",
+    "pos": "adj.",
+    "meaning": "捲曲的",
+    "examples": [
+      { "en": "She has beautiful curly hair.", "zh": "她有一頭漂亮的捲髮。" },
+      { "en": "My hair gets curly when it rains.", "zh": "下雨時我的頭髮會變捲。" }
+    ],
+    "img": "curly hair",
+    "theme": "外表衣著",
+    "level": 2
+  },
+  {
+    "word": "straight",
+    "kk": "[stret]",
+    "pos": "adj.",
+    "meaning": "直的(頭髮)",
+    "examples": [
+      { "en": "She has long, straight hair.", "zh": "她有一頭又長又直的頭髮。" },
+      { "en": "I want to get my hair straight.", "zh": "我想把頭髮弄直。" }
+    ],
+    "img": "straight hair",
+    "theme": "外表衣著",
+    "level": 2
+  },
+  {
+    "word": "bald",
+    "kk": "[bɔld]",
+    "pos": "adj.",
+    "meaning": "禿頭的",
+    "examples": [
+      { "en": "His father is going bald.", "zh": "他爸爸開始禿頭了。" },
+      { "en": "The bald man wore a shiny hat.", "zh": "那個禿頭男人戴了頂亮亮的帽子。" }
+    ],
+    "img": "bald man",
+    "theme": "外表衣著",
+    "level": 2
+  },
+  {
+    "word": "suit",
+    "kk": "[sut]",
+    "pos": "n.",
+    "meaning": "西裝",
+    "examples": [
+      { "en": "He wore a black suit to the interview.", "zh": "他穿黑色西裝去面試。" },
+      { "en": "This suit needs to be dry-cleaned.", "zh": "這套西裝需要乾洗。" }
+    ],
+    "img": "business suit",
+    "theme": "外表衣著",
+    "level": 2
+  },
+  {
+    "word": "tie",
+    "kk": "[taɪ]",
+    "pos": "n.",
+    "meaning": "領帶",
+    "examples": [
+      { "en": "He can't tie his own tie.", "zh": "他不會自己打領帶。" },
+      { "en": "That tie doesn't match your shirt.", "zh": "那條領帶跟你的襯衫不搭。" }
+    ],
+    "img": "neck tie",
+    "theme": "外表衣著",
+    "level": 2
+  },
+  {
+    "word": "wallet",
+    "kk": "[ˈwɑlɪt]",
+    "pos": "n.",
+    "meaning": "皮夾;錢包",
+    "examples": [
+      { "en": "I left my wallet at home.", "zh": "我把皮夾忘在家裡了。" },
+      { "en": "He keeps photos in his wallet.", "zh": "他在皮夾裡放照片。" }
+    ],
+    "img": "leather wallet",
+    "theme": "外表衣著",
+    "level": 2
+  },
+  {
+    "word": "in shape",
+    "kk": "[ɪn ʃep]",
+    "pos": "phr.",
+    "meaning": "身材好;健康",
+    "examples": [
+      { "en": "She works out to stay in shape.", "zh": "她運動來保持身材。" },
+      { "en": "He's in great shape for his age.", "zh": "以他的年紀來說他身材很好。" }
+    ],
+    "img": "fit person exercising",
+    "theme": "外表衣著",
+    "level": 3
+  },
+  {
+    "word": "good-looking",
+    "kk": "[ˌɡʊdˈlʊkɪŋ]",
+    "pos": "adj.",
+    "meaning": "好看的;有魅力的",
+    "examples": [
+      { "en": "He's a good-looking guy.", "zh": "他是個好看的男生。" },
+      { "en": "They make a good-looking couple.", "zh": "他們是很登對的一對。" }
+    ],
+    "img": "good-looking couple",
+    "theme": "外表衣著",
+    "level": 3
+  },
+  {
+    "word": "ponytail",
+    "kk": "[ˈponiˌtel]",
+    "pos": "n.",
+    "meaning": "馬尾",
+    "examples": [
+      { "en": "She tied her hair into a ponytail.", "zh": "她把頭髮綁成馬尾。" },
+      { "en": "A ponytail keeps hair out of your face.", "zh": "馬尾能讓頭髮不擋到臉。" }
+    ],
+    "img": "ponytail hairstyle",
+    "theme": "外表衣著",
+    "level": 3
+  },
+  {
+    "word": "bangs",
+    "kk": "[bæŋz]",
+    "pos": "n.",
+    "meaning": "瀏海",
+    "examples": [
+      { "en": "She just got bangs cut.", "zh": "她剛剪了瀏海。" },
+      { "en": "My bangs are getting too long.", "zh": "我的瀏海變得太長了。" }
+    ],
+    "img": "bangs hairstyle",
+    "theme": "外表衣著",
+    "level": 3
+  },
+  {
+    "word": "outfit",
+    "kk": "[ˈaʊtˌfɪt]",
+    "pos": "n.",
+    "meaning": "整套服裝;穿搭",
+    "examples": [
+      { "en": "I love your outfit today!", "zh": "我很喜歡你今天的穿搭!" },
+      { "en": "She picked out an outfit for the wedding.", "zh": "她挑了一套婚禮要穿的服裝。" }
+    ],
+    "img": "stylish outfit",
+    "theme": "外表衣著",
+    "level": 3
+  },
+  {
+    "word": "casual",
+    "kk": "[ˈkæʒuəl]",
+    "pos": "adj.",
+    "meaning": "休閒的;隨性的",
+    "examples": [
+      { "en": "The dress code is casual.", "zh": "服裝規定是休閒風。" },
+      { "en": "He prefers casual clothes over suits.", "zh": "比起西裝他更喜歡休閒服。" }
+    ],
+    "img": "casual clothing",
+    "theme": "外表衣著",
+    "level": 3
+  },
+  {
+    "word": "fashionable",
+    "kk": "[ˈfæʃənəbḷ]",
+    "pos": "adj.",
+    "meaning": "時髦的;流行的",
+    "examples": [
+      { "en": "She's always so fashionable.", "zh": "她總是很時髦。" },
+      { "en": "That jacket is really fashionable.", "zh": "那件夾克很流行。" }
+    ],
+    "img": "fashionable woman",
+    "theme": "外表衣著",
+    "level": 3
+  },
+  {
+    "word": "wrinkle",
+    "kk": "[ˈrɪŋkḷ]",
+    "pos": "n.",
+    "meaning": "皺紋;皺褶",
+    "examples": [
+      { "en": "This fabric doesn't wrinkle easily.", "zh": "這種布料不容易起皺。" },
+      { "en": "He has a few wrinkles around his eyes.", "zh": "他眼角有一些皺紋。" }
+    ],
+    "img": "wrinkled shirt",
+    "theme": "外表衣著",
+    "level": 3
+  },
+  {
+    "word": "chubby",
+    "kk": "[ˈtʃʌbi]",
+    "pos": "adj.",
+    "meaning": "圓潤的;胖嘟嘟的",
+    "examples": [
+      { "en": "The baby has chubby cheeks.", "zh": "這個寶寶臉頰胖嘟嘟的。" },
+      { "en": "He was a chubby kid.", "zh": "他小時候是個胖嘟嘟的孩子。" }
+    ],
+    "img": "chubby cheeks",
+    "theme": "外表衣著",
+    "level": 3
+  },
+  {
+    "word": "slim",
+    "kk": "[slɪm]",
+    "pos": "adj.",
+    "meaning": "苗條的",
+    "examples": [
+      { "en": "She stays slim by eating healthy.", "zh": "她靠健康飲食保持苗條。" },
+      { "en": "These jeans have a slim fit.", "zh": "這款牛仔褲是修身版型。" }
+    ],
+    "img": "slim figure",
+    "theme": "外表衣著",
+    "level": 3
+  },
+  {
+    "word": "muscular",
+    "kk": "[ˈmʌskjəlɚ]",
+    "pos": "adj.",
+    "meaning": "肌肉發達的",
+    "examples": [
+      { "en": "He has a muscular build.", "zh": "他體格很結實。" },
+      { "en": "Years of training made him muscular.", "zh": "多年的訓練讓他變得很壯。" }
+    ],
+    "img": "muscular man",
+    "theme": "外表衣著",
+    "level": 3
+  },
+  {
+    "word": "dress up",
+    "kk": "[drɛs ʌp]",
+    "pos": "phr.",
+    "meaning": "盛裝打扮",
+    "examples": [
+      { "en": "We're dressing up for the party tonight.", "zh": "我們今晚要盛裝去派對。" },
+      { "en": "You don't need to dress up, it's casual.", "zh": "你不用特別打扮,是休閒場合。" }
+    ],
+    "img": "person dressing up",
+    "theme": "外表衣著",
+    "level": 3
+  },
+  {
+    "word": "try on",
+    "kk": "[traɪ ɑn]",
+    "pos": "phr.",
+    "meaning": "試穿",
+    "examples": [
+      { "en": "Can I try on these shoes?", "zh": "我可以試穿這雙鞋嗎?" },
+      { "en": "She tried on five dresses before choosing one.", "zh": "她試穿了五件洋裝才選一件。" }
+    ],
+    "img": "trying on clothes",
+    "theme": "外表衣著",
+    "level": 3
+  },
+  {
+    "word": "makeup",
+    "kk": "[ˈmekˌʌp]",
+    "pos": "n.",
+    "meaning": "化妝品;妝",
+    "examples": [
+      { "en": "She doesn't wear much makeup.", "zh": "她不太化妝。" },
+      { "en": "It takes her an hour to do her makeup.", "zh": "她化妝要花一個小時。" }
+    ],
+    "img": "makeup products",
+    "theme": "外表衣著",
+    "level": 3
+  },
+  {
+    "word": "elegant",
+    "kk": "[ˈɛləɡənt]",
+    "pos": "adj.",
+    "meaning": "優雅的",
+    "examples": [
+      { "en": "She looked elegant in her long gown.", "zh": "她穿著長禮服顯得很優雅。" },
+      { "en": "The room had an elegant style.", "zh": "這房間有種優雅的風格。" }
+    ],
+    "img": "elegant woman gown",
+    "theme": "外表衣著",
+    "level": 3
+  }
+]

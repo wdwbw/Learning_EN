@@ -1,0 +1,652 @@
+[
+  {
+    "word": "continent",
+    "kk": "[ˈkɑntənənt]",
+    "pos": "n.",
+    "meaning": "大陸;洲",
+    "examples": [
+      { "en": "Asia is the largest continent in the world.", "zh": "亞洲是世界上最大的洲。" },
+      { "en": "How many continents can you name?", "zh": "你能說出幾個大洲的名字?" }
+    ],
+    "img": "world map seven continents",
+    "theme": "地理國家",
+    "level": 2
+  },
+  {
+    "word": "country",
+    "kk": "[ˈkʌntrɪ]",
+    "pos": "n.",
+    "meaning": "國家",
+    "examples": [
+      { "en": "Which country would you like to visit?", "zh": "你想去哪個國家?" },
+      { "en": "Japan is a country in East Asia.", "zh": "日本是東亞的一個國家。" }
+    ],
+    "img": "flags of different countries",
+    "theme": "地理國家",
+    "level": 2
+  },
+  {
+    "word": "nation",
+    "kk": "[ˈneʃən]",
+    "pos": "n.",
+    "meaning": "國家;民族",
+    "examples": [
+      { "en": "The whole nation celebrated the victory.", "zh": "整個國家都在慶祝這場勝利。" },
+      { "en": "Taiwan is a small but strong nation.", "zh": "台灣是個小而強大的國家。" }
+    ],
+    "img": "national flag crowd celebration",
+    "theme": "地理國家",
+    "level": 3
+  },
+  {
+    "word": "region",
+    "kk": "[ˈridʒən]",
+    "pos": "n.",
+    "meaning": "地區;區域",
+    "examples": [
+      { "en": "This region is famous for its tea.", "zh": "這個地區以茶葉聞名。" },
+      { "en": "The southern region has warmer weather.", "zh": "南部地區天氣比較溫暖。" }
+    ],
+    "img": "map highlighted region area",
+    "theme": "地理國家",
+    "level": 3
+  },
+  {
+    "word": "border",
+    "kk": "[ˈbɔrdɚ]",
+    "pos": "n.",
+    "meaning": "邊界;國界",
+    "examples": [
+      { "en": "We crossed the border into Canada.", "zh": "我們越過邊界進入加拿大。" },
+      { "en": "The two countries share a long border.", "zh": "這兩個國家有很長的共同邊界。" }
+    ],
+    "img": "country border line checkpoint",
+    "theme": "地理國家",
+    "level": 3
+  },
+  {
+    "word": "capital",
+    "kk": "[ˈkæpətl̩]",
+    "pos": "n.",
+    "meaning": "首都",
+    "examples": [
+      { "en": "Taipei is the capital of Taiwan.", "zh": "台北是台灣的首都。" },
+      { "en": "The capital has many government buildings.", "zh": "首都有許多政府大樓。" }
+    ],
+    "img": "capital city government building",
+    "theme": "地理國家",
+    "level": 2
+  },
+  {
+    "word": "map",
+    "kk": "[mæp]",
+    "pos": "n.",
+    "meaning": "地圖",
+    "examples": [
+      { "en": "Let me check the map for directions.", "zh": "讓我看地圖找方向。" },
+      { "en": "She drew a map to her house.", "zh": "她畫了一張到她家的地圖。" }
+    ],
+    "img": "folded paper world map",
+    "theme": "地理國家",
+    "level": 2
+  },
+  {
+    "word": "globe",
+    "kk": "[ɡlob]",
+    "pos": "n.",
+    "meaning": "地球儀;地球",
+    "examples": [
+      { "en": "He spun the globe and pointed to Africa.", "zh": "他轉動地球儀,指向非洲。" },
+      { "en": "People travel all over the globe.", "zh": "人們到世界各地旅行。" }
+    ],
+    "img": "spinning desk globe stand",
+    "theme": "地理國家",
+    "level": 3
+  },
+  {
+    "word": "north",
+    "kk": "[nɔrθ]",
+    "pos": "n.",
+    "meaning": "北方;北",
+    "examples": [
+      { "en": "The birds fly to the north in summer.", "zh": "鳥兒在夏天飛往北方。" },
+      { "en": "Our house faces the north.", "zh": "我們的房子朝北。" }
+    ],
+    "img": "compass pointing north arrow",
+    "theme": "地理國家",
+    "level": 2
+  },
+  {
+    "word": "south",
+    "kk": "[saʊθ]",
+    "pos": "n.",
+    "meaning": "南方;南",
+    "examples": [
+      { "en": "It is warmer in the south.", "zh": "南方比較溫暖。" },
+      { "en": "They drove toward the south.", "zh": "他們向南方開去。" }
+    ],
+    "img": "compass south direction map",
+    "theme": "地理國家",
+    "level": 2
+  },
+  {
+    "word": "east",
+    "kk": "[ist]",
+    "pos": "n.",
+    "meaning": "東方;東",
+    "examples": [
+      { "en": "The sun rises in the east.", "zh": "太陽從東方升起。" },
+      { "en": "Taiwan lies to the east of China.", "zh": "台灣位於中國東方。" }
+    ],
+    "img": "sunrise east horizon compass",
+    "theme": "地理國家",
+    "level": 2
+  },
+  {
+    "word": "west",
+    "kk": "[wɛst]",
+    "pos": "n.",
+    "meaning": "西方;西",
+    "examples": [
+      { "en": "The sun sets in the west.", "zh": "太陽從西方落下。" },
+      { "en": "We walked toward the west.", "zh": "我們往西方走。" }
+    ],
+    "img": "sunset west horizon compass",
+    "theme": "地理國家",
+    "level": 2
+  },
+  {
+    "word": "direction",
+    "kk": "[dəˈrɛkʃən]",
+    "pos": "n.",
+    "meaning": "方向",
+    "examples": [
+      { "en": "Which direction is the station?", "zh": "車站在哪個方向?" },
+      { "en": "We walked in the wrong direction.", "zh": "我們走錯了方向。" }
+    ],
+    "img": "arrows pointing different directions",
+    "theme": "地理國家",
+    "level": 2
+  },
+  {
+    "word": "compass",
+    "kk": "[ˈkʌmpəs]",
+    "pos": "n.",
+    "meaning": "指南針;羅盤",
+    "examples": [
+      { "en": "A compass helps you find your way.", "zh": "指南針能幫你找到方向。" },
+      { "en": "The needle of the compass points north.", "zh": "指南針的針指向北方。" }
+    ],
+    "img": "magnetic compass needle brass",
+    "theme": "地理國家",
+    "level": 3
+  },
+  {
+    "word": "equator",
+    "kk": "[ɪˈkwetɚ]",
+    "pos": "n.",
+    "meaning": "赤道",
+    "examples": [
+      { "en": "Countries near the equator are very hot.", "zh": "赤道附近的國家非常炎熱。" },
+      { "en": "The equator divides the Earth in half.", "zh": "赤道把地球分成兩半。" }
+    ],
+    "img": "globe equator line tropics",
+    "theme": "地理國家",
+    "level": 3
+  },
+  {
+    "word": "island",
+    "kk": "[ˈaɪlənd]",
+    "pos": "n.",
+    "meaning": "島;島嶼",
+    "examples": [
+      { "en": "Taiwan is a beautiful island.", "zh": "台灣是個美麗的島嶼。" },
+      { "en": "We took a boat to the small island.", "zh": "我們搭船到那座小島。" }
+    ],
+    "img": "small tropical island aerial",
+    "theme": "地理國家",
+    "level": 2
+  },
+  {
+    "word": "peninsula",
+    "kk": "[pəˈnɪnsələ]",
+    "pos": "n.",
+    "meaning": "半島",
+    "examples": [
+      { "en": "Korea is located on a peninsula.", "zh": "韓國位於一個半島上。" },
+      { "en": "The peninsula is surrounded by sea on three sides.", "zh": "這個半島三面環海。" }
+    ],
+    "img": "peninsula coastline aerial map",
+    "theme": "地理國家",
+    "level": 3
+  },
+  {
+    "word": "coast",
+    "kk": "[kost]",
+    "pos": "n.",
+    "meaning": "海岸;沿海",
+    "examples": [
+      { "en": "They live on the east coast.", "zh": "他們住在東海岸。" },
+      { "en": "The coast is dotted with small towns.", "zh": "海岸邊點綴著許多小鎮。" }
+    ],
+    "img": "rocky coastline ocean shore",
+    "theme": "地理國家",
+    "level": 2
+  },
+  {
+    "word": "plain",
+    "kk": "[plen]",
+    "pos": "n.",
+    "meaning": "平原",
+    "examples": [
+      { "en": "Farmers grow rice on the wide plain.", "zh": "農夫在廣闊的平原上種稻。" },
+      { "en": "The plain stretched as far as we could see.", "zh": "平原一望無際。" }
+    ],
+    "img": "wide flat grassy plain",
+    "theme": "地理國家",
+    "level": 3
+  },
+  {
+    "word": "plateau",
+    "kk": "[plæˈto]",
+    "pos": "n.",
+    "meaning": "高原",
+    "examples": [
+      { "en": "The plateau is high and dry.", "zh": "這個高原又高又乾燥。" },
+      { "en": "Few people live on the cold plateau.", "zh": "很少人住在寒冷的高原上。" }
+    ],
+    "img": "high flat plateau landscape",
+    "theme": "地理國家",
+    "level": 3
+  },
+  {
+    "word": "valley",
+    "kk": "[ˈvælɪ]",
+    "pos": "n.",
+    "meaning": "山谷;河谷",
+    "examples": [
+      { "en": "A river runs through the green valley.", "zh": "一條河流穿過綠色的山谷。" },
+      { "en": "The village sits in a quiet valley.", "zh": "這個村莊坐落在寧靜的山谷中。" }
+    ],
+    "img": "green river valley mountains",
+    "theme": "地理國家",
+    "level": 2
+  },
+  {
+    "word": "coastline",
+    "kk": "[ˈkostˌlaɪn]",
+    "pos": "n.",
+    "meaning": "海岸線",
+    "examples": [
+      { "en": "Taiwan has a long, curved coastline.", "zh": "台灣有一條又長又彎的海岸線。" },
+      { "en": "The coastline is beautiful at sunset.", "zh": "海岸線在夕陽下很美。" }
+    ],
+    "img": "curved coastline aerial view",
+    "theme": "地理國家",
+    "level": 3
+  },
+  {
+    "word": "gulf",
+    "kk": "[ɡʌlf]",
+    "pos": "n.",
+    "meaning": "海灣",
+    "examples": [
+      { "en": "Many ships sail across the gulf.", "zh": "許多船隻航行過這個海灣。" },
+      { "en": "The gulf is rich in fish.", "zh": "這個海灣魚產豐富。" }
+    ],
+    "img": "large ocean gulf bay map",
+    "theme": "地理國家",
+    "level": 3
+  },
+  {
+    "word": "bay",
+    "kk": "[be]",
+    "pos": "n.",
+    "meaning": "灣;海灣",
+    "examples": [
+      { "en": "Boats rest safely in the bay.", "zh": "船隻安全地停在海灣裡。" },
+      { "en": "We swam in the calm bay.", "zh": "我們在平靜的海灣裡游泳。" }
+    ],
+    "img": "calm bay boats harbor",
+    "theme": "地理國家",
+    "level": 2
+  },
+  {
+    "word": "harbor",
+    "kk": "[ˈhɑrbɚ]",
+    "pos": "n.",
+    "meaning": "港口;海港",
+    "examples": [
+      { "en": "The ships stayed safely in the harbor.", "zh": "船隻安全地停在港口裡。" },
+      { "en": "Keelung has a busy harbor.", "zh": "基隆有個繁忙的港口。" }
+    ],
+    "img": "busy harbor ships docks",
+    "theme": "地理國家",
+    "level": 3
+  },
+  {
+    "word": "channel",
+    "kk": "[ˈtʃænl̩]",
+    "pos": "n.",
+    "meaning": "海峽;水道",
+    "examples": [
+      { "en": "Ships pass through the narrow channel.", "zh": "船隻穿過這條狹窄的水道。" },
+      { "en": "The channel connects two seas.", "zh": "這條海峽連接兩個海洋。" }
+    ],
+    "img": "narrow sea channel strait",
+    "theme": "地理國家",
+    "level": 3
+  },
+  {
+    "word": "strait",
+    "kk": "[stret]",
+    "pos": "n.",
+    "meaning": "海峽",
+    "examples": [
+      { "en": "The Taiwan Strait lies to the west.", "zh": "台灣海峽位於西方。" },
+      { "en": "Many ships cross the strait daily.", "zh": "每天有許多船隻通過這個海峽。" }
+    ],
+    "img": "sea strait between two lands",
+    "theme": "地理國家",
+    "level": 3
+  },
+  {
+    "word": "territory",
+    "kk": "[ˈtɛrəˌtɔrɪ]",
+    "pos": "n.",
+    "meaning": "領土;領地",
+    "examples": [
+      { "en": "The island is part of their territory.", "zh": "這座島是他們領土的一部分。" },
+      { "en": "Each country protects its own territory.", "zh": "每個國家都保護自己的領土。" }
+    ],
+    "img": "map country territory borders",
+    "theme": "地理國家",
+    "level": 3
+  },
+  {
+    "word": "location",
+    "kk": "[loˈkeʃən]",
+    "pos": "n.",
+    "meaning": "位置;地點",
+    "examples": [
+      { "en": "The shop is in a great location.", "zh": "這家店位置很好。" },
+      { "en": "Can you mark the location on the map?", "zh": "你能在地圖上標出位置嗎?" }
+    ],
+    "img": "map pin location marker",
+    "theme": "地理國家",
+    "level": 2
+  },
+  {
+    "word": "distance",
+    "kk": "[ˈdɪstəns]",
+    "pos": "n.",
+    "meaning": "距離",
+    "examples": [
+      { "en": "What is the distance between the two cities?", "zh": "兩個城市之間的距離是多少?" },
+      { "en": "We saw the mountain in the distance.", "zh": "我們看見遠方的山。" }
+    ],
+    "img": "measuring distance map ruler",
+    "theme": "地理國家",
+    "level": 2
+  },
+  {
+    "word": "route",
+    "kk": "[rut]",
+    "pos": "n.",
+    "meaning": "路線;路徑",
+    "examples": [
+      { "en": "We took the shortest route home.", "zh": "我們走了最短的路線回家。" },
+      { "en": "The map shows several routes.", "zh": "地圖上顯示了好幾條路線。" }
+    ],
+    "img": "map route path highlighted",
+    "theme": "地理國家",
+    "level": 2
+  },
+  {
+    "word": "boundary",
+    "kk": "[ˈbaʊndrɪ]",
+    "pos": "n.",
+    "meaning": "邊界;分界線",
+    "examples": [
+      { "en": "The river forms the boundary between them.", "zh": "這條河是他們之間的分界線。" },
+      { "en": "A fence marks the boundary of the farm.", "zh": "一道籬笆標示出農場的邊界。" }
+    ],
+    "img": "boundary line fence field",
+    "theme": "地理國家",
+    "level": 3
+  },
+  {
+    "word": "landmass",
+    "kk": "[ˈlændˌmæs]",
+    "pos": "n.",
+    "meaning": "陸塊;大片陸地",
+    "examples": [
+      { "en": "Asia is a huge landmass.", "zh": "亞洲是一大片陸地。" },
+      { "en": "The two landmasses were once joined.", "zh": "這兩塊陸地曾經連在一起。" }
+    ],
+    "img": "large continent landmass map",
+    "theme": "地理國家",
+    "level": 3
+  },
+  {
+    "word": "mainland",
+    "kk": "[ˈmenˌlænd]",
+    "pos": "n.",
+    "meaning": "本土;大陸",
+    "examples": [
+      { "en": "A ferry runs between the island and the mainland.", "zh": "有渡輪往返於島嶼和本土之間。" },
+      { "en": "Most people live on the mainland.", "zh": "大多數人住在本土。" }
+    ],
+    "img": "mainland coast ferry island",
+    "theme": "地理國家",
+    "level": 3
+  },
+  {
+    "word": "hemisphere",
+    "kk": "[ˈhɛməsˌfɪr]",
+    "pos": "n.",
+    "meaning": "半球",
+    "examples": [
+      { "en": "Taiwan is in the northern hemisphere.", "zh": "台灣位於北半球。" },
+      { "en": "Seasons differ in each hemisphere.", "zh": "每個半球的季節都不同。" }
+    ],
+    "img": "earth northern southern hemisphere",
+    "theme": "地理國家",
+    "level": 3
+  },
+  {
+    "word": "latitude",
+    "kk": "[ˈlætəˌtud]",
+    "pos": "n.",
+    "meaning": "緯度",
+    "examples": [
+      { "en": "Cities at the same latitude may feel alike.", "zh": "同緯度的城市感覺可能相似。" },
+      { "en": "Low latitude areas are usually warm.", "zh": "低緯度地區通常很溫暖。" }
+    ],
+    "img": "globe latitude lines horizontal",
+    "theme": "地理國家",
+    "level": 3
+  },
+  {
+    "word": "longitude",
+    "kk": "[ˈlɑndʒəˌtud]",
+    "pos": "n.",
+    "meaning": "經度",
+    "examples": [
+      { "en": "Longitude lines run from pole to pole.", "zh": "經線從一極延伸到另一極。" },
+      { "en": "We used longitude to find the ship.", "zh": "我們用經度來找到那艘船。" }
+    ],
+    "img": "globe longitude lines vertical",
+    "theme": "地理國家",
+    "level": 3
+  },
+  {
+    "word": "pole",
+    "kk": "[pol]",
+    "pos": "n.",
+    "meaning": "極;極地",
+    "examples": [
+      { "en": "It is very cold at the North Pole.", "zh": "北極非常寒冷。" },
+      { "en": "Penguins live near the South Pole.", "zh": "企鵝住在南極附近。" }
+    ],
+    "img": "icy north pole earth",
+    "theme": "地理國家",
+    "level": 2
+  },
+  {
+    "word": "atlas",
+    "kk": "[ˈætləs]",
+    "pos": "n.",
+    "meaning": "地圖集",
+    "examples": [
+      { "en": "I looked up the country in an atlas.", "zh": "我在地圖集裡查這個國家。" },
+      { "en": "The atlas has maps of every continent.", "zh": "這本地圖集有每個大洲的地圖。" }
+    ],
+    "img": "open world atlas book",
+    "theme": "地理國家",
+    "level": 3
+  },
+  {
+    "word": "landmark",
+    "kk": "[ˈlændˌmɑrk]",
+    "pos": "n.",
+    "meaning": "地標",
+    "examples": [
+      { "en": "Taipei 101 is a famous landmark.", "zh": "台北101是著名的地標。" },
+      { "en": "We used the tower as a landmark.", "zh": "我們把那座塔當作地標。" }
+    ],
+    "img": "famous city landmark tower",
+    "theme": "地理國家",
+    "level": 2
+  },
+  {
+    "word": "zone",
+    "kk": "[zon]",
+    "pos": "n.",
+    "meaning": "地帶;區域",
+    "examples": [
+      { "en": "This is a quiet zone for reading.", "zh": "這是個安靜的閱讀區。" },
+      { "en": "The tropical zone is hot all year.", "zh": "熱帶地帶全年炎熱。" }
+    ],
+    "img": "map colored zone areas",
+    "theme": "地理國家",
+    "level": 2
+  },
+  {
+    "word": "population",
+    "kk": "[ˌpɑpjəˈleʃən]",
+    "pos": "n.",
+    "meaning": "人口",
+    "examples": [
+      { "en": "China has a huge population.", "zh": "中國有龐大的人口。" },
+      { "en": "The town's population is growing fast.", "zh": "這個鎮的人口正快速增長。" }
+    ],
+    "img": "crowd of people population",
+    "theme": "地理國家",
+    "level": 2
+  },
+  {
+    "word": "empire",
+    "kk": "[ˈɛmpaɪr]",
+    "pos": "n.",
+    "meaning": "帝國",
+    "examples": [
+      { "en": "The empire ruled many lands.", "zh": "這個帝國統治了許多土地。" },
+      { "en": "Rome was once a great empire.", "zh": "羅馬曾是個偉大的帝國。" }
+    ],
+    "img": "ancient empire map crown",
+    "theme": "地理國家",
+    "level": 3
+  },
+  {
+    "word": "kingdom",
+    "kk": "[ˈkɪŋdəm]",
+    "pos": "n.",
+    "meaning": "王國",
+    "examples": [
+      { "en": "The kingdom was ruled by a kind queen.", "zh": "這個王國由一位仁慈的女王統治。" },
+      { "en": "Thailand is a kingdom in Asia.", "zh": "泰國是亞洲的一個王國。" }
+    ],
+    "img": "castle kingdom flag crown",
+    "theme": "地理國家",
+    "level": 2
+  },
+  {
+    "word": "colony",
+    "kk": "[ˈkɑlənɪ]",
+    "pos": "n.",
+    "meaning": "殖民地",
+    "examples": [
+      { "en": "The island was once a colony.", "zh": "這座島曾經是殖民地。" },
+      { "en": "The colony fought for its freedom.", "zh": "這個殖民地為自由而戰。" }
+    ],
+    "img": "old colony flag map",
+    "theme": "地理國家",
+    "level": 3
+  },
+  {
+    "word": "province",
+    "kk": "[ˈprɑvɪns]",
+    "pos": "n.",
+    "meaning": "省;省份",
+    "examples": [
+      { "en": "This province is known for its rice.", "zh": "這個省份以稻米聞名。" },
+      { "en": "Canada has ten provinces.", "zh": "加拿大有十個省。" }
+    ],
+    "img": "map province region divided",
+    "theme": "地理國家",
+    "level": 3
+  },
+  {
+    "word": "overseas",
+    "kk": "[ˈovɚˌsiz]",
+    "pos": "adj.",
+    "meaning": "海外的;國外的",
+    "examples": [
+      { "en": "She has an overseas job in Japan.", "zh": "她在日本有一份海外工作。" },
+      { "en": "They sent goods to overseas markets.", "zh": "他們把商品送到海外市場。" }
+    ],
+    "img": "airplane overseas travel globe",
+    "theme": "地理國家",
+    "level": 3
+  },
+  {
+    "word": "abroad",
+    "kk": "[əˈbrɔd]",
+    "pos": "adv.",
+    "meaning": "在國外;到國外",
+    "examples": [
+      { "en": "He studied abroad for two years.", "zh": "他在國外讀了兩年書。" },
+      { "en": "Many people travel abroad in summer.", "zh": "許多人在夏天出國旅行。" }
+    ],
+    "img": "passport suitcase abroad travel",
+    "theme": "地理國家",
+    "level": 2
+  },
+  {
+    "word": "foreign",
+    "kk": "[ˈfɔrɪn]",
+    "pos": "adj.",
+    "meaning": "外國的",
+    "examples": [
+      { "en": "She speaks three foreign languages.", "zh": "她會說三種外語。" },
+      { "en": "Foreign visitors love the night market.", "zh": "外國遊客喜歡夜市。" }
+    ],
+    "img": "foreign flags passport world",
+    "theme": "地理國家",
+    "level": 2
+  },
+  {
+    "word": "national",
+    "kk": "[ˈnæʃənl̩]",
+    "pos": "adj.",
+    "meaning": "國家的;全國的",
+    "examples": [
+      { "en": "We watched the national flag rise.", "zh": "我們看著國旗升起。" },
+      { "en": "It is a national holiday today.", "zh": "今天是國定假日。" }
+    ],
+    "img": "national flag pole ceremony",
+    "theme": "地理國家",
+    "level": 2
+  }
+]

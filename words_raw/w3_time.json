@@ -1,0 +1,639 @@
+[
+  {
+    "word": "morning",
+    "kk": "[ˈmɔrnɪŋ]",
+    "pos": "n.",
+    "meaning": "早上;上午",
+    "examples": [
+      { "en": "I drink coffee every morning.", "zh": "我每天早上都喝咖啡。" },
+      { "en": "See you tomorrow morning!", "zh": "明天早上見!" }
+    ],
+    "img": "sunrise over city skyline with coffee cup",
+    "theme": "時間日期",
+    "level": 1
+  },
+  {
+    "word": "afternoon",
+    "kk": "[ˌæftɚˈnun]",
+    "pos": "n.",
+    "meaning": "下午",
+    "examples": [
+      { "en": "Let's meet this afternoon.", "zh": "我們下午碰面吧。" },
+      { "en": "The afternoon went by so fast.", "zh": "這個下午過得好快。" }
+    ],
+    "img": "afternoon sun through office window clock",
+    "theme": "時間日期",
+    "level": 1
+  },
+  {
+    "word": "evening",
+    "kk": "[ˈivnɪŋ]",
+    "pos": "n.",
+    "meaning": "傍晚;晚上",
+    "examples": [
+      { "en": "We watch TV in the evening.", "zh": "我們晚上看電視。" },
+      { "en": "Have a nice evening!", "zh": "祝你有個愉快的夜晚!" }
+    ],
+    "img": "warm evening living room sunset window",
+    "theme": "時間日期",
+    "level": 1
+  },
+  {
+    "word": "night",
+    "kk": "[naɪt]",
+    "pos": "n.",
+    "meaning": "夜晚",
+    "examples": [
+      { "en": "I sleep eight hours a night.", "zh": "我每晚睡八小時。" },
+      { "en": "Good night, sweet dreams.", "zh": "晚安,好夢。" }
+    ],
+    "img": "night sky full moon stars city",
+    "theme": "時間日期",
+    "level": 1
+  },
+  {
+    "word": "noon",
+    "kk": "[nun]",
+    "pos": "n.",
+    "meaning": "中午;正午",
+    "examples": [
+      { "en": "We have lunch at noon.", "zh": "我們中午吃午餐。" },
+      { "en": "The store opens at noon.", "zh": "這家店中午開門。" }
+    ],
+    "img": "clock showing twelve bright midday sun",
+    "theme": "時間日期",
+    "level": 1
+  },
+  {
+    "word": "midnight",
+    "kk": "[ˈmɪdˌnaɪt]",
+    "pos": "n.",
+    "meaning": "午夜;半夜",
+    "examples": [
+      { "en": "The party ends at midnight.", "zh": "派對在午夜結束。" },
+      { "en": "She stayed up past midnight.", "zh": "她熬夜到過了午夜。" }
+    ],
+    "img": "dark clock striking twelve midnight moon",
+    "theme": "時間日期",
+    "level": 2
+  },
+  {
+    "word": "dawn",
+    "kk": "[dɔn]",
+    "pos": "n.",
+    "meaning": "黎明;破曉",
+    "examples": [
+      { "en": "We left at dawn.", "zh": "我們在黎明時出發。" },
+      { "en": "Birds sing at dawn.", "zh": "鳥兒在破曉時歌唱。" }
+    ],
+    "img": "first light dawn over misty mountains",
+    "theme": "時間日期",
+    "level": 3
+  },
+  {
+    "word": "dusk",
+    "kk": "[dʌsk]",
+    "pos": "n.",
+    "meaning": "黃昏;傍晚",
+    "examples": [
+      { "en": "Street lights turn on at dusk.", "zh": "路燈在黃昏時亮起。" },
+      { "en": "We walked home at dusk.", "zh": "我們在黃昏時走路回家。" }
+    ],
+    "img": "purple dusk sky silhouette trees streetlight",
+    "theme": "時間日期",
+    "level": 3
+  },
+  {
+    "word": "Monday",
+    "kk": "[ˈmʌnˌde]",
+    "pos": "n.",
+    "meaning": "星期一",
+    "examples": [
+      { "en": "I hate Monday mornings.", "zh": "我討厭星期一早上。" },
+      { "en": "The meeting is on Monday.", "zh": "會議在星期一。" }
+    ],
+    "img": "calendar page marked Monday desk office",
+    "theme": "時間日期",
+    "level": 1
+  },
+  {
+    "word": "Tuesday",
+    "kk": "[ˈtjuzde]",
+    "pos": "n.",
+    "meaning": "星期二",
+    "examples": [
+      { "en": "Class starts on Tuesday.", "zh": "課程在星期二開始。" },
+      { "en": "Tuesday is my day off.", "zh": "星期二是我的休假日。" }
+    ],
+    "img": "calendar highlighting Tuesday week planner",
+    "theme": "時間日期",
+    "level": 1
+  },
+  {
+    "word": "Wednesday",
+    "kk": "[ˈwɛnzde]",
+    "pos": "n.",
+    "meaning": "星期三",
+    "examples": [
+      { "en": "Wednesday is the middle of the week.", "zh": "星期三是一週的中間。" },
+      { "en": "Let's grab lunch on Wednesday.", "zh": "我們星期三一起吃午餐吧。" }
+    ],
+    "img": "midweek calendar Wednesday circled coffee",
+    "theme": "時間日期",
+    "level": 2
+  },
+  {
+    "word": "Thursday",
+    "kk": "[ˈθɝzde]",
+    "pos": "n.",
+    "meaning": "星期四",
+    "examples": [
+      { "en": "The test is this Thursday.", "zh": "考試在這個星期四。" },
+      { "en": "Thursday feels almost like Friday.", "zh": "星期四感覺快像星期五了。" }
+    ],
+    "img": "weekly planner Thursday marked pen",
+    "theme": "時間日期",
+    "level": 2
+  },
+  {
+    "word": "Friday",
+    "kk": "[ˈfraɪde]",
+    "pos": "n.",
+    "meaning": "星期五",
+    "examples": [
+      { "en": "Thank God it's Friday!", "zh": "感謝老天,星期五了!" },
+      { "en": "We party every Friday night.", "zh": "我們每個星期五晚上都狂歡。" }
+    ],
+    "img": "happy Friday calendar weekend celebration",
+    "theme": "時間日期",
+    "level": 1
+  },
+  {
+    "word": "Saturday",
+    "kk": "[ˈsætɚde]",
+    "pos": "n.",
+    "meaning": "星期六",
+    "examples": [
+      { "en": "I sleep in on Saturday.", "zh": "我星期六會睡懶覺。" },
+      { "en": "Saturday is for shopping.", "zh": "星期六是購物日。" }
+    ],
+    "img": "relaxing Saturday morning bed weekend calendar",
+    "theme": "時間日期",
+    "level": 1
+  },
+  {
+    "word": "Sunday",
+    "kk": "[ˈsʌnde]",
+    "pos": "n.",
+    "meaning": "星期日",
+    "examples": [
+      { "en": "We have brunch on Sunday.", "zh": "我們星期日吃早午餐。" },
+      { "en": "Sunday is a lazy day.", "zh": "星期日是慵懶的一天。" }
+    ],
+    "img": "cozy Sunday brunch table calendar",
+    "theme": "時間日期",
+    "level": 1
+  },
+  {
+    "word": "weekend",
+    "kk": "[ˈwikˌɛnd]",
+    "pos": "n.",
+    "meaning": "週末",
+    "examples": [
+      { "en": "What are your weekend plans?", "zh": "你週末有什麼計畫?" },
+      { "en": "Have a great weekend!", "zh": "祝你有個美好的週末!" }
+    ],
+    "img": "weekend getaway suitcase calendar Saturday Sunday",
+    "theme": "時間日期",
+    "level": 1
+  },
+  {
+    "word": "weekday",
+    "kk": "[ˈwikˌde]",
+    "pos": "n.",
+    "meaning": "平日;工作日",
+    "examples": [
+      { "en": "The gym is quiet on weekdays.", "zh": "健身房平日很安靜。" },
+      { "en": "I work five weekdays a week.", "zh": "我一週工作五個平日。" }
+    ],
+    "img": "busy weekday commute office workers clock",
+    "theme": "時間日期",
+    "level": 2
+  },
+  {
+    "word": "January",
+    "kk": "[ˈdʒænjuˌɛri]",
+    "pos": "n.",
+    "meaning": "一月",
+    "examples": [
+      { "en": "My birthday is in January.", "zh": "我的生日在一月。" },
+      { "en": "January is very cold here.", "zh": "這裡的一月非常冷。" }
+    ],
+    "img": "January calendar snow new year page",
+    "theme": "時間日期",
+    "level": 1
+  },
+  {
+    "word": "February",
+    "kk": "[ˈfɛbruˌɛri]",
+    "pos": "n.",
+    "meaning": "二月",
+    "examples": [
+      { "en": "Valentine's Day is in February.", "zh": "情人節在二月。" },
+      { "en": "February is the shortest month.", "zh": "二月是最短的月份。" }
+    ],
+    "img": "February calendar heart valentine page",
+    "theme": "時間日期",
+    "level": 2
+  },
+  {
+    "word": "March",
+    "kk": "[mɑrtʃ]",
+    "pos": "n.",
+    "meaning": "三月",
+    "examples": [
+      { "en": "Spring begins in March.", "zh": "春天在三月開始。" },
+      { "en": "We move houses in March.", "zh": "我們三月要搬家。" }
+    ],
+    "img": "March calendar spring blossom flowers page",
+    "theme": "時間日期",
+    "level": 1
+  },
+  {
+    "word": "April",
+    "kk": "[ˈeprəl]",
+    "pos": "n.",
+    "meaning": "四月",
+    "examples": [
+      { "en": "April showers bring May flowers.", "zh": "四月的雨帶來五月的花。" },
+      { "en": "The trip is planned for April.", "zh": "這趟旅行計畫在四月。" }
+    ],
+    "img": "April calendar rain umbrella green page",
+    "theme": "時間日期",
+    "level": 1
+  },
+  {
+    "word": "May",
+    "kk": "[me]",
+    "pos": "n.",
+    "meaning": "五月",
+    "examples": [
+      { "en": "Mother's Day is in May.", "zh": "母親節在五月。" },
+      { "en": "The weather is nice in May.", "zh": "五月的天氣很好。" }
+    ],
+    "img": "May calendar carnation flowers sunny page",
+    "theme": "時間日期",
+    "level": 1
+  },
+  {
+    "word": "June",
+    "kk": "[dʒun]",
+    "pos": "n.",
+    "meaning": "六月",
+    "examples": [
+      { "en": "School ends in June.", "zh": "學校在六月放假。" },
+      { "en": "Many weddings happen in June.", "zh": "很多婚禮在六月舉行。" }
+    ],
+    "img": "June calendar summer wedding sunshine page",
+    "theme": "時間日期",
+    "level": 1
+  },
+  {
+    "word": "July",
+    "kk": "[dʒʊˈlaɪ]",
+    "pos": "n.",
+    "meaning": "七月",
+    "examples": [
+      { "en": "We go to the beach in July.", "zh": "我們七月去海邊。" },
+      { "en": "July is the hottest month.", "zh": "七月是最熱的月份。" }
+    ],
+    "img": "July calendar beach sun summer page",
+    "theme": "時間日期",
+    "level": 1
+  },
+  {
+    "word": "August",
+    "kk": "[ˈɔgəst]",
+    "pos": "n.",
+    "meaning": "八月",
+    "examples": [
+      { "en": "My vacation starts in August.", "zh": "我的假期在八月開始。" },
+      { "en": "August is still very hot.", "zh": "八月還是很熱。" }
+    ],
+    "img": "August calendar summer vacation palm page",
+    "theme": "時間日期",
+    "level": 1
+  },
+  {
+    "word": "September",
+    "kk": "[sɛpˈtɛmbɚ]",
+    "pos": "n.",
+    "meaning": "九月",
+    "examples": [
+      { "en": "The new term starts in September.", "zh": "新學期在九月開始。" },
+      { "en": "September brings cooler air.", "zh": "九月帶來較涼的空氣。" }
+    ],
+    "img": "September calendar autumn leaves school page",
+    "theme": "時間日期",
+    "level": 2
+  },
+  {
+    "word": "October",
+    "kk": "[ɑkˈtobɚ]",
+    "pos": "n.",
+    "meaning": "十月",
+    "examples": [
+      { "en": "Halloween is in October.", "zh": "萬聖節在十月。" },
+      { "en": "The leaves turn red in October.", "zh": "葉子在十月變紅。" }
+    ],
+    "img": "October calendar pumpkin autumn leaves page",
+    "theme": "時間日期",
+    "level": 2
+  },
+  {
+    "word": "November",
+    "kk": "[noˈvɛmbɚ]",
+    "pos": "n.",
+    "meaning": "十一月",
+    "examples": [
+      { "en": "It gets dark early in November.", "zh": "十一月天黑得早。" },
+      { "en": "Thanksgiving is in November.", "zh": "感恩節在十一月。" }
+    ],
+    "img": "November calendar bare trees grey autumn page",
+    "theme": "時間日期",
+    "level": 2
+  },
+  {
+    "word": "December",
+    "kk": "[dɪˈsɛmbɚ]",
+    "pos": "n.",
+    "meaning": "十二月",
+    "examples": [
+      { "en": "Christmas is in December.", "zh": "聖誕節在十二月。" },
+      { "en": "December is the last month.", "zh": "十二月是最後一個月。" }
+    ],
+    "img": "December calendar snow christmas tree page",
+    "theme": "時間日期",
+    "level": 1
+  },
+  {
+    "word": "always",
+    "kk": "[ˈɔlˌwez]",
+    "pos": "adv.",
+    "meaning": "總是;一直",
+    "examples": [
+      { "en": "She is always on time.", "zh": "她總是準時。" },
+      { "en": "I always brush my teeth at night.", "zh": "我晚上總是刷牙。" }
+    ],
+    "img": "person repeating routine every day loop icon",
+    "theme": "時間日期",
+    "level": 1
+  },
+  {
+    "word": "usually",
+    "kk": "[ˈjuʒʊəli]",
+    "pos": "adv.",
+    "meaning": "通常;經常",
+    "examples": [
+      { "en": "I usually wake up at seven.", "zh": "我通常七點起床。" },
+      { "en": "We usually eat dinner together.", "zh": "我們通常一起吃晚餐。" }
+    ],
+    "img": "daily routine clock most days frequency chart",
+    "theme": "時間日期",
+    "level": 2
+  },
+  {
+    "word": "often",
+    "kk": "[ˈɔfən]",
+    "pos": "adv.",
+    "meaning": "常常;經常",
+    "examples": [
+      { "en": "We often go hiking.", "zh": "我們常常去健行。" },
+      { "en": "He often calls his mom.", "zh": "他常常打電話給媽媽。" }
+    ],
+    "img": "repeated events marked calendar frequency arrows",
+    "theme": "時間日期",
+    "level": 1
+  },
+  {
+    "word": "sometimes",
+    "kk": "[ˈsʌmˌtaɪmz]",
+    "pos": "adv.",
+    "meaning": "有時候",
+    "examples": [
+      { "en": "Sometimes I cook at home.", "zh": "有時候我在家煮飯。" },
+      { "en": "She sometimes forgets her keys.", "zh": "她有時候會忘記帶鑰匙。" }
+    ],
+    "img": "occasional calendar dots scattered frequency",
+    "theme": "時間日期",
+    "level": 1
+  },
+  {
+    "word": "rarely",
+    "kk": "[ˈrɛrli]",
+    "pos": "adv.",
+    "meaning": "很少;難得",
+    "examples": [
+      { "en": "I rarely eat fast food.", "zh": "我很少吃速食。" },
+      { "en": "He rarely gets angry.", "zh": "他很少生氣。" }
+    ],
+    "img": "nearly empty calendar single mark seldom",
+    "theme": "時間日期",
+    "level": 3
+  },
+  {
+    "word": "never",
+    "kk": "[ˈnɛvɚ]",
+    "pos": "adv.",
+    "meaning": "從不;絕不",
+    "examples": [
+      { "en": "I never smoke.", "zh": "我從不抽菸。" },
+      { "en": "She never gives up.", "zh": "她絕不放棄。" }
+    ],
+    "img": "crossed out calendar zero frequency never sign",
+    "theme": "時間日期",
+    "level": 1
+  },
+  {
+    "word": "daily",
+    "kk": "[ˈdeli]",
+    "pos": "adv./adj.",
+    "meaning": "每天;每日的",
+    "examples": [
+      { "en": "I exercise daily.", "zh": "我每天運動。" },
+      { "en": "This is my daily routine.", "zh": "這是我的每日例行公事。" }
+    ],
+    "img": "daily habit checklist calendar every day",
+    "theme": "時間日期",
+    "level": 2
+  },
+  {
+    "word": "weekly",
+    "kk": "[ˈwikli]",
+    "pos": "adv./adj.",
+    "meaning": "每週;每週的",
+    "examples": [
+      { "en": "We have a weekly meeting.", "zh": "我們每週開一次會。" },
+      { "en": "I clean my room weekly.", "zh": "我每週打掃房間。" }
+    ],
+    "img": "weekly planner seven day schedule grid",
+    "theme": "時間日期",
+    "level": 2
+  },
+  {
+    "word": "monthly",
+    "kk": "[ˈmʌnθli]",
+    "pos": "adv./adj.",
+    "meaning": "每月;每月的",
+    "examples": [
+      { "en": "I pay the rent monthly.", "zh": "我每月付房租。" },
+      { "en": "She gets a monthly salary.", "zh": "她領月薪。" }
+    ],
+    "img": "monthly bill calendar payment cycle",
+    "theme": "時間日期",
+    "level": 2
+  },
+  {
+    "word": "yearly",
+    "kk": "[ˈjɪrli]",
+    "pos": "adv./adj.",
+    "meaning": "每年;每年的",
+    "examples": [
+      { "en": "We take a yearly trip.", "zh": "我們每年去旅行一次。" },
+      { "en": "The event is held yearly.", "zh": "這個活動每年舉辦。" }
+    ],
+    "img": "yearly calendar four seasons annual cycle",
+    "theme": "時間日期",
+    "level": 3
+  },
+  {
+    "word": "deadline",
+    "kk": "[ˈdɛdˌlaɪn]",
+    "pos": "n.",
+    "meaning": "截止日期;期限",
+    "examples": [
+      { "en": "The deadline is next Friday.", "zh": "截止日期是下星期五。" },
+      { "en": "I met the deadline just in time.", "zh": "我剛好趕上截止期限。" }
+    ],
+    "img": "red circled due date calendar stressed clock",
+    "theme": "時間日期",
+    "level": 2
+  },
+  {
+    "word": "due",
+    "kk": "[dju]",
+    "pos": "adj.",
+    "meaning": "到期的;預定的",
+    "examples": [
+      { "en": "The report is due tomorrow.", "zh": "報告明天到期。" },
+      { "en": "Rent is due on the first.", "zh": "房租一號到期。" }
+    ],
+    "img": "due date stamp calendar payment reminder",
+    "theme": "時間日期",
+    "level": 3
+  },
+  {
+    "word": "schedule",
+    "kk": "[ˈskɛdʒʊl]",
+    "pos": "n./v.",
+    "meaning": "時間表;安排時間",
+    "examples": [
+      { "en": "Check your schedule first.", "zh": "先看看你的行程表。" },
+      { "en": "Let's schedule a meeting.", "zh": "我們來安排一場會議。" }
+    ],
+    "img": "weekly planner time blocks agenda calendar",
+    "theme": "時間日期",
+    "level": 2
+  },
+  {
+    "word": "recently",
+    "kk": "[ˈrisntli]",
+    "pos": "adv.",
+    "meaning": "最近;近來",
+    "examples": [
+      { "en": "I recently moved to Taipei.", "zh": "我最近搬到台北。" },
+      { "en": "Have you seen him recently?", "zh": "你最近有看到他嗎?" }
+    ],
+    "img": "recent past timeline arrow near now calendar",
+    "theme": "時間日期",
+    "level": 2
+  },
+  {
+    "word": "already",
+    "kk": "[ɔlˈrɛdi]",
+    "pos": "adv.",
+    "meaning": "已經",
+    "examples": [
+      { "en": "I already finished my homework.", "zh": "我已經寫完功課了。" },
+      { "en": "The train has already left.", "zh": "火車已經開走了。" }
+    ],
+    "img": "checkmark done task timeline earlier clock",
+    "theme": "時間日期",
+    "level": 2
+  },
+  {
+    "word": "soon",
+    "kk": "[sun]",
+    "pos": "adv.",
+    "meaning": "很快;不久",
+    "examples": [
+      { "en": "I will call you soon.", "zh": "我很快會打給你。" },
+      { "en": "The bus should come soon.", "zh": "公車應該很快就來。" }
+    ],
+    "img": "near future arrow clock fast approaching time",
+    "theme": "時間日期",
+    "level": 1
+  },
+  {
+    "word": "later",
+    "kk": "[ˈletɚ]",
+    "pos": "adv.",
+    "meaning": "稍後;之後",
+    "examples": [
+      { "en": "I'll text you later.", "zh": "我稍後傳訊息給你。" },
+      { "en": "See you later!", "zh": "待會見!" }
+    ],
+    "img": "clock arrow pointing forward future time later",
+    "theme": "時間日期",
+    "level": 1
+  },
+  {
+    "word": "yesterday",
+    "kk": "[ˈjɛstɚˌde]",
+    "pos": "adv./n.",
+    "meaning": "昨天",
+    "examples": [
+      { "en": "I saw her yesterday.", "zh": "我昨天看到她。" },
+      { "en": "Yesterday was so busy.", "zh": "昨天好忙。" }
+    ],
+    "img": "calendar previous day past date arrow back",
+    "theme": "時間日期",
+    "level": 1
+  },
+  {
+    "word": "tomorrow",
+    "kk": "[təˈmɔro]",
+    "pos": "adv./n.",
+    "meaning": "明天",
+    "examples": [
+      { "en": "The exam is tomorrow.", "zh": "考試在明天。" },
+      { "en": "Let's finish it tomorrow.", "zh": "我們明天再完成吧。" }
+    ],
+    "img": "calendar next day future date arrow forward",
+    "theme": "時間日期",
+    "level": 1
+  },
+  {
+    "word": "meanwhile",
+    "kk": "[ˈminˌhwaɪl]",
+    "pos": "adv.",
+    "meaning": "同時;與此同時",
+    "examples": [
+      { "en": "Meanwhile, I made some tea.", "zh": "同時,我泡了些茶。" },
+      { "en": "You wait here; meanwhile I'll park.", "zh": "你在這等,同時我去停車。" }
+    ],
+    "img": "two clocks side by side simultaneous events",
+    "theme": "時間日期",
+    "level": 3
+  }
+]

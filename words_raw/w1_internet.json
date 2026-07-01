@@ -1,0 +1,652 @@
+[
+  {
+    "word": "post",
+    "kk": "[post]",
+    "pos": "n./v.",
+    "meaning": "貼文;發文",
+    "examples": [
+      { "en": "I just saw your post about the trip. It looks amazing!", "zh": "我剛看到你那篇關於旅行的貼文,看起來超棒的!" },
+      { "en": "She posts a new photo every single day.", "zh": "她每天都發一張新照片。" }
+    ],
+    "img": "smartphone showing a social media post",
+    "theme": "網路社群",
+    "level": 1
+  },
+  {
+    "word": "like",
+    "kk": "[laɪk]",
+    "pos": "n./v.",
+    "meaning": "按讚;讚",
+    "examples": [
+      { "en": "Don't forget to like and share the video.", "zh": "別忘了幫影片按讚跟分享。" },
+      { "en": "My post got over a hundred likes!", "zh": "我的貼文獲得超過一百個讚!" }
+    ],
+    "img": "thumbs up like button",
+    "theme": "網路社群",
+    "level": 1
+  },
+  {
+    "word": "follow",
+    "kk": "[ˈfɑlo]",
+    "pos": "v.",
+    "meaning": "追蹤",
+    "examples": [
+      { "en": "Follow me for more cooking tips!", "zh": "追蹤我看更多料理小技巧!" },
+      { "en": "I follow a few travel bloggers online.", "zh": "我在網路上追蹤幾個旅遊部落客。" }
+    ],
+    "img": "follow button on phone screen",
+    "theme": "網路社群",
+    "level": 1
+  },
+  {
+    "word": "follower",
+    "kk": "[ˈfɑloɚ]",
+    "pos": "n.",
+    "meaning": "追蹤者;粉絲",
+    "examples": [
+      { "en": "She has more than a million followers now.", "zh": "她現在有超過一百萬個追蹤者。" },
+      { "en": "How did you get so many followers?", "zh": "你是怎麼獲得這麼多追蹤者的?" }
+    ],
+    "img": "crowd of social media followers icons",
+    "theme": "網路社群",
+    "level": 2
+  },
+  {
+    "word": "comment",
+    "kk": "[ˈkɑmɛnt]",
+    "pos": "n./v.",
+    "meaning": "留言;評論",
+    "examples": [
+      { "en": "Leave a comment and tell me what you think.", "zh": "留個言告訴我你的想法。" },
+      { "en": "Someone left a mean comment on my photo.", "zh": "有人在我的照片下留了難聽的評論。" }
+    ],
+    "img": "comment bubble on a post",
+    "theme": "網路社群",
+    "level": 1
+  },
+  {
+    "word": "share",
+    "kk": "[ʃɛr]",
+    "pos": "v./n.",
+    "meaning": "分享",
+    "examples": [
+      { "en": "Can you share this article with your friends?", "zh": "你可以把這篇文章分享給你的朋友嗎?" },
+      { "en": "This post already has thousands of shares.", "zh": "這篇貼文已經被分享上千次了。" }
+    ],
+    "img": "share arrow icon",
+    "theme": "網路社群",
+    "level": 1
+  },
+  {
+    "word": "message",
+    "kk": "[ˈmɛsɪdʒ]",
+    "pos": "n./v.",
+    "meaning": "訊息;傳訊息",
+    "examples": [
+      { "en": "I sent you a message but you didn't reply.", "zh": "我傳了訊息給你,但你沒回。" },
+      { "en": "Just message me when you're free.", "zh": "你有空時傳個訊息給我就好。" }
+    ],
+    "img": "chat message notification",
+    "theme": "網路社群",
+    "level": 1
+  },
+  {
+    "word": "live stream",
+    "kk": "[laɪv strim]",
+    "pos": "n.",
+    "meaning": "直播",
+    "examples": [
+      { "en": "Her live stream starts at eight tonight.", "zh": "她今晚八點開始直播。" },
+      { "en": "I missed the live stream, but I watched the replay.", "zh": "我錯過了直播,但我看了重播。" }
+    ],
+    "img": "phone showing a live stream broadcast",
+    "theme": "網路社群",
+    "level": 2
+  },
+  {
+    "word": "go live",
+    "kk": "[go laɪv]",
+    "pos": "phr.",
+    "meaning": "開直播",
+    "examples": [
+      { "en": "I'm going to go live in five minutes, so stay tuned!", "zh": "我五分鐘後要開直播,敬請鎖定!" },
+      { "en": "He goes live every Friday night.", "zh": "他每週五晚上都開直播。" }
+    ],
+    "img": "live broadcast button glowing red",
+    "theme": "網路社群",
+    "level": 2
+  },
+  {
+    "word": "meme",
+    "kk": "[mim]",
+    "pos": "n.",
+    "meaning": "迷因;梗圖",
+    "examples": [
+      { "en": "This meme is so funny I can't stop laughing.", "zh": "這個迷因太好笑了,我笑到停不下來。" },
+      { "en": "He sends me memes all day long.", "zh": "他整天傳梗圖給我。" }
+    ],
+    "img": "funny internet meme image",
+    "theme": "網路社群",
+    "level": 2
+  },
+  {
+    "word": "hashtag",
+    "kk": "[ˈhæʃˌtæɡ]",
+    "pos": "n.",
+    "meaning": "主題標籤;井字標籤",
+    "examples": [
+      { "en": "Add a hashtag so more people can find your post.", "zh": "加個主題標籤,讓更多人能找到你的貼文。" },
+      { "en": "That hashtag is trending right now.", "zh": "那個主題標籤現在正在熱門中。" }
+    ],
+    "img": "hashtag symbol on screen",
+    "theme": "網路社群",
+    "level": 2
+  },
+  {
+    "word": "profile",
+    "kk": "[ˈprofaɪl]",
+    "pos": "n.",
+    "meaning": "個人檔案;個人頁面",
+    "examples": [
+      { "en": "I updated my profile with a new photo.", "zh": "我更新了個人檔案,換了新照片。" },
+      { "en": "Check out his profile before you follow him.", "zh": "追蹤他之前先看看他的個人頁面。" }
+    ],
+    "img": "user profile page layout",
+    "theme": "網路社群",
+    "level": 2
+  },
+  {
+    "word": "account",
+    "kk": "[əˈkaʊnt]",
+    "pos": "n.",
+    "meaning": "帳號",
+    "examples": [
+      { "en": "I made a new account just for my art.", "zh": "我開了一個新帳號專門放我的作品。" },
+      { "en": "Someone hacked into my account last week.", "zh": "上週有人駭進了我的帳號。" }
+    ],
+    "img": "login account screen",
+    "theme": "網路社群",
+    "level": 1
+  },
+  {
+    "word": "upload",
+    "kk": "[ʌpˈlod]",
+    "pos": "v.",
+    "meaning": "上傳",
+    "examples": [
+      { "en": "It takes a while to upload such a long video.", "zh": "上傳這麼長的影片要花一點時間。" },
+      { "en": "I'll upload the photos tonight.", "zh": "我今晚會把照片上傳。" }
+    ],
+    "img": "uploading file progress bar",
+    "theme": "網路社群",
+    "level": 2
+  },
+  {
+    "word": "download",
+    "kk": "[ˈdaʊnˌlod]",
+    "pos": "v.",
+    "meaning": "下載",
+    "examples": [
+      { "en": "Download the app to join the group chat.", "zh": "下載這個 App 就能加入群組聊天。" },
+      { "en": "The file is too big to download on my phone.", "zh": "這個檔案太大,我手機下載不了。" }
+    ],
+    "img": "download arrow icon",
+    "theme": "網路社群",
+    "level": 1
+  },
+  {
+    "word": "notification",
+    "kk": "[ˌnotɪfɪˈkeʃən]",
+    "pos": "n.",
+    "meaning": "通知",
+    "examples": [
+      { "en": "I turned off notifications so I can focus.", "zh": "我把通知關掉,這樣才能專心。" },
+      { "en": "I got a notification that she replied.", "zh": "我收到她回覆的通知。" }
+    ],
+    "img": "phone notification bell badge",
+    "theme": "網路社群",
+    "level": 3
+  },
+  {
+    "word": "tag",
+    "kk": "[tæɡ]",
+    "pos": "v./n.",
+    "meaning": "標記(某人)",
+    "examples": [
+      { "en": "She tagged me in the group photo.", "zh": "她在合照裡標記了我。" },
+      { "en": "Tag your friends in the comments!", "zh": "在留言裡標記你的朋友吧!" }
+    ],
+    "img": "tagging a friend in a photo",
+    "theme": "網路社群",
+    "level": 2
+  },
+  {
+    "word": "DM",
+    "kk": "[ˌdiˈɛm]",
+    "pos": "n./v.",
+    "meaning": "私訊",
+    "examples": [
+      { "en": "Just DM me if you have any questions.", "zh": "有任何問題就私訊我。" },
+      { "en": "I got a weird DM from a stranger.", "zh": "我收到一個陌生人的怪私訊。" }
+    ],
+    "img": "direct message inbox on phone",
+    "theme": "網路社群",
+    "level": 2
+  },
+  {
+    "word": "reply",
+    "kk": "[rɪˈplaɪ]",
+    "pos": "v./n.",
+    "meaning": "回覆",
+    "examples": [
+      { "en": "Sorry, I forgot to reply to your message.", "zh": "抱歉,我忘了回你的訊息。" },
+      { "en": "Her reply made everyone laugh.", "zh": "她的回覆讓大家都笑了。" }
+    ],
+    "img": "reply arrow on a chat message",
+    "theme": "網路社群",
+    "level": 1
+  },
+  {
+    "word": "unfollow",
+    "kk": "[ʌnˈfɑlo]",
+    "pos": "v.",
+    "meaning": "取消追蹤",
+    "examples": [
+      { "en": "I unfollowed him after that rude comment.", "zh": "在那則無禮的留言後,我取消追蹤他了。" },
+      { "en": "Feel free to unfollow if you don't like my posts.", "zh": "如果你不喜歡我的貼文,隨時可以取消追蹤。" }
+    ],
+    "img": "unfollow button on profile",
+    "theme": "網路社群",
+    "level": 2
+  },
+  {
+    "word": "block",
+    "kk": "[blɑk]",
+    "pos": "v.",
+    "meaning": "封鎖",
+    "examples": [
+      { "en": "I had to block that annoying account.", "zh": "我不得不封鎖那個煩人的帳號。" },
+      { "en": "She blocked him after he kept messaging her.", "zh": "他一直傳訊息給她,她就把他封鎖了。" }
+    ],
+    "img": "block user red icon",
+    "theme": "網路社群",
+    "level": 2
+  },
+  {
+    "word": "scroll",
+    "kk": "[skrol]",
+    "pos": "v.",
+    "meaning": "滑動(頁面)",
+    "examples": [
+      { "en": "I scrolled through my feed for an hour.", "zh": "我滑動塗鴉牆滑了一個小時。" },
+      { "en": "Stop scrolling and go to bed!", "zh": "別再滑了,快去睡覺!" }
+    ],
+    "img": "finger scrolling phone feed",
+    "theme": "網路社群",
+    "level": 2
+  },
+  {
+    "word": "feed",
+    "kk": "[fid]",
+    "pos": "n.",
+    "meaning": "動態消息;塗鴉牆",
+    "examples": [
+      { "en": "My feed is full of cat videos today.", "zh": "我的動態消息今天全是貓咪影片。" },
+      { "en": "Her posts always show up at the top of my feed.", "zh": "她的貼文總是出現在我動態消息的最上面。" }
+    ],
+    "img": "social media news feed screen",
+    "theme": "網路社群",
+    "level": 3
+  },
+  {
+    "word": "story",
+    "kk": "[ˈstɔri]",
+    "pos": "n.",
+    "meaning": "限時動態",
+    "examples": [
+      { "en": "Did you see my story from the concert?", "zh": "你有看到我演唱會的限時動態嗎?" },
+      { "en": "Stories disappear after twenty-four hours.", "zh": "限時動態在二十四小時後就會消失。" }
+    ],
+    "img": "instagram story circle ring",
+    "theme": "網路社群",
+    "level": 2
+  },
+  {
+    "word": "influencer",
+    "kk": "[ˈɪnfluənsɚ]",
+    "pos": "n.",
+    "meaning": "網紅;意見領袖",
+    "examples": [
+      { "en": "That influencer promotes a new product every week.", "zh": "那個網紅每週都推銷一項新產品。" },
+      { "en": "She became an influencer after her video went viral.", "zh": "她的影片爆紅後就成了網紅。" }
+    ],
+    "img": "influencer filming with ring light",
+    "theme": "網路社群",
+    "level": 3
+  },
+  {
+    "word": "go viral",
+    "kk": "[go ˈvaɪrəl]",
+    "pos": "phr.",
+    "meaning": "爆紅;瘋傳",
+    "examples": [
+      { "en": "His dance video went viral overnight.", "zh": "他的跳舞影片一夜之間就爆紅了。" },
+      { "en": "Nobody expected the meme to go viral.", "zh": "沒人料到那個迷因會瘋傳。" }
+    ],
+    "img": "viral video chart shooting up",
+    "theme": "網路社群",
+    "level": 3
+  },
+  {
+    "word": "trending",
+    "kk": "[ˈtrɛndɪŋ]",
+    "pos": "adj.",
+    "meaning": "熱門的;正流行的",
+    "examples": [
+      { "en": "This song is trending on every platform.", "zh": "這首歌在每個平台上都很熱門。" },
+      { "en": "Let's see what's trending today.", "zh": "來看看今天有什麼熱門話題。" }
+    ],
+    "img": "trending topics list with flame icon",
+    "theme": "網路社群",
+    "level": 3
+  },
+  {
+    "word": "subscribe",
+    "kk": "[səbˈskraɪb]",
+    "pos": "v.",
+    "meaning": "訂閱",
+    "examples": [
+      { "en": "Please subscribe to my channel for weekly videos.", "zh": "請訂閱我的頻道,每週都有新影片。" },
+      { "en": "I subscribed to a few news pages.", "zh": "我訂閱了幾個新聞頁面。" }
+    ],
+    "img": "subscribe button with bell",
+    "theme": "網路社群",
+    "level": 2
+  },
+  {
+    "word": "channel",
+    "kk": "[ˈtʃænl]",
+    "pos": "n.",
+    "meaning": "頻道",
+    "examples": [
+      { "en": "He runs a gaming channel with millions of views.", "zh": "他經營一個有數百萬觀看數的遊戲頻道。" },
+      { "en": "I started my own cooking channel last month.", "zh": "我上個月開了自己的料理頻道。" }
+    ],
+    "img": "youtube channel page banner",
+    "theme": "網路社群",
+    "level": 2
+  },
+  {
+    "word": "emoji",
+    "kk": "[ɪˈmodʒi]",
+    "pos": "n.",
+    "meaning": "表情符號",
+    "examples": [
+      { "en": "She uses way too many emojis in her texts.", "zh": "她傳訊息時用了太多表情符號。" },
+      { "en": "What does this emoji even mean?", "zh": "這個表情符號到底是什麼意思?" }
+    ],
+    "img": "colorful emoji faces on keyboard",
+    "theme": "網路社群",
+    "level": 2
+  },
+  {
+    "word": "group chat",
+    "kk": "[ɡrup tʃæt]",
+    "pos": "n.",
+    "meaning": "群組聊天",
+    "examples": [
+      { "en": "Our family group chat never stops buzzing.", "zh": "我們的家庭群組聊天從沒停過。" },
+      { "en": "I muted the group chat to get some sleep.", "zh": "我把群組聊天靜音才能睡覺。" }
+    ],
+    "img": "group chat window with many messages",
+    "theme": "網路社群",
+    "level": 2
+  },
+  {
+    "word": "screenshot",
+    "kk": "[ˈskrinˌʃɑt]",
+    "pos": "n./v.",
+    "meaning": "螢幕截圖",
+    "examples": [
+      { "en": "Send me a screenshot of the address.", "zh": "把那個地址的截圖傳給我。" },
+      { "en": "She screenshotted our whole conversation.", "zh": "她把我們整段對話都截圖了。" }
+    ],
+    "img": "phone screen capture snapshot",
+    "theme": "網路社群",
+    "level": 2
+  },
+  {
+    "word": "notification bell",
+    "kk": "[ˌnotɪfɪˈkeʃən bɛl]",
+    "pos": "n.",
+    "meaning": "通知鈴鐺",
+    "examples": [
+      { "en": "Hit the notification bell so you don't miss a video.", "zh": "點一下通知鈴鐺,就不會錯過任何影片。" },
+      { "en": "I clicked the notification bell to get updates.", "zh": "我點了通知鈴鐺以接收更新。" }
+    ],
+    "img": "bell icon with red dot",
+    "theme": "網路社群",
+    "level": 3
+  },
+  {
+    "word": "caption",
+    "kk": "[ˈkæpʃən]",
+    "pos": "n.",
+    "meaning": "貼文說明文字;圖說",
+    "examples": [
+      { "en": "I spent ten minutes thinking of a good caption.", "zh": "我花了十分鐘想一個好的貼文文字。" },
+      { "en": "Her captions are always so funny.", "zh": "她的圖說總是很好笑。" }
+    ],
+    "img": "photo with text caption below",
+    "theme": "網路社群",
+    "level": 3
+  },
+  {
+    "word": "filter",
+    "kk": "[ˈfɪltɚ]",
+    "pos": "n.",
+    "meaning": "濾鏡",
+    "examples": [
+      { "en": "This filter makes the sky look amazing.", "zh": "這個濾鏡讓天空看起來超美。" },
+      { "en": "She never posts a photo without a filter.", "zh": "她從不發沒有濾鏡的照片。" }
+    ],
+    "img": "photo filter selection on phone",
+    "theme": "網路社群",
+    "level": 2
+  },
+  {
+    "word": "username",
+    "kk": "[ˈjuzɚˌnem]",
+    "pos": "n.",
+    "meaning": "使用者名稱;帳號名稱",
+    "examples": [
+      { "en": "What's your username so I can follow you?", "zh": "你的使用者名稱是什麼,我好追蹤你?" },
+      { "en": "That username is already taken.", "zh": "那個使用者名稱已經被用了。" }
+    ],
+    "img": "username input field on login",
+    "theme": "網路社群",
+    "level": 2
+  },
+  {
+    "word": "password",
+    "kk": "[ˈpæsˌwɝd]",
+    "pos": "n.",
+    "meaning": "密碼",
+    "examples": [
+      { "en": "You should change your password once in a while.", "zh": "你應該偶爾換一次密碼。" },
+      { "en": "I forgot my password again.", "zh": "我又忘記密碼了。" }
+    ],
+    "img": "password field with dots",
+    "theme": "網路社群",
+    "level": 1
+  },
+  {
+    "word": "link",
+    "kk": "[lɪŋk]",
+    "pos": "n.",
+    "meaning": "連結",
+    "examples": [
+      { "en": "Click the link in my bio to shop.", "zh": "點我個人簡介裡的連結就能購物。" },
+      { "en": "Can you send me the link again?", "zh": "你可以再把連結傳給我一次嗎?" }
+    ],
+    "img": "hyperlink chain icon",
+    "theme": "網路社群",
+    "level": 1
+  },
+  {
+    "word": "bio",
+    "kk": "[ˈbaɪo]",
+    "pos": "n.",
+    "meaning": "個人簡介",
+    "examples": [
+      { "en": "Put your email in your bio so people can reach you.", "zh": "把你的信箱放在個人簡介裡,別人就能聯絡你。" },
+      { "en": "Her bio says she's a photographer.", "zh": "她的個人簡介寫說她是攝影師。" }
+    ],
+    "img": "profile bio text section",
+    "theme": "網路社群",
+    "level": 3
+  },
+  {
+    "word": "viral video",
+    "kk": "[ˈvaɪrəl ˈvɪdɪo]",
+    "pos": "n.",
+    "meaning": "爆紅影片",
+    "examples": [
+      { "en": "Everyone is talking about that viral video.", "zh": "大家都在討論那支爆紅影片。" },
+      { "en": "One viral video changed her whole life.", "zh": "一支爆紅影片改變了她的整個人生。" }
+    ],
+    "img": "video with millions of views counter",
+    "theme": "網路社群",
+    "level": 3
+  },
+  {
+    "word": "chat",
+    "kk": "[tʃæt]",
+    "pos": "v./n.",
+    "meaning": "聊天;閒聊",
+    "examples": [
+      { "en": "We chatted online until midnight.", "zh": "我們在網路上聊到半夜。" },
+      { "en": "Let's chat later, I'm busy right now.", "zh": "我們晚點再聊,我現在很忙。" }
+    ],
+    "img": "two chat bubbles talking",
+    "theme": "網路社群",
+    "level": 1
+  },
+  {
+    "word": "text",
+    "kk": "[tɛkst]",
+    "pos": "v./n.",
+    "meaning": "傳簡訊;文字訊息",
+    "examples": [
+      { "en": "Text me when you get home safely.", "zh": "你平安到家後傳個簡訊給我。" },
+      { "en": "I got a text from an unknown number.", "zh": "我收到一則陌生號碼的簡訊。" }
+    ],
+    "img": "text message bubble on phone",
+    "theme": "網路社群",
+    "level": 1
+  },
+  {
+    "word": "swipe",
+    "kk": "[swaɪp]",
+    "pos": "v.",
+    "meaning": "滑動(手指)",
+    "examples": [
+      { "en": "Swipe up to see the link.", "zh": "往上滑就能看到連結。" },
+      { "en": "Just swipe left to skip the photo.", "zh": "只要往左滑就能跳過那張照片。" }
+    ],
+    "img": "finger swiping phone screen",
+    "theme": "網路社群",
+    "level": 2
+  },
+  {
+    "word": "content",
+    "kk": "[ˈkɑntɛnt]",
+    "pos": "n.",
+    "meaning": "內容",
+    "examples": [
+      { "en": "She creates content about healthy cooking.", "zh": "她製作關於健康料理的內容。" },
+      { "en": "There's so much content online these days.", "zh": "現在網路上的內容多到不行。" }
+    ],
+    "img": "content creator editing videos",
+    "theme": "網路社群",
+    "level": 3
+  },
+  {
+    "word": "trend",
+    "kk": "[trɛnd]",
+    "pos": "n.",
+    "meaning": "潮流;趨勢",
+    "examples": [
+      { "en": "Everyone is joining this new dance trend.", "zh": "大家都在跟這個新的跳舞潮流。" },
+      { "en": "That fashion trend came back again.", "zh": "那個時尚潮流又流行回來了。" }
+    ],
+    "img": "arrow chart showing rising trend",
+    "theme": "網路社群",
+    "level": 3
+  },
+  {
+    "word": "avatar",
+    "kk": "[ˈævəˌtɑr]",
+    "pos": "n.",
+    "meaning": "頭像;虛擬形象",
+    "examples": [
+      { "en": "I made a cartoon avatar for my account.", "zh": "我為我的帳號做了一個卡通頭像。" },
+      { "en": "Your avatar looks just like you!", "zh": "你的頭像看起來跟你本人一模一樣!" }
+    ],
+    "img": "cartoon profile avatar icon",
+    "theme": "網路社群",
+    "level": 3
+  },
+  {
+    "word": "spam",
+    "kk": "[spæm]",
+    "pos": "n./v.",
+    "meaning": "垃圾訊息;洗版",
+    "examples": [
+      { "en": "My inbox is full of spam again.", "zh": "我的信箱又塞滿了垃圾訊息。" },
+      { "en": "Please stop spamming the group with ads.", "zh": "拜託別再用廣告洗版群組了。" }
+    ],
+    "img": "inbox full of spam messages",
+    "theme": "網路社群",
+    "level": 3
+  },
+  {
+    "word": "repost",
+    "kk": "[riˈpost]",
+    "pos": "v.",
+    "meaning": "轉發;再次發布",
+    "examples": [
+      { "en": "She reposted my photo to her story.", "zh": "她把我的照片轉發到她的限時動態。" },
+      { "en": "Can I repost this on my page?", "zh": "我可以把這個轉發到我的頁面嗎?" }
+    ],
+    "img": "repost recycle arrow icon",
+    "theme": "網路社群",
+    "level": 3
+  },
+  {
+    "word": "video call",
+    "kk": "[ˈvɪdɪo kɔl]",
+    "pos": "n.",
+    "meaning": "視訊通話",
+    "examples": [
+      { "en": "Let's have a video call this weekend.", "zh": "我們這週末來視訊通話吧。" },
+      { "en": "The video call kept freezing.", "zh": "那通視訊通話一直卡住。" }
+    ],
+    "img": "two people on a video call screen",
+    "theme": "網路社群",
+    "level": 2
+  },
+  {
+    "word": "go offline",
+    "kk": "[go ˈɔfˌlaɪn]",
+    "pos": "phr.",
+    "meaning": "離線;登出網路",
+    "examples": [
+      { "en": "I need to go offline and get some rest.", "zh": "我需要離線一下,好好休息。" },
+      { "en": "She went offline right after the argument.", "zh": "吵完架後她馬上就離線了。" }
+    ],
+    "img": "offline status gray dot icon",
+    "theme": "網路社群",
+    "level": 3
+  }
+]

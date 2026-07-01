@@ -1,0 +1,639 @@
+[
+  {
+    "word": "smartphone",
+    "kk": "[ˈsmɑrtˌfon]",
+    "pos": "n.",
+    "meaning": "智慧型手機",
+    "examples": [
+      {"en": "I got a new smartphone for my birthday.", "zh": "我生日收到一支新的智慧型手機。"},
+      {"en": "My smartphone battery dies so fast.", "zh": "我的智慧型手機電池耗得好快。"}
+    ],
+    "img": "smartphone in hand",
+    "theme": "科技3C",
+    "level": 1
+  },
+  {
+    "word": "laptop",
+    "kk": "[ˈlæpˌtɑp]",
+    "pos": "n.",
+    "meaning": "筆記型電腦",
+    "examples": [
+      {"en": "I take my laptop everywhere I go.", "zh": "我到哪都帶著我的筆電。"},
+      {"en": "Her laptop is really light and thin.", "zh": "她的筆電又輕又薄。"}
+    ],
+    "img": "open laptop on desk",
+    "theme": "科技3C",
+    "level": 1
+  },
+  {
+    "word": "charger",
+    "kk": "[ˈtʃɑrdʒɚ]",
+    "pos": "n.",
+    "meaning": "充電器",
+    "examples": [
+      {"en": "Can I borrow your charger for a sec?", "zh": "可以借我一下你的充電器嗎?"},
+      {"en": "I always forget my charger at home.", "zh": "我老是把充電器忘在家裡。"}
+    ],
+    "img": "phone charger cable",
+    "theme": "科技3C",
+    "level": 1
+  },
+  {
+    "word": "screen",
+    "kk": "[skrin]",
+    "pos": "n.",
+    "meaning": "螢幕",
+    "examples": [
+      {"en": "The screen cracked when I dropped it.", "zh": "我摔到手機時螢幕裂了。"},
+      {"en": "Turn down the screen brightness at night.", "zh": "晚上把螢幕亮度調低一點。"}
+    ],
+    "img": "phone screen display",
+    "theme": "科技3C",
+    "level": 1
+  },
+  {
+    "word": "app",
+    "kk": "[æp]",
+    "pos": "n.",
+    "meaning": "應用程式",
+    "examples": [
+      {"en": "This app helps me learn English.", "zh": "這個 App 幫我學英文。"},
+      {"en": "I need to delete some apps to free up space.", "zh": "我得刪掉一些 App 來清出空間。"}
+    ],
+    "img": "phone app icons",
+    "theme": "科技3C",
+    "level": 1
+  },
+  {
+    "word": "download",
+    "kk": "[ˈdaʊnˌlod]",
+    "pos": "v.",
+    "meaning": "下載",
+    "examples": [
+      {"en": "It takes forever to download this file.", "zh": "下載這個檔案要花好久。"},
+      {"en": "Download the app from the store.", "zh": "從商店下載這個 App。"}
+    ],
+    "img": "download arrow icon",
+    "theme": "科技3C",
+    "level": 1
+  },
+  {
+    "word": "password",
+    "kk": "[ˈpæsˌwɝd]",
+    "pos": "n.",
+    "meaning": "密碼",
+    "examples": [
+      {"en": "I forgot my Wi-Fi password again.", "zh": "我又忘記 Wi-Fi 密碼了。"},
+      {"en": "You should use a strong password.", "zh": "你應該用強一點的密碼。"}
+    ],
+    "img": "password login screen",
+    "theme": "科技3C",
+    "level": 1
+  },
+  {
+    "word": "Wi-Fi",
+    "kk": "[ˈwaɪˌfaɪ]",
+    "pos": "n.",
+    "meaning": "無線網路",
+    "examples": [
+      {"en": "Is there free Wi-Fi in this café?", "zh": "這間咖啡廳有免費 Wi-Fi 嗎?"},
+      {"en": "The Wi-Fi is really slow today.", "zh": "今天的 Wi-Fi 很慢。"}
+    ],
+    "img": "wifi signal symbol",
+    "theme": "科技3C",
+    "level": 1
+  },
+  {
+    "word": "battery",
+    "kk": "[ˈbætərɪ]",
+    "pos": "n.",
+    "meaning": "電池",
+    "examples": [
+      {"en": "My battery is down to five percent.", "zh": "我的電池只剩百分之五了。"},
+      {"en": "This phone has great battery life.", "zh": "這支手機的電池續航很棒。"}
+    ],
+    "img": "phone battery icon",
+    "theme": "科技3C",
+    "level": 1
+  },
+  {
+    "word": "message",
+    "kk": "[ˈmɛsɪdʒ]",
+    "pos": "n.",
+    "meaning": "訊息",
+    "examples": [
+      {"en": "I just sent you a message.", "zh": "我剛傳了一則訊息給你。"},
+      {"en": "Sorry, I missed your message earlier.", "zh": "抱歉,我剛剛漏看了你的訊息。"}
+    ],
+    "img": "chat message bubble",
+    "theme": "科技3C",
+    "level": 1
+  },
+  {
+    "word": "click",
+    "kk": "[klɪk]",
+    "pos": "v.",
+    "meaning": "點擊",
+    "examples": [
+      {"en": "Click the button to start.", "zh": "點擊按鈕開始。"},
+      {"en": "Don't click on strange links.", "zh": "不要點擊奇怪的連結。"}
+    ],
+    "img": "mouse cursor clicking",
+    "theme": "科技3C",
+    "level": 1
+  },
+  {
+    "word": "keyboard",
+    "kk": "[ˈkiˌbɔrd]",
+    "pos": "n.",
+    "meaning": "鍵盤",
+    "examples": [
+      {"en": "My keyboard has some sticky keys.", "zh": "我的鍵盤有幾個按鍵卡卡的。"},
+      {"en": "I love typing on this keyboard.", "zh": "我很喜歡用這個鍵盤打字。"}
+    ],
+    "img": "computer keyboard",
+    "theme": "科技3C",
+    "level": 1
+  },
+  {
+    "word": "mouse",
+    "kk": "[maʊs]",
+    "pos": "n.",
+    "meaning": "滑鼠",
+    "examples": [
+      {"en": "The wireless mouse ran out of battery.", "zh": "無線滑鼠沒電了。"},
+      {"en": "Move the mouse to wake the screen.", "zh": "移動滑鼠喚醒螢幕。"}
+    ],
+    "img": "computer mouse device",
+    "theme": "科技3C",
+    "level": 1
+  },
+  {
+    "word": "email",
+    "kk": "[ˈiˌmel]",
+    "pos": "n.",
+    "meaning": "電子郵件",
+    "examples": [
+      {"en": "I'll send you the details by email.", "zh": "我會用電子郵件把細節寄給你。"},
+      {"en": "Check your email for the receipt.", "zh": "去信箱查看收據。"}
+    ],
+    "img": "email envelope icon",
+    "theme": "科技3C",
+    "level": 1
+  },
+  {
+    "word": "camera",
+    "kk": "[ˈkæmərə]",
+    "pos": "n.",
+    "meaning": "相機",
+    "examples": [
+      {"en": "This phone's camera is amazing.", "zh": "這支手機的相機超棒的。"},
+      {"en": "Open the camera and take a photo.", "zh": "打開相機拍張照。"}
+    ],
+    "img": "phone camera lens",
+    "theme": "科技3C",
+    "level": 1
+  },
+  {
+    "word": "headphones",
+    "kk": "[ˈhɛdˌfonz]",
+    "pos": "n.",
+    "meaning": "耳機",
+    "examples": [
+      {"en": "I can't find my headphones anywhere.", "zh": "我到處都找不到我的耳機。"},
+      {"en": "Put on your headphones so you don't bother others.", "zh": "戴上耳機才不會吵到別人。"}
+    ],
+    "img": "wireless headphones",
+    "theme": "科技3C",
+    "level": 1
+  },
+  {
+    "word": "power button",
+    "kk": "[ˈpaʊɚ ˈbʌtn̩]",
+    "pos": "n.",
+    "meaning": "電源鍵",
+    "examples": [
+      {"en": "Hold the power button to turn it off.", "zh": "長按電源鍵關機。"},
+      {"en": "The power button is stuck.", "zh": "電源鍵卡住了。"}
+    ],
+    "img": "power button symbol",
+    "theme": "科技3C",
+    "level": 1
+  },
+  {
+    "word": "update",
+    "kk": "[ʌpˈdet]",
+    "pos": "v.",
+    "meaning": "更新",
+    "examples": [
+      {"en": "You should update the app to fix the bug.", "zh": "你應該更新 App 來修復這個問題。"},
+      {"en": "My phone updated overnight.", "zh": "我的手機在半夜自動更新了。"}
+    ],
+    "img": "software update screen",
+    "theme": "科技3C",
+    "level": 2
+  },
+  {
+    "word": "settings",
+    "kk": "[ˈsɛtɪŋz]",
+    "pos": "n.",
+    "meaning": "設定",
+    "examples": [
+      {"en": "You can change the language in settings.", "zh": "你可以在設定裡更改語言。"},
+      {"en": "Go to settings to turn off notifications.", "zh": "到設定裡關掉通知。"}
+    ],
+    "img": "settings gear icon",
+    "theme": "科技3C",
+    "level": 2
+  },
+  {
+    "word": "notification",
+    "kk": "[ˌnotəfəˈkeʃən]",
+    "pos": "n.",
+    "meaning": "通知",
+    "examples": [
+      {"en": "I got a notification from my bank.", "zh": "我收到銀行的通知。"},
+      {"en": "Turn off notifications when you sleep.", "zh": "睡覺時把通知關掉。"}
+    ],
+    "img": "notification bell badge",
+    "theme": "科技3C",
+    "level": 2
+  },
+  {
+    "word": "crash",
+    "kk": "[kræʃ]",
+    "pos": "v.",
+    "meaning": "當機",
+    "examples": [
+      {"en": "The app keeps crashing on my phone.", "zh": "這個 App 在我手機上一直當機。"},
+      {"en": "My computer crashed and I lost my work.", "zh": "我的電腦當機,我的工作都沒了。"}
+    ],
+    "img": "computer crash error",
+    "theme": "科技3C",
+    "level": 2
+  },
+  {
+    "word": "freeze",
+    "kk": "[friz]",
+    "pos": "v.",
+    "meaning": "畫面凍結、卡住",
+    "examples": [
+      {"en": "The screen froze and nothing works.", "zh": "螢幕凍結了,什麼都動不了。"},
+      {"en": "My phone freezes when I open too many apps.", "zh": "我開太多 App 時手機就會卡住。"}
+    ],
+    "img": "frozen loading screen",
+    "theme": "科技3C",
+    "level": 2
+  },
+  {
+    "word": "restart",
+    "kk": "[riˈstɑrt]",
+    "pos": "v.",
+    "meaning": "重新啟動",
+    "examples": [
+      {"en": "Try to restart your phone.", "zh": "試著重新啟動你的手機。"},
+      {"en": "The problem went away after I restarted it.", "zh": "重新啟動後問題就消失了。"}
+    ],
+    "img": "restart circular arrow",
+    "theme": "科技3C",
+    "level": 2
+  },
+  {
+    "word": "charge",
+    "kk": "[tʃɑrdʒ]",
+    "pos": "v.",
+    "meaning": "充電",
+    "examples": [
+      {"en": "I need to charge my phone before we leave.", "zh": "出門前我得幫手機充電。"},
+      {"en": "It's charging, so leave it on the table.", "zh": "它正在充電,先放桌上。"}
+    ],
+    "img": "phone charging cable",
+    "theme": "科技3C",
+    "level": 2
+  },
+  {
+    "word": "install",
+    "kk": "[ɪnˈstɔl]",
+    "pos": "v.",
+    "meaning": "安裝",
+    "examples": [
+      {"en": "I just installed a new game.", "zh": "我剛安裝了一款新遊戲。"},
+      {"en": "You need to install the update first.", "zh": "你得先安裝更新。"}
+    ],
+    "img": "installing progress bar",
+    "theme": "科技3C",
+    "level": 2
+  },
+  {
+    "word": "delete",
+    "kk": "[dɪˈlit]",
+    "pos": "v.",
+    "meaning": "刪除",
+    "examples": [
+      {"en": "I deleted the photos by accident.", "zh": "我不小心刪掉了那些照片。"},
+      {"en": "Delete the apps you don't use.", "zh": "把你不用的 App 刪掉。"}
+    ],
+    "img": "trash delete icon",
+    "theme": "科技3C",
+    "level": 2
+  },
+  {
+    "word": "screenshot",
+    "kk": "[ˈskrinˌʃɑt]",
+    "pos": "n.",
+    "meaning": "螢幕截圖",
+    "examples": [
+      {"en": "Send me a screenshot of the error.", "zh": "把錯誤的截圖傳給我。"},
+      {"en": "I took a screenshot of the map.", "zh": "我把地圖截圖了下來。"}
+    ],
+    "img": "phone screenshot capture",
+    "theme": "科技3C",
+    "level": 2
+  },
+  {
+    "word": "storage",
+    "kk": "[ˈstɔrɪdʒ]",
+    "pos": "n.",
+    "meaning": "儲存空間",
+    "examples": [
+      {"en": "My phone is running out of storage.", "zh": "我的手機儲存空間快滿了。"},
+      {"en": "Photos take up a lot of storage.", "zh": "照片佔用很多儲存空間。"}
+    ],
+    "img": "storage bar full",
+    "theme": "科技3C",
+    "level": 2
+  },
+  {
+    "word": "connect",
+    "kk": "[kəˈnɛkt]",
+    "pos": "v.",
+    "meaning": "連接",
+    "examples": [
+      {"en": "I can't connect to the Wi-Fi.", "zh": "我連不上 Wi-Fi。"},
+      {"en": "Connect your phone to the speaker.", "zh": "把你的手機連接到喇叭。"}
+    ],
+    "img": "bluetooth connection icon",
+    "theme": "科技3C",
+    "level": 2
+  },
+  {
+    "word": "Bluetooth",
+    "kk": "[ˈbluˌtuθ]",
+    "pos": "n.",
+    "meaning": "藍牙",
+    "examples": [
+      {"en": "Turn on Bluetooth to pair the earbuds.", "zh": "打開藍牙來配對耳機。"},
+      {"en": "The Bluetooth keeps disconnecting.", "zh": "藍牙一直斷線。"}
+    ],
+    "img": "bluetooth logo icon",
+    "theme": "科技3C",
+    "level": 2
+  },
+  {
+    "word": "swipe",
+    "kk": "[swaɪp]",
+    "pos": "v.",
+    "meaning": "滑動",
+    "examples": [
+      {"en": "Swipe up to close the app.", "zh": "向上滑動關閉 App。"},
+      {"en": "Swipe left to see more photos.", "zh": "向左滑動看更多照片。"}
+    ],
+    "img": "finger swiping screen",
+    "theme": "科技3C",
+    "level": 2
+  },
+  {
+    "word": "tap",
+    "kk": "[tæp]",
+    "pos": "v.",
+    "meaning": "輕觸、點按",
+    "examples": [
+      {"en": "Tap the icon to open the app.", "zh": "輕觸圖示打開 App。"},
+      {"en": "Just tap here to pay.", "zh": "在這裡輕觸一下就能付款。"}
+    ],
+    "img": "finger tapping screen",
+    "theme": "科技3C",
+    "level": 2
+  },
+  {
+    "word": "log in",
+    "kk": "[lɔɡ ɪn]",
+    "pos": "phr.",
+    "meaning": "登入",
+    "examples": [
+      {"en": "I can't log in to my account.", "zh": "我登不進我的帳號。"},
+      {"en": "Log in with your email and password.", "zh": "用你的電子郵件和密碼登入。"}
+    ],
+    "img": "login form screen",
+    "theme": "科技3C",
+    "level": 2
+  },
+  {
+    "word": "account",
+    "kk": "[əˈkaʊnt]",
+    "pos": "n.",
+    "meaning": "帳號",
+    "examples": [
+      {"en": "I created a new account this morning.", "zh": "我今天早上建立了一個新帳號。"},
+      {"en": "Someone tried to hack my account.", "zh": "有人試圖入侵我的帳號。"}
+    ],
+    "img": "user account profile",
+    "theme": "科技3C",
+    "level": 2
+  },
+  {
+    "word": "signal",
+    "kk": "[ˈsɪɡnl̩]",
+    "pos": "n.",
+    "meaning": "訊號",
+    "examples": [
+      {"en": "There's no signal in this building.", "zh": "這棟樓裡沒有訊號。"},
+      {"en": "The signal is weak up in the mountains.", "zh": "山上訊號很弱。"}
+    ],
+    "img": "phone signal bars",
+    "theme": "科技3C",
+    "level": 2
+  },
+  {
+    "word": "back up",
+    "kk": "[bæk ʌp]",
+    "pos": "phr.",
+    "meaning": "備份",
+    "examples": [
+      {"en": "Remember to back up your photos.", "zh": "記得備份你的照片。"},
+      {"en": "I backed up everything to the cloud.", "zh": "我把所有東西都備份到雲端了。"}
+    ],
+    "img": "cloud backup icon",
+    "theme": "科技3C",
+    "level": 2
+  },
+  {
+    "word": "airplane mode",
+    "kk": "[ˈɛrˌplen mod]",
+    "pos": "n.",
+    "meaning": "飛航模式",
+    "examples": [
+      {"en": "Put your phone on airplane mode before takeoff.", "zh": "起飛前把手機切到飛航模式。"},
+      {"en": "I turned on airplane mode to save battery.", "zh": "我開了飛航模式來省電。"}
+    ],
+    "img": "airplane mode icon",
+    "theme": "科技3C",
+    "level": 2
+  },
+  {
+    "word": "power bank",
+    "kk": "[ˈpaʊɚ bæŋk]",
+    "pos": "n.",
+    "meaning": "行動電源",
+    "examples": [
+      {"en": "Good thing I brought a power bank.", "zh": "還好我帶了行動電源。"},
+      {"en": "My power bank can charge two phones.", "zh": "我的行動電源可以充兩支手機。"}
+    ],
+    "img": "portable power bank",
+    "theme": "科技3C",
+    "level": 2
+  },
+  {
+    "word": "software",
+    "kk": "[ˈsɔftˌwɛr]",
+    "pos": "n.",
+    "meaning": "軟體",
+    "examples": [
+      {"en": "The software needs an update.", "zh": "這個軟體需要更新。"},
+      {"en": "This software is really easy to use.", "zh": "這個軟體很好用。"}
+    ],
+    "img": "software application window",
+    "theme": "科技3C",
+    "level": 2
+  },
+  {
+    "word": "compatible",
+    "kk": "[kəmˈpætəbl̩]",
+    "pos": "adj.",
+    "meaning": "相容的",
+    "examples": [
+      {"en": "This cable isn't compatible with my phone.", "zh": "這條線和我的手機不相容。"},
+      {"en": "Make sure the app is compatible with your device.", "zh": "確認這個 App 和你的裝置相容。"}
+    ],
+    "img": "compatibility check devices",
+    "theme": "科技3C",
+    "level": 3
+  },
+  {
+    "word": "glitch",
+    "kk": "[ɡlɪtʃ]",
+    "pos": "n.",
+    "meaning": "小故障、程式異常",
+    "examples": [
+      {"en": "There's a glitch in the new update.", "zh": "新的更新有個小故障。"},
+      {"en": "The app has a weird glitch that freezes the screen.", "zh": "這個 App 有個怪異常會讓畫面卡住。"}
+    ],
+    "img": "screen glitch effect",
+    "theme": "科技3C",
+    "level": 3
+  },
+  {
+    "word": "troubleshoot",
+    "kk": "[ˈtrʌbl̩ˌʃut]",
+    "pos": "v.",
+    "meaning": "排除故障",
+    "examples": [
+      {"en": "Let me troubleshoot the Wi-Fi issue.", "zh": "讓我來排除 Wi-Fi 的問題。"},
+      {"en": "The guide helps you troubleshoot common problems.", "zh": "這份指南幫你排除常見問題。"}
+    ],
+    "img": "troubleshooting wrench icon",
+    "theme": "科技3C",
+    "level": 3
+  },
+  {
+    "word": "sync",
+    "kk": "[sɪŋk]",
+    "pos": "v.",
+    "meaning": "同步",
+    "examples": [
+      {"en": "My contacts sync across all my devices.", "zh": "我的聯絡人在所有裝置間同步。"},
+      {"en": "The files won't sync to the cloud.", "zh": "這些檔案無法同步到雲端。"}
+    ],
+    "img": "sync devices icon",
+    "theme": "科技3C",
+    "level": 3
+  },
+  {
+    "word": "overheat",
+    "kk": "[ˌovɚˈhit]",
+    "pos": "v.",
+    "meaning": "過熱",
+    "examples": [
+      {"en": "My phone overheats while charging.", "zh": "我的手機充電時會過熱。"},
+      {"en": "The laptop overheated and shut down.", "zh": "筆電過熱後就關機了。"}
+    ],
+    "img": "overheating phone warning",
+    "theme": "科技3C",
+    "level": 3
+  },
+  {
+    "word": "malware",
+    "kk": "[ˈmælˌwɛr]",
+    "pos": "n.",
+    "meaning": "惡意軟體",
+    "examples": [
+      {"en": "That link might contain malware.", "zh": "那個連結可能含有惡意軟體。"},
+      {"en": "Malware slowed down my whole computer.", "zh": "惡意軟體讓我整台電腦變慢。"}
+    ],
+    "img": "malware virus warning",
+    "theme": "科技3C",
+    "level": 3
+  },
+  {
+    "word": "resolution",
+    "kk": "[ˌrɛzəˈluʃən]",
+    "pos": "n.",
+    "meaning": "解析度",
+    "examples": [
+      {"en": "This screen has a really high resolution.", "zh": "這個螢幕有很高的解析度。"},
+      {"en": "Lower the resolution if the video lags.", "zh": "如果影片卡卡的就把解析度調低。"}
+    ],
+    "img": "screen resolution comparison",
+    "theme": "科技3C",
+    "level": 3
+  },
+  {
+    "word": "cloud storage",
+    "kk": "[klaʊd ˈstɔrɪdʒ]",
+    "pos": "n.",
+    "meaning": "雲端儲存",
+    "examples": [
+      {"en": "I keep all my documents in cloud storage.", "zh": "我把所有文件都放在雲端儲存。"},
+      {"en": "Cloud storage lets you access files anywhere.", "zh": "雲端儲存讓你隨處存取檔案。"}
+    ],
+    "img": "cloud storage server",
+    "theme": "科技3C",
+    "level": 3
+  },
+  {
+    "word": "firmware",
+    "kk": "[ˈfɝmˌwɛr]",
+    "pos": "n.",
+    "meaning": "韌體",
+    "examples": [
+      {"en": "The firmware update fixed the bug.", "zh": "韌體更新修好了這個問題。"},
+      {"en": "You should update the router's firmware.", "zh": "你應該更新路由器的韌體。"}
+    ],
+    "img": "firmware chip circuit",
+    "theme": "科技3C",
+    "level": 3
+  },
+  {
+    "word": "touchscreen",
+    "kk": "[ˈtʌtʃˌskrin]",
+    "pos": "n.",
+    "meaning": "觸控螢幕",
+    "examples": [
+      {"en": "The touchscreen isn't responding to my finger.", "zh": "觸控螢幕對我的手指沒反應。"},
+      {"en": "This tablet has a smooth touchscreen.", "zh": "這台平板的觸控螢幕很滑順。"}
+    ],
+    "img": "touchscreen finger tap",
+    "theme": "科技3C",
+    "level": 3
+  }
+]

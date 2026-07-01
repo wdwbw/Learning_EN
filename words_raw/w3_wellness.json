@@ -1,0 +1,652 @@
+[
+  {
+    "word": "stress",
+    "kk": "[strɛs]",
+    "pos": "n.",
+    "meaning": "壓力",
+    "examples": [
+      { "en": "I feel a lot of stress at work these days.", "zh": "我最近工作壓力很大。" },
+      { "en": "Too much stress is bad for your health.", "zh": "壓力太大對健康不好。" }
+    ],
+    "img": "person holding head at busy desk",
+    "theme": "身心健康",
+    "level": 1
+  },
+  {
+    "word": "sleep",
+    "kk": "[slip]",
+    "pos": "n./v.",
+    "meaning": "睡眠;睡覺",
+    "examples": [
+      { "en": "I didn't get enough sleep last night.", "zh": "我昨晚睡得不夠。" },
+      { "en": "Try to sleep at least seven hours.", "zh": "盡量睡至少七個小時。" }
+    ],
+    "img": "person sleeping peacefully in bed",
+    "theme": "身心健康",
+    "level": 1
+  },
+  {
+    "word": "relax",
+    "kk": "[rɪˈlæks]",
+    "pos": "v.",
+    "meaning": "放鬆",
+    "examples": [
+      { "en": "I just want to relax this weekend.", "zh": "這週末我只想放鬆一下。" },
+      { "en": "Take a deep breath and relax.", "zh": "深呼吸,放鬆一下。" }
+    ],
+    "img": "person lying on sofa with tea",
+    "theme": "身心健康",
+    "level": 1
+  },
+  {
+    "word": "rest",
+    "kk": "[rɛst]",
+    "pos": "n./v.",
+    "meaning": "休息",
+    "examples": [
+      { "en": "You should take a rest after lunch.", "zh": "你午餐後應該休息一下。" },
+      { "en": "My body really needs some rest.", "zh": "我的身體真的需要休息。" }
+    ],
+    "img": "person resting on couch with eyes closed",
+    "theme": "身心健康",
+    "level": 1
+  },
+  {
+    "word": "tired",
+    "kk": "[taɪrd]",
+    "pos": "adj.",
+    "meaning": "疲倦的",
+    "examples": [
+      { "en": "I'm so tired after a long day.", "zh": "忙了一整天,我好累。" },
+      { "en": "You look tired. Go get some sleep.", "zh": "你看起來很累,去睡一下吧。" }
+    ],
+    "img": "yawning person rubbing eyes",
+    "theme": "身心健康",
+    "level": 1
+  },
+  {
+    "word": "calm",
+    "kk": "[kɑm]",
+    "pos": "adj./v.",
+    "meaning": "平靜的;使冷靜",
+    "examples": [
+      { "en": "Stay calm and everything will be fine.", "zh": "保持冷靜,一切都會沒事的。" },
+      { "en": "Deep breathing helps me calm down.", "zh": "深呼吸幫助我冷靜下來。" }
+    ],
+    "img": "calm person meditating by a lake",
+    "theme": "身心健康",
+    "level": 1
+  },
+  {
+    "word": "worry",
+    "kk": "[ˈwɝɪ]",
+    "pos": "v./n.",
+    "meaning": "擔心;煩惱",
+    "examples": [
+      { "en": "Don't worry, we still have time.", "zh": "別擔心,我們還有時間。" },
+      { "en": "She worries too much about small things.", "zh": "她太在意小事了。" }
+    ],
+    "img": "person biting nails looking anxious",
+    "theme": "身心健康",
+    "level": 1
+  },
+  {
+    "word": "happy",
+    "kk": "[ˈhæpɪ]",
+    "pos": "adj.",
+    "meaning": "快樂的",
+    "examples": [
+      { "en": "Doing yoga makes me happy.", "zh": "做瑜伽讓我很開心。" },
+      { "en": "I feel happy when I spend time with friends.", "zh": "和朋友相處時我很快樂。" }
+    ],
+    "img": "smiling person outdoors in sunshine",
+    "theme": "身心健康",
+    "level": 1
+  },
+  {
+    "word": "healthy",
+    "kk": "[ˈhɛlθɪ]",
+    "pos": "adj.",
+    "meaning": "健康的",
+    "examples": [
+      { "en": "I try to eat healthy food every day.", "zh": "我每天盡量吃健康的食物。" },
+      { "en": "Walking keeps you healthy.", "zh": "走路能讓你保持健康。" }
+    ],
+    "img": "fresh vegetables and running shoes",
+    "theme": "身心健康",
+    "level": 1
+  },
+  {
+    "word": "breathe",
+    "kk": "[brið]",
+    "pos": "v.",
+    "meaning": "呼吸",
+    "examples": [
+      { "en": "Breathe slowly to calm yourself.", "zh": "慢慢呼吸讓自己冷靜。" },
+      { "en": "Just breathe and take your time.", "zh": "深呼吸,慢慢來。" }
+    ],
+    "img": "person taking a deep breath by window",
+    "theme": "身心健康",
+    "level": 1
+  },
+  {
+    "word": "exercise",
+    "kk": "[ˈɛksɚˌsaɪz]",
+    "pos": "n./v.",
+    "meaning": "運動;鍛鍊",
+    "examples": [
+      { "en": "Regular exercise reduces stress.", "zh": "規律運動能減輕壓力。" },
+      { "en": "I exercise three times a week.", "zh": "我一週運動三次。" }
+    ],
+    "img": "person jogging in a park",
+    "theme": "身心健康",
+    "level": 1
+  },
+  {
+    "word": "smile",
+    "kk": "[smaɪl]",
+    "pos": "v./n.",
+    "meaning": "微笑",
+    "examples": [
+      { "en": "A smile can brighten your whole day.", "zh": "一個微笑能照亮你一整天。" },
+      { "en": "She smiled and said thank you.", "zh": "她微笑著說謝謝。" }
+    ],
+    "img": "close-up of a warm smiling face",
+    "theme": "身心健康",
+    "level": 1
+  },
+  {
+    "word": "energy",
+    "kk": "[ˈɛnɚdʒɪ]",
+    "pos": "n.",
+    "meaning": "活力;精力",
+    "examples": [
+      { "en": "A good breakfast gives me energy.", "zh": "吃好早餐讓我有精神。" },
+      { "en": "I have no energy after work.", "zh": "下班後我一點力氣都沒有。" }
+    ],
+    "img": "energetic person stretching at sunrise",
+    "theme": "身心健康",
+    "level": 1
+  },
+  {
+    "word": "hobby",
+    "kk": "[ˈhɑbɪ]",
+    "pos": "n.",
+    "meaning": "嗜好",
+    "examples": [
+      { "en": "Painting is a great hobby to relax.", "zh": "畫畫是很棒的放鬆嗜好。" },
+      { "en": "What hobbies do you have?", "zh": "你有什麼興趣嗜好?" }
+    ],
+    "img": "person painting at a cozy table",
+    "theme": "身心健康",
+    "level": 1
+  },
+  {
+    "word": "walk",
+    "kk": "[wɔk]",
+    "pos": "v./n.",
+    "meaning": "散步;走路",
+    "examples": [
+      { "en": "Let's take a walk after dinner.", "zh": "晚餐後我們去散個步吧。" },
+      { "en": "A short walk clears my mind.", "zh": "短短散步能讓我頭腦清醒。" }
+    ],
+    "img": "person walking on a tree-lined path",
+    "theme": "身心健康",
+    "level": 1
+  },
+  {
+    "word": "meditation",
+    "kk": "[ˌmɛdəˈteʃən]",
+    "pos": "n.",
+    "meaning": "冥想;打坐",
+    "examples": [
+      { "en": "Meditation helps me start the day calmly.", "zh": "冥想幫助我平靜地開始一天。" },
+      { "en": "She practices meditation every morning.", "zh": "她每天早上練習冥想。" }
+    ],
+    "img": "person sitting cross-legged eyes closed",
+    "theme": "身心健康",
+    "level": 2
+  },
+  {
+    "word": "anxiety",
+    "kk": "[æŋˈzaɪətɪ]",
+    "pos": "n.",
+    "meaning": "焦慮",
+    "examples": [
+      { "en": "Deep breathing eases my anxiety.", "zh": "深呼吸能緩解我的焦慮。" },
+      { "en": "He feels anxiety before big meetings.", "zh": "重要會議前他會感到焦慮。" }
+    ],
+    "img": "worried person with hands clasped",
+    "theme": "身心健康",
+    "level": 2
+  },
+  {
+    "word": "relaxation",
+    "kk": "[ˌrilækˈseʃən]",
+    "pos": "n.",
+    "meaning": "放鬆;鬆弛",
+    "examples": [
+      { "en": "A warm bath is pure relaxation for me.", "zh": "泡熱水澡對我來說是純粹的放鬆。" },
+      { "en": "Music brings me a sense of relaxation.", "zh": "音樂帶給我放鬆的感覺。" }
+    ],
+    "img": "person soaking in a warm bath",
+    "theme": "身心健康",
+    "level": 2
+  },
+  {
+    "word": "mindful",
+    "kk": "[ˈmaɪndfəl]",
+    "pos": "adj.",
+    "meaning": "留心的;專注當下的",
+    "examples": [
+      { "en": "Try to be mindful when you eat.", "zh": "吃東西時試著專注當下。" },
+      { "en": "Being mindful keeps me from worrying.", "zh": "保持覺察讓我不再胡思亂想。" }
+    ],
+    "img": "person mindfully sipping tea slowly",
+    "theme": "身心健康",
+    "level": 2
+  },
+  {
+    "word": "wellness",
+    "kk": "[ˈwɛlnɪs]",
+    "pos": "n.",
+    "meaning": "身心健康;養生",
+    "examples": [
+      { "en": "The company cares about employee wellness.", "zh": "這家公司重視員工的身心健康。" },
+      { "en": "Good sleep is part of wellness.", "zh": "良好睡眠是養生的一部分。" }
+    ],
+    "img": "spa setting with candles and plants",
+    "theme": "身心健康",
+    "level": 2
+  },
+  {
+    "word": "routine",
+    "kk": "[ruˈtin]",
+    "pos": "n.",
+    "meaning": "例行慣例;作息",
+    "examples": [
+      { "en": "A bedtime routine helps me sleep better.", "zh": "睡前的固定作息幫助我睡得更好。" },
+      { "en": "Exercise is part of my daily routine.", "zh": "運動是我每天的例行事項。" }
+    ],
+    "img": "checklist of daily morning habits",
+    "theme": "身心健康",
+    "level": 2
+  },
+  {
+    "word": "balance",
+    "kk": "[ˈbæləns]",
+    "pos": "n./v.",
+    "meaning": "平衡",
+    "examples": [
+      { "en": "I try to keep a work-life balance.", "zh": "我努力保持工作與生活的平衡。" },
+      { "en": "It's hard to balance study and rest.", "zh": "很難兼顧學習和休息。" }
+    ],
+    "img": "balanced stones stacked by water",
+    "theme": "身心健康",
+    "level": 2
+  },
+  {
+    "word": "pressure",
+    "kk": "[ˈprɛʃɚ]",
+    "pos": "n.",
+    "meaning": "壓力;逼迫",
+    "examples": [
+      { "en": "There's a lot of pressure before exams.", "zh": "考試前壓力很大。" },
+      { "en": "Don't put too much pressure on yourself.", "zh": "別給自己太大壓力。" }
+    ],
+    "img": "person under heavy weight illustration",
+    "theme": "身心健康",
+    "level": 2
+  },
+  {
+    "word": "mood",
+    "kk": "[mud]",
+    "pos": "n.",
+    "meaning": "心情;情緒",
+    "examples": [
+      { "en": "A walk outside lifts my mood.", "zh": "到外面散步能提振我的心情。" },
+      { "en": "She's in a good mood today.", "zh": "她今天心情很好。" }
+    ],
+    "img": "face with different emotion icons",
+    "theme": "身心健康",
+    "level": 2
+  },
+  {
+    "word": "positive",
+    "kk": "[ˈpɑzətɪv]",
+    "pos": "adj.",
+    "meaning": "正面的;樂觀的",
+    "examples": [
+      { "en": "Try to stay positive during hard times.", "zh": "在艱難時刻試著保持正面。" },
+      { "en": "A positive attitude reduces stress.", "zh": "正面的態度能減輕壓力。" }
+    ],
+    "img": "person giving a thumbs up smiling",
+    "theme": "身心健康",
+    "level": 2
+  },
+  {
+    "word": "nap",
+    "kk": "[næp]",
+    "pos": "n./v.",
+    "meaning": "小睡;打盹",
+    "examples": [
+      { "en": "A short nap refreshes me in the afternoon.", "zh": "下午小睡一下讓我恢復精神。" },
+      { "en": "I took a quick nap on the couch.", "zh": "我在沙發上小睡了一下。" }
+    ],
+    "img": "person napping under a blanket midday",
+    "theme": "身心健康",
+    "level": 2
+  },
+  {
+    "word": "stretch",
+    "kk": "[strɛtʃ]",
+    "pos": "v./n.",
+    "meaning": "伸展",
+    "examples": [
+      { "en": "Stretch your body before you exercise.", "zh": "運動前先伸展身體。" },
+      { "en": "I stretch every morning to feel loose.", "zh": "我每天早上伸展讓身體放鬆。" }
+    ],
+    "img": "person stretching arms upward",
+    "theme": "身心健康",
+    "level": 2
+  },
+  {
+    "word": "hydrate",
+    "kk": "[ˈhaɪdret]",
+    "pos": "v.",
+    "meaning": "補充水分",
+    "examples": [
+      { "en": "Remember to hydrate throughout the day.", "zh": "記得整天都要補充水分。" },
+      { "en": "Hydrating well keeps my skin healthy.", "zh": "多喝水讓我的皮膚健康。" }
+    ],
+    "img": "hand holding a glass of water",
+    "theme": "身心健康",
+    "level": 2
+  },
+  {
+    "word": "journal",
+    "kk": "[ˈdʒɝnḷ]",
+    "pos": "n./v.",
+    "meaning": "日記;寫日記",
+    "examples": [
+      { "en": "Writing in a journal helps me relax.", "zh": "寫日記幫助我放鬆。" },
+      { "en": "She journals about her feelings at night.", "zh": "她晚上會寫日記記錄心情。" }
+    ],
+    "img": "open notebook with a pen on desk",
+    "theme": "身心健康",
+    "level": 2
+  },
+  {
+    "word": "grateful",
+    "kk": "[ˈɡretfəl]",
+    "pos": "adj.",
+    "meaning": "感激的;感恩的",
+    "examples": [
+      { "en": "I feel grateful for my health.", "zh": "我對自己的健康心存感激。" },
+      { "en": "Being grateful makes me happier.", "zh": "懷抱感恩讓我更快樂。" }
+    ],
+    "img": "hands together in a thankful gesture",
+    "theme": "身心健康",
+    "level": 2
+  },
+  {
+    "word": "recharge",
+    "kk": "[riˈtʃɑrdʒ]",
+    "pos": "v.",
+    "meaning": "充電;恢復精力",
+    "examples": [
+      { "en": "I need a weekend to recharge.", "zh": "我需要一個週末來充電。" },
+      { "en": "Nature helps me recharge my energy.", "zh": "大自然幫助我恢復精力。" }
+    ],
+    "img": "phone battery icon over a resting person",
+    "theme": "身心健康",
+    "level": 2
+  },
+  {
+    "word": "overwhelmed",
+    "kk": "[ˌovɚˈwɛlmd]",
+    "pos": "adj.",
+    "meaning": "不知所措的;被壓垮的",
+    "examples": [
+      { "en": "I feel overwhelmed by all this work.", "zh": "這麼多工作讓我快喘不過氣。" },
+      { "en": "When you're overwhelmed, take a break.", "zh": "當你不知所措時,休息一下。" }
+    ],
+    "img": "person buried under piles of paper",
+    "theme": "身心健康",
+    "level": 3
+  },
+  {
+    "word": "burnout",
+    "kk": "[ˈbɝnˌaʊt]",
+    "pos": "n.",
+    "meaning": "身心俱疲;職業倦怠",
+    "examples": [
+      { "en": "Long hours can lead to burnout.", "zh": "長時間工作可能導致身心俱疲。" },
+      { "en": "She took time off to recover from burnout.", "zh": "她請假來從倦怠中恢復。" }
+    ],
+    "img": "exhausted person slumped at desk",
+    "theme": "身心健康",
+    "level": 3
+  },
+  {
+    "word": "resilience",
+    "kk": "[rɪˈzɪlɪəns]",
+    "pos": "n.",
+    "meaning": "韌性;復原力",
+    "examples": [
+      { "en": "Resilience helps you bounce back from stress.", "zh": "韌性幫助你從壓力中恢復。" },
+      { "en": "She showed great resilience after the loss.", "zh": "失去之後她展現了強大的復原力。" }
+    ],
+    "img": "small plant growing through cracked ground",
+    "theme": "身心健康",
+    "level": 3
+  },
+  {
+    "word": "mindfulness",
+    "kk": "[ˈmaɪndfəlnɪs]",
+    "pos": "n.",
+    "meaning": "正念;覺察",
+    "examples": [
+      { "en": "Mindfulness teaches you to live in the moment.", "zh": "正念教你活在當下。" },
+      { "en": "I practice mindfulness to reduce anxiety.", "zh": "我練習正念來減輕焦慮。" }
+    ],
+    "img": "person focusing on a single candle flame",
+    "theme": "身心健康",
+    "level": 3
+  },
+  {
+    "word": "insomnia",
+    "kk": "[ɪnˈsɑmnɪə]",
+    "pos": "n.",
+    "meaning": "失眠",
+    "examples": [
+      { "en": "Stress often causes insomnia.", "zh": "壓力常常導致失眠。" },
+      { "en": "He struggles with insomnia every night.", "zh": "他每晚都受失眠所苦。" }
+    ],
+    "img": "person awake staring at ceiling clock",
+    "theme": "身心健康",
+    "level": 3
+  },
+  {
+    "word": "cope",
+    "kk": "[kop]",
+    "pos": "v.",
+    "meaning": "應付;調適",
+    "examples": [
+      { "en": "Exercise helps me cope with stress.", "zh": "運動幫助我調適壓力。" },
+      { "en": "She learned to cope with pressure at work.", "zh": "她學會了應付工作上的壓力。" }
+    ],
+    "img": "person calmly handling many tasks",
+    "theme": "身心健康",
+    "level": 3
+  },
+  {
+    "word": "wellbeing",
+    "kk": "[ˈwɛlˈbiɪŋ]",
+    "pos": "n.",
+    "meaning": "幸福安康;福祉",
+    "examples": [
+      { "en": "Sleep is important for your wellbeing.", "zh": "睡眠對你的身心安康很重要。" },
+      { "en": "Mental wellbeing matters as much as physical health.", "zh": "心理健康和身體健康一樣重要。" }
+    ],
+    "img": "person relaxing peacefully in nature",
+    "theme": "身心健康",
+    "level": 3
+  },
+  {
+    "word": "recovery",
+    "kk": "[rɪˈkʌvərɪ]",
+    "pos": "n.",
+    "meaning": "恢復;復原",
+    "examples": [
+      { "en": "Rest is key to a full recovery.", "zh": "休息是完全復原的關鍵。" },
+      { "en": "Recovery takes both time and patience.", "zh": "恢復需要時間和耐心。" }
+    ],
+    "img": "person stretching gently after rest",
+    "theme": "身心健康",
+    "level": 3
+  },
+  {
+    "word": "unwind",
+    "kk": "[ˌʌnˈwaɪnd]",
+    "pos": "v.",
+    "meaning": "放鬆;鬆懈",
+    "examples": [
+      { "en": "I like to unwind with a book at night.", "zh": "我喜歡晚上看書放鬆。" },
+      { "en": "It takes me a while to unwind after work.", "zh": "下班後我需要一段時間才能放鬆。" }
+    ],
+    "img": "person reading on a comfy armchair",
+    "theme": "身心健康",
+    "level": 3
+  },
+  {
+    "word": "soothe",
+    "kk": "[suð]",
+    "pos": "v.",
+    "meaning": "撫慰;舒緩",
+    "examples": [
+      { "en": "Soft music soothes my nerves.", "zh": "輕柔的音樂能舒緩我的緊張。" },
+      { "en": "A warm drink soothes me before bed.", "zh": "睡前一杯熱飲能安撫我。" }
+    ],
+    "img": "warm cup of tea with steam rising",
+    "theme": "身心健康",
+    "level": 3
+  },
+  {
+    "word": "tension",
+    "kk": "[ˈtɛnʃən]",
+    "pos": "n.",
+    "meaning": "緊張;繃緊",
+    "examples": [
+      { "en": "I feel tension in my shoulders after work.", "zh": "下班後我的肩膀很緊繃。" },
+      { "en": "Stretching releases the tension in my body.", "zh": "伸展能釋放身體的緊繃。" }
+    ],
+    "img": "person rubbing tense shoulders",
+    "theme": "身心健康",
+    "level": 3
+  },
+  {
+    "word": "fatigue",
+    "kk": "[fəˈtiɡ]",
+    "pos": "n.",
+    "meaning": "疲勞;倦怠",
+    "examples": [
+      { "en": "Poor sleep leads to constant fatigue.", "zh": "睡眠不足會導致持續的疲勞。" },
+      { "en": "I felt deep fatigue after the busy week.", "zh": "忙碌的一週後我感到深深的疲憊。" }
+    ],
+    "img": "drained person leaning against wall",
+    "theme": "身心健康",
+    "level": 3
+  },
+  {
+    "word": "nourish",
+    "kk": "[ˈnɝɪʃ]",
+    "pos": "v.",
+    "meaning": "滋養;給予養分",
+    "examples": [
+      { "en": "Good food nourishes both body and mind.", "zh": "好的食物滋養身心。" },
+      { "en": "Kind words nourish the soul.", "zh": "善意的話語滋養心靈。" }
+    ],
+    "img": "colorful nourishing bowl of healthy food",
+    "theme": "身心健康",
+    "level": 3
+  },
+  {
+    "word": "serenity",
+    "kk": "[səˈrɛnətɪ]",
+    "pos": "n.",
+    "meaning": "寧靜;安詳",
+    "examples": [
+      { "en": "I find serenity in quiet mornings.", "zh": "我在寧靜的早晨找到安詳。" },
+      { "en": "The garden gives me a sense of serenity.", "zh": "這座花園帶給我一種寧靜感。" }
+    ],
+    "img": "still lake at peaceful sunrise",
+    "theme": "身心健康",
+    "level": 3
+  },
+  {
+    "word": "declutter",
+    "kk": "[diˈklʌtɚ]",
+    "pos": "v.",
+    "meaning": "整理;清除雜亂",
+    "examples": [
+      { "en": "Decluttering my room clears my mind.", "zh": "整理房間讓我頭腦清爽。" },
+      { "en": "I declutter my desk every Friday.", "zh": "我每週五整理我的書桌。" }
+    ],
+    "img": "tidy minimalist desk after cleaning",
+    "theme": "身心健康",
+    "level": 3
+  },
+  {
+    "word": "self-care",
+    "kk": "[ˈsɛlfˈkɛr]",
+    "pos": "n.",
+    "meaning": "自我照顧;自我關懷",
+    "examples": [
+      { "en": "Taking a day off is a form of self-care.", "zh": "請一天假是一種自我照顧。" },
+      { "en": "Self-care isn't selfish; it's necessary.", "zh": "自我關懷不是自私,而是必要的。" }
+    ],
+    "img": "person enjoying a quiet spa moment",
+    "theme": "身心健康",
+    "level": 3
+  },
+  {
+    "word": "boundary",
+    "kk": "[ˈbaʊndərɪ]",
+    "pos": "n.",
+    "meaning": "界線;分際",
+    "examples": [
+      { "en": "Setting boundaries protects my mental health.", "zh": "設立界線保護我的心理健康。" },
+      { "en": "It's okay to set boundaries with others.", "zh": "和他人設立界線是沒問題的。" }
+    ],
+    "img": "person calmly saying no with a gesture",
+    "theme": "身心健康",
+    "level": 3
+  },
+  {
+    "word": "gratitude",
+    "kk": "[ˈɡrætəˌtjud]",
+    "pos": "n.",
+    "meaning": "感恩;感激之情",
+    "examples": [
+      { "en": "Keeping a gratitude list lifts my mood.", "zh": "寫感恩清單能提振我的心情。" },
+      { "en": "Gratitude helps me focus on the good.", "zh": "感恩幫助我專注在美好的事物上。" }
+    ],
+    "img": "journal page listing things to be thankful for",
+    "theme": "身心健康",
+    "level": 3
+  },
+  {
+    "word": "refresh",
+    "kk": "[rɪˈfrɛʃ]",
+    "pos": "v.",
+    "meaning": "使清爽;恢復精神",
+    "examples": [
+      { "en": "A cold shower refreshes me in the morning.", "zh": "早上沖個冷水澡讓我神清氣爽。" },
+      { "en": "A short break refreshes my mind.", "zh": "短暫休息讓我頭腦清新。" }
+    ],
+    "img": "person splashing water on a fresh face",
+    "theme": "身心健康",
+    "level": 3
+  }
+]

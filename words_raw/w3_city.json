@@ -1,0 +1,639 @@
+[
+  {
+    "word": "street",
+    "kk": "[strit]",
+    "pos": "n.",
+    "meaning": "街道",
+    "examples": [
+      { "en": "The store is on Main Street.", "zh": "那家店在大街上。" },
+      { "en": "Be careful crossing the street.", "zh": "過街時要小心。" }
+    ],
+    "img": "busy city street with shops",
+    "theme": "城市地點",
+    "level": 1
+  },
+  {
+    "word": "building",
+    "kk": "[ˋbɪldɪŋ]",
+    "pos": "n.",
+    "meaning": "建築物",
+    "examples": [
+      { "en": "That tall building is a bank.", "zh": "那棟高樓是銀行。" },
+      { "en": "My office is in this building.", "zh": "我的辦公室在這棟大樓裡。" }
+    ],
+    "img": "tall glass office building",
+    "theme": "城市地點",
+    "level": 1
+  },
+  {
+    "word": "park",
+    "kk": "[pɑrk]",
+    "pos": "n.",
+    "meaning": "公園",
+    "examples": [
+      { "en": "Let's walk in the park.", "zh": "我們去公園走走吧。" },
+      { "en": "The park is next to my house.", "zh": "公園就在我家旁邊。" }
+    ],
+    "img": "green city park with benches",
+    "theme": "城市地點",
+    "level": 1
+  },
+  {
+    "word": "library",
+    "kk": "[ˋlaɪˏbrɛrɪ]",
+    "pos": "n.",
+    "meaning": "圖書館",
+    "examples": [
+      { "en": "I borrow books from the library.", "zh": "我在圖書館借書。" },
+      { "en": "The library is very quiet.", "zh": "圖書館很安靜。" }
+    ],
+    "img": "public library with bookshelves",
+    "theme": "城市地點",
+    "level": 1
+  },
+  {
+    "word": "hospital",
+    "kk": "[ˋhɑspɪt!]",
+    "pos": "n.",
+    "meaning": "醫院",
+    "examples": [
+      { "en": "She works at the hospital.", "zh": "她在醫院工作。" },
+      { "en": "The hospital is open all night.", "zh": "這家醫院整晚開放。" }
+    ],
+    "img": "modern hospital building entrance",
+    "theme": "城市地點",
+    "level": 1
+  },
+  {
+    "word": "bank",
+    "kk": "[bæŋk]",
+    "pos": "n.",
+    "meaning": "銀行",
+    "examples": [
+      { "en": "I need to go to the bank.", "zh": "我需要去銀行。" },
+      { "en": "The bank closes at five.", "zh": "銀行五點關門。" }
+    ],
+    "img": "bank building with columns",
+    "theme": "城市地點",
+    "level": 1
+  },
+  {
+    "word": "market",
+    "kk": "[ˋmɑrkɪt]",
+    "pos": "n.",
+    "meaning": "市場",
+    "examples": [
+      { "en": "We buy fruit at the market.", "zh": "我們在市場買水果。" },
+      { "en": "The market is busy in the morning.", "zh": "市場早上很熱鬧。" }
+    ],
+    "img": "outdoor market with fruit stalls",
+    "theme": "城市地點",
+    "level": 1
+  },
+  {
+    "word": "school",
+    "kk": "[skul]",
+    "pos": "n.",
+    "meaning": "學校",
+    "examples": [
+      { "en": "My kids walk to school.", "zh": "我的孩子走路上學。" },
+      { "en": "The school is near the park.", "zh": "學校在公園附近。" }
+    ],
+    "img": "school building with playground",
+    "theme": "城市地點",
+    "level": 1
+  },
+  {
+    "word": "store",
+    "kk": "[stor]",
+    "pos": "n.",
+    "meaning": "商店",
+    "examples": [
+      { "en": "The store sells shoes.", "zh": "這家店賣鞋子。" },
+      { "en": "There's a store on the corner.", "zh": "轉角有一家商店。" }
+    ],
+    "img": "small corner store front",
+    "theme": "城市地點",
+    "level": 1
+  },
+  {
+    "word": "restaurant",
+    "kk": "[ˋrɛstərənt]",
+    "pos": "n.",
+    "meaning": "餐廳",
+    "examples": [
+      { "en": "Let's eat at that restaurant.", "zh": "我們去那家餐廳吃飯吧。" },
+      { "en": "The restaurant is always full.", "zh": "那家餐廳總是客滿。" }
+    ],
+    "img": "cozy restaurant with tables",
+    "theme": "城市地點",
+    "level": 1
+  },
+  {
+    "word": "corner",
+    "kk": "[ˋkɔrnɚ]",
+    "pos": "n.",
+    "meaning": "轉角;街角",
+    "examples": [
+      { "en": "Turn left at the corner.", "zh": "在轉角處左轉。" },
+      { "en": "The café is on the corner.", "zh": "咖啡館在街角。" }
+    ],
+    "img": "street corner with signpost",
+    "theme": "城市地點",
+    "level": 1
+  },
+  {
+    "word": "left",
+    "kk": "[lɛft]",
+    "pos": "n. / adj.",
+    "meaning": "左邊(的)",
+    "examples": [
+      { "en": "The bank is on your left.", "zh": "銀行在你的左邊。" },
+      { "en": "Turn left after the light.", "zh": "過紅綠燈後左轉。" }
+    ],
+    "img": "arrow pointing left on street",
+    "theme": "城市地點",
+    "level": 1
+  },
+  {
+    "word": "right",
+    "kk": "[raɪt]",
+    "pos": "n. / adj.",
+    "meaning": "右邊(的)",
+    "examples": [
+      { "en": "The store is on your right.", "zh": "商店在你的右邊。" },
+      { "en": "Take the first right.", "zh": "在第一個路口右轉。" }
+    ],
+    "img": "arrow pointing right on street",
+    "theme": "城市地點",
+    "level": 1
+  },
+  {
+    "word": "map",
+    "kk": "[mæp]",
+    "pos": "n.",
+    "meaning": "地圖",
+    "examples": [
+      { "en": "Let me check the map.", "zh": "讓我看一下地圖。" },
+      { "en": "The map shows the way.", "zh": "地圖上有指路。" }
+    ],
+    "img": "folded paper city map",
+    "theme": "城市地點",
+    "level": 1
+  },
+  {
+    "word": "square",
+    "kk": "[skwɛr]",
+    "pos": "n.",
+    "meaning": "廣場",
+    "examples": [
+      { "en": "People gather in the square.", "zh": "人們在廣場聚集。" },
+      { "en": "The square has a fountain.", "zh": "廣場上有座噴泉。" }
+    ],
+    "img": "open city square with fountain",
+    "theme": "城市地點",
+    "level": 2
+  },
+  {
+    "word": "avenue",
+    "kk": "[ˋævəˏnju]",
+    "pos": "n.",
+    "meaning": "大道;大街",
+    "examples": [
+      { "en": "They live on Fifth Avenue.", "zh": "他們住在第五大道。" },
+      { "en": "The avenue is lined with trees.", "zh": "這條大道兩旁都是樹。" }
+    ],
+    "img": "wide tree-lined avenue",
+    "theme": "城市地點",
+    "level": 2
+  },
+  {
+    "word": "sidewalk",
+    "kk": "[ˋsaɪdˏwɔk]",
+    "pos": "n.",
+    "meaning": "人行道",
+    "examples": [
+      { "en": "Walk on the sidewalk, please.", "zh": "請走人行道。" },
+      { "en": "The sidewalk is wide here.", "zh": "這裡的人行道很寬。" }
+    ],
+    "img": "city sidewalk beside road",
+    "theme": "城市地點",
+    "level": 2
+  },
+  {
+    "word": "crosswalk",
+    "kk": "[ˋkrɔsˏwɔk]",
+    "pos": "n.",
+    "meaning": "行人穿越道;斑馬線",
+    "examples": [
+      { "en": "Cross at the crosswalk.", "zh": "在斑馬線上過馬路。" },
+      { "en": "The crosswalk is just ahead.", "zh": "斑馬線就在前面。" }
+    ],
+    "img": "zebra crosswalk on street",
+    "theme": "城市地點",
+    "level": 2
+  },
+  {
+    "word": "intersection",
+    "kk": "[ˏɪntɚˋsɛkʃən]",
+    "pos": "n.",
+    "meaning": "十字路口",
+    "examples": [
+      { "en": "Stop at the intersection.", "zh": "在十字路口停下來。" },
+      { "en": "The bank is at the intersection.", "zh": "銀行在十字路口。" }
+    ],
+    "img": "busy four-way intersection",
+    "theme": "城市地點",
+    "level": 2
+  },
+  {
+    "word": "block",
+    "kk": "[blɑk]",
+    "pos": "n.",
+    "meaning": "街區",
+    "examples": [
+      { "en": "It's two blocks away.", "zh": "在兩個街區外。" },
+      { "en": "Walk down one block.", "zh": "往前走一個街區。" }
+    ],
+    "img": "city block from above",
+    "theme": "城市地點",
+    "level": 2
+  },
+  {
+    "word": "post office",
+    "kk": "[post ˋɔfɪs]",
+    "pos": "n.",
+    "meaning": "郵局",
+    "examples": [
+      { "en": "I mailed it at the post office.", "zh": "我在郵局寄的。" },
+      { "en": "The post office is closed today.", "zh": "郵局今天休息。" }
+    ],
+    "img": "small town post office building",
+    "theme": "城市地點",
+    "level": 2
+  },
+  {
+    "word": "pharmacy",
+    "kk": "[ˋfɑrməsɪ]",
+    "pos": "n.",
+    "meaning": "藥局",
+    "examples": [
+      { "en": "The pharmacy sells medicine.", "zh": "藥局賣藥。" },
+      { "en": "Is there a pharmacy nearby?", "zh": "附近有藥局嗎?" }
+    ],
+    "img": "pharmacy shop with green cross",
+    "theme": "城市地點",
+    "level": 2
+  },
+  {
+    "word": "supermarket",
+    "kk": "[ˋsupɚˏmɑrkɪt]",
+    "pos": "n.",
+    "meaning": "超級市場",
+    "examples": [
+      { "en": "We shop at the supermarket.", "zh": "我們在超市購物。" },
+      { "en": "The supermarket is open late.", "zh": "超市營業到很晚。" }
+    ],
+    "img": "supermarket aisle with shelves",
+    "theme": "城市地點",
+    "level": 2
+  },
+  {
+    "word": "bakery",
+    "kk": "[ˋbekərɪ]",
+    "pos": "n.",
+    "meaning": "麵包店",
+    "examples": [
+      { "en": "The bakery smells wonderful.", "zh": "麵包店聞起來很香。" },
+      { "en": "I bought bread at the bakery.", "zh": "我在麵包店買了麵包。" }
+    ],
+    "img": "bakery window with fresh bread",
+    "theme": "城市地點",
+    "level": 2
+  },
+  {
+    "word": "bookstore",
+    "kk": "[ˋbʊkˏstor]",
+    "pos": "n.",
+    "meaning": "書店",
+    "examples": [
+      { "en": "She works in a bookstore.", "zh": "她在書店工作。" },
+      { "en": "The bookstore has a café.", "zh": "書店裡有間咖啡館。" }
+    ],
+    "img": "cozy bookstore with shelves",
+    "theme": "城市地點",
+    "level": 2
+  },
+  {
+    "word": "museum",
+    "kk": "[mjuˋzɪəm]",
+    "pos": "n.",
+    "meaning": "博物館",
+    "examples": [
+      { "en": "The museum is free on Sundays.", "zh": "博物館週日免費。" },
+      { "en": "We saw art at the museum.", "zh": "我們在博物館看藝術品。" }
+    ],
+    "img": "grand museum with columns",
+    "theme": "城市地點",
+    "level": 2
+  },
+  {
+    "word": "theater",
+    "kk": "[ˋθɪətɚ]",
+    "pos": "n.",
+    "meaning": "劇院;電影院",
+    "examples": [
+      { "en": "The movie theater is downtown.", "zh": "電影院在市中心。" },
+      { "en": "We watched a play at the theater.", "zh": "我們在劇院看了場戲。" }
+    ],
+    "img": "theater marquee with lights",
+    "theme": "城市地點",
+    "level": 2
+  },
+  {
+    "word": "downtown",
+    "kk": "[ˋdaʊnˋtaʊn]",
+    "pos": "n. / adv.",
+    "meaning": "市中心;鬧區",
+    "examples": [
+      { "en": "She lives downtown.", "zh": "她住在市中心。" },
+      { "en": "Downtown is always crowded.", "zh": "市中心總是很擁擠。" }
+    ],
+    "img": "downtown skyline with skyscrapers",
+    "theme": "城市地點",
+    "level": 2
+  },
+  {
+    "word": "neighborhood",
+    "kk": "[ˋnebɚˏhʊd]",
+    "pos": "n.",
+    "meaning": "社區;鄰里",
+    "examples": [
+      { "en": "It's a quiet neighborhood.", "zh": "這是個安靜的社區。" },
+      { "en": "I grew up in this neighborhood.", "zh": "我在這個社區長大。" }
+    ],
+    "img": "quiet residential neighborhood street",
+    "theme": "城市地點",
+    "level": 2
+  },
+  {
+    "word": "traffic light",
+    "kk": "[ˋtræfɪk laɪt]",
+    "pos": "n.",
+    "meaning": "紅綠燈",
+    "examples": [
+      { "en": "Stop at the traffic light.", "zh": "在紅綠燈前停下。" },
+      { "en": "Turn right at the traffic light.", "zh": "在紅綠燈處右轉。" }
+    ],
+    "img": "red traffic light on pole",
+    "theme": "城市地點",
+    "level": 2
+  },
+  {
+    "word": "fountain",
+    "kk": "[ˋfaʊntɪn]",
+    "pos": "n.",
+    "meaning": "噴泉",
+    "examples": [
+      { "en": "Meet me by the fountain.", "zh": "在噴泉旁跟我碰面。" },
+      { "en": "The fountain is in the square.", "zh": "噴泉在廣場中央。" }
+    ],
+    "img": "stone fountain in plaza",
+    "theme": "城市地點",
+    "level": 2
+  },
+  {
+    "word": "bridge",
+    "kk": "[brɪdʒ]",
+    "pos": "n.",
+    "meaning": "橋",
+    "examples": [
+      { "en": "Cross the bridge to the park.", "zh": "過橋就到公園。" },
+      { "en": "The bridge is over the river.", "zh": "這座橋橫跨河上。" }
+    ],
+    "img": "city bridge over river",
+    "theme": "城市地點",
+    "level": 2
+  },
+  {
+    "word": "gym",
+    "kk": "[dʒɪm]",
+    "pos": "n.",
+    "meaning": "健身房",
+    "examples": [
+      { "en": "I go to the gym after work.", "zh": "我下班後去健身房。" },
+      { "en": "The gym is on the second floor.", "zh": "健身房在二樓。" }
+    ],
+    "img": "modern gym with equipment",
+    "theme": "城市地點",
+    "level": 2
+  },
+  {
+    "word": "parking lot",
+    "kk": "[ˋpɑrkɪŋ lɑt]",
+    "pos": "n.",
+    "meaning": "停車場",
+    "examples": [
+      { "en": "The parking lot is full.", "zh": "停車場滿了。" },
+      { "en": "My car is in the parking lot.", "zh": "我的車停在停車場。" }
+    ],
+    "img": "outdoor parking lot with cars",
+    "theme": "城市地點",
+    "level": 2
+  },
+  {
+    "word": "police station",
+    "kk": "[pəˋlis ˋsteʃən]",
+    "pos": "n.",
+    "meaning": "警察局",
+    "examples": [
+      { "en": "The police station is nearby.", "zh": "警察局就在附近。" },
+      { "en": "Go to the police station for help.", "zh": "去警察局尋求協助。" }
+    ],
+    "img": "police station building entrance",
+    "theme": "城市地點",
+    "level": 2
+  },
+  {
+    "word": "fire station",
+    "kk": "[faɪr ˋsteʃən]",
+    "pos": "n.",
+    "meaning": "消防局",
+    "examples": [
+      { "en": "There's a fire station on this road.", "zh": "這條路上有間消防局。" },
+      { "en": "The fire station has red trucks.", "zh": "消防局有紅色消防車。" }
+    ],
+    "img": "fire station with red truck",
+    "theme": "城市地點",
+    "level": 2
+  },
+  {
+    "word": "city hall",
+    "kk": "[ˋsɪtɪ hɔl]",
+    "pos": "n.",
+    "meaning": "市政廳",
+    "examples": [
+      { "en": "City hall is in the center.", "zh": "市政廳在市中心。" },
+      { "en": "We got the permit at city hall.", "zh": "我們在市政廳拿到許可證。" }
+    ],
+    "img": "grand city hall building",
+    "theme": "城市地點",
+    "level": 2
+  },
+  {
+    "word": "stadium",
+    "kk": "[ˋstedɪəm]",
+    "pos": "n.",
+    "meaning": "體育場",
+    "examples": [
+      { "en": "The stadium holds thousands.", "zh": "這座體育場能容納數千人。" },
+      { "en": "The game is at the stadium.", "zh": "比賽在體育場舉行。" }
+    ],
+    "img": "large sports stadium exterior",
+    "theme": "城市地點",
+    "level": 2
+  },
+  {
+    "word": "clinic",
+    "kk": "[ˋklɪnɪk]",
+    "pos": "n.",
+    "meaning": "診所",
+    "examples": [
+      { "en": "The clinic opens at nine.", "zh": "診所九點開門。" },
+      { "en": "I saw a doctor at the clinic.", "zh": "我在診所看了醫生。" }
+    ],
+    "img": "small medical clinic entrance",
+    "theme": "城市地點",
+    "level": 2
+  },
+  {
+    "word": "landmark",
+    "kk": "[ˋlændˏmɑrk]",
+    "pos": "n.",
+    "meaning": "地標",
+    "examples": [
+      { "en": "The tower is a famous landmark.", "zh": "這座塔是著名地標。" },
+      { "en": "Use that landmark to find us.", "zh": "用那個地標來找我們。" }
+    ],
+    "img": "famous city landmark tower",
+    "theme": "城市地點",
+    "level": 3
+  },
+  {
+    "word": "avenue crossing",
+    "kk": "[ˋævəˏnju ˋkrɔsɪŋ]",
+    "pos": "n.",
+    "meaning": "大道路口;穿越處",
+    "examples": [
+      { "en": "Wait at the avenue crossing.", "zh": "在大道路口等一下。" },
+      { "en": "The avenue crossing is dangerous.", "zh": "這個大道路口很危險。" }
+    ],
+    "img": "wide avenue pedestrian crossing",
+    "theme": "城市地點",
+    "level": 3
+  },
+  {
+    "word": "boulevard",
+    "kk": "[ˋbʊləˏvɑrd]",
+    "pos": "n.",
+    "meaning": "林蔭大道",
+    "examples": [
+      { "en": "The boulevard is famous for shopping.", "zh": "這條林蔭大道以購物聞名。" },
+      { "en": "Palm trees line the boulevard.", "zh": "棕櫚樹排列在林蔭大道兩旁。" }
+    ],
+    "img": "grand palm-lined boulevard",
+    "theme": "城市地點",
+    "level": 3
+  },
+  {
+    "word": "alley",
+    "kk": "[ˋælɪ]",
+    "pos": "n.",
+    "meaning": "巷子;小巷",
+    "examples": [
+      { "en": "The shop is down a narrow alley.", "zh": "那家店在一條窄巷裡。" },
+      { "en": "Cats often hide in the alley.", "zh": "貓常躲在小巷裡。" }
+    ],
+    "img": "narrow city alley between buildings",
+    "theme": "城市地點",
+    "level": 3
+  },
+  {
+    "word": "pedestrian",
+    "kk": "[pəˋdɛstrɪən]",
+    "pos": "n.",
+    "meaning": "行人",
+    "examples": [
+      { "en": "Pedestrians must use the crosswalk.", "zh": "行人必須走斑馬線。" },
+      { "en": "This street is for pedestrians only.", "zh": "這條街只供行人通行。" }
+    ],
+    "img": "pedestrians walking on street",
+    "theme": "城市地點",
+    "level": 3
+  },
+  {
+    "word": "district",
+    "kk": "[ˋdɪstrɪkt]",
+    "pos": "n.",
+    "meaning": "區;行政區",
+    "examples": [
+      { "en": "This is the business district.", "zh": "這裡是商業區。" },
+      { "en": "The old district has small shops.", "zh": "舊城區有許多小店。" }
+    ],
+    "img": "aerial view of city district",
+    "theme": "城市地點",
+    "level": 3
+  },
+  {
+    "word": "plaza",
+    "kk": "[ˋplæzə]",
+    "pos": "n.",
+    "meaning": "廣場;購物中心",
+    "examples": [
+      { "en": "The plaza has many restaurants.", "zh": "這個廣場有很多餐廳。" },
+      { "en": "We met at the shopping plaza.", "zh": "我們在購物廣場碰面。" }
+    ],
+    "img": "open shopping plaza with shops",
+    "theme": "城市地點",
+    "level": 3
+  },
+  {
+    "word": "opposite",
+    "kk": "[ˋɑpəzɪt]",
+    "pos": "prep. / adj.",
+    "meaning": "在對面;相對的",
+    "examples": [
+      { "en": "The bank is opposite the park.", "zh": "銀行在公園對面。" },
+      { "en": "Their house is on the opposite side.", "zh": "他們家在對面那一側。" }
+    ],
+    "img": "two buildings facing each other",
+    "theme": "城市地點",
+    "level": 3
+  },
+  {
+    "word": "straight ahead",
+    "kk": "[stret əˋhɛd]",
+    "pos": "adv.",
+    "meaning": "直走;正前方",
+    "examples": [
+      { "en": "Go straight ahead for two blocks.", "zh": "直走兩個街區。" },
+      { "en": "The station is straight ahead.", "zh": "車站就在正前方。" }
+    ],
+    "img": "long straight road ahead",
+    "theme": "城市地點",
+    "level": 3
+  },
+  {
+    "word": "roundabout",
+    "kk": "[ˋraʊndəˏbaʊt]",
+    "pos": "n.",
+    "meaning": "圓環",
+    "examples": [
+      { "en": "Take the second exit at the roundabout.", "zh": "在圓環走第二個出口。" },
+      { "en": "The roundabout keeps traffic moving.", "zh": "圓環讓車流順暢。" }
+    ],
+    "img": "aerial view of traffic roundabout",
+    "theme": "城市地點",
+    "level": 3
+  }
+]

@@ -1,0 +1,639 @@
+[
+  {
+    "word": "big",
+    "kk": "[bɪɡ]",
+    "pos": "adj.",
+    "meaning": "大的",
+    "examples": [
+      { "en": "That's a big dog.", "zh": "那是一隻大狗。" },
+      { "en": "We live in a big city.", "zh": "我們住在一個大城市。" }
+    ],
+    "img": "large elephant next to small mouse",
+    "theme": "常用形容詞",
+    "level": 1
+  },
+  {
+    "word": "small",
+    "kk": "[smɔl]",
+    "pos": "adj.",
+    "meaning": "小的",
+    "examples": [
+      { "en": "I have a small car.", "zh": "我有一輛小車。" },
+      { "en": "She lives in a small town.", "zh": "她住在一個小鎮。" }
+    ],
+    "img": "tiny ant on a leaf",
+    "theme": "常用形容詞",
+    "level": 1
+  },
+  {
+    "word": "new",
+    "kk": "[nju]",
+    "pos": "adj.",
+    "meaning": "新的",
+    "examples": [
+      { "en": "I got a new phone.", "zh": "我買了一支新手機。" },
+      { "en": "This is my new bike.", "zh": "這是我的新腳踏車。" }
+    ],
+    "img": "shiny new smartphone in box",
+    "theme": "常用形容詞",
+    "level": 1
+  },
+  {
+    "word": "old",
+    "kk": "[old]",
+    "pos": "adj.",
+    "meaning": "舊的;年老的",
+    "examples": [
+      { "en": "This is an old house.", "zh": "這是一棟老房子。" },
+      { "en": "My old shoes are dirty.", "zh": "我的舊鞋子很髒。" }
+    ],
+    "img": "old worn brown leather shoes",
+    "theme": "常用形容詞",
+    "level": 1
+  },
+  {
+    "word": "good",
+    "kk": "[ɡʊd]",
+    "pos": "adj.",
+    "meaning": "好的",
+    "examples": [
+      { "en": "This is a good book.", "zh": "這是一本好書。" },
+      { "en": "He is a good cook.", "zh": "他是個好廚師。" }
+    ],
+    "img": "thumbs up gesture",
+    "theme": "常用形容詞",
+    "level": 1
+  },
+  {
+    "word": "bad",
+    "kk": "[bæd]",
+    "pos": "adj.",
+    "meaning": "壞的;不好的",
+    "examples": [
+      { "en": "The weather is bad today.", "zh": "今天天氣很糟。" },
+      { "en": "That's a bad idea.", "zh": "那是個壞主意。" }
+    ],
+    "img": "thumbs down gesture",
+    "theme": "常用形容詞",
+    "level": 1
+  },
+  {
+    "word": "hot",
+    "kk": "[hɑt]",
+    "pos": "adj.",
+    "meaning": "熱的;燙的",
+    "examples": [
+      { "en": "The soup is very hot.", "zh": "這湯很燙。" },
+      { "en": "It's hot outside.", "zh": "外面很熱。" }
+    ],
+    "img": "steaming hot cup of coffee",
+    "theme": "常用形容詞",
+    "level": 1
+  },
+  {
+    "word": "cold",
+    "kk": "[kold]",
+    "pos": "adj.",
+    "meaning": "冷的;冰的",
+    "examples": [
+      { "en": "The water is cold.", "zh": "水很冰。" },
+      { "en": "Winter is cold here.", "zh": "這裡的冬天很冷。" }
+    ],
+    "img": "ice cubes with frost",
+    "theme": "常用形容詞",
+    "level": 1
+  },
+  {
+    "word": "long",
+    "kk": "[lɔŋ]",
+    "pos": "adj.",
+    "meaning": "長的",
+    "examples": [
+      { "en": "She has long hair.", "zh": "她有一頭長髮。" },
+      { "en": "It was a long day.", "zh": "今天是漫長的一天。" }
+    ],
+    "img": "long winding road",
+    "theme": "常用形容詞",
+    "level": 1
+  },
+  {
+    "word": "short",
+    "kk": "[ʃɔrt]",
+    "pos": "adj.",
+    "meaning": "短的;矮的",
+    "examples": [
+      { "en": "He wrote a short note.", "zh": "他寫了一張短箋。" },
+      { "en": "My brother is short.", "zh": "我弟弟個子矮。" }
+    ],
+    "img": "short pencil stub",
+    "theme": "常用形容詞",
+    "level": 1
+  },
+  {
+    "word": "tall",
+    "kk": "[tɔl]",
+    "pos": "adj.",
+    "meaning": "高的（人或物）",
+    "examples": [
+      { "en": "That is a tall building.", "zh": "那是一棟高樓。" },
+      { "en": "He is very tall.", "zh": "他很高。" }
+    ],
+    "img": "tall skyscraper reaching clouds",
+    "theme": "常用形容詞",
+    "level": 1
+  },
+  {
+    "word": "fast",
+    "kk": "[fæst]",
+    "pos": "adj.",
+    "meaning": "快的",
+    "examples": [
+      { "en": "This is a fast car.", "zh": "這是一輛快車。" },
+      { "en": "He is a fast runner.", "zh": "他跑得很快。" }
+    ],
+    "img": "red sports car speeding",
+    "theme": "常用形容詞",
+    "level": 1
+  },
+  {
+    "word": "slow",
+    "kk": "[slo]",
+    "pos": "adj.",
+    "meaning": "慢的",
+    "examples": [
+      { "en": "The turtle is slow.", "zh": "烏龜很慢。" },
+      { "en": "Traffic is slow today.", "zh": "今天交通很慢。" }
+    ],
+    "img": "slow turtle walking",
+    "theme": "常用形容詞",
+    "level": 1
+  },
+  {
+    "word": "clean",
+    "kk": "[klin]",
+    "pos": "adj.",
+    "meaning": "乾淨的",
+    "examples": [
+      { "en": "The kitchen is clean.", "zh": "廚房很乾淨。" },
+      { "en": "Put on a clean shirt.", "zh": "穿上一件乾淨的襯衫。" }
+    ],
+    "img": "sparkling clean white plate",
+    "theme": "常用形容詞",
+    "level": 1
+  },
+  {
+    "word": "dirty",
+    "kk": "[ˋdɝtɪ]",
+    "pos": "adj.",
+    "meaning": "髒的",
+    "examples": [
+      { "en": "Your hands are dirty.", "zh": "你的手很髒。" },
+      { "en": "The floor is dirty.", "zh": "地板很髒。" }
+    ],
+    "img": "muddy dirty shoes",
+    "theme": "常用形容詞",
+    "level": 1
+  },
+  {
+    "word": "easy",
+    "kk": "[ˋizɪ]",
+    "pos": "adj.",
+    "meaning": "容易的",
+    "examples": [
+      { "en": "This test is easy.", "zh": "這個測驗很簡單。" },
+      { "en": "It's an easy recipe.", "zh": "這是個簡單的食譜。" }
+    ],
+    "img": "green checkmark on paper",
+    "theme": "常用形容詞",
+    "level": 1
+  },
+  {
+    "word": "hard",
+    "kk": "[hɑrd]",
+    "pos": "adj.",
+    "meaning": "困難的;硬的",
+    "examples": [
+      { "en": "Math is hard for me.", "zh": "數學對我來說很難。" },
+      { "en": "The bed is too hard.", "zh": "這張床太硬了。" }
+    ],
+    "img": "hard solid rock",
+    "theme": "常用形容詞",
+    "level": 1
+  },
+  {
+    "word": "heavy",
+    "kk": "[ˋhɛvɪ]",
+    "pos": "adj.",
+    "meaning": "重的",
+    "examples": [
+      { "en": "This box is heavy.", "zh": "這個箱子很重。" },
+      { "en": "My bag is too heavy.", "zh": "我的包包太重了。" }
+    ],
+    "img": "heavy metal weight dumbbell",
+    "theme": "常用形容詞",
+    "level": 1
+  },
+  {
+    "word": "light",
+    "kk": "[laɪt]",
+    "pos": "adj.",
+    "meaning": "輕的;明亮的",
+    "examples": [
+      { "en": "The bag is very light.", "zh": "這個包包很輕。" },
+      { "en": "The room is bright and light.", "zh": "這房間又亮又明。" }
+    ],
+    "img": "feather floating in air",
+    "theme": "常用形容詞",
+    "level": 1
+  },
+  {
+    "word": "cheap",
+    "kk": "[tʃip]",
+    "pos": "adj.",
+    "meaning": "便宜的",
+    "examples": [
+      { "en": "These shoes are cheap.", "zh": "這雙鞋很便宜。" },
+      { "en": "We found a cheap hotel.", "zh": "我們找到一間便宜的旅館。" }
+    ],
+    "img": "price tag with low number",
+    "theme": "常用形容詞",
+    "level": 1
+  },
+  {
+    "word": "expensive",
+    "kk": "[ɪkˋspɛnsɪv]",
+    "pos": "adj.",
+    "meaning": "昂貴的",
+    "examples": [
+      { "en": "That watch is expensive.", "zh": "那支手錶很貴。" },
+      { "en": "This restaurant is expensive.", "zh": "這家餐廳很貴。" }
+    ],
+    "img": "luxury gold watch with price tag",
+    "theme": "常用形容詞",
+    "level": 2
+  },
+  {
+    "word": "beautiful",
+    "kk": "[ˋbjutəfəl]",
+    "pos": "adj.",
+    "meaning": "美麗的",
+    "examples": [
+      { "en": "What a beautiful view!", "zh": "多美的景色啊！" },
+      { "en": "She wore a beautiful dress.", "zh": "她穿了一件漂亮的洋裝。" }
+    ],
+    "img": "beautiful mountain lake at sunset",
+    "theme": "常用形容詞",
+    "level": 2
+  },
+  {
+    "word": "ugly",
+    "kk": "[ˋʌɡlɪ]",
+    "pos": "adj.",
+    "meaning": "醜的;難看的",
+    "examples": [
+      { "en": "That's an ugly sweater.", "zh": "那件毛衣很醜。" },
+      { "en": "The old wall looks ugly.", "zh": "那面舊牆看起來很難看。" }
+    ],
+    "img": "ugly cracked peeling wall",
+    "theme": "常用形容詞",
+    "level": 2
+  },
+  {
+    "word": "quiet",
+    "kk": "[ˋkwaɪət]",
+    "pos": "adj.",
+    "meaning": "安靜的",
+    "examples": [
+      { "en": "The library is quiet.", "zh": "圖書館很安靜。" },
+      { "en": "It's a quiet neighborhood.", "zh": "這是個安靜的社區。" }
+    ],
+    "img": "quiet empty library room",
+    "theme": "常用形容詞",
+    "level": 2
+  },
+  {
+    "word": "loud",
+    "kk": "[laʊd]",
+    "pos": "adj.",
+    "meaning": "大聲的;吵的",
+    "examples": [
+      { "en": "The music is too loud.", "zh": "音樂太大聲了。" },
+      { "en": "He has a loud voice.", "zh": "他的嗓門很大。" }
+    ],
+    "img": "loud speaker with sound waves",
+    "theme": "常用形容詞",
+    "level": 2
+  },
+  {
+    "word": "empty",
+    "kk": "[ˋɛmptɪ]",
+    "pos": "adj.",
+    "meaning": "空的",
+    "examples": [
+      { "en": "The glass is empty.", "zh": "杯子是空的。" },
+      { "en": "The street was empty.", "zh": "街上空無一人。" }
+    ],
+    "img": "empty glass on table",
+    "theme": "常用形容詞",
+    "level": 2
+  },
+  {
+    "word": "full",
+    "kk": "[fʊl]",
+    "pos": "adj.",
+    "meaning": "滿的;飽的",
+    "examples": [
+      { "en": "The box is full.", "zh": "這個箱子滿了。" },
+      { "en": "I'm full after dinner.", "zh": "晚餐後我很飽。" }
+    ],
+    "img": "full glass of water to the brim",
+    "theme": "常用形容詞",
+    "level": 2
+  },
+  {
+    "word": "wet",
+    "kk": "[wɛt]",
+    "pos": "adj.",
+    "meaning": "濕的",
+    "examples": [
+      { "en": "My clothes are wet.", "zh": "我的衣服濕了。" },
+      { "en": "The road is wet.", "zh": "路面是濕的。" }
+    ],
+    "img": "wet umbrella dripping water",
+    "theme": "常用形容詞",
+    "level": 2
+  },
+  {
+    "word": "dry",
+    "kk": "[draɪ]",
+    "pos": "adj.",
+    "meaning": "乾的",
+    "examples": [
+      { "en": "The towel is dry now.", "zh": "毛巾現在乾了。" },
+      { "en": "The soil is very dry.", "zh": "土壤很乾。" }
+    ],
+    "img": "dry cracked desert ground",
+    "theme": "常用形容詞",
+    "level": 2
+  },
+  {
+    "word": "soft",
+    "kk": "[sɔft]",
+    "pos": "adj.",
+    "meaning": "柔軟的",
+    "examples": [
+      { "en": "The pillow is soft.", "zh": "這個枕頭很柔軟。" },
+      { "en": "The cat's fur is soft.", "zh": "貓的毛很柔軟。" }
+    ],
+    "img": "soft fluffy pillow",
+    "theme": "常用形容詞",
+    "level": 2
+  },
+  {
+    "word": "fresh",
+    "kk": "[frɛʃ]",
+    "pos": "adj.",
+    "meaning": "新鮮的",
+    "examples": [
+      { "en": "I bought fresh fish.", "zh": "我買了新鮮的魚。" },
+      { "en": "The bread smells fresh.", "zh": "麵包聞起來很新鮮。" }
+    ],
+    "img": "fresh green vegetables on table",
+    "theme": "常用形容詞",
+    "level": 2
+  },
+  {
+    "word": "delicious",
+    "kk": "[dɪˋlɪʃəs]",
+    "pos": "adj.",
+    "meaning": "美味的;好吃的",
+    "examples": [
+      { "en": "This cake is delicious.", "zh": "這個蛋糕很好吃。" },
+      { "en": "Dinner was delicious.", "zh": "晚餐很美味。" }
+    ],
+    "img": "delicious chocolate cake slice",
+    "theme": "常用形容詞",
+    "level": 2
+  },
+  {
+    "word": "sweet",
+    "kk": "[swit]",
+    "pos": "adj.",
+    "meaning": "甜的",
+    "examples": [
+      { "en": "The mango is very sweet.", "zh": "這芒果很甜。" },
+      { "en": "I like sweet tea.", "zh": "我喜歡甜的茶。" }
+    ],
+    "img": "honey dripping from spoon",
+    "theme": "常用形容詞",
+    "level": 2
+  },
+  {
+    "word": "busy",
+    "kk": "[ˋbɪzɪ]",
+    "pos": "adj.",
+    "meaning": "忙碌的;繁忙的",
+    "examples": [
+      { "en": "I'm busy this week.", "zh": "我這週很忙。" },
+      { "en": "The market is busy.", "zh": "市場很繁忙。" }
+    ],
+    "img": "crowded busy city street",
+    "theme": "常用形容詞",
+    "level": 2
+  },
+  {
+    "word": "free",
+    "kk": "[fri]",
+    "pos": "adj.",
+    "meaning": "免費的;有空的",
+    "examples": [
+      { "en": "The concert is free.", "zh": "這場演唱會是免費的。" },
+      { "en": "Are you free tonight?", "zh": "你今晚有空嗎？" }
+    ],
+    "img": "free tag on gift box",
+    "theme": "常用形容詞",
+    "level": 2
+  },
+  {
+    "word": "important",
+    "kk": "[ɪmˋpɔrtnt]",
+    "pos": "adj.",
+    "meaning": "重要的",
+    "examples": [
+      { "en": "This is an important meeting.", "zh": "這是個重要的會議。" },
+      { "en": "Sleep is important.", "zh": "睡眠很重要。" }
+    ],
+    "img": "red exclamation mark on document",
+    "theme": "常用形容詞",
+    "level": 2
+  },
+  {
+    "word": "different",
+    "kk": "[ˋdɪfərənt]",
+    "pos": "adj.",
+    "meaning": "不同的",
+    "examples": [
+      { "en": "We have different ideas.", "zh": "我們有不同的想法。" },
+      { "en": "Try a different color.", "zh": "試試不同的顏色。" }
+    ],
+    "img": "one red apple among green apples",
+    "theme": "常用形容詞",
+    "level": 2
+  },
+  {
+    "word": "same",
+    "kk": "[sem]",
+    "pos": "adj.",
+    "meaning": "相同的",
+    "examples": [
+      { "en": "We wore the same shirt.", "zh": "我們穿了同樣的襯衫。" },
+      { "en": "They live on the same street.", "zh": "他們住在同一條街。" }
+    ],
+    "img": "two identical matching cups",
+    "theme": "常用形容詞",
+    "level": 2
+  },
+  {
+    "word": "young",
+    "kk": "[jʌŋ]",
+    "pos": "adj.",
+    "meaning": "年輕的;幼小的",
+    "examples": [
+      { "en": "She is very young.", "zh": "她很年輕。" },
+      { "en": "The young dog is playful.", "zh": "這隻幼犬很愛玩。" }
+    ],
+    "img": "young child on playground",
+    "theme": "常用形容詞",
+    "level": 2
+  },
+  {
+    "word": "thick",
+    "kk": "[θɪk]",
+    "pos": "adj.",
+    "meaning": "厚的;濃的",
+    "examples": [
+      { "en": "This is a thick book.", "zh": "這是一本厚書。" },
+      { "en": "The soup is thick.", "zh": "這湯很濃稠。" }
+    ],
+    "img": "thick stack of books",
+    "theme": "常用形容詞",
+    "level": 3
+  },
+  {
+    "word": "thin",
+    "kk": "[θɪn]",
+    "pos": "adj.",
+    "meaning": "薄的;瘦的",
+    "examples": [
+      { "en": "The paper is very thin.", "zh": "這張紙很薄。" },
+      { "en": "He is tall and thin.", "zh": "他又高又瘦。" }
+    ],
+    "img": "single thin sheet of paper",
+    "theme": "常用形容詞",
+    "level": 3
+  },
+  {
+    "word": "narrow",
+    "kk": "[ˋnæro]",
+    "pos": "adj.",
+    "meaning": "狹窄的",
+    "examples": [
+      { "en": "This is a narrow street.", "zh": "這是一條窄巷。" },
+      { "en": "The path is too narrow.", "zh": "這條路太窄了。" }
+    ],
+    "img": "narrow alley between buildings",
+    "theme": "常用形容詞",
+    "level": 3
+  },
+  {
+    "word": "wide",
+    "kk": "[waɪd]",
+    "pos": "adj.",
+    "meaning": "寬的;寬闊的",
+    "examples": [
+      { "en": "This is a wide road.", "zh": "這是一條寬闊的路。" },
+      { "en": "The river is very wide.", "zh": "這條河很寬。" }
+    ],
+    "img": "wide open highway",
+    "theme": "常用形容詞",
+    "level": 3
+  },
+  {
+    "word": "smooth",
+    "kk": "[smuð]",
+    "pos": "adj.",
+    "meaning": "光滑的;順暢的",
+    "examples": [
+      { "en": "The stone is smooth.", "zh": "這顆石頭很光滑。" },
+      { "en": "We had a smooth trip.", "zh": "我們有一趟順暢的旅程。" }
+    ],
+    "img": "smooth polished pebble surface",
+    "theme": "常用形容詞",
+    "level": 3
+  },
+  {
+    "word": "rough",
+    "kk": "[rʌf]",
+    "pos": "adj.",
+    "meaning": "粗糙的;崎嶇的",
+    "examples": [
+      { "en": "The wood feels rough.", "zh": "這木頭摸起來很粗糙。" },
+      { "en": "The road was rough.", "zh": "這條路很崎嶇。" }
+    ],
+    "img": "rough tree bark texture",
+    "theme": "常用形容詞",
+    "level": 3
+  },
+  {
+    "word": "sharp",
+    "kk": "[ʃɑrp]",
+    "pos": "adj.",
+    "meaning": "鋒利的;尖銳的",
+    "examples": [
+      { "en": "This knife is sharp.", "zh": "這把刀很鋒利。" },
+      { "en": "The pencil has a sharp point.", "zh": "這支鉛筆的筆尖很尖。" }
+    ],
+    "img": "sharp kitchen knife blade",
+    "theme": "常用形容詞",
+    "level": 3
+  },
+  {
+    "word": "bright",
+    "kk": "[braɪt]",
+    "pos": "adj.",
+    "meaning": "明亮的;鮮豔的",
+    "examples": [
+      { "en": "The sun is very bright.", "zh": "太陽很刺眼。" },
+      { "en": "She likes bright colors.", "zh": "她喜歡鮮豔的顏色。" }
+    ],
+    "img": "bright yellow sun in blue sky",
+    "theme": "常用形容詞",
+    "level": 3
+  },
+  {
+    "word": "modern",
+    "kk": "[ˋmɑdən]",
+    "pos": "adj.",
+    "meaning": "現代的;新式的",
+    "examples": [
+      { "en": "They live in a modern house.", "zh": "他們住在一棟現代化的房子。" },
+      { "en": "This is a modern design.", "zh": "這是個現代的設計。" }
+    ],
+    "img": "modern glass office building",
+    "theme": "常用形容詞",
+    "level": 3
+  },
+  {
+    "word": "comfortable",
+    "kk": "[ˋkʌmfətəbḷ]",
+    "pos": "adj.",
+    "meaning": "舒適的;舒服的",
+    "examples": [
+      { "en": "This chair is comfortable.", "zh": "這張椅子很舒適。" },
+      { "en": "The bed is very comfortable.", "zh": "這張床很舒服。" }
+    ],
+    "img": "comfortable cozy armchair with cushion",
+    "theme": "常用形容詞",
+    "level": 3
+  }
+]

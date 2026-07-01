@@ -1,0 +1,639 @@
+[
+  {
+    "word": "crush",
+    "kk": "[krʌʃ]",
+    "pos": "n.",
+    "meaning": "迷戀的對象;暗戀",
+    "examples": [
+      { "en": "I've had a crush on him since high school.", "zh": "我從高中就一直暗戀他。" },
+      { "en": "She has a huge crush on the new guy.", "zh": "她超級迷戀那個新來的人。" }
+    ],
+    "img": "person blushing looking at secret admirer heart",
+    "theme": "感情約會",
+    "level": 1
+  },
+  {
+    "word": "date",
+    "kk": "[det]",
+    "pos": "n.",
+    "meaning": "約會;約會對象",
+    "examples": [
+      { "en": "We're going on a date this Friday.", "zh": "我們這週五要去約會。" },
+      { "en": "He's my date for the wedding.", "zh": "他是我參加婚禮的約會對象。" }
+    ],
+    "img": "couple at candlelit dinner restaurant table",
+    "theme": "感情約會",
+    "level": 1
+  },
+  {
+    "word": "couple",
+    "kk": "[ˈkʌpl]",
+    "pos": "n.",
+    "meaning": "一對情侶",
+    "examples": [
+      { "en": "They make such a cute couple.", "zh": "他們真是很可愛的一對。" },
+      { "en": "The couple has been together for years.", "zh": "這對情侶已經在一起好幾年了。" }
+    ],
+    "img": "two people holding hands walking together park",
+    "theme": "感情約會",
+    "level": 1
+  },
+  {
+    "word": "boyfriend",
+    "kk": "[ˈbɔɪˌfrɛnd]",
+    "pos": "n.",
+    "meaning": "男朋友",
+    "examples": [
+      { "en": "Her boyfriend picked her up after work.", "zh": "她男朋友下班後來接她。" },
+      { "en": "Is he your boyfriend or just a friend?", "zh": "他是你男朋友還是只是朋友?" }
+    ],
+    "img": "young man giving flowers to girlfriend",
+    "theme": "感情約會",
+    "level": 1
+  },
+  {
+    "word": "girlfriend",
+    "kk": "[ˈgɝlˌfrɛnd]",
+    "pos": "n.",
+    "meaning": "女朋友",
+    "examples": [
+      { "en": "He introduced his girlfriend to his parents.", "zh": "他把女朋友介紹給父母。" },
+      { "en": "My girlfriend loves this restaurant.", "zh": "我女朋友很愛這家餐廳。" }
+    ],
+    "img": "smiling woman on date with partner",
+    "theme": "感情約會",
+    "level": 1
+  },
+  {
+    "word": "love",
+    "kk": "[lʌv]",
+    "pos": "v.",
+    "meaning": "愛;愛戀",
+    "examples": [
+      { "en": "I love you more than anything.", "zh": "我愛你勝過一切。" },
+      { "en": "They fell in love last summer.", "zh": "他們去年夏天墜入愛河。" }
+    ],
+    "img": "couple embracing with heart shapes around them",
+    "theme": "感情約會",
+    "level": 1
+  },
+  {
+    "word": "kiss",
+    "kk": "[kɪs]",
+    "pos": "v.",
+    "meaning": "親吻",
+    "examples": [
+      { "en": "He kissed her on the cheek.", "zh": "他親了她的臉頰。" },
+      { "en": "They kissed under the stars.", "zh": "他們在星空下接吻。" }
+    ],
+    "img": "couple kissing under moonlight",
+    "theme": "感情約會",
+    "level": 1
+  },
+  {
+    "word": "hug",
+    "kk": "[hʌg]",
+    "pos": "v.",
+    "meaning": "擁抱",
+    "examples": [
+      { "en": "She hugged him tightly at the airport.", "zh": "她在機場緊緊抱住他。" },
+      { "en": "Give me a hug before you go.", "zh": "走之前給我一個擁抱。" }
+    ],
+    "img": "two people warmly hugging embrace",
+    "theme": "感情約會",
+    "level": 1
+  },
+  {
+    "word": "single",
+    "kk": "[ˈsɪŋgl]",
+    "pos": "adj.",
+    "meaning": "單身的",
+    "examples": [
+      { "en": "I've been single for two years now.", "zh": "我單身兩年了。" },
+      { "en": "She's happily single and loving it.", "zh": "她開心地單身,樂在其中。" }
+    ],
+    "img": "confident person alone enjoying coffee solo",
+    "theme": "感情約會",
+    "level": 1
+  },
+  {
+    "word": "marry",
+    "kk": "[ˈmærɪ]",
+    "pos": "v.",
+    "meaning": "結婚;娶;嫁",
+    "examples": [
+      { "en": "Will you marry me?", "zh": "你願意嫁給我嗎?" },
+      { "en": "They got married last spring.", "zh": "他們去年春天結婚了。" }
+    ],
+    "img": "bride and groom exchanging wedding rings",
+    "theme": "感情約會",
+    "level": 1
+  },
+  {
+    "word": "wedding",
+    "kk": "[ˈwɛdɪŋ]",
+    "pos": "n.",
+    "meaning": "婚禮",
+    "examples": [
+      { "en": "Their wedding was beautiful.", "zh": "他們的婚禮很美。" },
+      { "en": "I'm invited to my cousin's wedding.", "zh": "我受邀參加表親的婚禮。" }
+    ],
+    "img": "wedding ceremony with white flowers and altar",
+    "theme": "感情約會",
+    "level": 1
+  },
+  {
+    "word": "partner",
+    "kk": "[ˈpɑrtnɚ]",
+    "pos": "n.",
+    "meaning": "伴侶;另一半",
+    "examples": [
+      { "en": "My partner and I share everything.", "zh": "我和我的伴侶分享一切。" },
+      { "en": "She brought her partner to the party.", "zh": "她帶伴侶來參加派對。" }
+    ],
+    "img": "two partners cooking together in kitchen",
+    "theme": "感情約會",
+    "level": 1
+  },
+  {
+    "word": "flirt",
+    "kk": "[flɝt]",
+    "pos": "v.",
+    "meaning": "調情;打情罵俏",
+    "examples": [
+      { "en": "He was flirting with her all night.", "zh": "他整晚都在跟她調情。" },
+      { "en": "She flirted with the bartender for fun.", "zh": "她為了好玩跟酒保調情。" }
+    ],
+    "img": "two people flirting playfully at a bar",
+    "theme": "感情約會",
+    "level": 2
+  },
+  {
+    "word": "confess",
+    "kk": "[kənˈfɛs]",
+    "pos": "v.",
+    "meaning": "告白;坦白心意",
+    "examples": [
+      { "en": "He finally confessed his feelings to her.", "zh": "他終於向她告白了。" },
+      { "en": "I want to confess before it's too late.", "zh": "我想在太遲之前告白。" }
+    ],
+    "img": "nervous person confessing love holding letter",
+    "theme": "感情約會",
+    "level": 2
+  },
+  {
+    "word": "romance",
+    "kk": "[roˈmæns]",
+    "pos": "n.",
+    "meaning": "浪漫;戀情",
+    "examples": [
+      { "en": "Their romance began at a coffee shop.", "zh": "他們的戀情始於一家咖啡店。" },
+      { "en": "There's no romance left in our relationship.", "zh": "我們的關係已經沒有浪漫了。" }
+    ],
+    "img": "romantic couple with rose petals candles",
+    "theme": "感情約會",
+    "level": 2
+  },
+  {
+    "word": "breakup",
+    "kk": "[ˈbrekˌʌp]",
+    "pos": "n.",
+    "meaning": "分手",
+    "examples": [
+      { "en": "The breakup left her heartbroken.", "zh": "這次分手讓她心碎。" },
+      { "en": "Their breakup shocked all their friends.", "zh": "他們分手讓所有朋友都很震驚。" }
+    ],
+    "img": "couple sitting apart on bench sad",
+    "theme": "感情約會",
+    "level": 2
+  },
+  {
+    "word": "dump",
+    "kk": "[dʌmp]",
+    "pos": "v.",
+    "meaning": "甩掉(某人)",
+    "examples": [
+      { "en": "She dumped him over a text message.", "zh": "她用簡訊把他甩了。" },
+      { "en": "I can't believe he dumped her.", "zh": "我不敢相信他甩了她。" }
+    ],
+    "img": "person walking away leaving partner behind",
+    "theme": "感情約會",
+    "level": 2
+  },
+  {
+    "word": "engaged",
+    "kk": "[ɛnˈgedʒd]",
+    "pos": "adj.",
+    "meaning": "訂婚的",
+    "examples": [
+      { "en": "They got engaged on the beach.", "zh": "他們在海灘上訂婚了。" },
+      { "en": "She's engaged to her college sweetheart.", "zh": "她和大學時的戀人訂婚了。" }
+    ],
+    "img": "hand showing engagement ring proposal beach",
+    "theme": "感情約會",
+    "level": 2
+  },
+  {
+    "word": "propose",
+    "kk": "[prəˈpoz]",
+    "pos": "v.",
+    "meaning": "求婚",
+    "examples": [
+      { "en": "He proposed to her at sunset.", "zh": "他在日落時向她求婚。" },
+      { "en": "She said yes when he proposed.", "zh": "他求婚時她答應了。" }
+    ],
+    "img": "man kneeling proposing with ring box",
+    "theme": "感情約會",
+    "level": 2
+  },
+  {
+    "word": "relationship",
+    "kk": "[rɪˈleʃənˌʃɪp]",
+    "pos": "n.",
+    "meaning": "感情關係",
+    "examples": [
+      { "en": "They have a healthy relationship.", "zh": "他們有段健康的感情關係。" },
+      { "en": "Our relationship is getting serious.", "zh": "我們的關係越來越認真了。" }
+    ],
+    "img": "couple talking closely emotional connection",
+    "theme": "感情約會",
+    "level": 2
+  },
+  {
+    "word": "cheat",
+    "kk": "[tʃit]",
+    "pos": "v.",
+    "meaning": "劈腿;不忠",
+    "examples": [
+      { "en": "He cheated on her with a coworker.", "zh": "他和同事劈腿背叛她。" },
+      { "en": "Cheating ruined their marriage.", "zh": "劈腿毀了他們的婚姻。" }
+    ],
+    "img": "person secretly texting hiding phone from partner",
+    "theme": "感情約會",
+    "level": 2
+  },
+  {
+    "word": "jealous",
+    "kk": "[ˈdʒɛləs]",
+    "pos": "adj.",
+    "meaning": "吃醋的;嫉妒的",
+    "examples": [
+      { "en": "He gets jealous when she talks to others.", "zh": "她和別人講話時他會吃醋。" },
+      { "en": "Don't be jealous, he's just a friend.", "zh": "別吃醋,他只是朋友。" }
+    ],
+    "img": "person frowning watching partner with someone else",
+    "theme": "感情約會",
+    "level": 2
+  },
+  {
+    "word": "commitment",
+    "kk": "[kəˈmɪtmənt]",
+    "pos": "n.",
+    "meaning": "承諾;認真投入",
+    "examples": [
+      { "en": "He's afraid of commitment.", "zh": "他害怕做出承諾。" },
+      { "en": "Marriage is a lifelong commitment.", "zh": "婚姻是一輩子的承諾。" }
+    ],
+    "img": "two hands with matching promise rings",
+    "theme": "感情約會",
+    "level": 2
+  },
+  {
+    "word": "affair",
+    "kk": "[əˈfɛr]",
+    "pos": "n.",
+    "meaning": "外遇;婚外情",
+    "examples": [
+      { "en": "She discovered his secret affair.", "zh": "她發現了他的秘密外遇。" },
+      { "en": "The affair destroyed their family.", "zh": "這段外遇毀了他們的家庭。" }
+    ],
+    "img": "shadowy figure of hidden secret lover",
+    "theme": "感情約會",
+    "level": 2
+  },
+  {
+    "word": "romantic",
+    "kk": "[roˈmæntɪk]",
+    "pos": "adj.",
+    "meaning": "浪漫的",
+    "examples": [
+      { "en": "He planned a romantic getaway.", "zh": "他安排了一場浪漫的度假。" },
+      { "en": "That was such a romantic gesture.", "zh": "那真是個浪漫的舉動。" }
+    ],
+    "img": "romantic candlelit dinner with roses",
+    "theme": "感情約會",
+    "level": 2
+  },
+  {
+    "word": "sweetheart",
+    "kk": "[ˈswitˌhɑrt]",
+    "pos": "n.",
+    "meaning": "心上人;甜心",
+    "examples": [
+      { "en": "They were high school sweethearts.", "zh": "他們是高中時的戀人。" },
+      { "en": "Good night, sweetheart.", "zh": "晚安,親愛的。" }
+    ],
+    "img": "young couple with heart lockets smiling",
+    "theme": "感情約會",
+    "level": 2
+  },
+  {
+    "word": "chemistry",
+    "kk": "[ˈkɛmɪstrɪ]",
+    "pos": "n.",
+    "meaning": "來電;情投意合",
+    "examples": [
+      { "en": "There was instant chemistry between them.", "zh": "他們之間立刻就來電了。" },
+      { "en": "We had great chemistry on our first date.", "zh": "我們第一次約會就很來電。" }
+    ],
+    "img": "two people locking eyes sparks connection",
+    "theme": "感情約會",
+    "level": 2
+  },
+  {
+    "word": "affection",
+    "kk": "[əˈfɛkʃən]",
+    "pos": "n.",
+    "meaning": "情感;愛意",
+    "examples": [
+      { "en": "She showed her affection with small gifts.", "zh": "她用小禮物表達愛意。" },
+      { "en": "He's not good at showing affection.", "zh": "他不太擅長表達情感。" }
+    ],
+    "img": "couple cuddling tenderly on sofa",
+    "theme": "感情約會",
+    "level": 2
+  },
+  {
+    "word": "loyal",
+    "kk": "[ˈlɔɪəl]",
+    "pos": "adj.",
+    "meaning": "忠誠的;專一的",
+    "examples": [
+      { "en": "He has always been loyal to her.", "zh": "他一直對她很忠誠。" },
+      { "en": "Loyalty matters most in a relationship.", "zh": "在感情裡忠誠最重要。" }
+    ],
+    "img": "couple holding hands promise faithful",
+    "theme": "感情約會",
+    "level": 2
+  },
+  {
+    "word": "reunite",
+    "kk": "[ˌrijuˈnaɪt]",
+    "pos": "v.",
+    "meaning": "重逢;復合",
+    "examples": [
+      { "en": "They reunited after years apart.", "zh": "他們分開多年後重逢。" },
+      { "en": "The couple reunited at the airport.", "zh": "這對情侶在機場重逢。" }
+    ],
+    "img": "couple running to hug at airport reunion",
+    "theme": "感情約會",
+    "level": 2
+  },
+  {
+    "word": "ex",
+    "kk": "[ɛks]",
+    "pos": "n.",
+    "meaning": "前任(男/女友)",
+    "examples": [
+      { "en": "I ran into my ex at the party.", "zh": "我在派對上遇到我的前任。" },
+      { "en": "She's still friends with her ex.", "zh": "她跟前任還是朋友。" }
+    ],
+    "img": "person seeing former partner awkward glance",
+    "theme": "感情約會",
+    "level": 2
+  },
+  {
+    "word": "infatuation",
+    "kk": "[ɪnˌfætʃuˈeʃən]",
+    "pos": "n.",
+    "meaning": "熱戀;痴迷",
+    "examples": [
+      { "en": "His infatuation faded after a month.", "zh": "他的痴迷一個月後就退了。" },
+      { "en": "It was just infatuation, not real love.", "zh": "那只是迷戀,不是真愛。" }
+    ],
+    "img": "person daydreaming obsessed with photo of crush",
+    "theme": "感情約會",
+    "level": 3
+  },
+  {
+    "word": "ambiguous",
+    "kk": "[æmˈbɪgjuəs]",
+    "pos": "adj.",
+    "meaning": "曖昧不明的",
+    "examples": [
+      { "en": "Their relationship is still ambiguous.", "zh": "他們的關係還很曖昧不明。" },
+      { "en": "He gave me an ambiguous answer.", "zh": "他給了我一個曖昧的回答。" }
+    ],
+    "img": "two people close but uncertain unclear relationship",
+    "theme": "感情約會",
+    "level": 3
+  },
+  {
+    "word": "reconcile",
+    "kk": "[ˈrɛkənˌsaɪl]",
+    "pos": "v.",
+    "meaning": "和好;復合",
+    "examples": [
+      { "en": "They reconciled after a big fight.", "zh": "他們大吵一架後和好了。" },
+      { "en": "It took months to reconcile their differences.", "zh": "他們花了幾個月才化解分歧。" }
+    ],
+    "img": "couple making peace holding hands apology",
+    "theme": "感情約會",
+    "level": 3
+  },
+  {
+    "word": "infidelity",
+    "kk": "[ˌɪnfɪˈdɛlətɪ]",
+    "pos": "n.",
+    "meaning": "不忠;背叛",
+    "examples": [
+      { "en": "Infidelity broke their trust forever.", "zh": "不忠永遠毀了他們的信任。" },
+      { "en": "She could not forgive his infidelity.", "zh": "她無法原諒他的不忠。" }
+    ],
+    "img": "broken heart symbol shattered trust betrayal",
+    "theme": "感情約會",
+    "level": 3
+  },
+  {
+    "word": "courtship",
+    "kk": "[ˈkortʃɪp]",
+    "pos": "n.",
+    "meaning": "求愛;追求期",
+    "examples": [
+      { "en": "Their courtship lasted only three months.", "zh": "他們的追求期只有三個月。" },
+      { "en": "Courtship customs vary across cultures.", "zh": "求愛的習俗因文化而異。" }
+    ],
+    "img": "old fashioned suitor courting with flowers",
+    "theme": "感情約會",
+    "level": 3
+  },
+  {
+    "word": "compatible",
+    "kk": "[kəmˈpætəbl]",
+    "pos": "adj.",
+    "meaning": "合得來的;相配的",
+    "examples": [
+      { "en": "They're surprisingly compatible.", "zh": "他們出奇地合得來。" },
+      { "en": "We're just not compatible as a couple.", "zh": "我們就是不適合當情侶。" }
+    ],
+    "img": "two puzzle pieces fitting together perfectly",
+    "theme": "感情約會",
+    "level": 3
+  },
+  {
+    "word": "estranged",
+    "kk": "[ɪsˈtrendʒd]",
+    "pos": "adj.",
+    "meaning": "疏遠的;分居的",
+    "examples": [
+      { "en": "He's estranged from his wife.", "zh": "他和妻子已經疏遠了。" },
+      { "en": "The estranged couple rarely speaks.", "zh": "這對疏遠的夫妻很少說話。" }
+    ],
+    "img": "couple sitting far apart cold distance",
+    "theme": "感情約會",
+    "level": 3
+  },
+  {
+    "word": "smitten",
+    "kk": "[ˈsmɪtn]",
+    "pos": "adj.",
+    "meaning": "為之傾心的;著迷的",
+    "examples": [
+      { "en": "He was smitten from the first date.", "zh": "他第一次約會就被迷住了。" },
+      { "en": "She's completely smitten with him.", "zh": "她完全為他傾心。" }
+    ],
+    "img": "person with hearts in eyes utterly charmed",
+    "theme": "感情約會",
+    "level": 3
+  },
+  {
+    "word": "rendezvous",
+    "kk": "[ˈrɑndeˌvu]",
+    "pos": "n.",
+    "meaning": "幽會;約會地點",
+    "examples": [
+      { "en": "They planned a secret rendezvous.", "zh": "他們計劃了一場秘密幽會。" },
+      { "en": "The café was their usual rendezvous.", "zh": "那家咖啡廳是他們常約的地點。" }
+    ],
+    "img": "couple meeting secretly at hidden cafe corner",
+    "theme": "感情約會",
+    "level": 3
+  },
+  {
+    "word": "intimate",
+    "kk": "[ˈɪntəmɪt]",
+    "pos": "adj.",
+    "meaning": "親密的",
+    "examples": [
+      { "en": "They shared an intimate moment.", "zh": "他們分享了一個親密的時刻。" },
+      { "en": "It was an intimate candlelit dinner.", "zh": "那是一頓親密的燭光晚餐。" }
+    ],
+    "img": "couple whispering close intimate closeness",
+    "theme": "感情約會",
+    "level": 3
+  },
+  {
+    "word": "devoted",
+    "kk": "[dɪˈvotɪd]",
+    "pos": "adj.",
+    "meaning": "全心投入的;深情的",
+    "examples": [
+      { "en": "He's a devoted husband and father.", "zh": "他是個深情的丈夫和父親。" },
+      { "en": "She's devoted to her partner.", "zh": "她全心全意對待伴侶。" }
+    ],
+    "img": "loving partner caring devotedly for other",
+    "theme": "感情約會",
+    "level": 3
+  },
+  {
+    "word": "heartthrob",
+    "kk": "[ˈhɑrtˌθrɑb]",
+    "pos": "n.",
+    "meaning": "萬人迷;心動對象",
+    "examples": [
+      { "en": "He was the heartthrob of the school.", "zh": "他是全校的萬人迷。" },
+      { "en": "That actor is a teen heartthrob.", "zh": "那位演員是青少年的心動對象。" }
+    ],
+    "img": "charming attractive person surrounded by admirers",
+    "theme": "感情約會",
+    "level": 3
+  },
+  {
+    "word": "reciprocate",
+    "kk": "[rɪˈsɪprəˌket]",
+    "pos": "v.",
+    "meaning": "回應(愛意);回報",
+    "examples": [
+      { "en": "She didn't reciprocate his feelings.", "zh": "她沒有回應他的感情。" },
+      { "en": "He hoped she would reciprocate his love.", "zh": "他希望她能回應他的愛。" }
+    ],
+    "img": "one person offering heart other returning it",
+    "theme": "感情約會",
+    "level": 3
+  },
+  {
+    "word": "estrangement",
+    "kk": "[ɪsˈtrendʒmənt]",
+    "pos": "n.",
+    "meaning": "疏遠;隔閡",
+    "examples": [
+      { "en": "Their estrangement lasted for years.", "zh": "他們的疏遠持續了好幾年。" },
+      { "en": "The estrangement began after the argument.", "zh": "這段隔閡在那場爭吵後開始。" }
+    ],
+    "img": "widening gap between two lonely figures",
+    "theme": "感情約會",
+    "level": 3
+  },
+  {
+    "word": "woo",
+    "kk": "[wu]",
+    "pos": "v.",
+    "meaning": "追求;討好",
+    "examples": [
+      { "en": "He tried to woo her with poetry.", "zh": "他試著用詩來追求她。" },
+      { "en": "She was wooed by his charm.", "zh": "她被他的魅力打動。" }
+    ],
+    "img": "suitor serenading with guitar under window",
+    "theme": "感情約會",
+    "level": 3
+  },
+  {
+    "word": "monogamy",
+    "kk": "[məˈnɑgəmɪ]",
+    "pos": "n.",
+    "meaning": "一夫一妻;專一關係",
+    "examples": [
+      { "en": "They both believe in monogamy.", "zh": "他們都相信專一的關係。" },
+      { "en": "Monogamy requires trust and effort.", "zh": "專一需要信任和努力。" }
+    ],
+    "img": "two rings intertwined symbol of exclusivity",
+    "theme": "感情約會",
+    "level": 3
+  },
+  {
+    "word": "elope",
+    "kk": "[ɪˈlop]",
+    "pos": "v.",
+    "meaning": "私奔;私自結婚",
+    "examples": [
+      { "en": "They decided to elope to Las Vegas.", "zh": "他們決定私奔去拉斯維加斯結婚。" },
+      { "en": "The couple eloped without telling anyone.", "zh": "這對情侶沒告訴任何人就私奔了。" }
+    ],
+    "img": "couple running away together suitcase secret marriage",
+    "theme": "感情約會",
+    "level": 3
+  },
+  {
+    "word": "swoon",
+    "kk": "[swun]",
+    "pos": "v.",
+    "meaning": "為之神魂顛倒;傾倒",
+    "examples": [
+      { "en": "Girls swoon over his gentle smile.", "zh": "女孩們為他溫柔的微笑神魂顛倒。" },
+      { "en": "She swooned when he held her hand.", "zh": "他牽她手時她心花怒放。" }
+    ],
+    "img": "person swooning dreamily hand on chest",
+    "theme": "感情約會",
+    "level": 3
+  }
+]

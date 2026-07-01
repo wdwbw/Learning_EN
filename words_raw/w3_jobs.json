@@ -1,0 +1,639 @@
+[
+  {
+    "word": "teacher",
+    "kk": "[ˈtitʃɚ]",
+    "pos": "n.",
+    "meaning": "老師;教師",
+    "examples": [
+      { "en": "My teacher is really kind to us.", "zh": "我的老師對我們很親切。" },
+      { "en": "She wants to be a teacher someday.", "zh": "她將來想當老師。" }
+    ],
+    "img": "teacher writing on whiteboard in classroom",
+    "theme": "職業工作",
+    "level": 1
+  },
+  {
+    "word": "doctor",
+    "kk": "[ˈdɑktɚ]",
+    "pos": "n.",
+    "meaning": "醫生",
+    "examples": [
+      { "en": "You should see a doctor about that cough.", "zh": "你那咳嗽該去看醫生。" },
+      { "en": "The doctor told me to rest more.", "zh": "醫生要我多休息。" }
+    ],
+    "img": "doctor with stethoscope in white coat",
+    "theme": "職業工作",
+    "level": 1
+  },
+  {
+    "word": "nurse",
+    "kk": "[nɝs]",
+    "pos": "n.",
+    "meaning": "護理師;護士",
+    "examples": [
+      { "en": "The nurse checked my temperature.", "zh": "護理師幫我量了體溫。" },
+      { "en": "My sister works as a nurse.", "zh": "我姐姐是護理師。" }
+    ],
+    "img": "nurse in scrubs holding clipboard",
+    "theme": "職業工作",
+    "level": 1
+  },
+  {
+    "word": "farmer",
+    "kk": "[ˈfɑrmɚ]",
+    "pos": "n.",
+    "meaning": "農夫",
+    "examples": [
+      { "en": "The farmer gets up before sunrise.", "zh": "農夫在日出前就起床。" },
+      { "en": "That farmer grows rice and corn.", "zh": "那位農夫種稻子和玉米。" }
+    ],
+    "img": "farmer in field with straw hat",
+    "theme": "職業工作",
+    "level": 1
+  },
+  {
+    "word": "cook",
+    "kk": "[kʊk]",
+    "pos": "n.",
+    "meaning": "廚師",
+    "examples": [
+      { "en": "He is a great cook at that diner.", "zh": "他是那家小餐館的好廚師。" },
+      { "en": "The cook made us a warm soup.", "zh": "廚師為我們做了熱湯。" }
+    ],
+    "img": "cook in kitchen stirring pot",
+    "theme": "職業工作",
+    "level": 1
+  },
+  {
+    "word": "driver",
+    "kk": "[ˈdraɪvɚ]",
+    "pos": "n.",
+    "meaning": "駕駛;司機",
+    "examples": [
+      { "en": "The bus driver waved at us.", "zh": "公車司機向我們揮手。" },
+      { "en": "A good driver stays calm in traffic.", "zh": "好司機塞車時很冷靜。" }
+    ],
+    "img": "bus driver behind steering wheel",
+    "theme": "職業工作",
+    "level": 1
+  },
+  {
+    "word": "police officer",
+    "kk": "[pəˈlis ˈɔfəsɚ]",
+    "pos": "n.",
+    "meaning": "警察",
+    "examples": [
+      { "en": "A police officer helped me find the way.", "zh": "一位警察幫我找路。" },
+      { "en": "The police officer stopped the car.", "zh": "警察攔下了那輛車。" }
+    ],
+    "img": "police officer in uniform on street",
+    "theme": "職業工作",
+    "level": 1
+  },
+  {
+    "word": "firefighter",
+    "kk": "[ˈfaɪrˌfaɪtɚ]",
+    "pos": "n.",
+    "meaning": "消防員",
+    "examples": [
+      { "en": "The firefighter carried the child out.", "zh": "消防員把孩子抱了出來。" },
+      { "en": "Firefighters are very brave.", "zh": "消防員非常勇敢。" }
+    ],
+    "img": "firefighter in helmet holding hose",
+    "theme": "職業工作",
+    "level": 1
+  },
+  {
+    "word": "worker",
+    "kk": "[ˈwɝkɚ]",
+    "pos": "n.",
+    "meaning": "工人;員工",
+    "examples": [
+      { "en": "The workers finished the job on time.", "zh": "工人們準時完成了工作。" },
+      { "en": "He is a hard worker.", "zh": "他是個努力工作的人。" }
+    ],
+    "img": "construction worker with hard hat",
+    "theme": "職業工作",
+    "level": 1
+  },
+  {
+    "word": "singer",
+    "kk": "[ˈsɪŋɚ]",
+    "pos": "n.",
+    "meaning": "歌手",
+    "examples": [
+      { "en": "That singer has an amazing voice.", "zh": "那位歌手嗓音很棒。" },
+      { "en": "She dreams of becoming a singer.", "zh": "她夢想成為歌手。" }
+    ],
+    "img": "singer holding microphone on stage",
+    "theme": "職業工作",
+    "level": 1
+  },
+  {
+    "word": "artist",
+    "kk": "[ˈɑrtɪst]",
+    "pos": "n.",
+    "meaning": "藝術家;畫家",
+    "examples": [
+      { "en": "The artist painted a beautiful sky.", "zh": "那位藝術家畫了美麗的天空。" },
+      { "en": "My uncle is a street artist.", "zh": "我叔叔是位街頭藝術家。" }
+    ],
+    "img": "artist painting on canvas with brush",
+    "theme": "職業工作",
+    "level": 1
+  },
+  {
+    "word": "writer",
+    "kk": "[ˈraɪtɚ]",
+    "pos": "n.",
+    "meaning": "作家",
+    "examples": [
+      { "en": "The writer signed my book.", "zh": "那位作家在我書上簽名。" },
+      { "en": "She is a famous writer now.", "zh": "她現在是知名作家。" }
+    ],
+    "img": "writer typing at desk with notebook",
+    "theme": "職業工作",
+    "level": 1
+  },
+  {
+    "word": "waiter",
+    "kk": "[ˈwetɚ]",
+    "pos": "n.",
+    "meaning": "服務生;侍者",
+    "examples": [
+      { "en": "The waiter brought our menus.", "zh": "服務生拿來了菜單。" },
+      { "en": "Please ask the waiter for water.", "zh": "請跟服務生要杯水。" }
+    ],
+    "img": "waiter carrying tray in restaurant",
+    "theme": "職業工作",
+    "level": 1
+  },
+  {
+    "word": "student",
+    "kk": "[ˈstjudnt]",
+    "pos": "n.",
+    "meaning": "學生",
+    "examples": [
+      { "en": "Every student passed the test.", "zh": "每個學生都通過了測驗。" },
+      { "en": "He is a college student.", "zh": "他是個大學生。" }
+    ],
+    "img": "student with backpack and books",
+    "theme": "職業工作",
+    "level": 1
+  },
+  {
+    "word": "boss",
+    "kk": "[bɔs]",
+    "pos": "n.",
+    "meaning": "老闆;上司",
+    "examples": [
+      { "en": "My boss is very busy today.", "zh": "我老闆今天很忙。" },
+      { "en": "The boss gave us a day off.", "zh": "老闆給我們放了一天假。" }
+    ],
+    "img": "boss in suit at office desk",
+    "theme": "職業工作",
+    "level": 1
+  },
+  {
+    "word": "manager",
+    "kk": "[ˈmænɪdʒɚ]",
+    "pos": "n.",
+    "meaning": "經理;主管",
+    "examples": [
+      { "en": "The manager runs three stores.", "zh": "這位經理管三家店。" },
+      { "en": "Ask the manager for a refund.", "zh": "找經理辦退款吧。" }
+    ],
+    "img": "manager reviewing report in office",
+    "theme": "職業工作",
+    "level": 2
+  },
+  {
+    "word": "engineer",
+    "kk": "[ˌɛndʒəˈnɪr]",
+    "pos": "n.",
+    "meaning": "工程師",
+    "examples": [
+      { "en": "The engineer fixed the bridge.", "zh": "工程師修好了那座橋。" },
+      { "en": "She works as a software engineer.", "zh": "她是軟體工程師。" }
+    ],
+    "img": "engineer with blueprint and hard hat",
+    "theme": "職業工作",
+    "level": 2
+  },
+  {
+    "word": "lawyer",
+    "kk": "[ˈlɔjɚ]",
+    "pos": "n.",
+    "meaning": "律師",
+    "examples": [
+      { "en": "The lawyer explained my rights.", "zh": "律師向我說明了權利。" },
+      { "en": "You may need a good lawyer.", "zh": "你可能需要一位好律師。" }
+    ],
+    "img": "lawyer in suit holding legal documents",
+    "theme": "職業工作",
+    "level": 2
+  },
+  {
+    "word": "accountant",
+    "kk": "[əˈkaʊntənt]",
+    "pos": "n.",
+    "meaning": "會計師",
+    "examples": [
+      { "en": "The accountant checked our budget.", "zh": "會計師核對了我們的預算。" },
+      { "en": "My mom is an accountant.", "zh": "我媽媽是會計師。" }
+    ],
+    "img": "accountant with calculator and spreadsheet",
+    "theme": "職業工作",
+    "level": 2
+  },
+  {
+    "word": "designer",
+    "kk": "[dɪˈzaɪnɚ]",
+    "pos": "n.",
+    "meaning": "設計師",
+    "examples": [
+      { "en": "The designer made a new logo.", "zh": "設計師做了新的標誌。" },
+      { "en": "She is a fashion designer.", "zh": "她是位時尚設計師。" }
+    ],
+    "img": "designer sketching on tablet",
+    "theme": "職業工作",
+    "level": 2
+  },
+  {
+    "word": "dentist",
+    "kk": "[ˈdɛntɪst]",
+    "pos": "n.",
+    "meaning": "牙醫",
+    "examples": [
+      { "en": "I see the dentist twice a year.", "zh": "我一年看兩次牙醫。" },
+      { "en": "The dentist pulled my bad tooth.", "zh": "牙醫拔掉了我的壞牙。" }
+    ],
+    "img": "dentist examining patient teeth",
+    "theme": "職業工作",
+    "level": 2
+  },
+  {
+    "word": "chef",
+    "kk": "[ʃɛf]",
+    "pos": "n.",
+    "meaning": "主廚;大廚",
+    "examples": [
+      { "en": "The chef created a new dish.", "zh": "主廚研發了一道新菜。" },
+      { "en": "He trained to be a chef in France.", "zh": "他在法國受訓成為主廚。" }
+    ],
+    "img": "chef in white hat plating food",
+    "theme": "職業工作",
+    "level": 2
+  },
+  {
+    "word": "pilot",
+    "kk": "[ˈpaɪlət]",
+    "pos": "n.",
+    "meaning": "機師;飛行員",
+    "examples": [
+      { "en": "The pilot landed the plane smoothly.", "zh": "機師平穩地降落了飛機。" },
+      { "en": "He always wanted to be a pilot.", "zh": "他一直想當機師。" }
+    ],
+    "img": "pilot in cockpit with headset",
+    "theme": "職業工作",
+    "level": 2
+  },
+  {
+    "word": "scientist",
+    "kk": "[ˈsaɪəntɪst]",
+    "pos": "n.",
+    "meaning": "科學家",
+    "examples": [
+      { "en": "The scientist ran a new experiment.", "zh": "科學家做了新的實驗。" },
+      { "en": "She is a well-known scientist.", "zh": "她是位知名科學家。" }
+    ],
+    "img": "scientist in lab coat with microscope",
+    "theme": "職業工作",
+    "level": 2
+  },
+  {
+    "word": "reporter",
+    "kk": "[rɪˈportɚ]",
+    "pos": "n.",
+    "meaning": "記者",
+    "examples": [
+      { "en": "A reporter asked the mayor questions.", "zh": "一名記者向市長提問。" },
+      { "en": "The reporter covered the flood.", "zh": "記者報導了這次水災。" }
+    ],
+    "img": "reporter with microphone and camera",
+    "theme": "職業工作",
+    "level": 2
+  },
+  {
+    "word": "photographer",
+    "kk": "[fəˈtɑɡrəfɚ]",
+    "pos": "n.",
+    "meaning": "攝影師",
+    "examples": [
+      { "en": "The photographer took our wedding photos.", "zh": "攝影師拍了我們的婚紗照。" },
+      { "en": "He is a wildlife photographer.", "zh": "他是野生動物攝影師。" }
+    ],
+    "img": "photographer holding professional camera",
+    "theme": "職業工作",
+    "level": 2
+  },
+  {
+    "word": "programmer",
+    "kk": "[ˈproˌɡræmɚ]",
+    "pos": "n.",
+    "meaning": "程式設計師",
+    "examples": [
+      { "en": "The programmer fixed the bug fast.", "zh": "程式設計師很快修好了漏洞。" },
+      { "en": "She works as a game programmer.", "zh": "她是遊戲程式設計師。" }
+    ],
+    "img": "programmer coding on laptop screen",
+    "theme": "職業工作",
+    "level": 2
+  },
+  {
+    "word": "salesperson",
+    "kk": "[ˈselzˌpɝsn]",
+    "pos": "n.",
+    "meaning": "銷售員;業務員",
+    "examples": [
+      { "en": "The salesperson showed me new phones.", "zh": "銷售員向我介紹新手機。" },
+      { "en": "A friendly salesperson helped us.", "zh": "一位親切的銷售員幫了我們。" }
+    ],
+    "img": "salesperson helping customer in store",
+    "theme": "職業工作",
+    "level": 2
+  },
+  {
+    "word": "cashier",
+    "kk": "[kæˈʃɪr]",
+    "pos": "n.",
+    "meaning": "收銀員",
+    "examples": [
+      { "en": "The cashier gave me my change.", "zh": "收銀員找了錢給我。" },
+      { "en": "I work as a cashier on weekends.", "zh": "我週末當收銀員。" }
+    ],
+    "img": "cashier at checkout counter register",
+    "theme": "職業工作",
+    "level": 2
+  },
+  {
+    "word": "librarian",
+    "kk": "[laɪˈbrɛrɪən]",
+    "pos": "n.",
+    "meaning": "圖書館員",
+    "examples": [
+      { "en": "The librarian helped me find a book.", "zh": "圖書館員幫我找到一本書。" },
+      { "en": "Please be quiet, said the librarian.", "zh": "圖書館員說請保持安靜。" }
+    ],
+    "img": "librarian shelving books in library",
+    "theme": "職業工作",
+    "level": 2
+  },
+  {
+    "word": "mechanic",
+    "kk": "[məˈkænɪk]",
+    "pos": "n.",
+    "meaning": "技師;修車工",
+    "examples": [
+      { "en": "The mechanic fixed my car engine.", "zh": "技師修好了我的車引擎。" },
+      { "en": "Ask the mechanic to check the brakes.", "zh": "請技師檢查一下煞車。" }
+    ],
+    "img": "mechanic repairing car in garage",
+    "theme": "職業工作",
+    "level": 2
+  },
+  {
+    "word": "plumber",
+    "kk": "[ˈplʌmɚ]",
+    "pos": "n.",
+    "meaning": "水管工",
+    "examples": [
+      { "en": "We called a plumber for the leak.", "zh": "我們找了水管工來修漏水。" },
+      { "en": "The plumber fixed our sink.", "zh": "水管工修好了我們的水槽。" }
+    ],
+    "img": "plumber fixing pipe under sink",
+    "theme": "職業工作",
+    "level": 2
+  },
+  {
+    "word": "electrician",
+    "kk": "[ɪˌlɛkˈtrɪʃən]",
+    "pos": "n.",
+    "meaning": "電工;水電師傅",
+    "examples": [
+      { "en": "The electrician wired the new house.", "zh": "電工為新房子配了線。" },
+      { "en": "Call an electrician for the broken light.", "zh": "壞掉的燈找電工來修。" }
+    ],
+    "img": "electrician working on wall wiring",
+    "theme": "職業工作",
+    "level": 2
+  },
+  {
+    "word": "carpenter",
+    "kk": "[ˈkɑrpəntɚ]",
+    "pos": "n.",
+    "meaning": "木匠",
+    "examples": [
+      { "en": "The carpenter built a wooden table.", "zh": "木匠做了一張木桌。" },
+      { "en": "My grandfather was a carpenter.", "zh": "我爺爺以前是木匠。" }
+    ],
+    "img": "carpenter sawing wood in workshop",
+    "theme": "職業工作",
+    "level": 2
+  },
+  {
+    "word": "waitress",
+    "kk": "[ˈwetrɪs]",
+    "pos": "n.",
+    "meaning": "女服務生",
+    "examples": [
+      { "en": "The waitress recommended the soup.", "zh": "女服務生推薦了那道湯。" },
+      { "en": "She works as a waitress at night.", "zh": "她晚上當女服務生。" }
+    ],
+    "img": "waitress serving food to diners",
+    "theme": "職業工作",
+    "level": 2
+  },
+  {
+    "word": "banker",
+    "kk": "[ˈbæŋkɚ]",
+    "pos": "n.",
+    "meaning": "銀行家;銀行員",
+    "examples": [
+      { "en": "The banker helped me open an account.", "zh": "銀行員幫我開了帳戶。" },
+      { "en": "He works as a banker downtown.", "zh": "他在市區當銀行員。" }
+    ],
+    "img": "banker in suit at bank desk",
+    "theme": "職業工作",
+    "level": 2
+  },
+  {
+    "word": "soldier",
+    "kk": "[ˈsoldʒɚ]",
+    "pos": "n.",
+    "meaning": "軍人;士兵",
+    "examples": [
+      { "en": "The soldier stood at the gate.", "zh": "士兵站在門口。" },
+      { "en": "Her brother is a soldier.", "zh": "她哥哥是軍人。" }
+    ],
+    "img": "soldier in uniform standing guard",
+    "theme": "職業工作",
+    "level": 2
+  },
+  {
+    "word": "professor",
+    "kk": "[prəˈfɛsɚ]",
+    "pos": "n.",
+    "meaning": "教授",
+    "examples": [
+      { "en": "The professor gave a great lecture.", "zh": "教授講了一堂很棒的課。" },
+      { "en": "She became a professor at thirty.", "zh": "她三十歲成為教授。" }
+    ],
+    "img": "professor lecturing in university hall",
+    "theme": "職業工作",
+    "level": 2
+  },
+  {
+    "word": "veterinarian",
+    "kk": "[ˌvɛtərəˈnɛrɪən]",
+    "pos": "n.",
+    "meaning": "獸醫",
+    "examples": [
+      { "en": "The veterinarian treated our sick dog.", "zh": "獸醫治好了我們生病的狗。" },
+      { "en": "She trained to be a veterinarian.", "zh": "她受訓成為獸醫。" }
+    ],
+    "img": "veterinarian examining dog at clinic",
+    "theme": "職業工作",
+    "level": 3
+  },
+  {
+    "word": "architect",
+    "kk": "[ˈɑrkəˌtɛkt]",
+    "pos": "n.",
+    "meaning": "建築師",
+    "examples": [
+      { "en": "The architect designed a tall tower.", "zh": "建築師設計了一座高塔。" },
+      { "en": "He is a talented young architect.", "zh": "他是位有才華的年輕建築師。" }
+    ],
+    "img": "architect with building model and plans",
+    "theme": "職業工作",
+    "level": 3
+  },
+  {
+    "word": "receptionist",
+    "kk": "[rɪˈsɛpʃənɪst]",
+    "pos": "n.",
+    "meaning": "接待員;櫃檯人員",
+    "examples": [
+      { "en": "The receptionist greeted every guest.", "zh": "接待員向每位客人問好。" },
+      { "en": "Ask the receptionist for the key.", "zh": "跟櫃檯人員拿鑰匙。" }
+    ],
+    "img": "receptionist smiling at hotel front desk",
+    "theme": "職業工作",
+    "level": 3
+  },
+  {
+    "word": "translator",
+    "kk": "[trænsˈletɚ]",
+    "pos": "n.",
+    "meaning": "翻譯員;譯者",
+    "examples": [
+      { "en": "The translator turned English into Chinese.", "zh": "譯者把英文譯成中文。" },
+      { "en": "She works as a translator online.", "zh": "她在網路上當翻譯員。" }
+    ],
+    "img": "translator with headset and documents",
+    "theme": "職業工作",
+    "level": 3
+  },
+  {
+    "word": "consultant",
+    "kk": "[kənˈsʌltənt]",
+    "pos": "n.",
+    "meaning": "顧問",
+    "examples": [
+      { "en": "The consultant gave us smart advice.", "zh": "顧問給了我們聰明的建議。" },
+      { "en": "He is a business consultant.", "zh": "他是位商業顧問。" }
+    ],
+    "img": "consultant presenting chart to clients",
+    "theme": "職業工作",
+    "level": 3
+  },
+  {
+    "word": "entrepreneur",
+    "kk": "[ˌɑntrəprəˈnɝ]",
+    "pos": "n.",
+    "meaning": "創業家;企業家",
+    "examples": [
+      { "en": "The entrepreneur started three companies.", "zh": "這位創業家開了三家公司。" },
+      { "en": "She is a young entrepreneur.", "zh": "她是位年輕的創業家。" }
+    ],
+    "img": "entrepreneur pitching startup idea",
+    "theme": "職業工作",
+    "level": 3
+  },
+  {
+    "word": "surgeon",
+    "kk": "[ˈsɝdʒən]",
+    "pos": "n.",
+    "meaning": "外科醫生",
+    "examples": [
+      { "en": "The surgeon performed a long operation.", "zh": "外科醫生做了一場長手術。" },
+      { "en": "He wants to become a heart surgeon.", "zh": "他想成為心臟外科醫生。" }
+    ],
+    "img": "surgeon in operating room with mask",
+    "theme": "職業工作",
+    "level": 3
+  },
+  {
+    "word": "journalist",
+    "kk": "[ˈdʒɝnəlɪst]",
+    "pos": "n.",
+    "meaning": "新聞工作者;記者",
+    "examples": [
+      { "en": "The journalist wrote about the election.", "zh": "這位新聞工作者報導了選舉。" },
+      { "en": "She is an award-winning journalist.", "zh": "她是位得獎的新聞工作者。" }
+    ],
+    "img": "journalist typing story in newsroom",
+    "theme": "職業工作",
+    "level": 3
+  },
+  {
+    "word": "technician",
+    "kk": "[tɛkˈnɪʃən]",
+    "pos": "n.",
+    "meaning": "技術人員",
+    "examples": [
+      { "en": "The technician set up the network.", "zh": "技術人員架好了網路。" },
+      { "en": "A lab technician ran the tests.", "zh": "實驗室技術人員做了檢測。" }
+    ],
+    "img": "technician repairing computer equipment",
+    "theme": "職業工作",
+    "level": 3
+  },
+  {
+    "word": "supervisor",
+    "kk": "[ˈsupɚˌvaɪzɚ]",
+    "pos": "n.",
+    "meaning": "主管;督導",
+    "examples": [
+      { "en": "The supervisor checked our progress.", "zh": "主管檢查了我們的進度。" },
+      { "en": "Report the problem to your supervisor.", "zh": "把問題回報給你的主管。" }
+    ],
+    "img": "supervisor overseeing workers on floor",
+    "theme": "職業工作",
+    "level": 3
+  },
+  {
+    "word": "pharmacist",
+    "kk": "[ˈfɑrməsɪst]",
+    "pos": "n.",
+    "meaning": "藥師",
+    "examples": [
+      { "en": "The pharmacist explained the medicine.", "zh": "藥師說明了這個藥。" },
+      { "en": "Ask the pharmacist about side effects.", "zh": "副作用可以問藥師。" }
+    ],
+    "img": "pharmacist handing medicine at counter",
+    "theme": "職業工作",
+    "level": 3
+  }
+]

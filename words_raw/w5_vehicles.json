@@ -1,0 +1,652 @@
+[
+  {
+    "word": "vehicle",
+    "kk": "[ˈviɪkl̩]",
+    "pos": "n.",
+    "meaning": "車輛;交通工具",
+    "examples": [
+      { "en": "Every vehicle on the road must have a license plate.", "zh": "路上的每輛車都必須有車牌。" },
+      { "en": "This factory builds electric vehicles.", "zh": "這家工廠製造電動車。" }
+    ],
+    "img": "modern car on street",
+    "theme": "交通工具",
+    "level": 2
+  },
+  {
+    "word": "engine",
+    "kk": "[ˈɛndʒən]",
+    "pos": "n.",
+    "meaning": "引擎;發動機",
+    "examples": [
+      { "en": "The engine started with a loud roar.", "zh": "引擎發出巨大的轟鳴聲啟動了。" },
+      { "en": "He opened the hood to check the engine.", "zh": "他打開引擎蓋檢查引擎。" }
+    ],
+    "img": "car engine under hood",
+    "theme": "交通工具",
+    "level": 2
+  },
+  {
+    "word": "wheel",
+    "kk": "[hwil]",
+    "pos": "n.",
+    "meaning": "輪子;車輪",
+    "examples": [
+      { "en": "One of the wheels came off during the race.", "zh": "比賽中有一個輪子脫落了。" },
+      { "en": "The front wheels need to be aligned.", "zh": "前輪需要做定位。" }
+    ],
+    "img": "car wheel and tire",
+    "theme": "交通工具",
+    "level": 2
+  },
+  {
+    "word": "tire",
+    "kk": "[taɪr]",
+    "pos": "n.",
+    "meaning": "輪胎",
+    "examples": [
+      { "en": "We had to change a flat tire on the highway.", "zh": "我們得在高速公路上換一個爆胎。" },
+      { "en": "Check the tire pressure before a long trip.", "zh": "長途旅行前要檢查胎壓。" }
+    ],
+    "img": "black rubber tire",
+    "theme": "交通工具",
+    "level": 2
+  },
+  {
+    "word": "brake",
+    "kk": "[brek]",
+    "pos": "n.",
+    "meaning": "煞車",
+    "examples": [
+      { "en": "She stepped on the brake to stop the car.", "zh": "她踩下煞車讓車停住。" },
+      { "en": "The brakes made a squeaking sound.", "zh": "煞車發出刺耳的聲音。" }
+    ],
+    "img": "car brake pedal",
+    "theme": "交通工具",
+    "level": 2
+  },
+  {
+    "word": "motorcycle",
+    "kk": "[ˈmotɚˌsaɪkl̩]",
+    "pos": "n.",
+    "meaning": "摩托車;機車",
+    "examples": [
+      { "en": "He rides his motorcycle to work every day.", "zh": "他每天騎摩托車上班。" },
+      { "en": "A motorcycle is faster than a bicycle.", "zh": "摩托車比腳踏車快。" }
+    ],
+    "img": "shiny motorcycle parked",
+    "theme": "交通工具",
+    "level": 2
+  },
+  {
+    "word": "truck",
+    "kk": "[trʌk]",
+    "pos": "n.",
+    "meaning": "卡車;貨車",
+    "examples": [
+      { "en": "The truck carried boxes to the warehouse.", "zh": "卡車把箱子運到倉庫。" },
+      { "en": "A heavy truck blocked the whole lane.", "zh": "一輛重型卡車擋住了整條車道。" }
+    ],
+    "img": "large delivery truck",
+    "theme": "交通工具",
+    "level": 2
+  },
+  {
+    "word": "bus",
+    "kk": "[bʌs]",
+    "pos": "n.",
+    "meaning": "公車;巴士",
+    "examples": [
+      { "en": "I take the bus to school in the morning.", "zh": "我早上搭公車上學。" },
+      { "en": "The bus was crowded during rush hour.", "zh": "尖峰時間公車很擁擠。" }
+    ],
+    "img": "city bus at stop",
+    "theme": "交通工具",
+    "level": 2
+  },
+  {
+    "word": "train",
+    "kk": "[tren]",
+    "pos": "n.",
+    "meaning": "火車;列車",
+    "examples": [
+      { "en": "The train arrives at the station at noon.", "zh": "火車中午抵達車站。" },
+      { "en": "We caught the last train home.", "zh": "我們趕上了最後一班回家的火車。" }
+    ],
+    "img": "train on railway tracks",
+    "theme": "交通工具",
+    "level": 2
+  },
+  {
+    "word": "airplane",
+    "kk": "[ˈɛrˌplen]",
+    "pos": "n.",
+    "meaning": "飛機",
+    "examples": [
+      { "en": "The airplane took off into the clear sky.", "zh": "飛機飛入晴朗的天空。" },
+      { "en": "Airplanes can cross the ocean in hours.", "zh": "飛機能在幾小時內飛越海洋。" }
+    ],
+    "img": "airplane flying in sky",
+    "theme": "交通工具",
+    "level": 2
+  },
+  {
+    "word": "helicopter",
+    "kk": "[ˈhɛlɪˌkɑptɚ]",
+    "pos": "n.",
+    "meaning": "直升機",
+    "examples": [
+      { "en": "The helicopter landed on the rooftop.", "zh": "直升機降落在屋頂上。" },
+      { "en": "A rescue helicopter flew over the mountains.", "zh": "一架救援直升機飛越山區。" }
+    ],
+    "img": "helicopter with spinning rotor",
+    "theme": "交通工具",
+    "level": 3
+  },
+  {
+    "word": "ship",
+    "kk": "[ʃɪp]",
+    "pos": "n.",
+    "meaning": "船;輪船",
+    "examples": [
+      { "en": "The ship sailed across the Pacific Ocean.", "zh": "這艘船橫渡太平洋。" },
+      { "en": "A huge cargo ship entered the harbor.", "zh": "一艘巨大的貨船駛入港口。" }
+    ],
+    "img": "large ship on ocean",
+    "theme": "交通工具",
+    "level": 2
+  },
+  {
+    "word": "boat",
+    "kk": "[bot]",
+    "pos": "n.",
+    "meaning": "小船;船",
+    "examples": [
+      { "en": "We rented a small boat at the lake.", "zh": "我們在湖邊租了一艘小船。" },
+      { "en": "The fishing boat returned at dawn.", "zh": "漁船在黎明時返回。" }
+    ],
+    "img": "small wooden boat on water",
+    "theme": "交通工具",
+    "level": 2
+  },
+  {
+    "word": "submarine",
+    "kk": "[ˈsʌbməˌrin]",
+    "pos": "n.",
+    "meaning": "潛水艇",
+    "examples": [
+      { "en": "The submarine dived deep beneath the waves.", "zh": "潛水艇潛入海浪深處。" },
+      { "en": "A submarine can stay underwater for months.", "zh": "潛水艇能在水下停留數月。" }
+    ],
+    "img": "submarine underwater",
+    "theme": "交通工具",
+    "level": 3
+  },
+  {
+    "word": "propeller",
+    "kk": "[prəˈpɛlɚ]",
+    "pos": "n.",
+    "meaning": "螺旋槳",
+    "examples": [
+      { "en": "The plane's propeller spun faster and faster.", "zh": "飛機的螺旋槳轉得越來越快。" },
+      { "en": "A boat's propeller pushes it through the water.", "zh": "船的螺旋槳推動它前進。" }
+    ],
+    "img": "airplane propeller blades",
+    "theme": "交通工具",
+    "level": 3
+  },
+  {
+    "word": "jet",
+    "kk": "[dʒɛt]",
+    "pos": "n.",
+    "meaning": "噴射機",
+    "examples": [
+      { "en": "The jet flew high above the clouds.", "zh": "噴射機飛在雲層之上。" },
+      { "en": "Private jets are very expensive.", "zh": "私人噴射機非常昂貴。" }
+    ],
+    "img": "jet plane in flight",
+    "theme": "交通工具",
+    "level": 2
+  },
+  {
+    "word": "rocket",
+    "kk": "[ˈrɑkɪt]",
+    "pos": "n.",
+    "meaning": "火箭",
+    "examples": [
+      { "en": "The rocket blasted off into space.", "zh": "火箭發射升空進入太空。" },
+      { "en": "Scientists built a powerful new rocket.", "zh": "科學家造了一枚強大的新火箭。" }
+    ],
+    "img": "rocket launching into space",
+    "theme": "交通工具",
+    "level": 2
+  },
+  {
+    "word": "bicycle",
+    "kk": "[ˈbaɪsɪkl̩]",
+    "pos": "n.",
+    "meaning": "腳踏車",
+    "examples": [
+      { "en": "She rides her bicycle to the park.", "zh": "她騎腳踏車去公園。" },
+      { "en": "Riding a bicycle is good exercise.", "zh": "騎腳踏車是很好的運動。" }
+    ],
+    "img": "bicycle leaning on wall",
+    "theme": "交通工具",
+    "level": 2
+  },
+  {
+    "word": "van",
+    "kk": "[væn]",
+    "pos": "n.",
+    "meaning": "廂型車;貨車",
+    "examples": [
+      { "en": "The delivery van stopped in front of our house.", "zh": "宅配廂型車停在我們家前面。" },
+      { "en": "They loaded the van with furniture.", "zh": "他們把家具裝上廂型車。" }
+    ],
+    "img": "white delivery van",
+    "theme": "交通工具",
+    "level": 2
+  },
+  {
+    "word": "tractor",
+    "kk": "[ˈtræktɚ]",
+    "pos": "n.",
+    "meaning": "拖拉機;耕耘機",
+    "examples": [
+      { "en": "The farmer drove a tractor across the field.", "zh": "農夫開著拖拉機穿過田地。" },
+      { "en": "A tractor pulls heavy farm tools.", "zh": "拖拉機拉動沉重的農具。" }
+    ],
+    "img": "farm tractor in field",
+    "theme": "交通工具",
+    "level": 3
+  },
+  {
+    "word": "engineer",
+    "kk": "[ˌɛndʒəˈnɪr]",
+    "pos": "n.",
+    "meaning": "工程師",
+    "examples": [
+      { "en": "The engineer designed a new type of engine.", "zh": "工程師設計了一種新型引擎。" },
+      { "en": "She works as an engineer at a car company.", "zh": "她在一家汽車公司當工程師。" }
+    ],
+    "img": "engineer with blueprint",
+    "theme": "交通工具",
+    "level": 3
+  },
+  {
+    "word": "machine",
+    "kk": "[məˈʃin]",
+    "pos": "n.",
+    "meaning": "機器;機械",
+    "examples": [
+      { "en": "This machine cuts metal into small pieces.", "zh": "這台機器把金屬切成小塊。" },
+      { "en": "The washing machine is broken again.", "zh": "洗衣機又壞了。" }
+    ],
+    "img": "industrial machine factory",
+    "theme": "交通工具",
+    "level": 2
+  },
+  {
+    "word": "gear",
+    "kk": "[gɪr]",
+    "pos": "n.",
+    "meaning": "齒輪;排檔",
+    "examples": [
+      { "en": "He shifted the car into a higher gear.", "zh": "他把車換到高速檔。" },
+      { "en": "The clock is full of tiny metal gears.", "zh": "時鐘裡滿是細小的金屬齒輪。" }
+    ],
+    "img": "metal gears interlocking",
+    "theme": "交通工具",
+    "level": 3
+  },
+  {
+    "word": "motor",
+    "kk": "[ˈmotɚ]",
+    "pos": "n.",
+    "meaning": "馬達;電動機",
+    "examples": [
+      { "en": "The electric motor runs very quietly.", "zh": "這個電動馬達運轉得很安靜。" },
+      { "en": "A small motor powers the fan.", "zh": "一個小馬達驅動風扇。" }
+    ],
+    "img": "electric motor mechanism",
+    "theme": "交通工具",
+    "level": 2
+  },
+  {
+    "word": "fuel",
+    "kk": "[ˈfjuəl]",
+    "pos": "n.",
+    "meaning": "燃料",
+    "examples": [
+      { "en": "The plane needs a lot of fuel to fly.", "zh": "飛機飛行需要大量燃料。" },
+      { "en": "We ran out of fuel in the middle of nowhere.", "zh": "我們在荒郊野外沒油了。" }
+    ],
+    "img": "fuel gauge and pump",
+    "theme": "交通工具",
+    "level": 2
+  },
+  {
+    "word": "battery",
+    "kk": "[ˈbætərɪ]",
+    "pos": "n.",
+    "meaning": "電池",
+    "examples": [
+      { "en": "The car battery died in the cold weather.", "zh": "汽車電池在寒冷天氣裡沒電了。" },
+      { "en": "Electric cars use large batteries.", "zh": "電動車使用大型電池。" }
+    ],
+    "img": "car battery close up",
+    "theme": "交通工具",
+    "level": 2
+  },
+  {
+    "word": "pump",
+    "kk": "[pʌmp]",
+    "pos": "n.",
+    "meaning": "幫浦;泵",
+    "examples": [
+      { "en": "The pump pushes water through the pipe.", "zh": "幫浦把水推過管子。" },
+      { "en": "He used a pump to fill the tire with air.", "zh": "他用打氣筒把輪胎充飽氣。" }
+    ],
+    "img": "mechanical water pump",
+    "theme": "交通工具",
+    "level": 3
+  },
+  {
+    "word": "pipe",
+    "kk": "[paɪp]",
+    "pos": "n.",
+    "meaning": "管子;管道",
+    "examples": [
+      { "en": "Hot steam flowed through the metal pipe.", "zh": "熱蒸汽流過金屬管子。" },
+      { "en": "The exhaust pipe was covered in rust.", "zh": "排氣管上佈滿了鏽。" }
+    ],
+    "img": "metal industrial pipe",
+    "theme": "交通工具",
+    "level": 2
+  },
+  {
+    "word": "valve",
+    "kk": "[vælv]",
+    "pos": "n.",
+    "meaning": "閥門;活門",
+    "examples": [
+      { "en": "Turn the valve to stop the gas.", "zh": "轉動閥門以關掉瓦斯。" },
+      { "en": "The engine has several intake valves.", "zh": "引擎有好幾個進氣閥。" }
+    ],
+    "img": "metal valve mechanism",
+    "theme": "交通工具",
+    "level": 3
+  },
+  {
+    "word": "cable",
+    "kk": "[ˈkebl̩]",
+    "pos": "n.",
+    "meaning": "纜線;電纜",
+    "examples": [
+      { "en": "A thick cable pulled the elevator up.", "zh": "一條粗纜線把電梯拉上去。" },
+      { "en": "The bridge is held by steel cables.", "zh": "這座橋由鋼纜支撐著。" }
+    ],
+    "img": "steel cable wires",
+    "theme": "交通工具",
+    "level": 2
+  },
+  {
+    "word": "lever",
+    "kk": "[ˈlɛvɚ]",
+    "pos": "n.",
+    "meaning": "槓桿;操縱桿",
+    "examples": [
+      { "en": "Pull the lever to start the machine.", "zh": "拉下操縱桿以啟動機器。" },
+      { "en": "He pushed the lever forward carefully.", "zh": "他小心地把操縱桿向前推。" }
+    ],
+    "img": "metal control lever",
+    "theme": "交通工具",
+    "level": 3
+  },
+  {
+    "word": "switch",
+    "kk": "[swɪtʃ]",
+    "pos": "n.",
+    "meaning": "開關",
+    "examples": [
+      { "en": "Flip the switch to turn on the motor.", "zh": "撥動開關以啟動馬達。" },
+      { "en": "There is a red switch on the dashboard.", "zh": "儀表板上有一個紅色開關。" }
+    ],
+    "img": "power switch button",
+    "theme": "交通工具",
+    "level": 2
+  },
+  {
+    "word": "screw",
+    "kk": "[skru]",
+    "pos": "n.",
+    "meaning": "螺絲",
+    "examples": [
+      { "en": "One screw was missing from the panel.", "zh": "面板上少了一顆螺絲。" },
+      { "en": "Tighten the screws with a screwdriver.", "zh": "用螺絲起子把螺絲鎖緊。" }
+    ],
+    "img": "metal screws close up",
+    "theme": "交通工具",
+    "level": 2
+  },
+  {
+    "word": "bolt",
+    "kk": "[bolt]",
+    "pos": "n.",
+    "meaning": "螺栓",
+    "examples": [
+      { "en": "The mechanic loosened a rusty bolt.", "zh": "技師鬆開了一顆生鏽的螺栓。" },
+      { "en": "Each bolt holds the wheel in place.", "zh": "每顆螺栓把輪子固定住。" }
+    ],
+    "img": "metal bolt and nut",
+    "theme": "交通工具",
+    "level": 3
+  },
+  {
+    "word": "chain",
+    "kk": "[tʃen]",
+    "pos": "n.",
+    "meaning": "鏈條",
+    "examples": [
+      { "en": "The bicycle chain slipped off the gear.", "zh": "腳踏車的鏈條從齒輪上滑落。" },
+      { "en": "Oil the chain so it moves smoothly.", "zh": "給鏈條上油讓它順暢運轉。" }
+    ],
+    "img": "metal chain links",
+    "theme": "交通工具",
+    "level": 2
+  },
+  {
+    "word": "exhaust",
+    "kk": "[ɪgˈzɔst]",
+    "pos": "n.",
+    "meaning": "廢氣;排氣",
+    "examples": [
+      { "en": "Black exhaust came out of the old bus.", "zh": "黑色廢氣從老舊的公車冒出來。" },
+      { "en": "Car exhaust pollutes the air.", "zh": "汽車廢氣污染空氣。" }
+    ],
+    "img": "car exhaust smoke",
+    "theme": "交通工具",
+    "level": 3
+  },
+  {
+    "word": "steering wheel",
+    "kk": "[ˈstɪrɪŋ hwil]",
+    "pos": "n.",
+    "meaning": "方向盤",
+    "examples": [
+      { "en": "He gripped the steering wheel tightly.", "zh": "他緊緊握住方向盤。" },
+      { "en": "Keep both hands on the steering wheel.", "zh": "雙手都要放在方向盤上。" }
+    ],
+    "img": "car steering wheel",
+    "theme": "交通工具",
+    "level": 3
+  },
+  {
+    "word": "cockpit",
+    "kk": "[ˈkɑkˌpɪt]",
+    "pos": "n.",
+    "meaning": "駕駛艙",
+    "examples": [
+      { "en": "The pilot sat in the cockpit of the plane.", "zh": "飛行員坐在飛機的駕駛艙裡。" },
+      { "en": "The cockpit is full of buttons and screens.", "zh": "駕駛艙裡滿是按鈕和螢幕。" }
+    ],
+    "img": "airplane cockpit controls",
+    "theme": "交通工具",
+    "level": 3
+  },
+  {
+    "word": "wing",
+    "kk": "[wɪŋ]",
+    "pos": "n.",
+    "meaning": "機翼;翅膀",
+    "examples": [
+      { "en": "The plane's wing shone in the sunlight.", "zh": "飛機的機翼在陽光下閃閃發亮。" },
+      { "en": "Ice formed on the aircraft's wings.", "zh": "飛機的機翼上結了冰。" }
+    ],
+    "img": "airplane wing in sky",
+    "theme": "交通工具",
+    "level": 2
+  },
+  {
+    "word": "deck",
+    "kk": "[dɛk]",
+    "pos": "n.",
+    "meaning": "甲板",
+    "examples": [
+      { "en": "Passengers stood on the deck to watch the sea.", "zh": "乘客站在甲板上看海。" },
+      { "en": "The sailors cleaned the ship's deck.", "zh": "水手們清洗船的甲板。" }
+    ],
+    "img": "ship deck ocean view",
+    "theme": "交通工具",
+    "level": 3
+  },
+  {
+    "word": "anchor",
+    "kk": "[ˈæŋkɚ]",
+    "pos": "n.",
+    "meaning": "錨",
+    "examples": [
+      { "en": "The crew dropped the anchor near the shore.", "zh": "船員在岸邊附近拋下錨。" },
+      { "en": "A heavy anchor keeps the boat in place.", "zh": "沉重的錨讓船停在原地。" }
+    ],
+    "img": "ship anchor metal",
+    "theme": "交通工具",
+    "level": 3
+  },
+  {
+    "word": "sail",
+    "kk": "[sel]",
+    "pos": "n.",
+    "meaning": "帆",
+    "examples": [
+      { "en": "The wind filled the white sail.", "zh": "風吹滿了白色的帆。" },
+      { "en": "They raised the sail and left the harbor.", "zh": "他們升起帆離開了港口。" }
+    ],
+    "img": "sailboat white sail",
+    "theme": "交通工具",
+    "level": 2
+  },
+  {
+    "word": "cargo",
+    "kk": "[ˈkɑrgo]",
+    "pos": "n.",
+    "meaning": "貨物",
+    "examples": [
+      { "en": "The ship carried cargo from many countries.", "zh": "這艘船載運來自許多國家的貨物。" },
+      { "en": "Workers unloaded the cargo at the port.", "zh": "工人在港口卸下貨物。" }
+    ],
+    "img": "cargo containers on ship",
+    "theme": "交通工具",
+    "level": 3
+  },
+  {
+    "word": "crane",
+    "kk": "[kren]",
+    "pos": "n.",
+    "meaning": "起重機;吊車",
+    "examples": [
+      { "en": "The crane lifted the steel beam high up.", "zh": "起重機把鋼樑高高吊起。" },
+      { "en": "A tall crane stood at the building site.", "zh": "一座高聳的起重機立在工地上。" }
+    ],
+    "img": "construction crane lifting",
+    "theme": "交通工具",
+    "level": 3
+  },
+  {
+    "word": "elevator",
+    "kk": "[ˈɛləˌvetɚ]",
+    "pos": "n.",
+    "meaning": "電梯",
+    "examples": [
+      { "en": "We took the elevator to the tenth floor.", "zh": "我們搭電梯到十樓。" },
+      { "en": "The elevator stopped between floors.", "zh": "電梯停在樓層之間。" }
+    ],
+    "img": "elevator doors interior",
+    "theme": "交通工具",
+    "level": 2
+  },
+  {
+    "word": "escalator",
+    "kk": "[ˈɛskəˌletɚ]",
+    "pos": "n.",
+    "meaning": "電扶梯",
+    "examples": [
+      { "en": "Hold the handrail on the escalator.", "zh": "在電扶梯上要握住扶手。" },
+      { "en": "The escalator carried shoppers upstairs.", "zh": "電扶梯把購物者送往樓上。" }
+    ],
+    "img": "escalator moving stairs",
+    "theme": "交通工具",
+    "level": 3
+  },
+  {
+    "word": "cylinder",
+    "kk": "[ˈsɪləndɚ]",
+    "pos": "n.",
+    "meaning": "汽缸;圓柱體",
+    "examples": [
+      { "en": "This engine has four cylinders.", "zh": "這具引擎有四個汽缸。" },
+      { "en": "Fuel burns inside each cylinder.", "zh": "燃料在每個汽缸內燃燒。" }
+    ],
+    "img": "engine cylinder parts",
+    "theme": "交通工具",
+    "level": 3
+  },
+  {
+    "word": "piston",
+    "kk": "[ˈpɪstən]",
+    "pos": "n.",
+    "meaning": "活塞",
+    "examples": [
+      { "en": "The piston moves up and down quickly.", "zh": "活塞快速地上下移動。" },
+      { "en": "A worn piston can damage the engine.", "zh": "磨損的活塞會損壞引擎。" }
+    ],
+    "img": "engine piston metal",
+    "theme": "交通工具",
+    "level": 3
+  },
+  {
+    "word": "radiator",
+    "kk": "[ˈredɪˌetɚ]",
+    "pos": "n.",
+    "meaning": "散熱器;水箱",
+    "examples": [
+      { "en": "The radiator keeps the engine from overheating.", "zh": "散熱器防止引擎過熱。" },
+      { "en": "Steam rose from the leaking radiator.", "zh": "蒸汽從漏水的散熱器冒出。" }
+    ],
+    "img": "car radiator grille",
+    "theme": "交通工具",
+    "level": 3
+  },
+  {
+    "word": "trailer",
+    "kk": "[ˈtrelɚ]",
+    "pos": "n.",
+    "meaning": "拖車",
+    "examples": [
+      { "en": "The truck pulled a long trailer behind it.", "zh": "卡車後面拖著一節長長的拖車。" },
+      { "en": "They loaded the boat onto a trailer.", "zh": "他們把船裝上拖車。" }
+    ],
+    "img": "truck trailer on road",
+    "theme": "交通工具",
+    "level": 3
+  }
+]

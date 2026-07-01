@@ -1,0 +1,639 @@
+[
+  {
+    "word": "doctor",
+    "kk": "[ˈdɑktɚ]",
+    "pos": "n.",
+    "meaning": "醫生",
+    "examples": [
+      {"en": "I need to see a doctor about my cough.", "zh": "我需要看醫生看我的咳嗽。"},
+      {"en": "The doctor told me to rest for a few days.", "zh": "醫生叫我休息幾天。"}
+    ],
+    "img": "doctor with stethoscope",
+    "theme": "健康醫療",
+    "level": 1
+  },
+  {
+    "word": "nurse",
+    "kk": "[nɝs]",
+    "pos": "n.",
+    "meaning": "護士",
+    "examples": [
+      {"en": "The nurse gave me a shot in my arm.", "zh": "護士在我手臂上打了一針。"},
+      {"en": "A kind nurse helped me fill out the form.", "zh": "一位親切的護士幫我填表格。"}
+    ],
+    "img": "nurse in uniform",
+    "theme": "健康醫療",
+    "level": 1
+  },
+  {
+    "word": "hospital",
+    "kk": "[ˈhɑspɪt!]",
+    "pos": "n.",
+    "meaning": "醫院",
+    "examples": [
+      {"en": "My grandma is in the hospital right now.", "zh": "我奶奶現在在醫院裡。"},
+      {"en": "The hospital is just around the corner.", "zh": "醫院就在轉角處。"}
+    ],
+    "img": "hospital building entrance",
+    "theme": "健康醫療",
+    "level": 1
+  },
+  {
+    "word": "sick",
+    "kk": "[sɪk]",
+    "pos": "adj.",
+    "meaning": "生病的",
+    "examples": [
+      {"en": "I feel sick, so I'm staying home today.", "zh": "我覺得不舒服,所以今天待在家。"},
+      {"en": "She was sick all last week.", "zh": "她上週整週都生病。"}
+    ],
+    "img": "sick person in bed",
+    "theme": "健康醫療",
+    "level": 1
+  },
+  {
+    "word": "headache",
+    "kk": "[ˈhɛd͵ek]",
+    "pos": "n.",
+    "meaning": "頭痛",
+    "examples": [
+      {"en": "I have a bad headache this morning.", "zh": "今天早上我頭痛得厲害。"},
+      {"en": "Too much screen time gives me a headache.", "zh": "看螢幕太久會讓我頭痛。"}
+    ],
+    "img": "person holding head in pain",
+    "theme": "健康醫療",
+    "level": 1
+  },
+  {
+    "word": "fever",
+    "kk": "[ˈfivɚ]",
+    "pos": "n.",
+    "meaning": "發燒",
+    "examples": [
+      {"en": "The baby has a fever, so we called the doctor.", "zh": "寶寶發燒了,所以我們打電話給醫生。"},
+      {"en": "My fever finally went down last night.", "zh": "我的燒昨晚終於退了。"}
+    ],
+    "img": "thermometer showing high temperature",
+    "theme": "健康醫療",
+    "level": 1
+  },
+  {
+    "word": "cough",
+    "kk": "[kɔf]",
+    "pos": "v./n.",
+    "meaning": "咳嗽",
+    "examples": [
+      {"en": "I can't stop coughing at night.", "zh": "我晚上咳個不停。"},
+      {"en": "Cover your mouth when you cough.", "zh": "咳嗽時請摀住嘴巴。"}
+    ],
+    "img": "person coughing into elbow",
+    "theme": "健康醫療",
+    "level": 1
+  },
+  {
+    "word": "cold",
+    "kk": "[kold]",
+    "pos": "n.",
+    "meaning": "感冒",
+    "examples": [
+      {"en": "I caught a cold over the weekend.", "zh": "我週末感冒了。"},
+      {"en": "Drink some hot water for your cold.", "zh": "感冒喝點熱水吧。"}
+    ],
+    "img": "person blowing nose with tissue",
+    "theme": "健康醫療",
+    "level": 1
+  },
+  {
+    "word": "medicine",
+    "kk": "[ˈmɛdəsn̩]",
+    "pos": "n.",
+    "meaning": "藥",
+    "examples": [
+      {"en": "Take this medicine after every meal.", "zh": "每餐飯後吃這個藥。"},
+      {"en": "The medicine made me feel sleepy.", "zh": "這個藥讓我覺得想睡。"}
+    ],
+    "img": "bottle of medicine pills",
+    "theme": "健康醫療",
+    "level": 1
+  },
+  {
+    "word": "pain",
+    "kk": "[pen]",
+    "pos": "n.",
+    "meaning": "疼痛",
+    "examples": [
+      {"en": "I feel a sharp pain in my knee.", "zh": "我膝蓋感到一陣刺痛。"},
+      {"en": "The pain went away after I rested.", "zh": "我休息後疼痛就消失了。"}
+    ],
+    "img": "person clutching sore knee",
+    "theme": "健康醫療",
+    "level": 1
+  },
+  {
+    "word": "tired",
+    "kk": "[taɪrd]",
+    "pos": "adj.",
+    "meaning": "疲倦的",
+    "examples": [
+      {"en": "I'm so tired after a long day at work.", "zh": "上了一整天班後我好累。"},
+      {"en": "You look tired; you should get some sleep.", "zh": "你看起來很累,該去睡覺了。"}
+    ],
+    "img": "tired person yawning",
+    "theme": "健康醫療",
+    "level": 1
+  },
+  {
+    "word": "healthy",
+    "kk": "[ˈhɛlθɪ]",
+    "pos": "adj.",
+    "meaning": "健康的",
+    "examples": [
+      {"en": "Eating vegetables keeps you healthy.", "zh": "吃蔬菜能讓你保持健康。"},
+      {"en": "He stays healthy by walking every day.", "zh": "他每天走路保持健康。"}
+    ],
+    "img": "person eating fresh salad",
+    "theme": "健康醫療",
+    "level": 1
+  },
+  {
+    "word": "arm",
+    "kk": "[ɑrm]",
+    "pos": "n.",
+    "meaning": "手臂",
+    "examples": [
+      {"en": "I hurt my arm playing basketball.", "zh": "我打籃球時弄傷了手臂。"},
+      {"en": "She raised her arm to ask a question.", "zh": "她舉起手臂要問問題。"}
+    ],
+    "img": "human arm muscle",
+    "theme": "健康醫療",
+    "level": 1
+  },
+  {
+    "word": "leg",
+    "kk": "[lɛg]",
+    "pos": "n.",
+    "meaning": "腿",
+    "examples": [
+      {"en": "My legs feel sore after running.", "zh": "跑步後我的腿很痠。"},
+      {"en": "He broke his leg in a car accident.", "zh": "他在車禍中摔斷了腿。"}
+    ],
+    "img": "person stretching leg",
+    "theme": "健康醫療",
+    "level": 1
+  },
+  {
+    "word": "stomach",
+    "kk": "[ˈstʌmək]",
+    "pos": "n.",
+    "meaning": "胃;肚子",
+    "examples": [
+      {"en": "My stomach hurts after eating too fast.", "zh": "我吃太快後肚子痛。"},
+      {"en": "Don't exercise on an empty stomach.", "zh": "別空腹運動。"}
+    ],
+    "img": "person holding stomach",
+    "theme": "健康醫療",
+    "level": 1
+  },
+  {
+    "word": "rest",
+    "kk": "[rɛst]",
+    "pos": "v./n.",
+    "meaning": "休息",
+    "examples": [
+      {"en": "You should rest when you feel sick.", "zh": "你不舒服時應該休息。"},
+      {"en": "A good rest will help you recover.", "zh": "好好休息能幫你康復。"}
+    ],
+    "img": "person resting on sofa",
+    "theme": "健康醫療",
+    "level": 1
+  },
+  {
+    "word": "dentist",
+    "kk": "[ˈdɛntɪst]",
+    "pos": "n.",
+    "meaning": "牙醫",
+    "examples": [
+      {"en": "I go to the dentist twice a year.", "zh": "我一年看兩次牙醫。"},
+      {"en": "The dentist said I have a cavity.", "zh": "牙醫說我有一顆蛀牙。"}
+    ],
+    "img": "dentist checking teeth",
+    "theme": "健康醫療",
+    "level": 2
+  },
+  {
+    "word": "symptom",
+    "kk": "[ˈsɪmptəm]",
+    "pos": "n.",
+    "meaning": "症狀",
+    "examples": [
+      {"en": "A runny nose is a common cold symptom.", "zh": "流鼻水是常見的感冒症狀。"},
+      {"en": "Tell the doctor about all your symptoms.", "zh": "把你所有症狀告訴醫生。"}
+    ],
+    "img": "checklist of symptoms",
+    "theme": "健康醫療",
+    "level": 2
+  },
+  {
+    "word": "sore throat",
+    "kk": "[sor θrot]",
+    "pos": "n.",
+    "meaning": "喉嚨痛",
+    "examples": [
+      {"en": "I have a sore throat and can barely talk.", "zh": "我喉嚨痛,幾乎沒辦法說話。"},
+      {"en": "Warm tea helps with a sore throat.", "zh": "溫茶對喉嚨痛有幫助。"}
+    ],
+    "img": "person touching sore throat",
+    "theme": "健康醫療",
+    "level": 2
+  },
+  {
+    "word": "runny nose",
+    "kk": "[ˈrʌnɪ noz]",
+    "pos": "n.",
+    "meaning": "流鼻水",
+    "examples": [
+      {"en": "My runny nose won't stop today.", "zh": "我今天流鼻水停不下來。"},
+      {"en": "A runny nose usually means a cold.", "zh": "流鼻水通常代表感冒了。"}
+    ],
+    "img": "person with tissue and runny nose",
+    "theme": "健康醫療",
+    "level": 2
+  },
+  {
+    "word": "prescription",
+    "kk": "[prɪˈskrɪpʃən]",
+    "pos": "n.",
+    "meaning": "處方箋",
+    "examples": [
+      {"en": "The doctor wrote me a prescription for antibiotics.", "zh": "醫生開了抗生素處方給我。"},
+      {"en": "You can pick up your prescription at the pharmacy.", "zh": "你可以到藥局領處方藥。"}
+    ],
+    "img": "doctor writing prescription",
+    "theme": "健康醫療",
+    "level": 2
+  },
+  {
+    "word": "pharmacy",
+    "kk": "[ˈfɑrməsɪ]",
+    "pos": "n.",
+    "meaning": "藥局",
+    "examples": [
+      {"en": "There's a pharmacy across the street.", "zh": "對街有一間藥局。"},
+      {"en": "I bought cough syrup at the pharmacy.", "zh": "我在藥局買了咳嗽糖漿。"}
+    ],
+    "img": "pharmacy counter with shelves",
+    "theme": "健康醫療",
+    "level": 2
+  },
+  {
+    "word": "appointment",
+    "kk": "[əˈpɔɪntmənt]",
+    "pos": "n.",
+    "meaning": "預約;約診",
+    "examples": [
+      {"en": "I made an appointment with the doctor for Monday.", "zh": "我跟醫生約了週一看診。"},
+      {"en": "Please don't be late for your appointment.", "zh": "請不要錯過你的約診時間。"}
+    ],
+    "img": "calendar with doctor appointment",
+    "theme": "健康醫療",
+    "level": 2
+  },
+  {
+    "word": "injury",
+    "kk": "[ˈɪndʒərɪ]",
+    "pos": "n.",
+    "meaning": "傷害;受傷",
+    "examples": [
+      {"en": "He returned to work after his injury healed.", "zh": "他的傷好了之後就回去上班。"},
+      {"en": "Wear a helmet to prevent head injuries.", "zh": "戴安全帽以防止頭部受傷。"}
+    ],
+    "img": "bandaged injured arm",
+    "theme": "健康醫療",
+    "level": 2
+  },
+  {
+    "word": "blood pressure",
+    "kk": "[blʌd ˈprɛʃɚ]",
+    "pos": "n.",
+    "meaning": "血壓",
+    "examples": [
+      {"en": "The nurse checked my blood pressure first.", "zh": "護士先幫我量了血壓。"},
+      {"en": "High blood pressure runs in my family.", "zh": "我家族有高血壓遺傳。"}
+    ],
+    "img": "blood pressure monitor cuff",
+    "theme": "健康醫療",
+    "level": 2
+  },
+  {
+    "word": "allergy",
+    "kk": "[ˈælɚdʒɪ]",
+    "pos": "n.",
+    "meaning": "過敏",
+    "examples": [
+      {"en": "I have an allergy to peanuts.", "zh": "我對花生過敏。"},
+      {"en": "Her allergy gets worse in spring.", "zh": "她的過敏在春天會加重。"}
+    ],
+    "img": "sneezing person with pollen",
+    "theme": "健康醫療",
+    "level": 2
+  },
+  {
+    "word": "pill",
+    "kk": "[pɪl]",
+    "pos": "n.",
+    "meaning": "藥丸",
+    "examples": [
+      {"en": "Take one pill with a glass of water.", "zh": "配一杯水吃一顆藥丸。"},
+      {"en": "I forgot to take my pills this morning.", "zh": "我今天早上忘了吃藥丸。"}
+    ],
+    "img": "colorful pills in hand",
+    "theme": "健康醫療",
+    "level": 2
+  },
+  {
+    "word": "dizzy",
+    "kk": "[ˈdɪzɪ]",
+    "pos": "adj.",
+    "meaning": "頭暈的",
+    "examples": [
+      {"en": "I felt dizzy after standing up too fast.", "zh": "我站太快後覺得頭暈。"},
+      {"en": "She got dizzy on the roller coaster.", "zh": "她在雲霄飛車上覺得頭暈。"}
+    ],
+    "img": "dizzy person with spinning stars",
+    "theme": "健康醫療",
+    "level": 2
+  },
+  {
+    "word": "vomit",
+    "kk": "[ˈvɑmɪt]",
+    "pos": "v.",
+    "meaning": "嘔吐",
+    "examples": [
+      {"en": "He felt so sick that he had to vomit.", "zh": "他不舒服到吐了出來。"},
+      {"en": "If you keep vomiting, see a doctor.", "zh": "如果你一直吐,就去看醫生。"}
+    ],
+    "img": "person feeling nauseous",
+    "theme": "健康醫療",
+    "level": 2
+  },
+  {
+    "word": "wound",
+    "kk": "[wund]",
+    "pos": "n.",
+    "meaning": "傷口",
+    "examples": [
+      {"en": "Clean the wound before you put on a bandage.", "zh": "貼繃帶前先清洗傷口。"},
+      {"en": "The wound is healing nicely now.", "zh": "傷口現在復原得很好。"}
+    ],
+    "img": "cleaning a small wound",
+    "theme": "健康醫療",
+    "level": 2
+  },
+  {
+    "word": "bandage",
+    "kk": "[ˈbændɪdʒ]",
+    "pos": "n.",
+    "meaning": "繃帶;OK繃",
+    "examples": [
+      {"en": "I put a bandage on my cut finger.", "zh": "我在割傷的手指上貼了OK繃。"},
+      {"en": "Change the bandage twice a day.", "zh": "一天換兩次繃帶。"}
+    ],
+    "img": "bandage on finger",
+    "theme": "健康醫療",
+    "level": 2
+  },
+  {
+    "word": "exercise",
+    "kk": "[ˈɛksɚ͵saɪz]",
+    "pos": "v./n.",
+    "meaning": "運動;鍛鍊",
+    "examples": [
+      {"en": "I exercise for thirty minutes every morning.", "zh": "我每天早上運動三十分鐘。"},
+      {"en": "Regular exercise keeps your heart strong.", "zh": "規律運動能讓心臟強健。"}
+    ],
+    "img": "person jogging outdoors",
+    "theme": "健康醫療",
+    "level": 2
+  },
+  {
+    "word": "check-up",
+    "kk": "[ˈtʃɛk͵ʌp]",
+    "pos": "n.",
+    "meaning": "健康檢查",
+    "examples": [
+      {"en": "I go for a check-up once a year.", "zh": "我一年做一次健康檢查。"},
+      {"en": "The check-up showed everything was normal.", "zh": "健康檢查顯示一切正常。"}
+    ],
+    "img": "doctor doing health check-up",
+    "theme": "健康醫療",
+    "level": 2
+  },
+  {
+    "word": "recover",
+    "kk": "[rɪˈkʌvɚ]",
+    "pos": "v.",
+    "meaning": "康復;痊癒",
+    "examples": [
+      {"en": "It took a week to recover from the flu.", "zh": "我花了一週從流感中康復。"},
+      {"en": "She is recovering well after surgery.", "zh": "她手術後恢復得很好。"}
+    ],
+    "img": "person recovering in bed smiling",
+    "theme": "健康醫療",
+    "level": 2
+  },
+  {
+    "word": "diet",
+    "kk": "[ˈdaɪət]",
+    "pos": "n.",
+    "meaning": "飲食;節食",
+    "examples": [
+      {"en": "A balanced diet is good for your health.", "zh": "均衡的飲食對健康有益。"},
+      {"en": "She is on a low-sugar diet.", "zh": "她正在進行低糖飲食。"}
+    ],
+    "img": "balanced meal on plate",
+    "theme": "健康醫療",
+    "level": 2
+  },
+  {
+    "word": "vitamin",
+    "kk": "[ˈvaɪtəmɪn]",
+    "pos": "n.",
+    "meaning": "維他命",
+    "examples": [
+      {"en": "I take a vitamin every morning with breakfast.", "zh": "我每天早餐配維他命吃。"},
+      {"en": "Oranges are full of vitamin C.", "zh": "柳橙富含維他命C。"}
+    ],
+    "img": "vitamin supplement bottle",
+    "theme": "健康醫療",
+    "level": 2
+  },
+  {
+    "word": "flu",
+    "kk": "[flu]",
+    "pos": "n.",
+    "meaning": "流行性感冒",
+    "examples": [
+      {"en": "Half the office is out with the flu.", "zh": "辦公室一半的人都得流感請假了。"},
+      {"en": "Get a flu shot before winter.", "zh": "冬天前去打流感疫苗。"}
+    ],
+    "img": "person sick with flu in bed",
+    "theme": "健康醫療",
+    "level": 2
+  },
+  {
+    "word": "emergency room",
+    "kk": "[ɪˈmɝdʒənsɪ rum]",
+    "pos": "n.",
+    "meaning": "急診室",
+    "examples": [
+      {"en": "We rushed him to the emergency room at midnight.", "zh": "我們半夜把他緊急送到急診室。"},
+      {"en": "The emergency room was crowded last night.", "zh": "昨晚急診室很擁擠。"}
+    ],
+    "img": "hospital emergency room sign",
+    "theme": "健康醫療",
+    "level": 3
+  },
+  {
+    "word": "surgery",
+    "kk": "[ˈsɝdʒərɪ]",
+    "pos": "n.",
+    "meaning": "手術",
+    "examples": [
+      {"en": "He needs surgery on his shoulder next week.", "zh": "他下週肩膀需要動手術。"},
+      {"en": "The surgery went well and took two hours.", "zh": "手術很順利,花了兩個小時。"}
+    ],
+    "img": "surgeons in operating room",
+    "theme": "健康醫療",
+    "level": 3
+  },
+  {
+    "word": "diagnose",
+    "kk": "[ˈdaɪəgnoz]",
+    "pos": "v.",
+    "meaning": "診斷",
+    "examples": [
+      {"en": "The doctor diagnosed her with the flu.", "zh": "醫生診斷她得了流感。"},
+      {"en": "It can be hard to diagnose the cause of the pain.", "zh": "要診斷疼痛的原因可能很困難。"}
+    ],
+    "img": "doctor reviewing test results",
+    "theme": "健康醫療",
+    "level": 3
+  },
+  {
+    "word": "antibiotic",
+    "kk": "[͵æntɪbaɪˈɑtɪk]",
+    "pos": "n.",
+    "meaning": "抗生素",
+    "examples": [
+      {"en": "The doctor gave me antibiotics for the infection.", "zh": "醫生開了抗生素治療我的感染。"},
+      {"en": "Finish all your antibiotics even if you feel better.", "zh": "即使好轉也要把抗生素吃完。"}
+    ],
+    "img": "antibiotic capsules on table",
+    "theme": "健康醫療",
+    "level": 3
+  },
+  {
+    "word": "infection",
+    "kk": "[ɪnˈfɛkʃən]",
+    "pos": "n.",
+    "meaning": "感染;發炎",
+    "examples": [
+      {"en": "The cut got an infection and turned red.", "zh": "傷口感染了,變得紅腫。"},
+      {"en": "Wash your hands to avoid infection.", "zh": "洗手以避免感染。"}
+    ],
+    "img": "red inflamed skin infection",
+    "theme": "健康醫療",
+    "level": 3
+  },
+  {
+    "word": "vaccine",
+    "kk": "[ˈvæksin]",
+    "pos": "n.",
+    "meaning": "疫苗",
+    "examples": [
+      {"en": "The vaccine protects you from the disease.", "zh": "疫苗能保護你免於這種疾病。"},
+      {"en": "Children get several vaccines when they are young.", "zh": "孩子在小時候會接種好幾種疫苗。"}
+    ],
+    "img": "vaccine vial and syringe",
+    "theme": "健康醫療",
+    "level": 3
+  },
+  {
+    "word": "blood test",
+    "kk": "[blʌd tɛst]",
+    "pos": "n.",
+    "meaning": "驗血",
+    "examples": [
+      {"en": "The doctor ordered a blood test to check my sugar.", "zh": "醫生安排驗血檢查我的血糖。"},
+      {"en": "You should fast before the blood test.", "zh": "驗血前你應該要禁食。"}
+    ],
+    "img": "blood test sample tubes",
+    "theme": "健康醫療",
+    "level": 3
+  },
+  {
+    "word": "chronic",
+    "kk": "[ˈkrɑnɪk]",
+    "pos": "adj.",
+    "meaning": "慢性的",
+    "examples": [
+      {"en": "He suffers from chronic back pain.", "zh": "他有慢性背痛。"},
+      {"en": "Chronic diseases need long-term care.", "zh": "慢性疾病需要長期照護。"}
+    ],
+    "img": "person with chronic back pain",
+    "theme": "健康醫療",
+    "level": 3
+  },
+  {
+    "word": "immune system",
+    "kk": "[ɪˈmjun ˈsɪstəm]",
+    "pos": "n.",
+    "meaning": "免疫系統",
+    "examples": [
+      {"en": "Sleep helps strengthen your immune system.", "zh": "睡眠有助於增強免疫系統。"},
+      {"en": "A weak immune system makes you get sick easily.", "zh": "免疫系統弱容易生病。"}
+    ],
+    "img": "immune system cells illustration",
+    "theme": "健康醫療",
+    "level": 3
+  },
+  {
+    "word": "physical therapy",
+    "kk": "[ˈfɪzɪk! ˈθɛrəpɪ]",
+    "pos": "n.",
+    "meaning": "物理治療;復健",
+    "examples": [
+      {"en": "She goes to physical therapy after her knee surgery.", "zh": "她膝蓋手術後去做物理治療。"},
+      {"en": "Physical therapy helped me walk again.", "zh": "物理治療幫助我重新走路。"}
+    ],
+    "img": "patient doing physical therapy",
+    "theme": "健康醫療",
+    "level": 3
+  },
+  {
+    "word": "side effect",
+    "kk": "[saɪd ɪˈfɛkt]",
+    "pos": "n.",
+    "meaning": "副作用",
+    "examples": [
+      {"en": "One side effect of this medicine is drowsiness.", "zh": "這種藥的一個副作用是嗜睡。"},
+      {"en": "Ask your doctor about possible side effects.", "zh": "向醫生詢問可能的副作用。"}
+    ],
+    "img": "medicine warning label",
+    "theme": "健康醫療",
+    "level": 3
+  },
+  {
+    "word": "get over",
+    "kk": "[gɛt ˈovɚ]",
+    "pos": "phr.",
+    "meaning": "從(病痛)中恢復",
+    "examples": [
+      {"en": "It took me two weeks to get over the flu.", "zh": "我花了兩週才從流感中康復。"},
+      {"en": "She's finally getting over her cold.", "zh": "她的感冒終於快好了。"}
+    ],
+    "img": "person feeling better after illness",
+    "theme": "健康醫療",
+    "level": 3
+  }
+]
