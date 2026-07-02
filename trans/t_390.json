@@ -1,0 +1,842 @@
+[
+  {
+    "id": "p0341",
+    "de": {
+      "word": "die Hütte",
+      "ipa": "[ˈhʏtə]",
+      "examples": [
+        { "s": "Wir haben das Wochenende in einer kleinen Hütte am See verbracht.", "zh": "我們在湖邊的一間小木屋度過了週末。" },
+        { "s": "Die Hütte im Wald hat keinen Strom.", "zh": "森林裡的那間小木屋沒有電。" }
+      ]
+    },
+    "fr": {
+      "word": "la cabane",
+      "ipa": "[ka.ban]",
+      "examples": [
+        { "s": "Nous avons loué une cabane en bois dans la montagne.", "zh": "我們在山上租了一間小木屋。" },
+        { "s": "Il y a une cheminée dans la cabane.", "zh": "小木屋裡有一個壁爐。" }
+      ]
+    },
+    "ja": {
+      "word": "小屋",
+      "kana": "こや",
+      "romaji": "koya",
+      "examples": [
+        { "s": "湖のそばの小屋で週末を過ごしました。", "zh": "我們在湖邊的小木屋度過了週末。" },
+        { "s": "山の小屋には電気がありません。", "zh": "山上的小木屋沒有電。" }
+      ]
+    }
+  },
+  {
+    "id": "p0342",
+    "de": {
+      "word": "das Kabel",
+      "ipa": "[ˈkaːbl̩]",
+      "examples": [
+        { "s": "Das Kabel des Ladegeräts ist kaputt.", "zh": "充電器的電纜壞了。" },
+        { "s": "Bitte steck das Kabel in die Steckdose.", "zh": "請把電纜插到插座上。" }
+      ]
+    },
+    "fr": {
+      "word": "le câble",
+      "ipa": "[kabl]",
+      "examples": [
+        { "s": "Le câble de la télévision est trop court.", "zh": "電視的纜線太短了。" },
+        { "s": "J'ai acheté un nouveau câble pour mon ordinateur.", "zh": "我為電腦買了一條新纜線。" }
+      ]
+    },
+    "ja": {
+      "word": "ケーブル",
+      "kana": "ケーブル",
+      "romaji": "kēburu",
+      "examples": [
+        { "s": "充電器のケーブルが切れてしまいました。", "zh": "充電器的電纜斷了。" },
+        { "s": "テレビのケーブルをつないでください。", "zh": "請把電視的纜線接上。" }
+      ]
+    }
+  },
+  {
+    "id": "p0343",
+    "de": {
+      "word": "der Kaktus",
+      "ipa": "[ˈkaktʊs]",
+      "examples": [
+        { "s": "Auf der Fensterbank steht ein kleiner Kaktus.", "zh": "窗台上放著一株小仙人掌。" },
+        { "s": "Ein Kaktus braucht nur wenig Wasser.", "zh": "仙人掌只需要一點點水。" }
+      ]
+    },
+    "fr": {
+      "word": "le cactus",
+      "ipa": "[kak.tys]",
+      "examples": [
+        { "s": "J'ai posé un cactus sur mon bureau.", "zh": "我在桌上擺了一株仙人掌。" },
+        { "s": "Attention, les épines du cactus piquent.", "zh": "小心，仙人掌的刺會扎人。" }
+      ]
+    },
+    "ja": {
+      "word": "サボテン",
+      "kana": "サボテン",
+      "romaji": "saboten",
+      "examples": [
+        { "s": "窓辺に小さなサボテンを置いています。", "zh": "我在窗邊放了一株小仙人掌。" },
+        { "s": "サボテンはあまり水をやらなくても育ちます。", "zh": "仙人掌不太澆水也能生長。" }
+      ]
+    }
+  },
+  {
+    "id": "p0344",
+    "de": {
+      "word": "der Käfig",
+      "ipa": "[ˈkɛːfɪç]",
+      "examples": [
+        { "s": "Der Vogel sitzt ruhig in seinem Käfig.", "zh": "那隻鳥安靜地待在籠子裡。" },
+        { "s": "Wir reinigen den Käfig einmal pro Woche.", "zh": "我們每週清理一次籠子。" }
+      ]
+    },
+    "fr": {
+      "word": "la cage",
+      "ipa": "[kaʒ]",
+      "examples": [
+        { "s": "Le hamster dort dans sa cage.", "zh": "倉鼠在牠的籠子裡睡覺。" },
+        { "s": "N'oublie pas de fermer la cage.", "zh": "別忘了把籠子關好。" }
+      ]
+    },
+    "ja": {
+      "word": "かご",
+      "kana": "かご",
+      "romaji": "kago",
+      "examples": [
+        { "s": "鳥がかごの中で静かにしています。", "zh": "鳥在籠子裡安靜地待著。" },
+        { "s": "週に一度、かごを掃除します。", "zh": "我每週清理一次籠子。" }
+      ]
+    }
+  },
+  {
+    "id": "p0345",
+    "de": {
+      "word": "der Kuchen",
+      "ipa": "[ˈkuːxn̩]",
+      "examples": [
+        { "s": "Zum Geburtstag hat meine Mutter einen Kuchen gebacken.", "zh": "生日時我媽媽烤了一個蛋糕。" },
+        { "s": "Möchtest du noch ein Stück Kuchen?", "zh": "你還想再來一塊蛋糕嗎？" }
+      ]
+    },
+    "fr": {
+      "word": "le gâteau",
+      "ipa": "[ɡa.to]",
+      "examples": [
+        { "s": "Elle a préparé un gâteau au chocolat.", "zh": "她做了一個巧克力蛋糕。" },
+        { "s": "On coupe le gâteau après le dîner.", "zh": "我們晚餐後切蛋糕。" }
+      ]
+    },
+    "ja": {
+      "word": "ケーキ",
+      "kana": "ケーキ",
+      "romaji": "kēki",
+      "examples": [
+        { "s": "誕生日に母がケーキを焼いてくれました。", "zh": "生日時媽媽為我烤了蛋糕。" },
+        { "s": "ケーキをもう一切れいかがですか。", "zh": "再來一塊蛋糕如何？" }
+      ]
+    }
+  },
+  {
+    "id": "p0346",
+    "de": {
+      "word": "berechnen",
+      "ipa": "[bəˈʁɛçnən]",
+      "examples": [
+        { "s": "Kannst du die Gesamtkosten für die Reise berechnen?", "zh": "你能算一下這趟旅行的總花費嗎？" },
+        { "s": "Ich muss noch berechnen, wie viel ich sparen kann.", "zh": "我還得算一下我能省多少錢。" }
+      ]
+    },
+    "fr": {
+      "word": "calculer",
+      "ipa": "[kal.ky.le]",
+      "examples": [
+        { "s": "Je vais calculer le prix total de nos achats.", "zh": "我來算一下我們購物的總價。" },
+        { "s": "Elle a calculé combien de temps il faut pour arriver.", "zh": "她算了到達需要多少時間。" }
+      ]
+    },
+    "ja": {
+      "word": "計算する",
+      "kana": "けいさんする",
+      "romaji": "keisan suru",
+      "examples": [
+        { "s": "旅行の費用を計算してもらえますか。", "zh": "你能幫我算一下旅行的費用嗎？" },
+        { "s": "毎月いくら貯金できるか計算しました。", "zh": "我算了每個月能存多少錢。" }
+      ]
+    }
+  },
+  {
+    "id": "p0347",
+    "de": {
+      "word": "Feierabend machen",
+      "ipa": "[ˈfaɪɐˌʔaːbn̩t ˈmaxn̩]",
+      "examples": [
+        { "s": "Es ist schon spät, lass uns Feierabend machen.", "zh": "已經很晚了，我們收工吧。" },
+        { "s": "Nach diesem Anruf mache ich Feierabend.", "zh": "打完這通電話我就收工。" }
+      ]
+    },
+    "fr": {
+      "word": "s'arrêter pour aujourd'hui",
+      "ipa": "[sa.ʁe.te puʁ o.ʒuʁ.dɥi]",
+      "examples": [
+        { "s": "On a assez travaillé, arrêtons-nous pour aujourd'hui.", "zh": "我們今天做得夠多了，收工吧。" },
+        { "s": "Il est tard, je m'arrête pour aujourd'hui.", "zh": "很晚了，我今天到此為止。" }
+      ]
+    },
+    "ja": {
+      "word": "今日はここまでにする",
+      "kana": "きょうはここまでにする",
+      "romaji": "kyō wa koko made ni suru",
+      "examples": [
+        { "s": "もう遅いので、今日はここまでにしましょう。", "zh": "已經很晚了，今天就到此為止吧。" },
+        { "s": "この作業が終わったら今日はここまでにします。", "zh": "做完這項工作，我今天就收工。" }
+      ]
+    }
+  },
+  {
+    "id": "p0348",
+    "de": {
+      "word": "absagen",
+      "ipa": "[ˈapˌzaːɡn̩]",
+      "examples": [
+        { "s": "Wegen des Regens mussten wir das Picknick absagen.", "zh": "因為下雨，我們只好取消野餐。" },
+        { "s": "Sie hat das Treffen kurzfristig abgesagt.", "zh": "她臨時取消了這次會面。" }
+      ]
+    },
+    "fr": {
+      "word": "annuler",
+      "ipa": "[a.ny.le]",
+      "examples": [
+        { "s": "Ils ont dû annuler le concert à cause de la tempête.", "zh": "因為暴風雨，他們只好取消音樂會。" },
+        { "s": "J'ai annulé mon rendez-vous chez le médecin.", "zh": "我取消了看醫生的預約。" }
+      ]
+    },
+    "ja": {
+      "word": "中止する",
+      "kana": "ちゅうしする",
+      "romaji": "chūshi suru",
+      "examples": [
+        { "s": "雨のためピクニックを中止しました。", "zh": "因為下雨，我們取消了野餐。" },
+        { "s": "会議は急に中止になりました。", "zh": "會議突然被取消了。" }
+      ]
+    }
+  },
+  {
+    "id": "p0349",
+    "de": {
+      "word": "ruhig",
+      "ipa": "[ˈʁuːɪç]",
+      "examples": [
+        { "s": "Bleib ruhig, alles wird gut.", "zh": "保持冷靜，一切都會好起來的。" },
+        { "s": "Das Meer war heute Morgen ganz ruhig.", "zh": "今天早上海面非常平靜。" }
+      ]
+    },
+    "fr": {
+      "word": "calme",
+      "ipa": "[kalm]",
+      "examples": [
+        { "s": "Reste calme, on va trouver une solution.", "zh": "保持冷靜，我們會找到辦法的。" },
+        { "s": "Le lac est très calme le matin.", "zh": "湖面在早晨非常平靜。" }
+      ]
+    },
+    "ja": {
+      "word": "穏やかな",
+      "kana": "おだやかな",
+      "romaji": "odayakana",
+      "examples": [
+        { "s": "落ち着いて、きっと大丈夫ですよ。", "zh": "冷靜下來，一定沒問題的。" },
+        { "s": "今朝の海はとても穏やかでした。", "zh": "今天早上的海很平靜。" }
+      ]
+    }
+  },
+  {
+    "id": "p0350",
+    "de": {
+      "word": "sich beruhigen",
+      "ipa": "[zɪç bəˈʁuːɪɡn̩]",
+      "examples": [
+        { "s": "Beruhige dich, wir lösen das Problem zusammen.", "zh": "冷靜下來，我們一起解決這個問題。" },
+        { "s": "Nach dem Streit hat sie sich langsam beruhigt.", "zh": "吵架之後她慢慢平靜了下來。" }
+      ]
+    },
+    "fr": {
+      "word": "se calmer",
+      "ipa": "[sə kal.me]",
+      "examples": [
+        { "s": "Calme-toi, respire profondément.", "zh": "冷靜下來，深呼吸。" },
+        { "s": "L'enfant s'est calmé après quelques minutes.", "zh": "孩子過了幾分鐘就平靜下來了。" }
+      ]
+    },
+    "ja": {
+      "word": "落ち着く",
+      "kana": "おちつく",
+      "romaji": "ochitsuku",
+      "examples": [
+        { "s": "落ち着いて、一緒に考えましょう。", "zh": "冷靜下來，我們一起想辦法。" },
+        { "s": "深呼吸をしたら少し落ち着きました。", "zh": "深呼吸之後我平靜了一些。" }
+      ]
+    }
+  },
+  {
+    "id": "p0351",
+    "de": {
+      "word": "die Kamera",
+      "ipa": "[ˈkaməʁa]",
+      "examples": [
+        { "s": "Ich habe meine Kamera zu Hause vergessen.", "zh": "我把相機忘在家裡了。" },
+        { "s": "Mit dieser Kamera kann man tolle Fotos machen.", "zh": "用這台相機可以拍出很棒的照片。" }
+      ]
+    },
+    "fr": {
+      "word": "l'appareil photo",
+      "ipa": "[la.pa.ʁɛj fɔ.to]",
+      "examples": [
+        { "s": "J'ai emporté mon appareil photo en voyage.", "zh": "我旅行時帶了相機。" },
+        { "s": "Cet appareil photo prend de très belles images.", "zh": "這台相機拍出的照片很漂亮。" }
+      ]
+    },
+    "ja": {
+      "word": "カメラ",
+      "kana": "カメラ",
+      "romaji": "kamera",
+      "examples": [
+        { "s": "カメラを家に忘れてきてしまいました。", "zh": "我把相機忘在家裡了。" },
+        { "s": "このカメラはきれいな写真が撮れます。", "zh": "這台相機能拍出漂亮的照片。" }
+      ]
+    }
+  },
+  {
+    "id": "p0352",
+    "de": {
+      "word": "die Tarnung",
+      "ipa": "[ˈtaʁnʊŋ]",
+      "examples": [
+        { "s": "Das Chamäleon nutzt seine Farbe als Tarnung.", "zh": "變色龍用牠的顏色作為偽裝。" },
+        { "s": "Die Soldaten trugen Kleidung in Tarnung.", "zh": "士兵們穿著迷彩服裝。" }
+      ]
+    },
+    "fr": {
+      "word": "le camouflage",
+      "ipa": "[ka.mu.flaʒ]",
+      "examples": [
+        { "s": "Le caméléon change de couleur pour le camouflage.", "zh": "變色龍變換顏色來偽裝。" },
+        { "s": "Sa veste a un motif de camouflage.", "zh": "他的外套是迷彩圖案。" }
+      ]
+    },
+    "ja": {
+      "word": "迷彩",
+      "kana": "めいさい",
+      "romaji": "meisai",
+      "examples": [
+        { "s": "カメレオンは体の色を変えて迷彩にします。", "zh": "變色龍改變體色來偽裝。" },
+        { "s": "彼は迷彩柄のジャケットを着ています。", "zh": "他穿著迷彩圖案的夾克。" }
+      ]
+    }
+  },
+  {
+    "id": "p0353",
+    "de": {
+      "word": "die Kampagne",
+      "ipa": "[kamˈpanjə]",
+      "examples": [
+        { "s": "Die Firma startet eine neue Werbekampagne im Sommer.", "zh": "公司在夏天推出一項新的廣告行銷活動。" },
+        { "s": "Unsere Kampagne war ein großer Erfolg.", "zh": "我們的行銷活動非常成功。" }
+      ]
+    },
+    "fr": {
+      "word": "la campagne",
+      "ipa": "[kɑ̃.paɲ]",
+      "examples": [
+        { "s": "La marque a lancé une campagne publicitaire à la télévision.", "zh": "這個品牌在電視上推出了一項廣告行銷活動。" },
+        { "s": "Cette campagne a beaucoup augmenté nos ventes.", "zh": "這次行銷活動大幅提升了我們的銷量。" }
+      ]
+    },
+    "ja": {
+      "word": "キャンペーン",
+      "kana": "キャンペーン",
+      "romaji": "kyanpēn",
+      "examples": [
+        { "s": "会社は夏に新しい広告キャンペーンを始めます。", "zh": "公司在夏天展開新的廣告行銷活動。" },
+        { "s": "今回のキャンペーンは大成功でした。", "zh": "這次行銷活動非常成功。" }
+      ]
+    }
+  },
+  {
+    "id": "p0354",
+    "de": {
+      "word": "das Lagerfeuer",
+      "ipa": "[ˈlaːɡɐˌfɔɪ̯ɐ]",
+      "examples": [
+        { "s": "Wir haben am Lagerfeuer Lieder gesungen.", "zh": "我們在營火旁唱歌。" },
+        { "s": "Das Lagerfeuer wärmte uns die ganze Nacht.", "zh": "營火整晚為我們取暖。" }
+      ]
+    },
+    "fr": {
+      "word": "le feu de camp",
+      "ipa": "[fø də kɑ̃]",
+      "examples": [
+        { "s": "Nous avons fait griller des marshmallows au feu de camp.", "zh": "我們在營火上烤棉花糖。" },
+        { "s": "Les enfants racontent des histoires près du feu de camp.", "zh": "孩子們在營火旁講故事。" }
+      ]
+    },
+    "ja": {
+      "word": "キャンプファイヤー",
+      "kana": "キャンプファイヤー",
+      "romaji": "kyanpu faiyā",
+      "examples": [
+        { "s": "キャンプファイヤーを囲んで歌を歌いました。", "zh": "我們圍著營火唱歌。" },
+        { "s": "キャンプファイヤーの火で体が温まりました。", "zh": "營火讓我們的身體暖和起來。" }
+      ]
+    }
+  },
+  {
+    "id": "p0355",
+    "de": {
+      "word": "der Campingplatz",
+      "ipa": "[ˈkɛmpɪŋˌplats]",
+      "examples": [
+        { "s": "Wir haben einen schönen Campingplatz am See gefunden.", "zh": "我們在湖邊找到一個很棒的營地。" },
+        { "s": "Auf dem Campingplatz gibt es Duschen und Toiletten.", "zh": "營地裡有淋浴間和廁所。" }
+      ]
+    },
+    "fr": {
+      "word": "le camping",
+      "ipa": "[kɑ̃.piŋ]",
+      "examples": [
+        { "s": "Nous avons planté la tente au camping.", "zh": "我們在營地搭起了帳篷。" },
+        { "s": "Ce camping se trouve tout près de la plage.", "zh": "這個營地就在海灘附近。" }
+      ]
+    },
+    "ja": {
+      "word": "キャンプ場",
+      "kana": "キャンプじょう",
+      "romaji": "kyanpu-jō",
+      "examples": [
+        { "s": "湖のそばにいいキャンプ場を見つけました。", "zh": "我們在湖邊找到一個好營地。" },
+        { "s": "このキャンプ場にはシャワーがあります。", "zh": "這個營地有淋浴間。" }
+      ]
+    }
+  },
+  {
+    "id": "p0356",
+    "de": {
+      "word": "der Campus",
+      "ipa": "[ˈkampʊs]",
+      "examples": [
+        { "s": "Der Campus der Universität ist sehr grün.", "zh": "這所大學的校園非常翠綠。" },
+        { "s": "Ich treffe dich um zwölf auf dem Campus.", "zh": "我十二點在校園跟你碰面。" }
+      ]
+    },
+    "fr": {
+      "word": "le campus",
+      "ipa": "[kɑ̃.pys]",
+      "examples": [
+        { "s": "Le campus est très animé pendant la semaine.", "zh": "校園在平日非常熱鬧。" },
+        { "s": "La bibliothèque se trouve au centre du campus.", "zh": "圖書館位於校園中央。" }
+      ]
+    },
+    "ja": {
+      "word": "キャンパス",
+      "kana": "キャンパス",
+      "romaji": "kyanpasu",
+      "examples": [
+        { "s": "この大学のキャンパスはとても緑が多いです。", "zh": "這所大學的校園非常翠綠。" },
+        { "s": "十二時にキャンパスで会いましょう。", "zh": "我們十二點在校園碰面吧。" }
+      ]
+    }
+  },
+  {
+    "id": "p0357",
+    "de": {
+      "word": "der Krebs",
+      "ipa": "[kʁeːps]",
+      "examples": [
+        { "s": "Ihr Großvater hat den Krebs erfolgreich besiegt.", "zh": "她的祖父成功戰勝了癌症。" },
+        { "s": "Früherkennung ist bei Krebs sehr wichtig.", "zh": "早期發現對癌症來說非常重要。" }
+      ]
+    },
+    "fr": {
+      "word": "le cancer",
+      "ipa": "[kɑ̃.sɛʁ]",
+      "examples": [
+        { "s": "Le dépistage précoce du cancer sauve des vies.", "zh": "癌症的早期篩檢能拯救生命。" },
+        { "s": "Il suit un traitement contre le cancer.", "zh": "他正在接受癌症治療。" }
+      ]
+    },
+    "ja": {
+      "word": "がん",
+      "kana": "がん",
+      "romaji": "gan",
+      "examples": [
+        { "s": "祖父はがんを乗り越えました。", "zh": "祖父戰勝了癌症。" },
+        { "s": "がんは早期発見がとても大切です。", "zh": "癌症的早期發現非常重要。" }
+      ]
+    }
+  },
+  {
+    "id": "p0358",
+    "de": {
+      "word": "der Bewerber",
+      "ipa": "[bəˈvɛʁbɐ]",
+      "examples": [
+        { "s": "Der Bewerber hat sich gut auf das Vorstellungsgespräch vorbereitet.", "zh": "這位求職者為面試做了充分的準備。" },
+        { "s": "Wir haben drei Bewerber für die Stelle eingeladen.", "zh": "我們邀請了三位候選人來應徵這個職位。" }
+      ]
+    },
+    "fr": {
+      "word": "le candidat",
+      "ipa": "[kɑ̃.di.da]",
+      "examples": [
+        { "s": "Le candidat a répondu à toutes les questions avec assurance.", "zh": "這位候選人自信地回答了所有問題。" },
+        { "s": "Nous avons reçu de nombreux candidats cette semaine.", "zh": "這週我們面試了許多求職者。" }
+      ]
+    },
+    "ja": {
+      "word": "候補者",
+      "kana": "こうほしゃ",
+      "romaji": "kōhosha",
+      "examples": [
+        { "s": "その候補者は面接によく準備してきました。", "zh": "那位候選人為面試做了充分準備。" },
+        { "s": "今回のポストに三人の候補者を招きました。", "zh": "我們為這個職位邀請了三位候選人。" }
+      ]
+    }
+  },
+  {
+    "id": "p0359",
+    "de": {
+      "word": "der Bewerberpool",
+      "ipa": "[bəˈvɛʁbɐˌpuːl]",
+      "examples": [
+        { "s": "Wir haben einen großen Bewerberpool für diese Position.", "zh": "我們為這個職位擁有龐大的人才庫。" },
+        { "s": "Aus dem Bewerberpool wählen wir die besten Talente aus.", "zh": "我們從候選人群中挑選最優秀的人才。" }
+      ]
+    },
+    "fr": {
+      "word": "le vivier de candidats",
+      "ipa": "[vi.vje də kɑ̃.di.da]",
+      "examples": [
+        { "s": "L'entreprise dispose d'un large vivier de candidats.", "zh": "這家公司擁有廣大的人才庫。" },
+        { "s": "Nous puisons dans notre vivier de candidats pour recruter.", "zh": "我們從人才庫中挑選人來招募。" }
+      ]
+    },
+    "ja": {
+      "word": "候補者プール",
+      "kana": "こうほしゃプール",
+      "romaji": "kōhosha pūru",
+      "examples": [
+        { "s": "このポジションには大きな候補者プールがあります。", "zh": "這個職位有龐大的人才庫。" },
+        { "s": "候補者プールから最適な人を選びます。", "zh": "我們從人才庫中挑選最合適的人。" }
+      ]
+    }
+  },
+  {
+    "id": "p0360",
+    "de": {
+      "word": "die Kerze",
+      "ipa": "[ˈkɛʁtsə]",
+      "examples": [
+        { "s": "Sie zündete eine Kerze auf dem Tisch an.", "zh": "她點燃了桌上的一支蠟燭。" },
+        { "s": "Bei Kerzenlicht ist die Stimmung sehr gemütlich.", "zh": "在燭光下氣氛非常溫馨。" }
+      ]
+    },
+    "fr": {
+      "word": "la bougie",
+      "ipa": "[bu.ʒi]",
+      "examples": [
+        { "s": "Il a allumé une bougie parfumée dans le salon.", "zh": "他在客廳點了一支香氛蠟燭。" },
+        { "s": "Nous avons dîné à la lueur des bougies.", "zh": "我們在燭光下用餐。" }
+      ]
+    },
+    "ja": {
+      "word": "ろうそく",
+      "kana": "ろうそく",
+      "romaji": "rōsoku",
+      "examples": [
+        { "s": "彼女はテーブルのろうそくに火をつけました。", "zh": "她點燃了桌上的蠟燭。" },
+        { "s": "ろうそくの明かりで食事をしました。", "zh": "我們在燭光下用餐。" }
+      ]
+    }
+  },
+  {
+    "id": "p0361",
+    "de": {
+      "word": "die Süßigkeit",
+      "ipa": "[ˈzyːsɪçkaɪ̯t]",
+      "examples": [
+        { "s": "Die Kinder haben zu viele Süßigkeiten gegessen.", "zh": "孩子們吃了太多糖果。" },
+        { "s": "Zu Halloween gibt es überall Süßigkeiten.", "zh": "萬聖節時到處都有糖果。" }
+      ]
+    },
+    "fr": {
+      "word": "le bonbon",
+      "ipa": "[bɔ̃.bɔ̃]",
+      "examples": [
+        { "s": "Les enfants adorent les bonbons colorés.", "zh": "孩子們喜歡五顏六色的糖果。" },
+        { "s": "Ne mange pas trop de bonbons avant le dîner.", "zh": "晚餐前別吃太多糖果。" }
+      ]
+    },
+    "ja": {
+      "word": "キャンディー",
+      "kana": "キャンディー",
+      "romaji": "kyandī",
+      "examples": [
+        { "s": "子どもたちはキャンディーを食べすぎました。", "zh": "孩子們吃了太多糖果。" },
+        { "s": "夕食の前にキャンディーを食べないでね。", "zh": "晚餐前別吃糖果喔。" }
+      ]
+    }
+  },
+  {
+    "id": "p0362",
+    "de": {
+      "word": "die Kanone",
+      "ipa": "[kaˈnoːnə]",
+      "examples": [
+        { "s": "Im Museum steht eine alte Kanone aus dem Krieg.", "zh": "博物館裡有一門戰時的古老大砲。" },
+        { "s": "Die Kanone wurde vor der Burg aufgestellt.", "zh": "那門大砲被架設在城堡前。" }
+      ]
+    },
+    "fr": {
+      "word": "le canon",
+      "ipa": "[ka.nɔ̃]",
+      "examples": [
+        { "s": "Un vieux canon est exposé devant le château.", "zh": "城堡前展示著一門古老的大砲。" },
+        { "s": "Le canon a tiré lors de la cérémonie.", "zh": "典禮上鳴放了大砲。" }
+      ]
+    },
+    "ja": {
+      "word": "大砲",
+      "kana": "たいほう",
+      "romaji": "taihō",
+      "examples": [
+        { "s": "博物館には古い大砲が展示されています。", "zh": "博物館裡展示著一門古老的大砲。" },
+        { "s": "城の前に大砲が置かれています。", "zh": "城堡前放著一門大砲。" }
+      ]
+    }
+  },
+  {
+    "id": "p0363",
+    "de": {
+      "word": "das Kanu",
+      "ipa": "[ˈkaːnu]",
+      "examples": [
+        { "s": "Am Wochenende fahren wir mit dem Kanu auf dem Fluss.", "zh": "週末我們划獨木舟在河上遊玩。" },
+        { "s": "Das Kanu kippte fast im schnellen Wasser um.", "zh": "獨木舟在急流中差點翻覆。" }
+      ]
+    },
+    "fr": {
+      "word": "le canoë",
+      "ipa": "[ka.nɔ.e]",
+      "examples": [
+        { "s": "Nous avons descendu la rivière en canoë.", "zh": "我們划著獨木舟順流而下。" },
+        { "s": "Il faut un gilet de sauvetage pour faire du canoë.", "zh": "划獨木舟必須穿救生衣。" }
+      ]
+    },
+    "ja": {
+      "word": "カヌー",
+      "kana": "カヌー",
+      "romaji": "kanū",
+      "examples": [
+        { "s": "週末に川でカヌーに乗りました。", "zh": "週末我們在河上划獨木舟。" },
+        { "s": "カヌーをするときはライフジャケットが必要です。", "zh": "划獨木舟時需要穿救生衣。" }
+      ]
+    }
+  },
+  {
+    "id": "p0364",
+    "de": {
+      "word": "die Feldflasche",
+      "ipa": "[ˈfɛltˌflaʃə]",
+      "examples": [
+        { "s": "Vergiss deine Feldflasche nicht für die Wanderung.", "zh": "健行別忘了帶你的水壺。" },
+        { "s": "Meine Feldflasche ist schon wieder leer.", "zh": "我的水壺又空了。" }
+      ]
+    },
+    "fr": {
+      "word": "la gourde",
+      "ipa": "[ɡuʁd]",
+      "examples": [
+        { "s": "J'ai rempli ma gourde avant de partir en randonnée.", "zh": "出發去健行前我把水壺裝滿了。" },
+        { "s": "Garde ta gourde dans ton sac à dos.", "zh": "把你的水壺放在背包裡。" }
+      ]
+    },
+    "ja": {
+      "word": "水筒",
+      "kana": "すいとう",
+      "romaji": "suitō",
+      "examples": [
+        { "s": "ハイキングには水筒を忘れないでください。", "zh": "去健行別忘了帶水壺。" },
+        { "s": "水筒がもう空になってしまいました。", "zh": "水壺已經空了。" }
+      ]
+    }
+  },
+  {
+    "id": "p0365",
+    "de": {
+      "word": "die Leinwand",
+      "ipa": "[ˈlaɪ̯nvant]",
+      "examples": [
+        { "s": "Der Künstler malt ein Bild auf eine große Leinwand.", "zh": "這位藝術家在一大塊畫布上作畫。" },
+        { "s": "Die leere Leinwand wartet auf ihre ersten Farben.", "zh": "這塊空白的畫布正等待著它的第一筆色彩。" }
+      ]
+    },
+    "fr": {
+      "word": "la toile",
+      "ipa": "[twal]",
+      "examples": [
+        { "s": "Elle a peint un paysage sur une toile immense.", "zh": "她在一塊巨大的畫布上畫了風景。" },
+        { "s": "La toile est posée sur le chevalet.", "zh": "畫布架在畫架上。" }
+      ]
+    },
+    "ja": {
+      "word": "キャンバス",
+      "kana": "キャンバス",
+      "romaji": "kyanbasu",
+      "examples": [
+        { "s": "画家は大きなキャンバスに絵を描いています。", "zh": "畫家在一大塊畫布上作畫。" },
+        { "s": "白いキャンバスに最初の色をのせました。", "zh": "我在白色畫布上塗上了第一筆色彩。" }
+      ]
+    }
+  },
+  {
+    "id": "p0366",
+    "de": {
+      "word": "der Leinwanddruck",
+      "ipa": "[ˈlaɪ̯nvantˌdʁʊk]",
+      "examples": [
+        { "s": "Wir haben unser Urlaubsfoto als Leinwanddruck aufgehängt.", "zh": "我們把度假照片印成帆布印刷畫掛了起來。" },
+        { "s": "Der Leinwanddruck sieht an der Wand sehr edel aus.", "zh": "這幅帆布印刷畫掛在牆上看起來很高雅。" }
+      ]
+    },
+    "fr": {
+      "word": "l'impression sur toile",
+      "ipa": "[lɛ̃.pʁe.sjɔ̃ syʁ twal]",
+      "examples": [
+        { "s": "J'ai commandé une impression sur toile de ma photo préférée.", "zh": "我把最喜歡的照片訂做成帆布印刷畫。" },
+        { "s": "Cette impression sur toile décore bien le salon.", "zh": "這幅帆布印刷畫把客廳點綴得很好。" }
+      ]
+    },
+    "ja": {
+      "word": "キャンバスプリント",
+      "kana": "キャンバスプリント",
+      "romaji": "kyanbasu purinto",
+      "examples": [
+        { "s": "旅行の写真をキャンバスプリントにして飾りました。", "zh": "我把旅行照片做成帆布印刷畫掛起來。" },
+        { "s": "このキャンバスプリントは壁によく合います。", "zh": "這幅帆布印刷畫很配這面牆。" }
+      ]
+    }
+  },
+  {
+    "id": "p0367",
+    "de": {
+      "word": "die Hauptstadt",
+      "ipa": "[ˈhaʊ̯ptˌʃtat]",
+      "examples": [
+        { "s": "Berlin ist die Hauptstadt von Deutschland.", "zh": "柏林是德國的首都。" },
+        { "s": "Wir planen eine Reise in die Hauptstadt.", "zh": "我們正計畫去首都旅行。" }
+      ]
+    },
+    "fr": {
+      "word": "la capitale",
+      "ipa": "[ka.pi.tal]",
+      "examples": [
+        { "s": "Paris est la capitale de la France.", "zh": "巴黎是法國的首都。" },
+        { "s": "La capitale attire beaucoup de touristes.", "zh": "首都吸引了許多觀光客。" }
+      ]
+    },
+    "ja": {
+      "word": "首都",
+      "kana": "しゅと",
+      "romaji": "shuto",
+      "examples": [
+        { "s": "東京は日本の首都です。", "zh": "東京是日本的首都。" },
+        { "s": "来月、首都へ旅行に行く予定です。", "zh": "下個月我打算去首都旅行。" }
+      ]
+    }
+  },
+  {
+    "id": "p0368",
+    "de": {
+      "word": "der Cappuccino",
+      "ipa": "[kapʊˈtʃiːno]",
+      "examples": [
+        { "s": "Ich trinke jeden Morgen einen Cappuccino.", "zh": "我每天早上喝一杯卡布奇諾。" },
+        { "s": "Der Cappuccino in diesem Café schmeckt wunderbar.", "zh": "這家咖啡館的卡布奇諾味道好極了。" }
+      ]
+    },
+    "fr": {
+      "word": "le cappuccino",
+      "ipa": "[ka.pu.tʃi.no]",
+      "examples": [
+        { "s": "Elle a commandé un cappuccino avec un croissant.", "zh": "她點了一杯卡布奇諾配一個可頌。" },
+        { "s": "Le cappuccino est encore trop chaud.", "zh": "這杯卡布奇諾還太燙了。" }
+      ]
+    },
+    "ja": {
+      "word": "カプチーノ",
+      "kana": "カプチーノ",
+      "romaji": "kapuchīno",
+      "examples": [
+        { "s": "毎朝カプチーノを一杯飲みます。", "zh": "我每天早上喝一杯卡布奇諾。" },
+        { "s": "このカフェのカプチーノはとてもおいしいです。", "zh": "這家咖啡館的卡布奇諾很好喝。" }
+      ]
+    }
+  },
+  {
+    "id": "p0369",
+    "de": {
+      "word": "der Kapitän",
+      "ipa": "[kapiˈtɛːn]",
+      "examples": [
+        { "s": "Der Kapitän begrüßte alle Passagiere an Bord.", "zh": "船長歡迎所有乘客登船。" },
+        { "s": "Der Kapitän steuerte das Schiff sicher durch den Sturm.", "zh": "船長安全地駕駛船隻穿越暴風雨。" }
+      ]
+    },
+    "fr": {
+      "word": "le capitaine",
+      "ipa": "[ka.pi.tɛn]",
+      "examples": [
+        { "s": "Le capitaine a accueilli les passagers à bord.", "zh": "艦長在船上迎接乘客。" },
+        { "s": "Le capitaine dirige tout l'équipage du navire.", "zh": "艦長指揮著全船的船員。" }
+      ]
+    },
+    "ja": {
+      "word": "船長",
+      "kana": "せんちょう",
+      "romaji": "senchō",
+      "examples": [
+        { "s": "船長は乗客を歓迎しました。", "zh": "船長歡迎乘客登船。" },
+        { "s": "船長は嵐の中を安全に船を導きました。", "zh": "船長在暴風雨中安全地駕駛船隻。" }
+      ]
+    }
+  },
+  {
+    "id": "p0370",
+    "de": {
+      "word": "die Bildunterschrift",
+      "ipa": "[ˈbɪltʔʊntɐˌʃʁɪft]",
+      "examples": [
+        { "s": "Sie schrieb eine lustige Bildunterschrift unter das Foto.", "zh": "她在照片下寫了一段有趣的圖說。" },
+        { "s": "Die Bildunterschrift erklärt, wo das Bild gemacht wurde.", "zh": "這段圖說說明了照片是在哪裡拍的。" }
+      ]
+    },
+    "fr": {
+      "word": "la légende",
+      "ipa": "[le.ʒɑ̃d]",
+      "examples": [
+        { "s": "Il a ajouté une légende drôle à sa publication.", "zh": "他為貼文加上了一段有趣的說明文字。" },
+        { "s": "La légende de la photo indique la date.", "zh": "照片的圖說標明了日期。" }
+      ]
+    },
+    "ja": {
+      "word": "キャプション",
+      "kana": "キャプション",
+      "romaji": "kyapushon",
+      "examples": [
+        { "s": "彼女は写真に面白いキャプションをつけました。", "zh": "她為照片配上了一段有趣的圖說。" },
+        { "s": "この投稿のキャプションが気に入りました。", "zh": "我很喜歡這篇貼文的說明文字。" }
+      ]
+    }
+  }
+]

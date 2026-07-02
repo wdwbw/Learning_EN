@@ -1,0 +1,842 @@
+[
+  {
+    "id": "p0221",
+    "de": {
+      "word": "das Verhalten",
+      "ipa": "[fɛɐ̯ˈhaltn̩]",
+      "examples": [
+        { "s": "Sein Verhalten im Unterricht war heute vorbildlich.", "zh": "他今天在課堂上的行為堪稱模範。" },
+        { "s": "Ich verstehe dein Verhalten manchmal wirklich nicht.", "zh": "我有時真的不懂你的舉止。" }
+      ]
+    },
+    "fr": {
+      "word": "le comportement",
+      "ipa": "[kɔ̃pɔʁtəmɑ̃]",
+      "examples": [
+        { "s": "Son comportement au travail a beaucoup changé.", "zh": "他在工作上的行為改變了很多。" },
+        { "s": "Ce comportement est totalement inacceptable.", "zh": "這種行為是完全無法接受的。" }
+      ]
+    },
+    "ja": {
+      "word": "行動",
+      "kana": "こうどう",
+      "romaji": "kōdō",
+      "examples": [
+        { "s": "彼の行動はいつも予測できません。", "zh": "他的行為總是無法預測。" },
+        { "s": "落ち着いた行動を心がけてください。", "zh": "請留意保持沉著的舉止。" }
+      ]
+    }
+  },
+  {
+    "id": "p0222",
+    "de": {
+      "word": "beige",
+      "ipa": "[ˈbeːʒ]",
+      "examples": [
+        { "s": "Sie trägt heute einen beigen Mantel.", "zh": "她今天穿著一件米色的大衣。" },
+        { "s": "Die Wände im Wohnzimmer sind beige gestrichen.", "zh": "客廳的牆壁漆成了米色。" }
+      ]
+    },
+    "fr": {
+      "word": "beige",
+      "ipa": "[bɛʒ]",
+      "examples": [
+        { "s": "J'ai acheté un pantalon beige pour l'été.", "zh": "我買了一條夏天穿的米色長褲。" },
+        { "s": "Le canapé beige va bien avec les rideaux.", "zh": "米色的沙發跟窗簾很搭。" }
+      ]
+    },
+    "ja": {
+      "word": "ベージュ",
+      "kana": "ベージュ",
+      "romaji": "bēju",
+      "examples": [
+        { "s": "ベージュのバッグはどんな服にも合います。", "zh": "米色的包包搭配任何衣服都好看。" },
+        { "s": "壁をベージュに塗ったら部屋が明るくなった。", "zh": "把牆漆成米色後房間變亮了。" }
+      ]
+    }
+  },
+  {
+    "id": "p0223",
+    "de": {
+      "word": "der Glaube",
+      "ipa": "[ˈɡlaʊ̯bə]",
+      "examples": [
+        { "s": "Mein Glaube an ihn ist nie erschüttert worden.", "zh": "我對他的信念從未動搖過。" },
+        { "s": "Jeder hat das Recht auf seinen eigenen Glauben.", "zh": "每個人都有權擁有自己的信念。" }
+      ]
+    },
+    "fr": {
+      "word": "la croyance",
+      "ipa": "[kʁwajɑ̃s]",
+      "examples": [
+        { "s": "Sa croyance en la justice reste très forte.", "zh": "他對正義的信念依然非常堅定。" },
+        { "s": "Chacun est libre de ses croyances.", "zh": "每個人都能自由擁有自己的信念。" }
+      ]
+    },
+    "ja": {
+      "word": "信念",
+      "kana": "しんねん",
+      "romaji": "shinnen",
+      "examples": [
+        { "s": "彼女は自分の信念を決して曲げません。", "zh": "她絕不改變自己的信念。" },
+        { "s": "強い信念があれば困難も乗り越えられます。", "zh": "只要有堅定的信念,困難也能克服。" }
+      ]
+    }
+  },
+  {
+    "id": "p0224",
+    "de": {
+      "word": "der Gürtel",
+      "ipa": "[ˈɡʏʁtl̩]",
+      "examples": [
+        { "s": "Dieser Gürtel passt perfekt zu meiner Hose.", "zh": "這條皮帶跟我的褲子很搭。" },
+        { "s": "Bitte schnall den Gürtel im Auto an.", "zh": "在車上請繫好安全帶。" }
+      ]
+    },
+    "fr": {
+      "word": "la ceinture",
+      "ipa": "[sɛ̃tyʁ]",
+      "examples": [
+        { "s": "J'ai oublié ma ceinture en cuir à la maison.", "zh": "我把皮帶忘在家裡了。" },
+        { "s": "Attache ta ceinture avant de démarrer.", "zh": "開車前先繫好安全帶。" }
+      ]
+    },
+    "ja": {
+      "word": "ベルト",
+      "kana": "ベルト",
+      "romaji": "beruto",
+      "examples": [
+        { "s": "このズボンにはベルトが必要です。", "zh": "這條褲子需要繫皮帶。" },
+        { "s": "革のベルトを新しく買いました。", "zh": "我新買了一條皮革腰帶。" }
+      ]
+    }
+  },
+  {
+    "id": "p0225",
+    "de": {
+      "word": "biegen",
+      "ipa": "[ˈbiːɡn̩]",
+      "examples": [
+        { "s": "Bitte biege deine Knie, nicht deinen Rücken.", "zh": "請彎曲你的膝蓋,而不是彎腰。" },
+        { "s": "Der Draht lässt sich leicht biegen.", "zh": "這條金屬絲很容易彎折。" }
+      ]
+    },
+    "fr": {
+      "word": "plier",
+      "ipa": "[plije]",
+      "examples": [
+        { "s": "Il faut plier les genoux pour soulever la caisse.", "zh": "搬箱子時要彎曲膝蓋。" },
+        { "s": "Ne plie pas trop ce fil, il va casser.", "zh": "別把這條線彎太多,會斷掉。" }
+      ]
+    },
+    "ja": {
+      "word": "曲げる",
+      "kana": "まげる",
+      "romaji": "mageru",
+      "examples": [
+        { "s": "腰を曲げると背中が痛くなります。", "zh": "彎腰的話背會痛。" },
+        { "s": "針金を曲げて輪を作りました。", "zh": "我把鐵絲彎成了一個環。" }
+      ]
+    }
+  },
+  {
+    "id": "p0226",
+    "de": {
+      "word": "der Vorteil",
+      "ipa": "[ˈfoːɐ̯taɪ̯l]",
+      "examples": [
+        { "s": "Diese Mitgliedschaft bringt viele Vorteile.", "zh": "這個會員資格帶來很多好處。" },
+        { "s": "Regelmäßiger Sport hat große gesundheitliche Vorteile.", "zh": "規律運動對健康有很大的益處。" }
+      ]
+    },
+    "fr": {
+      "word": "le bénéfice",
+      "ipa": "[benefis]",
+      "examples": [
+        { "s": "Ce programme apporte de réels bénéfices aux étudiants.", "zh": "這個計畫為學生帶來實質的益處。" },
+        { "s": "On tire un grand bénéfice de cette collaboration.", "zh": "我們從這次合作中獲得很大的好處。" }
+      ]
+    },
+    "ja": {
+      "word": "利益",
+      "kana": "りえき",
+      "romaji": "rieki",
+      "examples": [
+        { "s": "運動は健康に大きな利益をもたらします。", "zh": "運動為健康帶來很大的益處。" },
+        { "s": "この制度は市民に多くの利益があります。", "zh": "這項制度對市民有很多好處。" }
+      ]
+    }
+  },
+  {
+    "id": "p0227",
+    "de": {
+      "word": "wetten",
+      "ipa": "[ˈvɛtn̩]",
+      "examples": [
+        { "s": "Ich wette, dass unsere Mannschaft heute gewinnt.", "zh": "我打賭我們的隊今天會贏。" },
+        { "s": "Er hat auf das falsche Pferd gewettet.", "zh": "他下注押錯了寶。" }
+      ]
+    },
+    "fr": {
+      "word": "parier",
+      "ipa": "[paʁje]",
+      "examples": [
+        { "s": "Je parie que tu ne peux pas courir aussi vite.", "zh": "我打賭你沒辦法跑那麼快。" },
+        { "s": "Il a parié cent euros sur ce match.", "zh": "他在這場比賽上下注了一百歐元。" }
+      ]
+    },
+    "ja": {
+      "word": "賭ける",
+      "kana": "かける",
+      "romaji": "kakeru",
+      "examples": [
+        { "s": "彼は競馬に大金を賭けました。", "zh": "他在賽馬上下了大注。" },
+        { "s": "そんなことに賭けるのはやめなさい。", "zh": "別在那種事情上下注了。" }
+      ]
+    }
+  },
+  {
+    "id": "p0228",
+    "de": {
+      "word": "das Getränk",
+      "ipa": "[ɡəˈtʁɛŋk]",
+      "examples": [
+        { "s": "Möchten Sie ein kaltes Getränk zum Essen?", "zh": "您用餐時想來杯冷飲嗎?" },
+        { "s": "Auf der Party gab es viele alkoholfreie Getränke.", "zh": "派對上有很多不含酒精的飲料。" }
+      ]
+    },
+    "fr": {
+      "word": "la boisson",
+      "ipa": "[bwasɔ̃]",
+      "examples": [
+        { "s": "Quelle boisson veux-tu commander?", "zh": "你想點什麼飲料?" },
+        { "s": "Cette boisson est trop sucrée pour moi.", "zh": "這杯飲料對我來說太甜了。" }
+      ]
+    },
+    "ja": {
+      "word": "飲み物",
+      "kana": "のみもの",
+      "romaji": "nomimono",
+      "examples": [
+        { "s": "冷たい飲み物はいかがですか。", "zh": "要來點冷飲嗎?" },
+        { "s": "好きな飲み物を選んでください。", "zh": "請選你喜歡的飲料。" }
+      ]
+    }
+  },
+  {
+    "id": "p0229",
+    "de": {
+      "word": "die Voreingenommenheit",
+      "ipa": "[ˈfoːɐ̯ʔaɪ̯nɡənɔmənhaɪ̯t]",
+      "examples": [
+        { "s": "Wir müssen unsere eigene Voreingenommenheit erkennen.", "zh": "我們必須認清自己的偏見。" },
+        { "s": "Der Bericht wurde ohne jede Voreingenommenheit verfasst.", "zh": "這份報告是在毫無偏見下撰寫的。" }
+      ]
+    },
+    "fr": {
+      "word": "le biais",
+      "ipa": "[bjɛ]",
+      "examples": [
+        { "s": "Ce sondage présente un biais évident.", "zh": "這份問卷存在明顯的偏誤。" },
+        { "s": "Il faut éviter tout biais dans le jugement.", "zh": "判斷時必須避免任何偏見。" }
+      ]
+    },
+    "ja": {
+      "word": "偏見",
+      "kana": "へんけん",
+      "romaji": "henken",
+      "examples": [
+        { "s": "偏見を持たずに人を見るべきです。", "zh": "看人不該帶有偏見。" },
+        { "s": "その意見には強い偏見が感じられます。", "zh": "那個意見讓人感到強烈的偏見。" }
+      ]
+    }
+  },
+  {
+    "id": "p0230",
+    "de": {
+      "word": "das Lätzchen",
+      "ipa": "[ˈlɛt͡sçən]",
+      "examples": [
+        { "s": "Bind dem Baby vor dem Essen ein Lätzchen um.", "zh": "餵飯前先幫寶寶圍上圍兜。" },
+        { "s": "Das Lätzchen ist schon wieder ganz nass.", "zh": "這個圍兜又整個濕掉了。" }
+      ]
+    },
+    "fr": {
+      "word": "le bavoir",
+      "ipa": "[bavwaʁ]",
+      "examples": [
+        { "s": "Mets le bavoir au bébé avant le repas.", "zh": "吃飯前幫寶寶戴上圍兜。" },
+        { "s": "Ce bavoir en tissu est très pratique.", "zh": "這個布圍兜很實用。" }
+      ]
+    },
+    "ja": {
+      "word": "よだれかけ",
+      "kana": "よだれかけ",
+      "romaji": "yodarekake",
+      "examples": [
+        { "s": "赤ちゃんによだれかけをつけてあげました。", "zh": "我幫寶寶圍上了圍兜。" },
+        { "s": "よだれかけが汚れたので替えましょう。", "zh": "圍兜髒了,換一個吧。" }
+      ]
+    }
+  },
+  {
+    "id": "p0231",
+    "de": {
+      "word": "das Fahrrad",
+      "ipa": "[ˈfaːɐ̯ʁaːt]",
+      "examples": [
+        { "s": "Ich fahre jeden Tag mit dem Fahrrad zur Arbeit.", "zh": "我每天騎腳踏車去上班。" },
+        { "s": "Mein Fahrrad hat einen platten Reifen.", "zh": "我的腳踏車輪胎沒氣了。" }
+      ]
+    },
+    "fr": {
+      "word": "le vélo",
+      "ipa": "[velo]",
+      "examples": [
+        { "s": "On fait du vélo dans le parc le dimanche.", "zh": "我們星期天在公園裡騎腳踏車。" },
+        { "s": "Son vélo est garé devant la maison.", "zh": "他的腳踏車停在房子前面。" }
+      ]
+    },
+    "ja": {
+      "word": "自転車",
+      "kana": "じてんしゃ",
+      "romaji": "jitensha",
+      "examples": [
+        { "s": "毎朝自転車で駅まで行きます。", "zh": "我每天早上騎腳踏車到車站。" },
+        { "s": "自転車のタイヤがパンクしました。", "zh": "腳踏車的輪胎爆胎了。" }
+      ]
+    }
+  },
+  {
+    "id": "p0232",
+    "de": {
+      "word": "groß",
+      "ipa": "[ɡʁoːs]",
+      "examples": [
+        { "s": "Sie wohnen in einem großen Haus am Stadtrand.", "zh": "他們住在市郊一棟很大的房子裡。" },
+        { "s": "Das ist ein zu großer Pullover für mich.", "zh": "這件毛衣對我來說太大了。" }
+      ]
+    },
+    "fr": {
+      "word": "grand",
+      "ipa": "[ɡʁɑ̃]",
+      "examples": [
+        { "s": "Ils habitent dans une grande maison.", "zh": "他們住在一棟很大的房子裡。" },
+        { "s": "Ce sac est trop grand pour un voyage court.", "zh": "這個包包對短途旅行來說太大了。" }
+      ]
+    },
+    "ja": {
+      "word": "大きい",
+      "kana": "おおきい",
+      "romaji": "ōkii",
+      "examples": [
+        { "s": "この部屋はとても大きいですね。", "zh": "這個房間好大啊。" },
+        { "s": "もっと大きいサイズはありますか。", "zh": "有更大的尺寸嗎?" }
+      ]
+    }
+  },
+  {
+    "id": "p0233",
+    "de": {
+      "word": "die große Sache",
+      "ipa": "[ˈɡʁoːsə ˈzaxə]",
+      "examples": [
+        { "s": "Mach doch keine so große Sache daraus.", "zh": "別把這件事看得那麼了不起。" },
+        { "s": "Für ihn war der Umzug wirklich eine große Sache.", "zh": "對他來說搬家真的是件大事。" }
+      ]
+    },
+    "fr": {
+      "word": "une grande affaire",
+      "ipa": "[yn ɡʁɑ̃d afɛʁ]",
+      "examples": [
+        { "s": "Ce n'est pas une grande affaire, ne t'inquiète pas.", "zh": "這沒什麼了不起的,別擔心。" },
+        { "s": "Réussir cet examen était une grande affaire pour lui.", "zh": "通過這場考試對他來說是件大事。" }
+      ]
+    },
+    "ja": {
+      "word": "大したこと",
+      "kana": "たいしたこと",
+      "romaji": "taishita koto",
+      "examples": [
+        { "s": "そんなの大したことじゃないよ。", "zh": "那沒什麼了不起的啦。" },
+        { "s": "彼にとってその昇進は大したことでした。", "zh": "對他來說那次升遷是件大事。" }
+      ]
+    }
+  },
+  {
+    "id": "p0234",
+    "de": {
+      "word": "das Rad",
+      "ipa": "[ʁaːt]",
+      "examples": [
+        { "s": "Wollen wir am Wochenende eine Runde Rad fahren?", "zh": "我們週末要不要去騎腳踏車?" },
+        { "s": "Er hat sich ein neues Rad gekauft.", "zh": "他買了一輛新的腳踏車。" }
+      ]
+    },
+    "fr": {
+      "word": "le vélo",
+      "ipa": "[velo]",
+      "examples": [
+        { "s": "Je vais au bureau à vélo tous les jours.", "zh": "我每天騎腳踏車去辦公室。" },
+        { "s": "Elle a appris à faire du vélo à cinq ans.", "zh": "她五歲時學會了騎腳踏車。" }
+      ]
+    },
+    "ja": {
+      "word": "自転車",
+      "kana": "じてんしゃ",
+      "romaji": "jitensha",
+      "examples": [
+        { "s": "週末に友達と自転車で出かけました。", "zh": "週末和朋友騎腳踏車出去了。" },
+        { "s": "新しい自転車を買うつもりです。", "zh": "我打算買一輛新的腳踏車。" }
+      ]
+    }
+  },
+  {
+    "id": "p0235",
+    "de": {
+      "word": "die Rechnung",
+      "ipa": "[ˈʁɛçnʊŋ]",
+      "examples": [
+        { "s": "Können wir bitte die Rechnung bekommen?", "zh": "可以請你給我們帳單嗎?" },
+        { "s": "Die Rechnung für das Hotel war ziemlich hoch.", "zh": "飯店的帳單相當高。" }
+      ]
+    },
+    "fr": {
+      "word": "l'addition",
+      "ipa": "[ladisjɔ̃]",
+      "examples": [
+        { "s": "L'addition, s'il vous plaît!", "zh": "麻煩結帳!" },
+        { "s": "Nous avons partagé l'addition entre amis.", "zh": "我們朋友之間平分了帳單。" }
+      ]
+    },
+    "ja": {
+      "word": "請求書",
+      "kana": "せいきゅうしょ",
+      "romaji": "seikyūsho",
+      "examples": [
+        { "s": "今月の電気の請求書が届きました。", "zh": "這個月的電費帳單到了。" },
+        { "s": "レストランで請求書をお願いしました。", "zh": "我在餐廳請他們拿帳單來。" }
+      ]
+    }
+  },
+  {
+    "id": "p0236",
+    "de": {
+      "word": "verbindlich",
+      "ipa": "[fɛɐ̯ˈbɪntlɪç]",
+      "examples": [
+        { "s": "Diese Vereinbarung ist rechtlich verbindlich.", "zh": "這份協議具有法律約束力。" },
+        { "s": "Bitte geben Sie eine verbindliche Zusage.", "zh": "請給出一個有約束力的承諾。" }
+      ]
+    },
+    "fr": {
+      "word": "contraignant",
+      "ipa": "[kɔ̃tʁɛɲɑ̃]",
+      "examples": [
+        { "s": "Ce contrat est juridiquement contraignant.", "zh": "這份合約具有法律約束力。" },
+        { "s": "L'accord n'est pas contraignant pour les deux parties.", "zh": "這項協議對雙方都沒有約束力。" }
+      ]
+    },
+    "ja": {
+      "word": "拘束力のある",
+      "kana": "こうそくりょくのある",
+      "romaji": "kōsokuryoku no aru",
+      "examples": [
+        { "s": "この契約は法的に拘束力のあるものです。", "zh": "這份合約具有法律約束力。" },
+        { "s": "その合意には拘束力のある条項が含まれています。", "zh": "那項協議包含有約束力的條款。" }
+      ]
+    }
+  },
+  {
+    "id": "p0237",
+    "de": {
+      "word": "die Kurzbiografie",
+      "ipa": "[ˈkʊʁt͡sbioɡʁaˌfiː]",
+      "examples": [
+        { "s": "Schreib bitte eine kurze Kurzbiografie für die Webseite.", "zh": "請為網站寫一段簡短的個人簡介。" },
+        { "s": "Seine Kurzbiografie steht am Ende des Artikels.", "zh": "他的個人簡介放在文章的最後。" }
+      ]
+    },
+    "fr": {
+      "word": "la bio",
+      "ipa": "[bjo]",
+      "examples": [
+        { "s": "J'ai mis à jour ma bio sur les réseaux sociaux.", "zh": "我更新了社群媒體上的個人簡介。" },
+        { "s": "Sa bio est trop longue pour ce profil.", "zh": "她的個人簡介對這個檔案來說太長了。" }
+      ]
+    },
+    "ja": {
+      "word": "プロフィール",
+      "kana": "プロフィール",
+      "romaji": "purofīru",
+      "examples": [
+        { "s": "自分のプロフィールを書き直しました。", "zh": "我重寫了自己的個人簡介。" },
+        { "s": "彼のプロフィールを読んで興味を持ちました。", "zh": "看了他的個人簡介後產生了興趣。" }
+      ]
+    }
+  },
+  {
+    "id": "p0238",
+    "de": {
+      "word": "die Biodiversität",
+      "ipa": "[ˌbioˌdivɛʁziˈtɛːt]",
+      "examples": [
+        { "s": "Der Regenwald besitzt eine enorme Biodiversität.", "zh": "雨林擁有極其豐富的生物多樣性。" },
+        { "s": "Wir müssen die Biodiversität unserer Ozeane schützen.", "zh": "我們必須保護海洋的生物多樣性。" }
+      ]
+    },
+    "fr": {
+      "word": "la biodiversité",
+      "ipa": "[bjodivɛʁsite]",
+      "examples": [
+        { "s": "La biodiversité de cette région est menacée.", "zh": "這個地區的生物多樣性正受到威脅。" },
+        { "s": "Protéger la biodiversité est essentiel pour la planète.", "zh": "保護生物多樣性對地球至關重要。" }
+      ]
+    },
+    "ja": {
+      "word": "生物多様性",
+      "kana": "せいぶつたようせい",
+      "romaji": "seibutsu tayōsei",
+      "examples": [
+        { "s": "森林の生物多様性を守る必要があります。", "zh": "我們有必要保護森林的生物多樣性。" },
+        { "s": "気候変動は生物多様性に大きな影響を与えます。", "zh": "氣候變遷對生物多樣性有很大的影響。" }
+      ]
+    }
+  },
+  {
+    "id": "p0239",
+    "de": {
+      "word": "die Biomasse",
+      "ipa": "[bioˈmasə]",
+      "examples": [
+        { "s": "Aus Biomasse kann man erneuerbare Energie gewinnen.", "zh": "生質能可以用來產生再生能源。" },
+        { "s": "Das Kraftwerk nutzt Biomasse als Brennstoff.", "zh": "這座發電廠用生物質作為燃料。" }
+      ]
+    },
+    "fr": {
+      "word": "la biomasse",
+      "ipa": "[bjɔmas]",
+      "examples": [
+        { "s": "La biomasse est une source d'énergie renouvelable.", "zh": "生質能是一種再生能源。" },
+        { "s": "On produit de la chaleur à partir de la biomasse.", "zh": "人們利用生物質來產生熱能。" }
+      ]
+    },
+    "ja": {
+      "word": "バイオマス",
+      "kana": "バイオマス",
+      "romaji": "baiomasu",
+      "examples": [
+        { "s": "バイオマスから電気を作ることができます。", "zh": "可以用生質能來發電。" },
+        { "s": "この発電所はバイオマスを燃料に使っています。", "zh": "這座發電廠用生物質當燃料。" }
+      ]
+    }
+  },
+  {
+    "id": "p0240",
+    "de": {
+      "word": "der Vogel",
+      "ipa": "[ˈfoːɡl̩]",
+      "examples": [
+        { "s": "Am Morgen singen die Vögel im Garten.", "zh": "早晨鳥兒在花園裡歌唱。" },
+        { "s": "Ein kleiner Vogel saß auf dem Fensterbrett.", "zh": "一隻小鳥停在窗台上。" }
+      ]
+    },
+    "fr": {
+      "word": "l'oiseau",
+      "ipa": "[lwazo]",
+      "examples": [
+        { "s": "Un oiseau chante devant ma fenêtre.", "zh": "一隻鳥在我的窗前歌唱。" },
+        { "s": "Les oiseaux migrent vers le sud en hiver.", "zh": "鳥兒在冬天往南方遷徙。" }
+      ]
+    },
+    "ja": {
+      "word": "鳥",
+      "kana": "とり",
+      "romaji": "tori",
+      "examples": [
+        { "s": "庭に小さな鳥が来ました。", "zh": "有一隻小鳥飛到院子裡。" },
+        { "s": "朝早くから鳥の声で目が覚めました。", "zh": "一大早就被鳥叫聲吵醒了。" }
+      ]
+    }
+  },
+  {
+    "id": "p0241",
+    "de": {
+      "word": "der Geburtstag",
+      "ipa": "[ɡəˈbuːɐ̯tstaːk]",
+      "examples": [
+        { "s": "Herzlichen Glückwunsch zum Geburtstag!", "zh": "生日快樂!" },
+        { "s": "Wir feiern morgen ihren dreißigsten Geburtstag.", "zh": "我們明天要慶祝她的三十歲生日。" }
+      ]
+    },
+    "fr": {
+      "word": "l'anniversaire",
+      "ipa": "[lanivɛʁsɛʁ]",
+      "examples": [
+        { "s": "Joyeux anniversaire à toi!", "zh": "祝你生日快樂!" },
+        { "s": "On organise une fête pour son anniversaire.", "zh": "我們正在為他的生日籌辦派對。" }
+      ]
+    },
+    "ja": {
+      "word": "誕生日",
+      "kana": "たんじょうび",
+      "romaji": "tanjōbi",
+      "examples": [
+        { "s": "お誕生日おめでとうございます。", "zh": "生日快樂。" },
+        { "s": "来週は母の誕生日です。", "zh": "下週是媽媽的生日。" }
+      ]
+    }
+  },
+  {
+    "id": "p0242",
+    "de": {
+      "word": "bitter",
+      "ipa": "[ˈbɪtɐ]",
+      "examples": [
+        { "s": "Dieser Kaffee ist mir viel zu bitter.", "zh": "這杯咖啡對我來說太苦了。" },
+        { "s": "Die Medizin schmeckt sehr bitter.", "zh": "這種藥嚐起來很苦。" }
+      ]
+    },
+    "fr": {
+      "word": "amer",
+      "ipa": "[amɛʁ]",
+      "examples": [
+        { "s": "Le café est trop amer sans sucre.", "zh": "不加糖的咖啡太苦了。" },
+        { "s": "Ce chocolat noir a un goût amer.", "zh": "這種黑巧克力有苦味。" }
+      ]
+    },
+    "ja": {
+      "word": "苦い",
+      "kana": "にがい",
+      "romaji": "nigai",
+      "examples": [
+        { "s": "このお茶は少し苦いですね。", "zh": "這杯茶有點苦呢。" },
+        { "s": "薬が苦くて飲みにくいです。", "zh": "藥很苦,很難喝下去。" }
+      ]
+    }
+  },
+  {
+    "id": "p0243",
+    "de": {
+      "word": "das schwarze Loch",
+      "ipa": "[ˈʃvaʁt͡sə ˈlɔx]",
+      "examples": [
+        { "s": "Ein schwarzes Loch verschluckt sogar das Licht.", "zh": "黑洞連光都能吞噬。" },
+        { "s": "Wissenschaftler erforschen das Zentrum eines schwarzen Lochs.", "zh": "科學家正在研究黑洞的中心。" }
+      ]
+    },
+    "fr": {
+      "word": "le trou noir",
+      "ipa": "[tʁu nwaʁ]",
+      "examples": [
+        { "s": "Un trou noir a une gravité extrêmement forte.", "zh": "黑洞有極其強大的重力。" },
+        { "s": "Les astronomes ont photographié un trou noir.", "zh": "天文學家拍到了一個黑洞。" }
+      ]
+    },
+    "ja": {
+      "word": "ブラックホール",
+      "kana": "ブラックホール",
+      "romaji": "burakku hōru",
+      "examples": [
+        { "s": "ブラックホールは光さえも吸い込みます。", "zh": "黑洞連光都能吸進去。" },
+        { "s": "科学者はブラックホールの謎を研究しています。", "zh": "科學家正在研究黑洞的謎團。" }
+      ]
+    }
+  },
+  {
+    "id": "p0244",
+    "de": {
+      "word": "der Schwarztee",
+      "ipa": "[ˈʃvaʁt͡steː]",
+      "examples": [
+        { "s": "Ich trinke morgens am liebsten Schwarztee.", "zh": "我早上最喜歡喝紅茶。" },
+        { "s": "Möchtest du Schwarztee mit Milch?", "zh": "你想要加牛奶的紅茶嗎?" }
+      ]
+    },
+    "fr": {
+      "word": "le thé noir",
+      "ipa": "[te nwaʁ]",
+      "examples": [
+        { "s": "Je préfère le thé noir au thé vert.", "zh": "比起綠茶,我更喜歡紅茶。" },
+        { "s": "Elle boit un thé noir chaque après-midi.", "zh": "她每天下午都喝一杯紅茶。" }
+      ]
+    },
+    "ja": {
+      "word": "紅茶",
+      "kana": "こうちゃ",
+      "romaji": "kōcha",
+      "examples": [
+        { "s": "毎朝ミルクを入れた紅茶を飲みます。", "zh": "我每天早上喝加牛奶的紅茶。" },
+        { "s": "この店の紅茶はとてもおいしいです。", "zh": "這家店的紅茶很好喝。" }
+      ]
+    }
+  },
+  {
+    "id": "p0245",
+    "de": {
+      "word": "der Stromausfall",
+      "ipa": "[ˈʃtʁoːmʔaʊ̯sfal]",
+      "examples": [
+        { "s": "Gestern Abend gab es einen langen Stromausfall.", "zh": "昨晚發生了一次長時間的停電。" },
+        { "s": "Wegen des Sturms kam es zu einem großen Stromausfall.", "zh": "由於暴風雨,發生了大停電。" }
+      ]
+    },
+    "fr": {
+      "word": "la panne de courant",
+      "ipa": "[pan də kuʁɑ̃]",
+      "examples": [
+        { "s": "Une panne de courant a plongé le quartier dans le noir.", "zh": "一次停電讓整個社區陷入黑暗。" },
+        { "s": "La panne de courant a duré presque trois heures.", "zh": "這次停電持續了將近三個小時。" }
+      ]
+    },
+    "ja": {
+      "word": "停電",
+      "kana": "ていでん",
+      "romaji": "teiden",
+      "examples": [
+        { "s": "台風で町全体が停電しました。", "zh": "颱風讓整個城鎮都停電了。" },
+        { "s": "停電のあいだ、ろうそくを使いました。", "zh": "停電期間我們用了蠟燭。" }
+      ]
+    }
+  },
+  {
+    "id": "p0246",
+    "de": {
+      "word": "die Blase",
+      "ipa": "[ˈblaːzə]",
+      "examples": [
+        { "s": "Der Arzt untersuchte ihre Blase gründlich.", "zh": "醫生仔細檢查了她的膀胱。" },
+        { "s": "Bei einer Blasenentzündung tut die Blase weh.", "zh": "膀胱發炎時膀胱會痛。" }
+      ]
+    },
+    "fr": {
+      "word": "la vessie",
+      "ipa": "[vesi]",
+      "examples": [
+        { "s": "Boire beaucoup d'eau est bon pour la vessie.", "zh": "多喝水對膀胱有益。" },
+        { "s": "Le médecin a examiné sa vessie avec attention.", "zh": "醫生仔細檢查了他的膀胱。" }
+      ]
+    },
+    "ja": {
+      "word": "膀胱",
+      "kana": "ぼうこう",
+      "romaji": "bōkō",
+      "examples": [
+        { "s": "水をよく飲むと膀胱の健康に良いです。", "zh": "多喝水對膀胱健康有益。" },
+        { "s": "医者は膀胱を丁寧に検査しました。", "zh": "醫生仔細檢查了膀胱。" }
+      ]
+    }
+  },
+  {
+    "id": "p0247",
+    "de": {
+      "word": "die Decke",
+      "ipa": "[ˈdɛkə]",
+      "examples": [
+        { "s": "Im Winter brauche ich eine dicke Decke.", "zh": "冬天我需要一條厚被子。" },
+        { "s": "Er legte dem Kind eine warme Decke über.", "zh": "他幫孩子蓋上一條溫暖的毯子。" }
+      ]
+    },
+    "fr": {
+      "word": "la couverture",
+      "ipa": "[kuvɛʁtyʁ]",
+      "examples": [
+        { "s": "Prends une couverture, il fait froid ce soir.", "zh": "拿條毯子吧,今晚很冷。" },
+        { "s": "Elle a mis une couverture sur ses genoux.", "zh": "她在膝蓋上蓋了一條毯子。" }
+      ]
+    },
+    "ja": {
+      "word": "毛布",
+      "kana": "もうふ",
+      "romaji": "mōfu",
+      "examples": [
+        { "s": "寒いので毛布をもう一枚出しました。", "zh": "因為很冷,我又拿出了一條毯子。" },
+        { "s": "子どもに毛布をかけてあげました。", "zh": "我幫孩子蓋上了毯子。" }
+      ]
+    }
+  },
+  {
+    "id": "p0248",
+    "de": {
+      "word": "bluten",
+      "ipa": "[ˈbluːtn̩]",
+      "examples": [
+        { "s": "Seine Nase begann plötzlich zu bluten.", "zh": "他的鼻子突然開始流血。" },
+        { "s": "Die Wunde blutet immer noch stark.", "zh": "傷口還在大量流血。" }
+      ]
+    },
+    "fr": {
+      "word": "saigner",
+      "ipa": "[seɲe]",
+      "examples": [
+        { "s": "Sa blessure saigne encore un peu.", "zh": "他的傷口還在流一點血。" },
+        { "s": "Mon nez s'est mis à saigner sans raison.", "zh": "我的鼻子無緣無故就流血了。" }
+      ]
+    },
+    "ja": {
+      "word": "出血する",
+      "kana": "しゅっけつする",
+      "romaji": "shukketsu suru",
+      "examples": [
+        { "s": "転んで膝から出血しました。", "zh": "我跌倒後膝蓋流血了。" },
+        { "s": "傷口がまだ出血しています。", "zh": "傷口還在流血。" }
+      ]
+    }
+  },
+  {
+    "id": "p0249",
+    "de": {
+      "word": "der Makel",
+      "ipa": "[ˈmaːkl̩]",
+      "examples": [
+        { "s": "Auf dem neuen Tisch ist ein kleiner Makel.", "zh": "這張新桌子上有個小瑕疵。" },
+        { "s": "Ihre Haut ist völlig ohne Makel.", "zh": "她的皮膚完全沒有斑點。" }
+      ]
+    },
+    "fr": {
+      "word": "l'imperfection",
+      "ipa": "[lɛ̃pɛʁfɛksjɔ̃]",
+      "examples": [
+        { "s": "Cette crème réduit les imperfections de la peau.", "zh": "這款乳霜能減少皮膚上的斑點。" },
+        { "s": "Il y a une petite imperfection sur le vase.", "zh": "花瓶上有個小瑕疵。" }
+      ]
+    },
+    "ja": {
+      "word": "傷",
+      "kana": "きず",
+      "romaji": "kizu",
+      "examples": [
+        { "s": "この商品には小さな傷があります。", "zh": "這件商品上有個小瑕疵。" },
+        { "s": "肌の傷を隠すためにクリームを使いました。", "zh": "我用乳霜來遮蓋皮膚上的斑點。" }
+      ]
+    }
+  },
+  {
+    "id": "p0250",
+    "de": {
+      "word": "mischen",
+      "ipa": "[ˈmɪʃn̩]",
+      "examples": [
+        { "s": "Mische die Farben, um einen neuen Ton zu bekommen.", "zh": "混合這些顏色來調出新的色調。" },
+        { "s": "Man mischt Mehl und Wasser zu einem Teig.", "zh": "把麵粉和水混合成麵團。" }
+      ]
+    },
+    "fr": {
+      "word": "mélanger",
+      "ipa": "[melɑ̃ʒe]",
+      "examples": [
+        { "s": "Mélangez bien les ingrédients avant de cuire.", "zh": "烹煮前把材料充分混合。" },
+        { "s": "Il faut mélanger le bleu et le jaune pour le vert.", "zh": "要調出綠色得把藍色和黃色混合。" }
+      ]
+    },
+    "ja": {
+      "word": "混ぜる",
+      "kana": "まぜる",
+      "romaji": "mazeru",
+      "examples": [
+        { "s": "材料をよく混ぜてから焼いてください。", "zh": "請把材料充分混合後再烤。" },
+        { "s": "青と黄色を混ぜると緑になります。", "zh": "把藍色和黃色混合就會變成綠色。" }
+      ]
+    }
+  }
+]

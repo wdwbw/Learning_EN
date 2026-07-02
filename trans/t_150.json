@@ -1,0 +1,842 @@
+[
+  {
+    "id": "p0101",
+    "de": {
+      "word": "der April",
+      "ipa": "[aˈpʁɪl]",
+      "examples": [
+        {"s": "Im April blühen bei uns die ersten Blumen.", "zh": "四月時我們這裡最早的花會開。"},
+        {"s": "Ihr Geburtstag ist am zweiten April.", "zh": "她的生日在四月二日。"}
+      ]
+    },
+    "fr": {
+      "word": "avril",
+      "ipa": "[avʁil]",
+      "examples": [
+        {"s": "En avril, ne te découvre pas d'un fil.", "zh": "四月別急著減衣服(法國諺語)。"},
+        {"s": "Nous partons en vacances au mois d'avril.", "zh": "我們四月要去度假。"}
+      ]
+    },
+    "ja": {
+      "word": "四月",
+      "kana": "しがつ",
+      "romaji": "shigatsu",
+      "examples": [
+        {"s": "日本では四月に新学期が始まります。", "zh": "在日本,四月是新學期的開始。"},
+        {"s": "四月になると桜が満開になります。", "zh": "一到四月,櫻花就會盛開。"}
+      ]
+    }
+  },
+  {
+    "id": "p0102",
+    "de": {
+      "word": "die Schlichtung",
+      "ipa": "[ˈʃlɪçtʊŋ]",
+      "examples": [
+        {"s": "Der Streit wurde durch eine Schlichtung beigelegt.", "zh": "這場爭執透過仲裁得到了解決。"},
+        {"s": "Beide Seiten stimmten einer Schlichtung zu.", "zh": "雙方都同意進行仲裁。"}
+      ]
+    },
+    "fr": {
+      "word": "l'arbitrage (m.)",
+      "ipa": "[aʁbitʁaʒ]",
+      "examples": [
+        {"s": "Les deux parties ont accepté l'arbitrage.", "zh": "雙方都接受了仲裁。"},
+        {"s": "L'arbitrage a permis d'éviter un procès.", "zh": "仲裁讓雙方避免了一場官司。"}
+      ]
+    },
+    "ja": {
+      "word": "仲裁",
+      "kana": "ちゅうさい",
+      "romaji": "chūsai",
+      "examples": [
+        {"s": "労使の対立は仲裁によって解決しました。", "zh": "勞資雙方的對立透過仲裁解決了。"},
+        {"s": "第三者に仲裁を依頼することにしました。", "zh": "我們決定委託第三方進行仲裁。"}
+      ]
+    }
+  },
+  {
+    "id": "p0103",
+    "de": {
+      "word": "der Bogen",
+      "ipa": "[ˈboːɡn̩]",
+      "examples": [
+        {"s": "Der alte Bogen der Brücke ist noch gut erhalten.", "zh": "這座橋的古老拱門保存得很好。"},
+        {"s": "Wir gingen unter einem steinernen Bogen hindurch.", "zh": "我們從一道石造拱門下走過。"}
+      ]
+    },
+    "fr": {
+      "word": "l'arche (f.)",
+      "ipa": "[aʁʃ]",
+      "examples": [
+        {"s": "L'arche du pont date du Moyen Âge.", "zh": "這座橋的拱門可追溯到中世紀。"},
+        {"s": "Les enfants ont couru sous la grande arche.", "zh": "孩子們從大拱門下跑過。"}
+      ]
+    },
+    "ja": {
+      "word": "アーチ",
+      "kana": "アーチ",
+      "romaji": "āchi",
+      "examples": [
+        {"s": "公園の入り口に美しい石のアーチがあります。", "zh": "公園入口有一座漂亮的石拱門。"},
+        {"s": "教会の天井はアーチ状になっています。", "zh": "教堂的天花板呈拱形。"}
+      ]
+    }
+  },
+  {
+    "id": "p0104",
+    "de": {
+      "word": "der Architekt",
+      "ipa": "[aʁçiˈtɛkt]",
+      "examples": [
+        {"s": "Der Architekt hat unser neues Haus entworfen.", "zh": "這位建築師設計了我們的新房子。"},
+        {"s": "Sie arbeitet als Architektin in einem großen Büro.", "zh": "她在一間大事務所擔任建築師。"}
+      ]
+    },
+    "fr": {
+      "word": "l'architecte (m./f.)",
+      "ipa": "[aʁʃitɛkt]",
+      "examples": [
+        {"s": "L'architecte nous a montré les plans de la maison.", "zh": "建築師給我們看了房子的設計圖。"},
+        {"s": "Mon frère veut devenir architecte.", "zh": "我哥哥想成為建築師。"}
+      ]
+    },
+    "ja": {
+      "word": "建築家",
+      "kana": "けんちくか",
+      "romaji": "kenchikuka",
+      "examples": [
+        {"s": "有名な建築家がこのビルを設計しました。", "zh": "這棟大樓是由一位知名建築師設計的。"},
+        {"s": "彼女は将来、建築家になりたいそうです。", "zh": "聽說她將來想當建築師。"}
+      ]
+    }
+  },
+  {
+    "id": "p0105",
+    "de": {
+      "word": "die Fläche",
+      "ipa": "[ˈflɛçə]",
+      "examples": [
+        {"s": "Die Fläche des Zimmers beträgt zwanzig Quadratmeter.", "zh": "這個房間的面積是二十平方公尺。"},
+        {"s": "Der Park hat eine große grüne Fläche.", "zh": "這座公園有一大片綠地。"}
+      ]
+    },
+    "fr": {
+      "word": "la surface",
+      "ipa": "[syʁfas]",
+      "examples": [
+        {"s": "La surface de l'appartement est de quatre-vingts mètres carrés.", "zh": "這間公寓的面積是八十平方公尺。"},
+        {"s": "Il faut calculer la surface du terrain.", "zh": "我們得計算這塊地的面積。"}
+      ]
+    },
+    "ja": {
+      "word": "面積",
+      "kana": "めんせき",
+      "romaji": "menseki",
+      "examples": [
+        {"s": "この部屋の面積はどのくらいですか。", "zh": "這個房間的面積大約多大?"},
+        {"s": "土地の面積を正確に測りました。", "zh": "我們精確地測量了土地的面積。"}
+      ]
+    }
+  },
+  {
+    "id": "p0106",
+    "de": {
+      "word": "streiten",
+      "ipa": "[ˈʃtʁaɪtn̩]",
+      "examples": [
+        {"s": "Die Kinder streiten oft um das Spielzeug.", "zh": "孩子們常為了玩具吵架。"},
+        {"s": "Wir sollten nicht wegen so etwas streiten.", "zh": "我們不該為了這種小事爭吵。"}
+      ]
+    },
+    "fr": {
+      "word": "se disputer",
+      "ipa": "[sə dispyte]",
+      "examples": [
+        {"s": "Ils se disputent souvent pour de l'argent.", "zh": "他們常為了錢爭吵。"},
+        {"s": "Arrêtez de vous disputer, s'il vous plaît.", "zh": "請你們別再吵了。"}
+      ]
+    },
+    "ja": {
+      "word": "言い争う",
+      "kana": "いいあらそう",
+      "romaji": "iiarasou",
+      "examples": [
+        {"s": "彼らはささいなことで言い争っていました。", "zh": "他們為了小事在爭論。"},
+        {"s": "そんなことで言い争うのはやめましょう。", "zh": "別為了那種事爭吵了。"}
+      ]
+    }
+  },
+  {
+    "id": "p0107",
+    "de": {
+      "word": "das Argument",
+      "ipa": "[aʁɡuˈmɛnt]",
+      "examples": [
+        {"s": "Dein Argument klingt sehr überzeugend.", "zh": "你的論點聽起來很有說服力。"},
+        {"s": "Er brachte ein starkes Argument vor.", "zh": "他提出了一個有力的論點。"}
+      ]
+    },
+    "fr": {
+      "word": "l'argument (m.)",
+      "ipa": "[aʁɡymɑ̃]",
+      "examples": [
+        {"s": "Son argument m'a complètement convaincu.", "zh": "他的論點完全說服了我。"},
+        {"s": "Elle a présenté un argument très solide.", "zh": "她提出了一個非常有力的論證。"}
+      ]
+    },
+    "ja": {
+      "word": "論点",
+      "kana": "ろんてん",
+      "romaji": "ronten",
+      "examples": [
+        {"s": "彼の論点はとても説得力があります。", "zh": "他的論點很有說服力。"},
+        {"s": "会議で重要な論点を整理しました。", "zh": "我們在會議中整理了重要的論點。"}
+      ]
+    }
+  },
+  {
+    "id": "p0108",
+    "de": {
+      "word": "der Arm",
+      "ipa": "[aʁm]",
+      "examples": [
+        {"s": "Ich habe mir beim Sport den Arm verletzt.", "zh": "我運動時弄傷了手臂。"},
+        {"s": "Sie nahm das Baby auf den Arm.", "zh": "她把寶寶抱在手臂上。"}
+      ]
+    },
+    "fr": {
+      "word": "le bras",
+      "ipa": "[bʁa]",
+      "examples": [
+        {"s": "Il s'est cassé le bras en tombant.", "zh": "他跌倒時弄斷了手臂。"},
+        {"s": "Elle porte son sac sous le bras.", "zh": "她把包夾在手臂下。"}
+      ]
+    },
+    "ja": {
+      "word": "腕",
+      "kana": "うで",
+      "romaji": "ude",
+      "examples": [
+        {"s": "転んで腕を痛めてしまいました。", "zh": "我跌倒弄傷了手臂。"},
+        {"s": "赤ちゃんを腕に抱きました。", "zh": "我把寶寶抱在手臂上。"}
+      ]
+    }
+  },
+  {
+    "id": "p0109",
+    "de": {
+      "word": "die Rüstung",
+      "ipa": "[ˈʁʏstʊŋ]",
+      "examples": [
+        {"s": "Der Ritter trug eine schwere Rüstung aus Stahl.", "zh": "騎士穿著沉重的鋼製盔甲。"},
+        {"s": "Im Museum steht eine alte Rüstung.", "zh": "博物館裡陳列著一副古老的盔甲。"}
+      ]
+    },
+    "fr": {
+      "word": "l'armure (f.)",
+      "ipa": "[aʁmyʁ]",
+      "examples": [
+        {"s": "Le chevalier portait une armure brillante.", "zh": "騎士穿著閃亮的盔甲。"},
+        {"s": "Cette armure médiévale pèse très lourd.", "zh": "這副中世紀盔甲非常重。"}
+      ]
+    },
+    "ja": {
+      "word": "鎧",
+      "kana": "よろい",
+      "romaji": "yoroi",
+      "examples": [
+        {"s": "武士は戦いのために鎧を着ました。", "zh": "武士為了戰鬥穿上了盔甲。"},
+        {"s": "博物館に古い鎧が展示されています。", "zh": "博物館展示著古老的盔甲。"}
+      ]
+    }
+  },
+  {
+    "id": "p0110",
+    "de": {
+      "word": "die Armee",
+      "ipa": "[aʁˈmeː]",
+      "examples": [
+        {"s": "Sein Sohn dient in der Armee.", "zh": "他兒子在軍隊服役。"},
+        {"s": "Die Armee marschierte durch die Stadt.", "zh": "軍隊行軍穿過了城市。"}
+      ]
+    },
+    "fr": {
+      "word": "l'armée (f.)",
+      "ipa": "[aʁme]",
+      "examples": [
+        {"s": "Il a servi trois ans dans l'armée.", "zh": "他在軍隊服役了三年。"},
+        {"s": "L'armée défend les frontières du pays.", "zh": "軍隊保衛著國家的邊境。"}
+      ]
+    },
+    "ja": {
+      "word": "軍隊",
+      "kana": "ぐんたい",
+      "romaji": "guntai",
+      "examples": [
+        {"s": "彼は若いころ軍隊に入っていました。", "zh": "他年輕時曾加入軍隊。"},
+        {"s": "軍隊が国境を守っています。", "zh": "軍隊守衛著國境。"}
+      ]
+    }
+  },
+  {
+    "id": "p0111",
+    "de": {
+      "word": "das Aroma",
+      "ipa": "[aˈʁoːma]",
+      "examples": [
+        {"s": "Das Aroma des frischen Kaffees erfüllte die Küche.", "zh": "新鮮咖啡的香氣瀰漫了整個廚房。"},
+        {"s": "Diese Blumen haben ein süßes Aroma.", "zh": "這些花有著甜美的香氣。"}
+      ]
+    },
+    "fr": {
+      "word": "l'arôme (m.)",
+      "ipa": "[aʁom]",
+      "examples": [
+        {"s": "L'arôme du café frais est très agréable.", "zh": "新鮮咖啡的香氣非常宜人。"},
+        {"s": "Ce vin a un arôme de fruits rouges.", "zh": "這款酒帶有紅色水果的香氣。"}
+      ]
+    },
+    "ja": {
+      "word": "香り",
+      "kana": "かおり",
+      "romaji": "kaori",
+      "examples": [
+        {"s": "淹れたてのコーヒーの香りが部屋に広がりました。", "zh": "剛沖好的咖啡香氣在房間裡瀰漫開來。"},
+        {"s": "この花はとてもいい香りがします。", "zh": "這朵花散發著很好的香氣。"}
+      ]
+    }
+  },
+  {
+    "id": "p0112",
+    "de": {
+      "word": "verhaften",
+      "ipa": "[fɛɐ̯ˈhaftn̩]",
+      "examples": [
+        {"s": "Die Polizei hat den Dieb sofort verhaftet.", "zh": "警方立刻逮捕了那名小偷。"},
+        {"s": "Er wurde gestern Abend verhaftet.", "zh": "他昨晚被逮捕了。"}
+      ]
+    },
+    "fr": {
+      "word": "arrêter",
+      "ipa": "[aʁete]",
+      "examples": [
+        {"s": "La police a arrêté le suspect ce matin.", "zh": "警方今早逮捕了嫌疑人。"},
+        {"s": "Il a été arrêté pour vol.", "zh": "他因竊盜被逮捕了。"}
+      ]
+    },
+    "ja": {
+      "word": "逮捕する",
+      "kana": "たいほする",
+      "romaji": "taiho suru",
+      "examples": [
+        {"s": "警察は犯人をその場で逮捕しました。", "zh": "警察當場逮捕了犯人。"},
+        {"s": "彼は窃盗の疑いで逮捕されました。", "zh": "他因涉嫌竊盜被逮捕了。"}
+      ]
+    }
+  },
+  {
+    "id": "p0113",
+    "de": {
+      "word": "die Ankunft",
+      "ipa": "[ˈankʊnft]",
+      "examples": [
+        {"s": "Wir warten am Bahnhof auf die Ankunft des Zuges.", "zh": "我們在車站等待火車抵達。"},
+        {"s": "Nach unserer Ankunft haben wir gleich das Hotel gesucht.", "zh": "抵達之後我們立刻去找飯店。"}
+      ]
+    },
+    "fr": {
+      "word": "l'arrivée (f.)",
+      "ipa": "[aʁive]",
+      "examples": [
+        {"s": "L'arrivée du train est prévue à midi.", "zh": "火車預計中午抵達。"},
+        {"s": "À notre arrivée, il pleuvait beaucoup.", "zh": "我們抵達時,雨下得很大。"}
+      ]
+    },
+    "ja": {
+      "word": "到着",
+      "kana": "とうちゃく",
+      "romaji": "tōchaku",
+      "examples": [
+        {"s": "電車の到着を駅で待っています。", "zh": "我在車站等電車抵達。"},
+        {"s": "到着したらすぐに連絡してください。", "zh": "抵達後請立刻聯絡我。"}
+      ]
+    }
+  },
+  {
+    "id": "p0114",
+    "de": {
+      "word": "die Arterie",
+      "ipa": "[aʁˈteːʁiə]",
+      "examples": [
+        {"s": "Die Arterie transportiert Blut vom Herzen weg.", "zh": "動脈把血液從心臟輸送出去。"},
+        {"s": "Der Arzt untersuchte die verstopfte Arterie.", "zh": "醫生檢查了那條堵塞的動脈。"}
+      ]
+    },
+    "fr": {
+      "word": "l'artère (f.)",
+      "ipa": "[aʁtɛʁ]",
+      "examples": [
+        {"s": "L'artère transporte le sang loin du cœur.", "zh": "動脈把血液從心臟輸送出去。"},
+        {"s": "Une artère bouchée peut être dangereuse.", "zh": "動脈堵塞可能很危險。"}
+      ]
+    },
+    "ja": {
+      "word": "動脈",
+      "kana": "どうみゃく",
+      "romaji": "dōmyaku",
+      "examples": [
+        {"s": "動脈は心臓から血液を送り出します。", "zh": "動脈把血液從心臟輸送出去。"},
+        {"s": "医者は詰まった動脈を調べました。", "zh": "醫生檢查了堵塞的動脈。"}
+      ]
+    }
+  },
+  {
+    "id": "p0115",
+    "de": {
+      "word": "die Arthritis",
+      "ipa": "[aʁˈtʁiːtɪs]",
+      "examples": [
+        {"s": "Meine Großmutter leidet an Arthritis in den Knien.", "zh": "我奶奶膝蓋有關節炎。"},
+        {"s": "Bei kaltem Wetter wird seine Arthritis schlimmer.", "zh": "天氣冷時他的關節炎會加重。"}
+      ]
+    },
+    "fr": {
+      "word": "l'arthrite (f.)",
+      "ipa": "[aʁtʁit]",
+      "examples": [
+        {"s": "Ma grand-mère souffre d'arthrite aux mains.", "zh": "我奶奶手部患有關節炎。"},
+        {"s": "L'arthrite lui fait mal quand il fait froid.", "zh": "天冷時他的關節炎會疼。"}
+      ]
+    },
+    "ja": {
+      "word": "関節炎",
+      "kana": "かんせつえん",
+      "romaji": "kansetsuen",
+      "examples": [
+        {"s": "祖母は膝の関節炎で悩んでいます。", "zh": "祖母為膝蓋的關節炎所苦。"},
+        {"s": "寒くなると関節炎が悪化します。", "zh": "天氣一冷關節炎就會惡化。"}
+      ]
+    }
+  },
+  {
+    "id": "p0116",
+    "de": {
+      "word": "das Artefakt",
+      "ipa": "[aʁteˈfakt]",
+      "examples": [
+        {"s": "Im Museum sind viele alte Artefakte ausgestellt.", "zh": "博物館展出了許多古老的文物。"},
+        {"s": "Die Forscher fanden ein wertvolles Artefakt.", "zh": "研究人員發現了一件珍貴的文物。"}
+      ]
+    },
+    "fr": {
+      "word": "l'artefact (m.)",
+      "ipa": "[aʁtefakt]",
+      "examples": [
+        {"s": "Le musée expose des artefacts très anciens.", "zh": "博物館展出了非常古老的文物。"},
+        {"s": "Les archéologues ont découvert un artefact rare.", "zh": "考古學家發現了一件稀有的文物。"}
+      ]
+    },
+    "ja": {
+      "word": "遺物",
+      "kana": "いぶつ",
+      "romaji": "ibutsu",
+      "examples": [
+        {"s": "博物館には古代の遺物がたくさんあります。", "zh": "博物館裡有許多古代文物。"},
+        {"s": "遺跡から貴重な遺物が見つかりました。", "zh": "在遺址發現了珍貴的文物。"}
+      ]
+    }
+  },
+  {
+    "id": "p0117",
+    "de": {
+      "word": "die Artillerie",
+      "ipa": "[aʁtɪləˈʁiː]",
+      "examples": [
+        {"s": "Die Artillerie feuerte auf die feindliche Stellung.", "zh": "砲兵朝敵方陣地開火。"},
+        {"s": "Schwere Artillerie wurde an die Front gebracht.", "zh": "重砲被運送到前線。"}
+      ]
+    },
+    "fr": {
+      "word": "l'artillerie (f.)",
+      "ipa": "[aʁtijʁi]",
+      "examples": [
+        {"s": "L'artillerie a bombardé les positions ennemies.", "zh": "砲兵轟炸了敵方陣地。"},
+        {"s": "L'armée a déplacé son artillerie vers le nord.", "zh": "軍隊把火砲移往北方。"}
+      ]
+    },
+    "ja": {
+      "word": "大砲",
+      "kana": "たいほう",
+      "romaji": "taihō",
+      "examples": [
+        {"s": "大砲が敵の陣地に向けて発射されました。", "zh": "大砲朝敵方陣地發射。"},
+        {"s": "前線に重い大砲が運ばれました。", "zh": "重砲被運送到了前線。"}
+      ]
+    }
+  },
+  {
+    "id": "p0118",
+    "de": {
+      "word": "der Künstler",
+      "ipa": "[ˈkʏnstlɐ]",
+      "examples": [
+        {"s": "Der Künstler stellt seine Bilder in der Galerie aus.", "zh": "這位藝術家在畫廊展出他的畫作。"},
+        {"s": "Sie ist eine talentierte Künstlerin.", "zh": "她是一位很有才華的藝術家。"}
+      ]
+    },
+    "fr": {
+      "word": "l'artiste (m./f.)",
+      "ipa": "[aʁtist]",
+      "examples": [
+        {"s": "Cet artiste expose ses tableaux à Paris.", "zh": "這位藝術家在巴黎展出他的畫作。"},
+        {"s": "Elle est une artiste très talentueuse.", "zh": "她是一位很有才華的藝術家。"}
+      ]
+    },
+    "ja": {
+      "word": "芸術家",
+      "kana": "げいじゅつか",
+      "romaji": "geijutsuka",
+      "examples": [
+        {"s": "その芸術家は作品を美術館で展示しています。", "zh": "那位藝術家在美術館展示作品。"},
+        {"s": "彼女は才能ある芸術家です。", "zh": "她是一位有才華的藝術家。"}
+      ]
+    }
+  },
+  {
+    "id": "p0119",
+    "de": {
+      "word": "das Kunstwerk",
+      "ipa": "[ˈkʊnstvɛʁk]",
+      "examples": [
+        {"s": "Dieses Kunstwerk ist über hundert Jahre alt.", "zh": "這件藝術作品已有超過一百年的歷史。"},
+        {"s": "Das Museum kaufte ein wertvolles Kunstwerk.", "zh": "博物館買下了一件珍貴的藝術作品。"}
+      ]
+    },
+    "fr": {
+      "word": "l'œuvre d'art (f.)",
+      "ipa": "[œvʁ daʁ]",
+      "examples": [
+        {"s": "Cette œuvre d'art vaut une fortune.", "zh": "這件藝術作品價值連城。"},
+        {"s": "Le musée a acquis une nouvelle œuvre d'art.", "zh": "博物館收購了一件新的藝術作品。"}
+      ]
+    },
+    "ja": {
+      "word": "芸術作品",
+      "kana": "げいじゅつさくひん",
+      "romaji": "geijutsu sakuhin",
+      "examples": [
+        {"s": "この芸術作品は百年以上前のものです。", "zh": "這件藝術作品是一百多年前的東西。"},
+        {"s": "美術館は貴重な芸術作品を購入しました。", "zh": "美術館購入了珍貴的藝術作品。"}
+      ]
+    }
+  },
+  {
+    "id": "p0120",
+    "de": {
+      "word": "wie zuvor erwähnt",
+      "ipa": "[viː t͡suˈfoːɐ̯ ɛɐ̯ˈvɛːnt]",
+      "examples": [
+        {"s": "Wie zuvor erwähnt, beginnt die Sitzung um neun Uhr.", "zh": "如先前所提,會議九點開始。"},
+        {"s": "Wie zuvor erwähnt, sind die Unterlagen bereits fertig.", "zh": "如先前所提,文件已經準備好了。"}
+      ]
+    },
+    "fr": {
+      "word": "comme mentionné précédemment",
+      "ipa": "[kɔm mɑ̃sjɔne pʁesedamɑ̃]",
+      "examples": [
+        {"s": "Comme mentionné précédemment, la réunion débute à neuf heures.", "zh": "如先前所提,會議九點開始。"},
+        {"s": "Comme mentionné précédemment, le dossier est déjà prêt.", "zh": "如先前所提,檔案已經準備好了。"}
+      ]
+    },
+    "ja": {
+      "word": "前述のとおり",
+      "kana": "ぜんじゅつのとおり",
+      "romaji": "zenjutsu no tōri",
+      "examples": [
+        {"s": "前述のとおり、会議は九時に始まります。", "zh": "如先前所提,會議九點開始。"},
+        {"s": "前述のとおり、資料はすでに準備できています。", "zh": "如先前所提,資料已經準備好了。"}
+      ]
+    }
+  },
+  {
+    "id": "p0121",
+    "de": {
+      "word": "gemäß",
+      "ipa": "[ɡəˈmɛːs]",
+      "examples": [
+        {"s": "Gemäß dem Vertrag müssen wir bis Freitag zahlen.", "zh": "依據合約,我們必須在週五前付款。"},
+        {"s": "Alles wurde gemäß den Vorschriften erledigt.", "zh": "一切都按照規定辦理了。"}
+      ]
+    },
+    "fr": {
+      "word": "conformément à",
+      "ipa": "[kɔ̃fɔʁmemɑ̃ a]",
+      "examples": [
+        {"s": "Conformément au contrat, nous devons payer avant vendredi.", "zh": "依據合約,我們必須在週五前付款。"},
+        {"s": "Tout a été fait conformément aux règles.", "zh": "一切都按照規定辦理了。"}
+      ]
+    },
+    "ja": {
+      "word": "〜に従って",
+      "kana": "にしたがって",
+      "romaji": "ni shitagatte",
+      "examples": [
+        {"s": "契約に従って、金曜日までに支払う必要があります。", "zh": "依據合約,必須在週五前付款。"},
+        {"s": "規則に従ってすべて処理しました。", "zh": "一切都按照規定處理了。"}
+      ]
+    }
+  },
+  {
+    "id": "p0122",
+    "de": {
+      "word": "wie gewünscht",
+      "ipa": "[viː ɡəˈvʏnʃt]",
+      "examples": [
+        {"s": "Wie gewünscht, sende ich Ihnen den Bericht anbei.", "zh": "如所要求,我隨信附上報告給您。"},
+        {"s": "Wie gewünscht, haben wir den Termin verschoben.", "zh": "如所要求,我們把會面延期了。"}
+      ]
+    },
+    "fr": {
+      "word": "comme demandé",
+      "ipa": "[kɔm dəmɑ̃de]",
+      "examples": [
+        {"s": "Comme demandé, je vous envoie le rapport en pièce jointe.", "zh": "如所要求,我以附件寄給您報告。"},
+        {"s": "Comme demandé, nous avons reporté le rendez-vous.", "zh": "如所要求,我們把約會延期了。"}
+      ]
+    },
+    "ja": {
+      "word": "ご要望のとおり",
+      "kana": "ごようぼうのとおり",
+      "romaji": "goyōbō no tōri",
+      "examples": [
+        {"s": "ご要望のとおり、報告書を添付いたします。", "zh": "如所要求,我附上報告書。"},
+        {"s": "ご要望のとおり、予定を変更しました。", "zh": "如所要求,我更改了行程。"}
+      ]
+    }
+  },
+  {
+    "id": "p0123",
+    "de": {
+      "word": "der Asphalt",
+      "ipa": "[asˈfalt]",
+      "examples": [
+        {"s": "Der frische Asphalt auf der Straße riecht stark.", "zh": "路上新鋪的柏油氣味很重。"},
+        {"s": "Im Sommer wird der Asphalt sehr heiß.", "zh": "夏天柏油路面會變得很燙。"}
+      ]
+    },
+    "fr": {
+      "word": "l'asphalte (m.)",
+      "ipa": "[asfalt]",
+      "examples": [
+        {"s": "L'asphalte frais sent très fort.", "zh": "剛鋪的柏油氣味很重。"},
+        {"s": "En été, l'asphalte devient brûlant.", "zh": "夏天柏油路面會變得很燙。"}
+      ]
+    },
+    "ja": {
+      "word": "アスファルト",
+      "kana": "アスファルト",
+      "romaji": "asufaruto",
+      "examples": [
+        {"s": "新しく舗装したアスファルトのにおいがします。", "zh": "聞得到新鋪柏油的氣味。"},
+        {"s": "夏はアスファルトがとても熱くなります。", "zh": "夏天柏油路面會變得很燙。"}
+      ]
+    }
+  },
+  {
+    "id": "p0124",
+    "de": {
+      "word": "die Körperverletzung",
+      "ipa": "[ˈkœʁpɐfɛɐ̯ˌlɛt͡sʊŋ]",
+      "examples": [
+        {"s": "Er wurde wegen Körperverletzung angeklagt.", "zh": "他因傷害罪被起訴。"},
+        {"s": "Die Körperverletzung ereignete sich vor einer Bar.", "zh": "這起傷害案發生在一間酒吧前。"}
+      ]
+    },
+    "fr": {
+      "word": "l'agression (f.)",
+      "ipa": "[aɡʁesjɔ̃]",
+      "examples": [
+        {"s": "Il a été accusé d'agression.", "zh": "他被控傷害罪。"},
+        {"s": "L'agression a eu lieu devant un bar.", "zh": "傷害案發生在一間酒吧前。"}
+      ]
+    },
+    "ja": {
+      "word": "暴行",
+      "kana": "ぼうこう",
+      "romaji": "bōkō",
+      "examples": [
+        {"s": "彼は暴行の罪で起訴されました。", "zh": "他因傷害罪被起訴。"},
+        {"s": "その暴行はバーの前で起きました。", "zh": "那起傷害案發生在酒吧前。"}
+      ]
+    }
+  },
+  {
+    "id": "p0125",
+    "de": {
+      "word": "zusammenbauen",
+      "ipa": "[t͡suˈzamənˌbaʊ̯ən]",
+      "examples": [
+        {"s": "Wir müssen das Regal noch selbst zusammenbauen.", "zh": "我們還得自己把這個架子組裝起來。"},
+        {"s": "Er hat den Schrank in einer Stunde zusammengebaut.", "zh": "他一小時內就把櫃子組裝好了。"}
+      ]
+    },
+    "fr": {
+      "word": "assembler",
+      "ipa": "[asɑ̃ble]",
+      "examples": [
+        {"s": "Il faut assembler l'étagère nous-mêmes.", "zh": "我們得自己組裝這個架子。"},
+        {"s": "Elle a assemblé le meuble en une heure.", "zh": "她一小時就把家具組裝好了。"}
+      ]
+    },
+    "ja": {
+      "word": "組み立てる",
+      "kana": "くみたてる",
+      "romaji": "kumitateru",
+      "examples": [
+        {"s": "この棚は自分で組み立てる必要があります。", "zh": "這個架子需要自己組裝。"},
+        {"s": "彼は一時間で家具を組み立てました。", "zh": "他一小時就把家具組裝好了。"}
+      ]
+    }
+  },
+  {
+    "id": "p0126",
+    "de": {
+      "word": "zuweisen",
+      "ipa": "[ˈt͡suːˌvaɪ̯zn̩]",
+      "examples": [
+        {"s": "Der Chef hat mir eine neue Aufgabe zugewiesen.", "zh": "老闆指派了一項新任務給我。"},
+        {"s": "Jedem Teilnehmer wurde ein Platz zugewiesen.", "zh": "每位參加者都被分配了一個座位。"}
+      ]
+    },
+    "fr": {
+      "word": "attribuer",
+      "ipa": "[atʁibɥe]",
+      "examples": [
+        {"s": "Le chef m'a attribué une nouvelle tâche.", "zh": "老闆指派了一項新任務給我。"},
+        {"s": "On a attribué une place à chaque participant.", "zh": "每位參加者都被分配了一個座位。"}
+      ]
+    },
+    "ja": {
+      "word": "割り当てる",
+      "kana": "わりあてる",
+      "romaji": "wariateru",
+      "examples": [
+        {"s": "上司は私に新しい仕事を割り当てました。", "zh": "上司指派了一項新工作給我。"},
+        {"s": "参加者全員に席が割り当てられました。", "zh": "每位參加者都被分配了座位。"}
+      ]
+    }
+  },
+  {
+    "id": "p0127",
+    "de": {
+      "word": "die Aufgabe",
+      "ipa": "[ˈaʊ̯fˌɡaːbə]",
+      "examples": [
+        {"s": "Die Lehrerin gab uns eine schwierige Aufgabe.", "zh": "老師給了我們一項困難的作業。"},
+        {"s": "Ich muss diese Aufgabe bis morgen erledigen.", "zh": "我必須在明天前完成這項任務。"}
+      ]
+    },
+    "fr": {
+      "word": "la tâche",
+      "ipa": "[taʃ]",
+      "examples": [
+        {"s": "Le professeur nous a donné une tâche difficile.", "zh": "老師給了我們一項困難的作業。"},
+        {"s": "Je dois terminer cette tâche avant demain.", "zh": "我必須在明天前完成這項任務。"}
+      ]
+    },
+    "ja": {
+      "word": "課題",
+      "kana": "かだい",
+      "romaji": "kadai",
+      "examples": [
+        {"s": "先生は難しい課題を出しました。", "zh": "老師出了一項困難的作業。"},
+        {"s": "この課題を明日までに終わらせなければなりません。", "zh": "我必須在明天前完成這項作業。"}
+      ]
+    }
+  },
+  {
+    "id": "p0128",
+    "de": {
+      "word": "die Assoziation",
+      "ipa": "[asot͡si̯aˈt͡si̯oːn]",
+      "examples": [
+        {"s": "Das Wort weckt bei mir viele Assoziationen.", "zh": "這個詞在我心中引發許多聯想。"},
+        {"s": "Die Farbe Rot hat oft eine Assoziation mit Liebe.", "zh": "紅色常讓人聯想到愛。"}
+      ]
+    },
+    "fr": {
+      "word": "l'association (f.)",
+      "ipa": "[asɔsjasjɔ̃]",
+      "examples": [
+        {"s": "Ce mot évoque en moi beaucoup d'associations.", "zh": "這個詞在我心中引發許多聯想。"},
+        {"s": "Le rouge a souvent une association avec l'amour.", "zh": "紅色常讓人聯想到愛。"}
+      ]
+    },
+    "ja": {
+      "word": "連想",
+      "kana": "れんそう",
+      "romaji": "rensō",
+      "examples": [
+        {"s": "この言葉はたくさんの連想を呼び起こします。", "zh": "這個詞引發許多聯想。"},
+        {"s": "赤い色は愛を連想させます。", "zh": "紅色讓人聯想到愛。"}
+      ]
+    }
+  },
+  {
+    "id": "p0129",
+    "de": {
+      "word": "annehmen",
+      "ipa": "[ˈanˌneːmən]",
+      "examples": [
+        {"s": "Ich nehme an, dass er heute nicht kommt.", "zh": "我假設他今天不會來。"},
+        {"s": "Wir nehmen an, dass die Preise steigen werden.", "zh": "我們認定價格將會上漲。"}
+      ]
+    },
+    "fr": {
+      "word": "supposer",
+      "ipa": "[sypoze]",
+      "examples": [
+        {"s": "Je suppose qu'il ne viendra pas aujourd'hui.", "zh": "我假設他今天不會來。"},
+        {"s": "Nous supposons que les prix vont augmenter.", "zh": "我們認定價格將會上漲。"}
+      ]
+    },
+    "ja": {
+      "word": "仮定する",
+      "kana": "かていする",
+      "romaji": "katei suru",
+      "examples": [
+        {"s": "彼は今日来ないと仮定します。", "zh": "我假設他今天不會來。"},
+        {"s": "価格が上がると仮定して計画を立てました。", "zh": "我們假設價格會上漲來擬定計畫。"}
+      ]
+    }
+  },
+  {
+    "id": "p0130",
+    "de": {
+      "word": "die Annahme",
+      "ipa": "[ˈanˌnaːmə]",
+      "examples": [
+        {"s": "Deine Annahme war leider falsch.", "zh": "可惜你的假設是錯的。"},
+        {"s": "Diese Theorie beruht auf einer einfachen Annahme.", "zh": "這個理論建立在一個簡單的假設上。"}
+      ]
+    },
+    "fr": {
+      "word": "l'hypothèse (f.)",
+      "ipa": "[ipotɛz]",
+      "examples": [
+        {"s": "Ton hypothèse était malheureusement fausse.", "zh": "可惜你的假設是錯的。"},
+        {"s": "Cette théorie repose sur une hypothèse simple.", "zh": "這個理論建立在一個簡單的假設上。"}
+      ]
+    },
+    "ja": {
+      "word": "仮定",
+      "kana": "かてい",
+      "romaji": "katei",
+      "examples": [
+        {"s": "あなたの仮定は残念ながら間違っていました。", "zh": "可惜你的假設是錯的。"},
+        {"s": "この理論は単純な仮定に基づいています。", "zh": "這個理論建立在一個簡單的假設上。"}
+      ]
+    }
+  }
+]

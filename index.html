@@ -7,7 +7,7 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <link rel="manifest" href="manifest.json">
-<title>VOCA — 英文單字 & 口說</title>
+<title>LL — 多語單字 & 口說</title>
 <style>
 :root{
   --bg:#0f1115; --bg2:#171a21; --card:#1e222b; --card2:#262b36;
@@ -29,10 +29,15 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
 
 /* ---- 頂部 ---- */
 header{
-  padding:calc(env(safe-area-inset-top,0px) + 14px) 18px 12px;
-  display:flex;align-items:center;justify-content:space-between;gap:10px;
+  padding:calc(env(safe-area-inset-top,0px) + 12px) 18px 8px;
   background:linear-gradient(180deg,var(--bg2),var(--bg));
 }
+header .hrow{display:flex;align-items:center;justify-content:space-between;gap:10px}
+.langbar{display:flex;gap:6px;margin-top:9px}
+.langbar button{flex:1;padding:6px 0;border-radius:9px;background:var(--card);border:1px solid var(--line);
+  color:var(--sub);font-size:12px;font-weight:700;transition:.12s}
+.langbar button .zh{font-size:10px;font-weight:500;opacity:.8;margin-left:3px}
+.langbar button.on{background:var(--pri);color:#fff;border-color:var(--pri)}
 header .brand{display:flex;align-items:center;gap:9px;font-weight:800;font-size:19px;letter-spacing:.5px}
 header .logo{width:30px;height:30px;border-radius:9px;background:linear-gradient(135deg,var(--pri),var(--accent));
   display:grid;place-items:center;font-size:15px;font-weight:900;color:#fff}
@@ -167,8 +172,11 @@ textarea.imp{width:100%;min-height:130px;background:var(--bg);border:1px solid v
 <body>
 
 <header>
-  <div class="brand"><div class="logo">V</div>VOCA</div>
-  <div class="streak">🔥 連續 <b id="streakN">0</b> 天</div>
+  <div class="hrow">
+    <div class="brand"><div class="logo">L</div>LL</div>
+    <div class="streak">🔥 連續 <b id="streakN">0</b> 天</div>
+  </div>
+  <div class="langbar" id="langbar"></div>
 </header>
 
 <main id="main"></main>
@@ -185,9 +193,10 @@ textarea.imp{width:100%;min-height:130px;background:var(--bg);border:1px solid v
 
 <script src="words.js"></script>
 <script src="words-pack1.js"></script>
+<script src="langs-pack1.js"></script>
 <script>
 /* =====================================================================
-   VOCA 學習引擎
+   LL 多語學習引擎
    - 資料持久化：localStorage
    - SRS：SM-2 精簡版（Again / Hard / Good / Easy 四級）
    - 語音：Web Speech API（speechSynthesis 朗讀 + SpeechRecognition 口說評分）
@@ -223,8 +232,35 @@ function normalizeWord(w){
 function rebuildWords(){
   const extra = load(LS.extra,[]);
   WORDS = [...(window.SEED_WORDS||[]), ...extra].map(normalizeWord);
+  // 併入多語翻譯包(langs-pack*.js 填入 window.LL_LANGS[id] = {de,fr,ja})
+  if(window.LL_LANGS){ WORDS.forEach(w=>{ if(window.LL_LANGS[w.id]) w.langs=window.LL_LANGS[w.id]; }); }
 }
 rebuildWords();
+
+// ---- 多語言 ----
+let uiLang = load("ll_uilang","en");   // 目前學習語言 en/de/fr/ja
+const LANG_META = {
+  en:{label:"EN", name:"英語", tts:"en-US"},
+  de:{label:"DE", name:"德語", tts:"de-DE"},
+  fr:{label:"FR", name:"法語", tts:"fr-FR"},
+  ja:{label:"JA", name:"日語", tts:"ja-JP"}
+};
+function langData(w){ return uiLang==="en" ? null : (w.langs && w.langs[uiLang]) || null; }
+function hasLang(w){ return uiLang==="en" ? true : !!(langData(w) && langData(w).word); }
+function W_word(w){ const l=langData(w); return uiLang==="en" ? w.word : (l?l.word:null); }
+function W_phon(w){
+  if(uiLang==="en") return w.kk||"";
+  const l=langData(w); if(!l) return "";
+  if(uiLang==="ja") return [l.kana,l.romaji].filter(Boolean).join(" ・ ");
+  return l.ipa||"";
+}
+function W_examples(w){
+  if(uiLang==="en") return w.examples||[];
+  const l=langData(w);
+  return (l&&Array.isArray(l.examples)) ? l.examples.map(e=>({en:e.s, zh:e.zh})) : [];
+}
+function W_ex0(w){ return W_examples(w)[0] || {en:"", zh:""}; }
+function ttsLang(){ return (LANG_META[uiLang]||LANG_META.en).tts; }
 
 // 取主例句 / 圖片網址
 const ex0 = w => (w.examples && w.examples[0]) || {en:"", zh:""};
@@ -234,13 +270,14 @@ function imgURL(w){ return "https://loremflickr.com/320/200/"+encodeURIComponent
 const todayStr=()=>new Date().toISOString().slice(0,10);
 const addDays=(n)=>{const d=new Date();d.setDate(d.getDate()+n);return d.toISOString().slice(0,10)};
 
-// ---- SRS 取卡 ----
-function getProg(id){ return progress[id] || {ease:2.5,interval:0,due:null,reps:0,lapses:0,status:"new"} }
+// ---- SRS 取卡（各語言獨立進度：非英語時 key 加 @lang）----
+function pk(id){ return uiLang==="en" ? id : id+"@"+uiLang; }
+function getProg(id){ return progress[pk(id)] || {ease:2.5,interval:0,due:null,reps:0,lapses:0,status:"new"} }
 function dueReviews(){
   const t=todayStr();
-  return WORDS.filter(w=>{const p=progress[w.id];return p&&p.status!=="new"&&p.due&&p.due<=t});
+  return WORDS.filter(w=>{ if(!hasLang(w))return false; const p=progress[pk(w.id)]; return p&&p.status!=="new"&&p.due&&p.due<=t});
 }
-function newCards(){ return WORDS.filter(w=>!progress[w.id]||progress[w.id].status==="new") }
+function newCards(){ return WORDS.filter(w=> hasLang(w) && (!progress[pk(w.id)]||progress[pk(w.id)].status==="new")) }
 
 // 今日學習佇列：到期複習 + 限量新字
 function buildSession(includeNew=true){
@@ -266,7 +303,7 @@ function grade(id, g){
     p.interval=Math.max(1,p.interval);
     p.due=addDays(p.interval); p.status="review";
   }
-  progress[id]=p; save(LS.prog,progress);
+  progress[pk(id)]=p; save(LS.prog,progress);
   logStudy();
 }
 function logStudy(){
@@ -284,29 +321,30 @@ function logStudy(){
 let voices=[];
 function loadVoices(){ voices=speechSynthesis.getVoices(); }
 if('speechSynthesis' in window){ loadVoices(); speechSynthesis.onvoiceschanged=loadVoices; }
-let preferredVoice=null;
-function pickVoice(){
+let voiceCache={};
+function pickVoice(locale){
   if(!voices.length) return null;
+  const pre=locale.slice(0,2);
+  const match=voices.filter(v=>new RegExp("^"+pre,"i").test(v.lang));
   // 依品質排序偏好:優先挑自然 / 神經網路嗓音
-  const prefs=[
-    /Google US English/i, /Natural/i, /Neural/i, /Samantha/i, /Ava/i,
-    /Allison/i, /Serena/i, /Jenny/i, /Aria/i, /Nicky/i, /Zira/i
-  ];
-  const us=voices.filter(v=>/^en[-_]?US/i.test(v.lang));
-  for(const p of prefs){ const v=us.find(v=>p.test(v.name)); if(v) return v; }
-  return us[0] || voices.find(v=>/^en/i.test(v.lang)) || null;
+  const prefs=[/Google/i,/Natural/i,/Neural/i,/Samantha/i,/Ava/i,/Anna/i,/Amelie/i,/Thomas/i,/Kyoko/i,/Otoya/i,/Serena/i];
+  const exact=match.filter(v=>new RegExp("^"+pre+"[-_]",'i').test(v.lang));
+  const pool=exact.length?exact:match;
+  for(const p of prefs){ const v=pool.find(v=>p.test(v.name)); if(v) return v; }
+  return pool[0] || null;
 }
-function speak(text, rate){
+function speak(text, rate, locale){
   if(!('speechSynthesis' in window)){toast("此瀏覽器不支援朗讀");return;}
   speechSynthesis.cancel();
+  const loc = locale || ttsLang();
   const u=new SpeechSynthesisUtterance(text);
-  u.lang="en-US";
+  u.lang=loc;
   // 自然語速:單字放慢、句子接近正常;語調自然
   const words=(text.trim().split(/\s+/).length);
   u.rate = rate!=null ? rate : (words<=1 ? 0.85 : 0.96);
   u.pitch = 1.0; u.volume = 1.0;
-  if(!preferredVoice) preferredVoice=pickVoice();
-  if(preferredVoice) u.voice=preferredVoice;
+  if(voiceCache[loc]===undefined) voiceCache[loc]=pickVoice(loc);
+  if(voiceCache[loc]) u.voice=voiceCache[loc];
   speechSynthesis.speak(u);
 }
 
@@ -379,11 +417,34 @@ function render(tab){
 }
 document.querySelectorAll("nav button").forEach(b=>b.onclick=()=>render(b.dataset.tab));
 
+// ---- 語言切換列 ----
+function langCount(l){ const s=uiLang; uiLang=l; const n=WORDS.filter(hasLang).length; uiLang=s; return n; }
+function renderLangBar(){
+  const bar=document.getElementById("langbar");
+  bar.innerHTML=Object.keys(LANG_META).map(l=>{
+    const m=LANG_META[l]; const n=l==="en"?WORDS.length:langCount(l);
+    const dis=n===0;
+    return `<button class="${l===uiLang?'on':''}" ${dis?'style="opacity:.45"':''} onclick="switchLang('${l}')">${m.label}<span class="zh">${m.name}${l!=='en'?' '+n:''}</span></button>`;
+  }).join("");
+}
+function switchLang(l){
+  if(l===uiLang){ renderLangBar(); return; }
+  if(l!=="en" && WORDS.filter(w=>w.langs&&w.langs[l]&&w.langs[l].word).length===0){
+    toast(LANG_META[l].name+"的單字還在建置中，敬請期待"); return;
+  }
+  uiLang=l; save("ll_uilang",l);
+  session=[]; speakPool=[]; spIdx=0;
+  voiceCache={}; // 換語言重挑嗓音
+  renderLangBar(); render("home");
+  toast("已切換到"+LANG_META[l].name);
+}
+
 // ---------- 今日首頁 ----------
 function viewHome(){
   const due=dueReviews().length;
   const fresh=Math.min(newCards().length,config.dailyNew);
-  const learned=WORDS.filter(w=>progress[w.id]&&progress[w.id].status!=="new").length;
+  const learned=WORDS.filter(w=>hasLang(w)&&progress[pk(w.id)]&&progress[pk(w.id)].status!=="new").length;
+  const totalN=uiLang==="en"?WORDS.length:WORDS.filter(hasLang).length;
   const todayCount=dailyLog[todayStr()]||0;
   main.innerHTML=`
    <div class="view">
@@ -396,7 +457,7 @@ function viewHome(){
 
     <div class="row">
       <div class="stat"><div class="n">${learned}</div><div class="l">已學單字</div></div>
-      <div class="stat"><div class="n">${WORDS.length}</div><div class="l">單字總數</div></div>
+      <div class="stat"><div class="n">${totalN}</div><div class="l">${LANG_META[uiLang].name}單字</div></div>
       <div class="stat"><div class="n">${streak.current||0}</div><div class="l">連續天數</div></div>
     </div>
 
@@ -415,16 +476,17 @@ function viewHome(){
    </div>`;
 }
 function recommendCard(){
-  if(!WORDS.length) return "";
-  const w=WORDS[(new Date().getDate())%WORDS.length];
-  const e=ex0(w);
+  const pool=WORDS.filter(hasLang);
+  if(!pool.length) return `<div class="panel" style="text-align:center;color:var(--sub)">${LANG_META[uiLang].name}單字建置中，敬請期待 🚧</div>`;
+  const w=pool[(new Date().getDate())%pool.length];
+  const e=W_ex0(w);
   return `<div class="panel">
     <img class="word-img" src="${imgURL(w)}" alt="" loading="lazy" onerror="this.style.display='none'">
     <div style="display:flex;justify-content:space-between;align-items:center;margin-top:12px">
-      <div style="font-size:20px;font-weight:800">${w.word} <span style="font-size:13px;color:var(--accent)">${w.pos}</span></div>
+      <div style="font-size:20px;font-weight:800">${W_word(w)} <span style="font-size:13px;color:var(--accent)">${uiLang==='en'?w.pos:''}</span></div>
       <button class="spk sm" onclick="speak('${esc(e.en)}')">🔊</button>
     </div>
-    <div style="color:var(--sub);font-size:14px;margin:2px 0 12px">${w.kk||""} ・ ${w.meaning}</div>
+    <div style="color:var(--sub);font-size:14px;margin:2px 0 12px">${W_phon(w)} ・ ${w.meaning}</div>
     <div class="ex-block"><div class="ex-en">💬 ${e.en}</div><div class="ex-zh">${e.zh}</div></div>
   </div>`;
 }
@@ -461,17 +523,17 @@ function viewReview(){
     <div class="flash" id="flash" onclick="flip()">
       <div class="theme-tag">${w.theme||""}</div><div class="lvl">${lvlTxt}</div>
       <div class="front">
-        <div class="word">${w.word}</div>
-        <div class="phon">${w.kk||""}</div>
-        <div class="pos">${w.pos||""}</div>
-        <button class="spk" onclick="event.stopPropagation();speak('${esc(w.word)}',0.9)">🔊</button>
+        <div class="word">${W_word(w)}</div>
+        <div class="phon">${W_phon(w)}</div>
+        <div class="pos">${uiLang==='en'?(w.pos||""):LANG_META[uiLang].name}</div>
+        <button class="spk" onclick="event.stopPropagation();speak('${esc(W_word(w))}',0.85)">🔊</button>
       </div>
       <div class="back hidden">
         <img class="word-img" src="${imgURL(w)}" alt="" loading="lazy" onerror="this.style.display='none'">
-        <div class="word" style="font-size:28px;margin-top:6px">${w.word}</div>
-        <div class="phon" style="margin-bottom:6px">${w.kk||""}</div>
+        <div class="word" style="font-size:28px;margin-top:6px">${W_word(w)}</div>
+        <div class="phon" style="margin-bottom:6px">${W_phon(w)}</div>
         <div class="meaning">${w.meaning}</div>
-        ${w.examples.map(e=>`<div class="ex-block">
+        ${W_examples(w).map(e=>`<div class="ex-block">
           <div class="ex-en"><button class="spk sm" onclick="event.stopPropagation();speak('${esc(e.en)}')">🔊</button><span>${e.en}</span></div>
           <div class="ex-zh">${e.zh}</div></div>`).join("")}
       </div>
@@ -489,7 +551,7 @@ function flip(){
   f.querySelector(".front").classList.add("hidden");
   f.querySelector(".back").classList.remove("hidden");
   const w=session[sIdx];
-  speak(w.word,0.9);
+  speak(W_word(w),0.85);
   document.getElementById("afterFlash").innerHTML=`
     <div class="grades">
       <button class="g-again" onclick="rate(0)">再一次<small>&lt;1分鐘</small></button>
@@ -517,11 +579,12 @@ function rate(g){
 let recog=null, recActive=false, speakPool=[], spIdx=0;
 const SR = window.SpeechRecognition || window.webkitSpeechRecognition;
 function buildSpeakPool(){
-  // 優先用已學過的字，沒有就用全部；把每句例句都攤平成一個練習項目
-  const learned=WORDS.filter(w=>progress[w.id]&&progress[w.id].status!=="new");
-  const src=(learned.length?learned:WORDS);
+  // 優先用已學過的字，沒有就用全部；把每句例句都攤平成一個練習項目(依目前語言)
+  const avail=WORDS.filter(hasLang);
+  const learned=avail.filter(w=>progress[pk(w.id)]&&progress[pk(w.id)].status!=="new");
+  const src=(learned.length?learned:avail);
   const pool=[];
-  src.forEach(w=>w.examples.forEach(e=>pool.push({word:w.word, en:e.en, zh:e.zh, theme:w.theme})));
+  src.forEach(w=>W_examples(w).forEach(e=>pool.push({word:W_word(w), en:e.en, zh:e.zh, theme:w.theme})));
   return pool;
 }
 function viewSpeak(){
@@ -535,7 +598,7 @@ function viewSpeak(){
       <div style="font-size:12px;color:var(--sub)">跟著唸這句生活口語 ・ ${w.theme||""} ・ <b style="color:var(--accent)">${w.word}</b></div>
       <div class="target-sent">"${w.en}"</div>
       <div class="ex-zh" style="color:var(--sub);font-size:14px">${w.zh}</div>
-      <button class="spk sm" style="margin:14px auto 0" onclick="speak('${esc(w.en)}',0.92)">🔊 聽範例</button>
+      <button class="spk sm" style="margin:14px auto 0" onclick="speak('${esc(w.en)}',0.94)">🔊 聽範例</button>
       ${supported?`
       <button class="mic-btn" id="micBtn" onclick="toggleRec('${esc(w.en)}')">🎙️</button>
       <div style="font-size:13px;color:var(--sub)" id="micHint">點麥克風開始錄音</div>
@@ -553,7 +616,7 @@ function viewSpeak(){
 function toggleRec(target){
   if(!SR) return;
   if(recActive){ recog&&recog.stop(); return; }
-  recog=new SR(); recog.lang="en-US"; recog.interimResults=false; recog.maxAlternatives=1;
+  recog=new SR(); recog.lang=ttsLang(); recog.interimResults=false; recog.maxAlternatives=1;
   const btn=document.getElementById("micBtn"), hint=document.getElementById("micHint");
   recog.onstart=()=>{recActive=true;btn.classList.add("rec");btn.textContent="⏹";hint.textContent="聆聽中…請說話";};
   recog.onerror=(e)=>{hint.textContent="辨識失敗："+e.error;cleanupRec();};
@@ -566,7 +629,11 @@ function cleanupRec(){
   if(btn){btn.classList.remove("rec");btn.textContent="🎙️";}
 }
 function scoreSpeech(heardRaw, target){
-  const norm=s=>s.toLowerCase().replace(/[^a-z' ]/g," ").split(/\s+/).filter(Boolean);
+  const norm=s=>{
+    s=(s||"").toLowerCase();
+    if(uiLang==="ja") return s.replace(/[\s、。！？!?.,・]/g,"").split(""); // 日語逐字比對
+    return s.normalize("NFC").replace(/[^\p{L}' ]/gu," ").split(/\s+/).filter(Boolean); // 保留重音字母
+  };
   const tgt=norm(target), heard=norm(heardRaw);
   const hset=[...heard];
   let hit=0; const marks=tgt.map(w=>{
@@ -611,21 +678,23 @@ function refreshLibList(){
   const box=document.getElementById("libList"); if(!box)return;
   const q=libQuery.trim().toLowerCase();
   const list=WORDS.filter(w=>{
+    if(!hasLang(w)) return false;
     const okT=libTheme==="全部"||w.theme===libTheme;
-    const okQ=!q||w.word.toLowerCase().includes(q)||(w.meaning||"").includes(q);
+    const dw=(W_word(w)||"").toLowerCase();
+    const okQ=!q||dw.includes(q)||w.word.toLowerCase().includes(q)||(w.meaning||"").includes(q);
     return okT&&okQ;
   });
-  if(!list.length){box.innerHTML=`<div class="empty"><div class="big">🔍</div>找不到符合的單字</div>`;return;}
-  box.innerHTML=list.map(w=>{
-    const p=progress[w.id]; const st=!p||p.status==="new"?["new","新"]:p.status==="review"?["done","已學"]:["due","學習中"];
-    const e=ex0(w);
-    return `<div class="witem" onclick="speak('${esc(w.word)}',0.9)">
+  if(!list.length){box.innerHTML=`<div class="empty"><div class="big">🔍</div>${uiLang==='en'?'找不到符合的單字':'此語言尚無符合單字（建置中）'}</div>`;return;}
+  box.innerHTML=list.slice(0,400).map(w=>{
+    const p=progress[pk(w.id)]; const st=!p||p.status==="new"?["new","新"]:p.status==="review"?["done","已學"]:["due","學習中"];
+    const e=W_ex0(w);
+    return `<div class="witem" onclick="speak('${esc(W_word(w))}',0.85)">
       <button class="spk sm" onclick="event.stopPropagation();speak('${esc(e.en)}')">🔊</button>
-      <div class="meta"><div class="w">${w.word} <span style="color:var(--sub);font-weight:400;font-size:12px">${w.kk||""}</span></div>
+      <div class="meta"><div class="w">${W_word(w)} <span style="color:var(--sub);font-weight:400;font-size:12px">${W_phon(w)}</span></div>
         <div class="m">${w.meaning} ・ ${e.en}</div></div>
       <span class="badge ${st[0]}">${st[1]}</span>
     </div>`;
-  }).join("");
+  }).join("")+(list.length>400?`<div style="text-align:center;color:var(--sub);font-size:12px;padding:8px">顯示前 400 筆，共 ${list.length} 筆，用搜尋縮小範圍</div>`:"");
 }
 
 // ---------- 匯入 ----------
@@ -754,7 +823,7 @@ create policy "anon rw" on voca_sync
       <div class="setting-row"><div><div class="lab">重設所有學習進度</div><div class="desc">清除複習紀錄（單字保留）</div></div>
         <button class="btn sm" style="background:rgba(248,113,113,.15);color:var(--bad)" onclick="resetProg()">重設</button></div>
     </div>
-    <div style="text-align:center;color:var(--sub);font-size:12px;margin-top:10px">VOCA 原型 ・ 資料儲存在本機瀏覽器</div>
+    <div style="text-align:center;color:var(--sub);font-size:12px;margin-top:10px">LL 原型 ・ 資料儲存在本機瀏覽器</div>
    </div>`;
 }
 function cfg(k,d){ config[k]=Math.max(0,config[k]+d); save(LS.cfg,config);
@@ -776,8 +845,8 @@ function selectAll(el){ const r=document.createRange(); r.selectNodeContents(el)
 
 // ---------- 統計 ----------
 function viewStats(){
-  const learned=WORDS.filter(w=>progress[w.id]&&progress[w.id].status!=="new").length;
-  const mastered=WORDS.filter(w=>{const p=progress[w.id];return p&&p.interval>=8}).length;
+  const learned=WORDS.filter(w=>hasLang(w)&&progress[pk(w.id)]&&progress[pk(w.id)].status!=="new").length;
+  const mastered=WORDS.filter(w=>{if(!hasLang(w))return false;const p=progress[pk(w.id)];return p&&p.interval>=8}).length;
   // 近 7 日長條
   const days=[...Array(7)].map((_,i)=>addDays(-(6-i)));
   const counts=days.map(d=>dailyLog[d]||0);
@@ -803,10 +872,11 @@ function viewStats(){
    </div>`;
 }
 function themeProgress(){
-  const themes=[...new Set(WORDS.map(w=>w.theme).filter(Boolean))];
+  const avail=WORDS.filter(hasLang);
+  const themes=[...new Set(avail.map(w=>w.theme).filter(Boolean))];
   return themes.map(t=>{
-    const all=WORDS.filter(w=>w.theme===t);
-    const done=all.filter(w=>progress[w.id]&&progress[w.id].status!=="new").length;
+    const all=avail.filter(w=>w.theme===t);
+    const done=all.filter(w=>progress[pk(w.id)]&&progress[pk(w.id)].status!=="new").length;
     const pct=Math.round(done/all.length*100);
     return `<div style="margin-bottom:12px">
       <div style="display:flex;justify-content:space-between;font-size:13px;margin-bottom:5px"><span>${t}</span><span style="color:var(--sub)">${done}/${all.length}</span></div>
@@ -829,6 +899,7 @@ function toast(msg){const t=document.getElementById("toast");t.textContent=msg;t
   clearTimeout(toastT);toastT=setTimeout(()=>t.classList.remove("show"),1900);}
 
 // ---- 啟動 ----
+renderLangBar();
 render("home");
 
 // ---- 註冊 Service Worker（離線）----

@@ -1,0 +1,842 @@
+[
+  {
+    "id": "p0071",
+    "de": {
+      "word": "analysieren",
+      "ipa": "[analyˈziːʁən]",
+      "examples": [
+        { "s": "Wir müssen die Daten genau analysieren.", "zh": "我們必須仔細分析這些數據。" },
+        { "s": "Der Experte analysiert das Problem in Ruhe.", "zh": "專家冷靜地分析這個問題。" }
+      ]
+    },
+    "fr": {
+      "word": "analyser",
+      "ipa": "[analize]",
+      "examples": [
+        { "s": "Il faut analyser les résultats avant de décider.", "zh": "在決定之前必須分析結果。" },
+        { "s": "La chercheuse analyse chaque échantillon avec soin.", "zh": "研究員仔細分析每個樣本。" }
+      ]
+    },
+    "ja": {
+      "word": "分析する",
+      "kana": "ぶんせきする",
+      "romaji": "bunseki suru",
+      "examples": [
+        { "s": "データを詳しく分析する必要があります。", "zh": "需要詳細分析數據。" },
+        { "s": "彼は問題を冷静に分析した。", "zh": "他冷靜地分析了問題。" }
+      ]
+    }
+  },
+  {
+    "id": "p0072",
+    "de": {
+      "word": "der Vorfahr",
+      "ipa": "[ˈfoːɐ̯faːɐ̯]",
+      "examples": [
+        { "s": "Meine Vorfahren kamen aus Norddeutschland.", "zh": "我的祖先來自北德。" },
+        { "s": "Er erforscht die Geschichte seiner Vorfahren.", "zh": "他研究他祖先的歷史。" }
+      ]
+    },
+    "fr": {
+      "word": "l'ancêtre",
+      "ipa": "[ɑ̃sɛtʁ]",
+      "examples": [
+        { "s": "Ses ancêtres étaient des agriculteurs.", "zh": "他的祖先是農夫。" },
+        { "s": "Nous honorons nos ancêtres chaque année.", "zh": "我們每年紀念我們的祖先。" }
+      ]
+    },
+    "ja": {
+      "word": "祖先",
+      "kana": "そせん",
+      "romaji": "sosen",
+      "examples": [
+        { "s": "私の祖先は農民でした。", "zh": "我的祖先是農民。" },
+        { "s": "この村には祖先を敬う習慣があります。", "zh": "這個村莊有敬拜祖先的習俗。" }
+      ]
+    }
+  },
+  {
+    "id": "p0073",
+    "de": {
+      "word": "der Anker",
+      "ipa": "[ˈaŋkɐ]",
+      "examples": [
+        { "s": "Das Schiff wirft im Hafen den Anker.", "zh": "船在港口拋錨。" },
+        { "s": "Der Anker ist tief in den Meeresgrund gesunken.", "zh": "錨深深沉入海底。" }
+      ]
+    },
+    "fr": {
+      "word": "l'ancre",
+      "ipa": "[ɑ̃kʁ]",
+      "examples": [
+        { "s": "Le marin jette l'ancre près de la côte.", "zh": "水手在岸邊拋下錨。" },
+        { "s": "Ils ont levé l'ancre au lever du soleil.", "zh": "他們在日出時起錨。" }
+      ]
+    },
+    "ja": {
+      "word": "錨",
+      "kana": "いかり",
+      "romaji": "ikari",
+      "examples": [
+        { "s": "船は港で錨を下ろした。", "zh": "船在港口拋下了錨。" },
+        { "s": "重い錨を海に沈める。", "zh": "把沉重的錨沉入海裡。" }
+      ]
+    }
+  },
+  {
+    "id": "p0074",
+    "de": {
+      "word": "die antike (alt)",
+      "ipa": "[alt]",
+      "examples": [
+        { "s": "In Rom sieht man viele antike Gebäude.", "zh": "在羅馬可以看到許多古老的建築。" },
+        { "s": "Diese alte Vase stammt aus einer alten Kultur.", "zh": "這個古老的花瓶來自古老的文化。" }
+      ]
+    },
+    "fr": {
+      "word": "ancien (adj.)",
+      "ipa": "[ɑ̃sjɛ̃]",
+      "examples": [
+        { "s": "Ce temple ancien attire beaucoup de touristes.", "zh": "這座古老的神廟吸引許多遊客。" },
+        { "s": "Les civilisations anciennes nous fascinent encore.", "zh": "古代文明至今仍令我們著迷。" }
+      ]
+    },
+    "ja": {
+      "word": "古代の",
+      "kana": "こだいの",
+      "romaji": "kodai no",
+      "examples": [
+        { "s": "古代のギリシャ文明を学んでいます。", "zh": "我在學習古希臘文明。" },
+        { "s": "この寺は古代に建てられました。", "zh": "這座寺廟建於古代。" }
+      ]
+    }
+  },
+  {
+    "id": "p0075",
+    "de": {
+      "word": "die Seeanemone",
+      "ipa": "[ˈzeːʔanemoːnə]",
+      "examples": [
+        { "s": "Die Seeanemone lebt zwischen den Korallen.", "zh": "海葵住在珊瑚之間。" },
+        { "s": "Ein kleiner Fisch versteckt sich in der Seeanemone.", "zh": "一條小魚躲在海葵裡。" }
+      ]
+    },
+    "fr": {
+      "word": "l'anémone de mer",
+      "ipa": "[anemɔn də mɛʁ]",
+      "examples": [
+        { "s": "L'anémone de mer ondule doucement dans l'eau.", "zh": "海葵在水中輕柔地擺動。" },
+        { "s": "Le poisson-clown vit dans l'anémone de mer.", "zh": "小丑魚住在海葵裡。" }
+      ]
+    },
+    "ja": {
+      "word": "イソギンチャク",
+      "kana": "いそぎんちゃく",
+      "romaji": "isoginchaku",
+      "examples": [
+        { "s": "イソギンチャクの中にクマノミが住んでいる。", "zh": "小丑魚住在海葵裡。" },
+        { "s": "潮だまりで色鮮やかなイソギンチャクを見つけた。", "zh": "在潮池裡發現了色彩鮮豔的海葵。" }
+      ]
+    }
+  },
+  {
+    "id": "p0076",
+    "de": {
+      "word": "die Anästhesie",
+      "ipa": "[anɛsteˈziː]",
+      "examples": [
+        { "s": "Vor der Operation bekam er eine Anästhesie.", "zh": "手術前他接受了麻醉。" },
+        { "s": "Die Anästhesie wirkt sofort und schmerzlos.", "zh": "麻醉立即生效且無痛。" }
+      ]
+    },
+    "fr": {
+      "word": "l'anesthésie",
+      "ipa": "[anɛstezi]",
+      "examples": [
+        { "s": "Le patient est sous anesthésie générale.", "zh": "病人正在全身麻醉之下。" },
+        { "s": "L'anesthésie locale a engourdi ma joue.", "zh": "局部麻醉讓我的臉頰失去知覺。" }
+      ]
+    },
+    "ja": {
+      "word": "麻酔",
+      "kana": "ますい",
+      "romaji": "masui",
+      "examples": [
+        { "s": "手術の前に麻酔をかけます。", "zh": "手術前會進行麻醉。" },
+        { "s": "局所麻酔なので痛みは感じません。", "zh": "因為是局部麻醉所以不會感到疼痛。" }
+      ]
+    }
+  },
+  {
+    "id": "p0077",
+    "de": {
+      "word": "der Winkel",
+      "ipa": "[ˈvɪŋkl̩]",
+      "examples": [
+        { "s": "Der Winkel zwischen den Linien beträgt 90 Grad.", "zh": "兩條線之間的角度是90度。" },
+        { "s": "Fotografiere das Gebäude aus einem anderen Winkel.", "zh": "從另一個角度拍攝這棟建築。" }
+      ]
+    },
+    "fr": {
+      "word": "l'angle",
+      "ipa": "[ɑ̃ɡl]",
+      "examples": [
+        { "s": "Cet angle mesure quarante-cinq degrés.", "zh": "這個角度是四十五度。" },
+        { "s": "Regarde la scène sous un autre angle.", "zh": "從另一個角度看這個場景。" }
+      ]
+    },
+    "ja": {
+      "word": "角度",
+      "kana": "かくど",
+      "romaji": "kakudo",
+      "examples": [
+        { "s": "この三角形の角度を測ってください。", "zh": "請測量這個三角形的角度。" },
+        { "s": "カメラの角度を少し変えてみよう。", "zh": "試著稍微改變相機的角度吧。" }
+      ]
+    }
+  },
+  {
+    "id": "p0078",
+    "de": {
+      "word": "wütend (adj.)",
+      "ipa": "[ˈvyːtn̩t]",
+      "examples": [
+        { "s": "Er war wütend über die Verspätung des Zuges.", "zh": "他對火車誤點感到生氣。" },
+        { "s": "Warum bist du so wütend auf mich?", "zh": "你為什麼這麼生我的氣？" }
+      ]
+    },
+    "fr": {
+      "word": "en colère (adj.)",
+      "ipa": "[ɑ̃ kɔlɛʁ]",
+      "examples": [
+        { "s": "Elle est en colère contre son collègue.", "zh": "她對她的同事很生氣。" },
+        { "s": "Ne sois pas en colère, ce n'est pas grave.", "zh": "別生氣，這沒什麼大不了的。" }
+      ]
+    },
+    "ja": {
+      "word": "怒った",
+      "kana": "おこった",
+      "romaji": "okotta",
+      "examples": [
+        { "s": "彼は約束を破られて怒っている。", "zh": "他因為約定被打破而生氣。" },
+        { "s": "そんなに怒らないでください。", "zh": "請不要那麼生氣。" }
+      ]
+    }
+  },
+  {
+    "id": "p0079",
+    "de": {
+      "word": "der Knöchel",
+      "ipa": "[ˈknœçl̩]",
+      "examples": [
+        { "s": "Beim Laufen habe ich mir den Knöchel verstaucht.", "zh": "跑步時我扭傷了腳踝。" },
+        { "s": "Das Wasser reichte ihr bis zum Knöchel.", "zh": "水淹到她的腳踝。" }
+      ]
+    },
+    "fr": {
+      "word": "la cheville",
+      "ipa": "[ʃəvij]",
+      "examples": [
+        { "s": "Je me suis tordu la cheville en tombant.", "zh": "我跌倒時扭傷了腳踝。" },
+        { "s": "Elle porte un bracelet à la cheville.", "zh": "她的腳踝上戴著手鍊。" }
+      ]
+    },
+    "ja": {
+      "word": "足首",
+      "kana": "あしくび",
+      "romaji": "ashikubi",
+      "examples": [
+        { "s": "階段で足首をひねってしまった。", "zh": "在樓梯上扭傷了腳踝。" },
+        { "s": "足首まで水に浸かった。", "zh": "水淹到了腳踝。" }
+      ]
+    }
+  },
+  {
+    "id": "p0080",
+    "de": {
+      "word": "das Fußkettchen",
+      "ipa": "[ˈfuːsˌkɛtçən]",
+      "examples": [
+        { "s": "Sie trägt am Strand ein goldenes Fußkettchen.", "zh": "她在海灘上戴著一條金色腳鍊。" },
+        { "s": "Das silberne Fußkettchen glänzt in der Sonne.", "zh": "銀色的腳鍊在陽光下閃閃發亮。" }
+      ]
+    },
+    "fr": {
+      "word": "la chaîne de cheville",
+      "ipa": "[ʃɛn də ʃəvij]",
+      "examples": [
+        { "s": "Elle a acheté une jolie chaîne de cheville.", "zh": "她買了一條漂亮的腳鍊。" },
+        { "s": "Sa chaîne de cheville tinte quand elle marche.", "zh": "她走路時腳鍊叮噹作響。" }
+      ]
+    },
+    "ja": {
+      "word": "アンクレット",
+      "kana": "あんくれっと",
+      "romaji": "ankuretto",
+      "examples": [
+        { "s": "夏になると彼女はアンクレットをつける。", "zh": "一到夏天她就會戴腳鍊。" },
+        { "s": "このアンクレットは銀でできています。", "zh": "這條腳鍊是銀製的。" }
+      ]
+    }
+  },
+  {
+    "id": "p0081",
+    "de": {
+      "word": "der Jahrestag",
+      "ipa": "[ˈjaːʁəsˌtaːk]",
+      "examples": [
+        { "s": "Heute feiern wir unseren zehnten Jahrestag.", "zh": "今天我們慶祝我們的十週年紀念。" },
+        { "s": "Zum Jahrestag hat er ihr Blumen geschenkt.", "zh": "在週年紀念日他送給她花。" }
+      ]
+    },
+    "fr": {
+      "word": "l'anniversaire",
+      "ipa": "[anivɛʁsɛʁ]",
+      "examples": [
+        { "s": "Nous fêtons notre anniversaire de mariage demain.", "zh": "我們明天慶祝結婚週年紀念。" },
+        { "s": "C'est l'anniversaire de la fondation de l'entreprise.", "zh": "這是公司成立的週年紀念日。" }
+      ]
+    },
+    "ja": {
+      "word": "記念日",
+      "kana": "きねんび",
+      "romaji": "kinenbi",
+      "examples": [
+        { "s": "今日は私たちの結婚記念日です。", "zh": "今天是我們的結婚紀念日。" },
+        { "s": "創立記念日にパーティーを開きます。", "zh": "在創立紀念日舉辦派對。" }
+      ]
+    }
+  },
+  {
+    "id": "p0082",
+    "de": {
+      "word": "ankündigen",
+      "ipa": "[ˈankʏndɪɡn̩]",
+      "examples": [
+        { "s": "Die Firma kündigt morgen ein neues Produkt an.", "zh": "公司明天將宣布一項新產品。" },
+        { "s": "Der Direktor kündigte seinen Rücktritt an.", "zh": "董事宣布了他的辭職。" }
+      ]
+    },
+    "fr": {
+      "word": "annoncer",
+      "ipa": "[anɔ̃se]",
+      "examples": [
+        { "s": "Le maire va annoncer la nouvelle demain.", "zh": "市長明天將宣布這個消息。" },
+        { "s": "Ils ont annoncé leurs fiançailles à la fête.", "zh": "他們在派對上宣布了訂婚的消息。" }
+      ]
+    },
+    "ja": {
+      "word": "発表する",
+      "kana": "はっぴょうする",
+      "romaji": "happyou suru",
+      "examples": [
+        { "s": "会社は新しい計画を発表した。", "zh": "公司宣布了新計畫。" },
+        { "s": "結果は来週発表されます。", "zh": "結果將於下週公布。" }
+      ]
+    }
+  },
+  {
+    "id": "p0083",
+    "de": {
+      "word": "verärgert (adj.)",
+      "ipa": "[fɛɐ̯ˈʔɛʁɡɐt]",
+      "examples": [
+        { "s": "Sie war verärgert über den lauten Lärm.", "zh": "她對吵鬧的噪音感到惱火。" },
+        { "s": "Der Kunde war verärgert über die schlechte Bedienung.", "zh": "顧客對糟糕的服務感到惱火。" }
+      ]
+    },
+    "fr": {
+      "word": "agacé (adj.)",
+      "ipa": "[aɡase]",
+      "examples": [
+        { "s": "Il est agacé par le bruit constant.", "zh": "他被持續的噪音惹惱了。" },
+        { "s": "Elle semblait agacée par mes questions.", "zh": "她似乎被我的問題惹惱了。" }
+      ]
+    },
+    "ja": {
+      "word": "いらいらした",
+      "kana": "いらいらした",
+      "romaji": "iraira shita",
+      "examples": [
+        { "s": "彼は待たされていらいらしていた。", "zh": "他因為被迫等待而感到惱火。" },
+        { "s": "騒音にいらいらして集中できない。", "zh": "被噪音惹惱到無法專心。" }
+      ]
+    }
+  },
+  {
+    "id": "p0084",
+    "de": {
+      "word": "die Antwort",
+      "ipa": "[ˈantvɔʁt]",
+      "examples": [
+        { "s": "Ich warte noch auf deine Antwort.", "zh": "我還在等你的回答。" },
+        { "s": "Seine Antwort war klar und deutlich.", "zh": "他的回答清楚而明確。" }
+      ]
+    },
+    "fr": {
+      "word": "la réponse",
+      "ipa": "[ʁepɔ̃s]",
+      "examples": [
+        { "s": "Ta réponse est correcte, bravo !", "zh": "你的答案正確，做得好！" },
+        { "s": "Je n'ai pas encore reçu de réponse.", "zh": "我還沒收到回覆。" }
+      ]
+    },
+    "ja": {
+      "word": "答え",
+      "kana": "こたえ",
+      "romaji": "kotae",
+      "examples": [
+        { "s": "この質問の答えを教えてください。", "zh": "請告訴我這個問題的答案。" },
+        { "s": "彼の答えは正しかった。", "zh": "他的答案是對的。" }
+      ]
+    }
+  },
+  {
+    "id": "p0085",
+    "de": {
+      "word": "die Ameise",
+      "ipa": "[ˈaːmaɪ̯zə]",
+      "examples": [
+        { "s": "Eine Ameise trägt ein Blatt zum Nest.", "zh": "一隻螞蟻把葉子搬回巢穴。" },
+        { "s": "Im Garten laufen viele fleißige Ameisen.", "zh": "花園裡有許多勤勞的螞蟻在爬。" }
+      ]
+    },
+    "fr": {
+      "word": "la fourmi",
+      "ipa": "[fuʁmi]",
+      "examples": [
+        { "s": "La fourmi transporte une miette de pain.", "zh": "螞蟻搬運一片麵包屑。" },
+        { "s": "Une file de fourmis traverse le trottoir.", "zh": "一列螞蟻穿過人行道。" }
+      ]
+    },
+    "ja": {
+      "word": "蟻",
+      "kana": "あり",
+      "romaji": "ari",
+      "examples": [
+        { "s": "蟻が列を作って歩いている。", "zh": "螞蟻排成一列在走。" },
+        { "s": "小さな蟻が砂糖を運んでいる。", "zh": "小螞蟻正在搬運砂糖。" }
+      ]
+    }
+  },
+  {
+    "id": "p0086",
+    "de": {
+      "word": "die Fühler / Antenne",
+      "ipa": "[anˈtɛnə]",
+      "examples": [
+        { "s": "Der Käfer bewegt seine Antennen ständig.", "zh": "甲蟲不停地擺動牠的觸角。" },
+        { "s": "Mit den Fühlern ertastet die Ameise den Weg.", "zh": "螞蟻用觸角探尋道路。" }
+      ]
+    },
+    "fr": {
+      "word": "l'antenne",
+      "ipa": "[ɑ̃tɛn]",
+      "examples": [
+        { "s": "L'insecte remue ses antennes sans arrêt.", "zh": "昆蟲不停地擺動牠的觸角。" },
+        { "s": "Le papillon utilise ses antennes pour sentir.", "zh": "蝴蝶用觸角來感知氣味。" }
+      ]
+    },
+    "ja": {
+      "word": "触角",
+      "kana": "しょっかく",
+      "romaji": "shokkaku",
+      "examples": [
+        { "s": "昆虫は触角で周りを感じる。", "zh": "昆蟲用觸角感知周圍。" },
+        { "s": "カタツムリの触角が伸びている。", "zh": "蝸牛的觸角伸了出來。" }
+      ]
+    }
+  },
+  {
+    "id": "p0087",
+    "de": {
+      "word": "das Antibiotikum",
+      "ipa": "[antibiˈoːtikʊm]",
+      "examples": [
+        { "s": "Der Arzt verschrieb ihr ein Antibiotikum.", "zh": "醫生給她開了抗生素。" },
+        { "s": "Das Antibiotikum hilft gegen die Infektion.", "zh": "抗生素有助於對抗感染。" }
+      ]
+    },
+    "fr": {
+      "word": "l'antibiotique",
+      "ipa": "[ɑ̃tibjɔtik]",
+      "examples": [
+        { "s": "Le médecin m'a prescrit un antibiotique.", "zh": "醫生給我開了抗生素。" },
+        { "s": "Il faut finir tout le traitement d'antibiotique.", "zh": "必須把整個抗生素療程吃完。" }
+      ]
+    },
+    "ja": {
+      "word": "抗生物質",
+      "kana": "こうせいぶっしつ",
+      "romaji": "kousei busshitsu",
+      "examples": [
+        { "s": "医者は抗生物質を処方した。", "zh": "醫生開了抗生素。" },
+        { "s": "この抗生物質は細菌に効きます。", "zh": "這種抗生素對細菌有效。" }
+      ]
+    }
+  },
+  {
+    "id": "p0088",
+    "de": {
+      "word": "die Angst",
+      "ipa": "[aŋst]",
+      "examples": [
+        { "s": "Vor der Prüfung spürte er große Angst.", "zh": "考試前他感到極大的焦慮。" },
+        { "s": "Ihre Angst vor der Zukunft wuchs jeden Tag.", "zh": "她對未來的焦慮日益增加。" }
+      ]
+    },
+    "fr": {
+      "word": "l'anxiété",
+      "ipa": "[ɑ̃ksjete]",
+      "examples": [
+        { "s": "L'anxiété l'empêche de bien dormir.", "zh": "焦慮讓他無法好好睡覺。" },
+        { "s": "Elle ressent de l'anxiété avant chaque examen.", "zh": "每次考試前她都感到焦慮。" }
+      ]
+    },
+    "ja": {
+      "word": "不安",
+      "kana": "ふあん",
+      "romaji": "fuan",
+      "examples": [
+        { "s": "試験の前は不安でいっぱいだった。", "zh": "考試前充滿了不安。" },
+        { "s": "将来への不安を感じている。", "zh": "對未來感到焦慮。" }
+      ]
+    }
+  },
+  {
+    "id": "p0089",
+    "de": {
+      "word": "die Wohnung",
+      "ipa": "[ˈvoːnʊŋ]",
+      "examples": [
+        { "s": "Wir suchen eine neue Wohnung im Zentrum.", "zh": "我們在市中心找一間新公寓。" },
+        { "s": "Ihre Wohnung ist hell und gemütlich.", "zh": "她的公寓明亮又舒適。" }
+      ]
+    },
+    "fr": {
+      "word": "l'appartement",
+      "ipa": "[apaʁtəmɑ̃]",
+      "examples": [
+        { "s": "Ils habitent un petit appartement à Paris.", "zh": "他們住在巴黎的一間小公寓。" },
+        { "s": "Mon appartement se trouve au troisième étage.", "zh": "我的公寓在三樓。" }
+      ]
+    },
+    "ja": {
+      "word": "アパート",
+      "kana": "あぱーと",
+      "romaji": "apāto",
+      "examples": [
+        { "s": "駅の近くのアパートに住んでいます。", "zh": "我住在車站附近的公寓。" },
+        { "s": "新しいアパートを探しています。", "zh": "我正在找新的公寓。" }
+      ]
+    }
+  },
+  {
+    "id": "p0090",
+    "de": {
+      "word": "die Blende",
+      "ipa": "[ˈblɛndə]",
+      "examples": [
+        { "s": "Stelle die Blende ein, damit das Foto schärfer wird.", "zh": "調整光圈讓照片更清晰。" },
+        { "s": "Eine große Blende lässt mehr Licht herein.", "zh": "較大的光圈能讓更多光線進入。" }
+      ]
+    },
+    "fr": {
+      "word": "l'ouverture",
+      "ipa": "[uvɛʁtyʁ]",
+      "examples": [
+        { "s": "Réglez l'ouverture pour flouter l'arrière-plan.", "zh": "調整光圈來模糊背景。" },
+        { "s": "Une grande ouverture capte davantage de lumière.", "zh": "大光圈能捕捉更多光線。" }
+      ]
+    },
+    "ja": {
+      "word": "絞り",
+      "kana": "しぼり",
+      "romaji": "shibori",
+      "examples": [
+        { "s": "絞りを開けて背景をぼかした。", "zh": "開大光圈把背景模糊掉。" },
+        { "s": "絞りを調整して明るさを変える。", "zh": "調整光圈來改變亮度。" }
+      ]
+    }
+  },
+  {
+    "id": "p0091",
+    "de": {
+      "word": "sich entschuldigen",
+      "ipa": "[ɛntˈʃʊldɪɡn̩]",
+      "examples": [
+        { "s": "Ich möchte mich für meinen Fehler entschuldigen.", "zh": "我想為我的錯誤道歉。" },
+        { "s": "Er entschuldigte sich bei ihr für die Verspätung.", "zh": "他為遲到向她道歉。" }
+      ]
+    },
+    "fr": {
+      "word": "s'excuser",
+      "ipa": "[sɛkskyze]",
+      "examples": [
+        { "s": "Je m'excuse de vous avoir dérangé.", "zh": "很抱歉打擾了您。" },
+        { "s": "Il s'est excusé auprès de son ami.", "zh": "他向他的朋友道了歉。" }
+      ]
+    },
+    "ja": {
+      "word": "謝る",
+      "kana": "あやまる",
+      "romaji": "ayamaru",
+      "examples": [
+        { "s": "遅刻したことを彼に謝った。", "zh": "我為遲到向他道歉了。" },
+        { "s": "素直に謝ることは大切です。", "zh": "坦率地道歉很重要。" }
+      ]
+    }
+  },
+  {
+    "id": "p0092",
+    "de": {
+      "word": "die App",
+      "ipa": "[ɛp]",
+      "examples": [
+        { "s": "Diese App hilft mir beim Vokabellernen.", "zh": "這個應用程式幫助我學單字。" },
+        { "s": "Lade die App aus dem Store herunter.", "zh": "從商店下載這個應用程式。" }
+      ]
+    },
+    "fr": {
+      "word": "l'application",
+      "ipa": "[aplikasjɔ̃]",
+      "examples": [
+        { "s": "J'utilise cette application tous les jours.", "zh": "我每天都使用這個應用程式。" },
+        { "s": "Cette application est gratuite à télécharger.", "zh": "這個應用程式可以免費下載。" }
+      ]
+    },
+    "ja": {
+      "word": "アプリ",
+      "kana": "あぷり",
+      "romaji": "apuri",
+      "examples": [
+        { "s": "このアプリで単語を勉強しています。", "zh": "我用這個應用程式學單字。" },
+        { "s": "新しいアプリをダウンロードした。", "zh": "我下載了新的應用程式。" }
+      ]
+    }
+  },
+  {
+    "id": "p0093",
+    "de": {
+      "word": "die Berufung (Rechtsmittel)",
+      "ipa": "[bəˈʁuːfʊŋ]",
+      "examples": [
+        { "s": "Der Anwalt legte gegen das Urteil Berufung ein.", "zh": "律師對判決提出上訴。" },
+        { "s": "Ihre Berufung wurde vom Gericht abgelehnt.", "zh": "她的上訴被法院駁回。" }
+      ]
+    },
+    "fr": {
+      "word": "l'appel (justice)",
+      "ipa": "[apɛl]",
+      "examples": [
+        { "s": "L'avocat a fait appel de la décision.", "zh": "律師對這個裁決提出上訴。" },
+        { "s": "La cour d'appel examinera le dossier.", "zh": "上訴法院將審查這個案件。" }
+      ]
+    },
+    "ja": {
+      "word": "上訴",
+      "kana": "じょうそ",
+      "romaji": "jōso",
+      "examples": [
+        { "s": "弁護士は判決に対して上訴した。", "zh": "律師對判決提出了上訴。" },
+        { "s": "彼らは上訴する権利を持っている。", "zh": "他們擁有上訴的權利。" }
+      ]
+    }
+  },
+  {
+    "id": "p0094",
+    "de": {
+      "word": "die Vorspeise",
+      "ipa": "[ˈfoːɐ̯ˌʃpaɪ̯zə]",
+      "examples": [
+        { "s": "Als Vorspeise bestellten wir eine Suppe.", "zh": "作為開胃菜我們點了一份湯。" },
+        { "s": "Die Vorspeise war frisch und lecker.", "zh": "開胃菜新鮮又美味。" }
+      ]
+    },
+    "fr": {
+      "word": "l'entrée",
+      "ipa": "[ɑ̃tʁe]",
+      "examples": [
+        { "s": "Comme entrée, je prendrai une salade.", "zh": "作為開胃菜，我要一份沙拉。" },
+        { "s": "L'entrée était délicieuse ce soir.", "zh": "今晚的開胃菜很美味。" }
+      ]
+    },
+    "ja": {
+      "word": "前菜",
+      "kana": "ぜんさい",
+      "romaji": "zensai",
+      "examples": [
+        { "s": "前菜にサラダを頼みました。", "zh": "我點了沙拉當開胃菜。" },
+        { "s": "この店の前菜はとてもおいしい。", "zh": "這家店的開胃菜非常好吃。" }
+      ]
+    }
+  },
+  {
+    "id": "p0095",
+    "de": {
+      "word": "das Haushaltsgerät",
+      "ipa": "[ˈhaʊ̯shalt͡sɡəˌʁɛːt]",
+      "examples": [
+        { "s": "Der Kühlschrank ist ein wichtiges Haushaltsgerät.", "zh": "冰箱是重要的家電用品。" },
+        { "s": "Wir kaufen ein neues Haushaltsgerät für die Küche.", "zh": "我們為廚房買一件新的家電。" }
+      ]
+    },
+    "fr": {
+      "word": "l'appareil électroménager",
+      "ipa": "[apaʁɛj elɛktʁomenaʒe]",
+      "examples": [
+        { "s": "Le lave-linge est un appareil électroménager utile.", "zh": "洗衣機是實用的家電用品。" },
+        { "s": "Cet appareil électroménager consomme peu d'énergie.", "zh": "這件家電耗電量很低。" }
+      ]
+    },
+    "ja": {
+      "word": "家電",
+      "kana": "かでん",
+      "romaji": "kaden",
+      "examples": [
+        { "s": "新しい家電を買いに行きます。", "zh": "我要去買新的家電。" },
+        { "s": "この家電は電気をあまり使いません。", "zh": "這個家電不太耗電。" }
+      ]
+    }
+  },
+  {
+    "id": "p0096",
+    "de": {
+      "word": "der Bewerber",
+      "ipa": "[bəˈvɛʁbɐ]",
+      "examples": [
+        { "s": "Der Bewerber hat viel Erfahrung im Verkauf.", "zh": "這位應徵者在銷售方面有很多經驗。" },
+        { "s": "Alle Bewerber warten auf das Vorstellungsgespräch.", "zh": "所有應徵者都在等待面試。" }
+      ]
+    },
+    "fr": {
+      "word": "le candidat",
+      "ipa": "[kɑ̃dida]",
+      "examples": [
+        { "s": "Le candidat a envoyé son CV hier.", "zh": "這位應徵者昨天寄出了他的履歷。" },
+        { "s": "Plusieurs candidats postulent pour ce poste.", "zh": "有好幾位申請人應徵這個職位。" }
+      ]
+    },
+    "ja": {
+      "word": "応募者",
+      "kana": "おうぼしゃ",
+      "romaji": "ōbosha",
+      "examples": [
+        { "s": "応募者は面接を待っています。", "zh": "應徵者正在等待面試。" },
+        { "s": "この仕事にはたくさんの応募者がいる。", "zh": "這份工作有很多應徵者。" }
+      ]
+    }
+  },
+  {
+    "id": "p0097",
+    "de": {
+      "word": "die Bewerbung",
+      "ipa": "[bəˈvɛʁbʊŋ]",
+      "examples": [
+        { "s": "Ich habe meine Bewerbung gestern abgeschickt.", "zh": "我昨天寄出了我的申請書。" },
+        { "s": "Ihre Bewerbung hat den Personalchef beeindruckt.", "zh": "她的申請書讓人事主管印象深刻。" }
+      ]
+    },
+    "fr": {
+      "word": "la candidature",
+      "ipa": "[kɑ̃didatyʁ]",
+      "examples": [
+        { "s": "Sa candidature a été retenue par l'entreprise.", "zh": "他的申請被公司錄取了。" },
+        { "s": "Veuillez envoyer votre candidature avant vendredi.", "zh": "請在週五前寄出您的申請。" }
+      ]
+    },
+    "ja": {
+      "word": "申請",
+      "kana": "しんせい",
+      "romaji": "shinsei",
+      "examples": [
+        { "s": "ビザの申請を提出しました。", "zh": "我提交了簽證申請。" },
+        { "s": "申請書に必要事項を記入してください。", "zh": "請在申請書上填寫必要事項。" }
+      ]
+    }
+  },
+  {
+    "id": "p0098",
+    "de": {
+      "word": "sich bewerben",
+      "ipa": "[bəˈvɛʁbn̩]",
+      "examples": [
+        { "s": "Ich möchte mich um diese Stelle bewerben.", "zh": "我想申請這個職位。" },
+        { "s": "Sie bewirbt sich für ein Stipendium.", "zh": "她申請一份獎學金。" }
+      ]
+    },
+    "fr": {
+      "word": "postuler",
+      "ipa": "[pɔstyle]",
+      "examples": [
+        { "s": "Je vais postuler à ce nouvel emploi.", "zh": "我要申請這份新工作。" },
+        { "s": "Elle a postulé dans plusieurs entreprises.", "zh": "她向好幾家公司投了申請。" }
+      ]
+    },
+    "ja": {
+      "word": "申し込む",
+      "kana": "もうしこむ",
+      "romaji": "mōshikomu",
+      "examples": [
+        { "s": "その仕事に申し込むつもりです。", "zh": "我打算申請那份工作。" },
+        { "s": "オンラインで奨学金に申し込んだ。", "zh": "我在線上申請了獎學金。" }
+      ]
+    }
+  },
+  {
+    "id": "p0099",
+    "de": {
+      "word": "der Termin",
+      "ipa": "[tɛʁˈmiːn]",
+      "examples": [
+        { "s": "Ich habe morgen einen Termin beim Arzt.", "zh": "我明天有一個看醫生的預約。" },
+        { "s": "Können wir einen Termin für nächste Woche vereinbaren?", "zh": "我們可以約下週的時間嗎？" }
+      ]
+    },
+    "fr": {
+      "word": "le rendez-vous",
+      "ipa": "[ʁɑ̃devu]",
+      "examples": [
+        { "s": "J'ai un rendez-vous chez le dentiste à 15 heures.", "zh": "我下午三點有牙醫的預約。" },
+        { "s": "Elle a pris rendez-vous avec le médecin.", "zh": "她跟醫生預約了看診。" }
+      ]
+    },
+    "ja": {
+      "word": "予約",
+      "kana": "よやく",
+      "romaji": "yoyaku",
+      "examples": [
+        { "s": "明日、病院の予約があります。", "zh": "我明天有醫院的預約。" },
+        { "s": "レストランの予約を取りました。", "zh": "我預約了餐廳。" }
+      ]
+    }
+  },
+  {
+    "id": "p0100",
+    "de": {
+      "word": "genehmigen",
+      "ipa": "[ɡəˈneːmɪɡn̩]",
+      "examples": [
+        { "s": "Der Chef hat meinen Urlaubsantrag genehmigt.", "zh": "老闆核准了我的休假申請。" },
+        { "s": "Die Behörde genehmigte den Bau des Hauses.", "zh": "當局批准了房屋的建造。" }
+      ]
+    },
+    "fr": {
+      "word": "approuver",
+      "ipa": "[apʁuve]",
+      "examples": [
+        { "s": "Le directeur a approuvé le nouveau projet.", "zh": "董事批准了新專案。" },
+        { "s": "Le comité doit approuver la décision.", "zh": "委員會必須核准這個決定。" }
+      ]
+    },
+    "ja": {
+      "word": "承認する",
+      "kana": "しょうにんする",
+      "romaji": "shōnin suru",
+      "examples": [
+        { "s": "上司が私の計画を承認した。", "zh": "上司批准了我的計畫。" },
+        { "s": "予算は会議で承認されました。", "zh": "預算在會議中獲得批准。" }
+      ]
+    }
+  }
+]

@@ -1,0 +1,842 @@
+[
+  {
+    "id": "p0371",
+    "de": {
+      "word": "einfangen",
+      "ipa": "[ˈaɪnˌfaŋən]",
+      "examples": [
+        { "s": "Ich konnte den Moment mit meiner Kamera einfangen.", "zh": "我用相機捕捉到了那個瞬間。" },
+        { "s": "Die Katze versuchte, die Maus einzufangen.", "zh": "貓試圖抓住那隻老鼠。" }
+      ]
+    },
+    "fr": {
+      "word": "capturer",
+      "ipa": "[kap.ty.ʁe]",
+      "examples": [
+        { "s": "J'ai réussi à capturer ce moment en photo.", "zh": "我成功用照片捕捉了這一刻。" },
+        { "s": "Le photographe a capturé un magnifique coucher de soleil.", "zh": "攝影師拍下了美麗的日落。" }
+      ]
+    },
+    "ja": {
+      "word": "捉える",
+      "kana": "とらえる",
+      "romaji": "toraeru",
+      "examples": [
+        { "s": "その瞬間をカメラで捉えることができた。", "zh": "我用相機捕捉到了那個瞬間。" },
+        { "s": "決定的な場面を写真に捉えた。", "zh": "我把決定性的畫面拍了下來。" }
+      ]
+    }
+  },
+  {
+    "id": "p0372",
+    "de": {
+      "word": "das Auto",
+      "ipa": "[ˈaʊto]",
+      "examples": [
+        { "s": "Mein Auto steht in der Garage.", "zh": "我的車停在車庫裡。" },
+        { "s": "Wir fahren morgen mit dem Auto zur Arbeit.", "zh": "我們明天開車去上班。" }
+      ]
+    },
+    "fr": {
+      "word": "la voiture",
+      "ipa": "[la vwa.tyʁ]",
+      "examples": [
+        { "s": "Ma voiture est garée devant la maison.", "zh": "我的車停在房子前面。" },
+        { "s": "Nous prenons la voiture pour aller au travail.", "zh": "我們開車去上班。" }
+      ]
+    },
+    "ja": {
+      "word": "車",
+      "kana": "くるま",
+      "romaji": "kuruma",
+      "examples": [
+        { "s": "車を駐車場に止めました。", "zh": "我把車停在停車場了。" },
+        { "s": "明日は車で会社に行きます。", "zh": "我明天開車去公司。" }
+      ]
+    }
+  },
+  {
+    "id": "p0373",
+    "de": {
+      "word": "der Kohlenstoff",
+      "ipa": "[ˈkoːlənˌʃtɔf]",
+      "examples": [
+        { "s": "Kohlenstoff ist ein wichtiges chemisches Element.", "zh": "碳是一種重要的化學元素。" },
+        { "s": "Diamanten bestehen aus reinem Kohlenstoff.", "zh": "鑽石由純碳構成。" }
+      ]
+    },
+    "fr": {
+      "word": "le carbone",
+      "ipa": "[lə kaʁ.bɔn]",
+      "examples": [
+        { "s": "Le carbone est présent dans tous les êtres vivants.", "zh": "碳存在於所有生物體內。" },
+        { "s": "Le diamant est composé de carbone pur.", "zh": "鑽石由純碳組成。" }
+      ]
+    },
+    "ja": {
+      "word": "炭素",
+      "kana": "たんそ",
+      "romaji": "tanso",
+      "examples": [
+        { "s": "炭素は生命にとって欠かせない元素です。", "zh": "碳是生命不可或缺的元素。" },
+        { "s": "ダイヤモンドは純粋な炭素からできています。", "zh": "鑽石是由純碳構成的。" }
+      ]
+    }
+  },
+  {
+    "id": "p0374",
+    "de": {
+      "word": "die Kohlenstoffemission",
+      "ipa": "[ˈkoːlənˌʃtɔfʔeˌmɪsi̯oːn]",
+      "examples": [
+        { "s": "Die Regierung will die Kohlenstoffemissionen bis 2030 senken.", "zh": "政府想在2030年前減少碳排放。" },
+        { "s": "Autos verursachen hohe Kohlenstoffemissionen.", "zh": "汽車造成大量的碳排放。" }
+      ]
+    },
+    "fr": {
+      "word": "l'émission de carbone",
+      "ipa": "[le.mi.sjɔ̃ də kaʁ.bɔn]",
+      "examples": [
+        { "s": "Les émissions de carbone doivent être réduites rapidement.", "zh": "碳排放必須迅速減少。" },
+        { "s": "L'usine a diminué ses émissions de carbone cette année.", "zh": "工廠今年減少了碳排放。" }
+      ]
+    },
+    "ja": {
+      "word": "炭素排出",
+      "kana": "たんそはいしゅつ",
+      "romaji": "tanso haishutsu",
+      "examples": [
+        { "s": "政府は炭素排出を減らす目標を立てました。", "zh": "政府訂立了減少碳排放的目標。" },
+        { "s": "工場からの炭素排出が問題になっています。", "zh": "工廠的碳排放成了問題。" }
+      ]
+    }
+  },
+  {
+    "id": "p0375",
+    "de": {
+      "word": "der CO₂-Fußabdruck",
+      "ipa": "[t͡seːʔoːˈt͡svaɪ ˈfuːsˌʔapdʁʊk]",
+      "examples": [
+        { "s": "Ich versuche, meinen CO₂-Fußabdruck zu verringern.", "zh": "我試著減少我的碳足跡。" },
+        { "s": "Fliegen erhöht deinen CO₂-Fußabdruck erheblich.", "zh": "搭飛機會大幅增加你的碳足跡。" }
+      ]
+    },
+    "fr": {
+      "word": "l'empreinte carbone",
+      "ipa": "[lɑ̃.pʁɛ̃t kaʁ.bɔn]",
+      "examples": [
+        { "s": "Nous cherchons à réduire notre empreinte carbone.", "zh": "我們設法減少我們的碳足跡。" },
+        { "s": "Manger local diminue l'empreinte carbone.", "zh": "吃在地食物能降低碳足跡。" }
+      ]
+    },
+    "ja": {
+      "word": "カーボンフットプリント",
+      "kana": "カーボンフットプリント",
+      "romaji": "kābon futtopurinto",
+      "examples": [
+        { "s": "私は自分のカーボンフットプリントを減らそうとしています。", "zh": "我正試著減少自己的碳足跡。" },
+        { "s": "飛行機の利用はカーボンフットプリントを大きくします。", "zh": "搭飛機會加大碳足跡。" }
+      ]
+    }
+  },
+  {
+    "id": "p0376",
+    "de": {
+      "word": "klimaneutral",
+      "ipa": "[ˈkliːmanɔɪˌtʁaːl]",
+      "examples": [
+        { "s": "Die Firma möchte bis 2040 klimaneutral werden.", "zh": "這家公司想在2040年前達到碳中和。" },
+        { "s": "Dieses Produkt wird klimaneutral hergestellt.", "zh": "這項產品以碳中和方式生產。" }
+      ]
+    },
+    "fr": {
+      "word": "neutre en carbone",
+      "ipa": "[nøtʁ ɑ̃ kaʁ.bɔn]",
+      "examples": [
+        { "s": "L'entreprise veut devenir neutre en carbone d'ici 2040.", "zh": "公司想在2040年前達到碳中和。" },
+        { "s": "Ce festival se veut neutre en carbone.", "zh": "這個節慶標榜碳中和。" }
+      ]
+    },
+    "ja": {
+      "word": "カーボンニュートラル",
+      "kana": "カーボンニュートラル",
+      "romaji": "kābon nyūtoraru",
+      "examples": [
+        { "s": "この会社は2040年までにカーボンニュートラルを目指しています。", "zh": "這家公司以2040年前碳中和為目標。" },
+        { "s": "この製品はカーボンニュートラルで作られています。", "zh": "這項產品以碳中和方式製造。" }
+      ]
+    }
+  },
+  {
+    "id": "p0377",
+    "de": {
+      "word": "die Karte",
+      "ipa": "[ˈkaʁtə]",
+      "examples": [
+        { "s": "Ich bezahle lieber mit Karte als mit Bargeld.", "zh": "我比較喜歡刷卡而不是付現金。" },
+        { "s": "Meine Karte wurde an der Kasse abgelehnt.", "zh": "我的卡在收銀台被拒絕了。" }
+      ]
+    },
+    "fr": {
+      "word": "la carte",
+      "ipa": "[la kaʁt]",
+      "examples": [
+        { "s": "Je préfère payer par carte plutôt qu'en espèces.", "zh": "我比較喜歡刷卡而不是付現金。" },
+        { "s": "Ma carte a été refusée à la caisse.", "zh": "我的卡在收銀台被拒絕了。" }
+      ]
+    },
+    "ja": {
+      "word": "カード",
+      "kana": "カード",
+      "romaji": "kādo",
+      "examples": [
+        { "s": "現金よりカードで払うほうが好きです。", "zh": "比起現金我更喜歡用卡付款。" },
+        { "s": "レジでカードが使えませんでした。", "zh": "在收銀台卡片刷不過。" }
+      ]
+    }
+  },
+  {
+    "id": "p0378",
+    "de": {
+      "word": "das Cardiotraining",
+      "ipa": "[ˈkaʁdi̯oˌtʁeːnɪŋ]",
+      "examples": [
+        { "s": "Ich mache dreimal pro Woche Cardiotraining.", "zh": "我每週做三次有氧運動。" },
+        { "s": "Laufen ist ein gutes Cardiotraining.", "zh": "跑步是很好的有氧運動。" }
+      ]
+    },
+    "fr": {
+      "word": "le cardio",
+      "ipa": "[lə kaʁ.djo]",
+      "examples": [
+        { "s": "Je fais du cardio trois fois par semaine.", "zh": "我每週做三次有氧運動。" },
+        { "s": "La course à pied est un excellent cardio.", "zh": "跑步是很棒的有氧運動。" }
+      ]
+    },
+    "ja": {
+      "word": "有酸素運動",
+      "kana": "ゆうさんそうんどう",
+      "romaji": "yūsanso undō",
+      "examples": [
+        { "s": "週に三回、有酸素運動をしています。", "zh": "我每週做三次有氧運動。" },
+        { "s": "ランニングは良い有酸素運動です。", "zh": "跑步是很好的有氧運動。" }
+      ]
+    }
+  },
+  {
+    "id": "p0379",
+    "de": {
+      "word": "die Kardiologie",
+      "ipa": "[kaʁdi̯oloˈɡiː]",
+      "examples": [
+        { "s": "Mein Vater liegt in der Kardiologie im Krankenhaus.", "zh": "我父親住在醫院的心臟科。" },
+        { "s": "Sie arbeitet als Ärztin in der Kardiologie.", "zh": "她在心臟科當醫生。" }
+      ]
+    },
+    "fr": {
+      "word": "la cardiologie",
+      "ipa": "[la kaʁ.djɔ.lɔ.ʒi]",
+      "examples": [
+        { "s": "Il a un rendez-vous au service de cardiologie.", "zh": "他在心臟科有預約。" },
+        { "s": "Elle est spécialiste en cardiologie.", "zh": "她是心臟科的專科醫生。" }
+      ]
+    },
+    "ja": {
+      "word": "循環器科",
+      "kana": "じゅんかんきか",
+      "romaji": "junkankika",
+      "examples": [
+        { "s": "父は病院の循環器科に入院しています。", "zh": "我父親住在醫院的心臟科。" },
+        { "s": "彼女は循環器科の医師です。", "zh": "她是心臟科的醫生。" }
+      ]
+    }
+  },
+  {
+    "id": "p0380",
+    "de": {
+      "word": "die Karriere",
+      "ipa": "[kaˈʁi̯eːʁə]",
+      "examples": [
+        { "s": "Sie hat eine erfolgreiche Karriere als Anwältin.", "zh": "她有一份成功的律師職涯。" },
+        { "s": "Er möchte seine Karriere im Ausland fortsetzen.", "zh": "他想在國外繼續他的事業。" }
+      ]
+    },
+    "fr": {
+      "word": "la carrière",
+      "ipa": "[la ka.ʁjɛʁ]",
+      "examples": [
+        { "s": "Elle a fait une belle carrière dans la finance.", "zh": "她在金融業有一段亮眼的職涯。" },
+        { "s": "Il veut poursuivre sa carrière à l'étranger.", "zh": "他想在國外繼續他的事業。" }
+      ]
+    },
+    "ja": {
+      "word": "キャリア",
+      "kana": "キャリア",
+      "romaji": "kyaria",
+      "examples": [
+        { "s": "彼女は弁護士として成功したキャリアを築いた。", "zh": "她建立了成功的律師職涯。" },
+        { "s": "海外でキャリアを続けたいと思っています。", "zh": "我想在國外繼續我的事業。" }
+      ]
+    }
+  },
+  {
+    "id": "p0381",
+    "de": {
+      "word": "die Fracht",
+      "ipa": "[fʁaxt]",
+      "examples": [
+        { "s": "Das Schiff transportiert schwere Fracht nach Asien.", "zh": "這艘船運送沉重的貨物到亞洲。" },
+        { "s": "Die Fracht wurde sicher im Hafen entladen.", "zh": "貨物在港口被安全地卸下。" }
+      ]
+    },
+    "fr": {
+      "word": "la cargaison",
+      "ipa": "[la kaʁ.ɡɛ.zɔ̃]",
+      "examples": [
+        { "s": "Le navire transporte une lourde cargaison vers l'Asie.", "zh": "這艘船運送沉重的貨物到亞洲。" },
+        { "s": "La cargaison a été déchargée au port.", "zh": "貨物在港口卸下了。" }
+      ]
+    },
+    "ja": {
+      "word": "貨物",
+      "kana": "かもつ",
+      "romaji": "kamotsu",
+      "examples": [
+        { "s": "その船は重い貨物をアジアへ運びます。", "zh": "那艘船把沉重的貨物運往亞洲。" },
+        { "s": "貨物は港で無事に降ろされました。", "zh": "貨物在港口被安全卸下。" }
+      ]
+    }
+  },
+  {
+    "id": "p0382",
+    "de": {
+      "word": "der Zimmermann",
+      "ipa": "[ˈt͡sɪmɐˌman]",
+      "examples": [
+        { "s": "Der Zimmermann baut ein neues Dach für unser Haus.", "zh": "木匠為我們的房子搭建新的屋頂。" },
+        { "s": "Mein Onkel ist Zimmermann von Beruf.", "zh": "我叔叔的職業是木匠。" }
+      ]
+    },
+    "fr": {
+      "word": "le charpentier",
+      "ipa": "[lə ʃaʁ.pɑ̃.tje]",
+      "examples": [
+        { "s": "Le charpentier construit une nouvelle charpente.", "zh": "木匠正在搭建新的屋架。" },
+        { "s": "Mon oncle est charpentier de métier.", "zh": "我叔叔的職業是木匠。" }
+      ]
+    },
+    "ja": {
+      "word": "大工",
+      "kana": "だいく",
+      "romaji": "daiku",
+      "examples": [
+        { "s": "大工さんが家の新しい屋根を作っています。", "zh": "木匠正在幫房子做新屋頂。" },
+        { "s": "叔父は大工の仕事をしています。", "zh": "我叔叔從事木匠的工作。" }
+      ]
+    }
+  },
+  {
+    "id": "p0383",
+    "de": {
+      "word": "der Teppich",
+      "ipa": "[ˈtɛpɪç]",
+      "examples": [
+        { "s": "Wir haben einen neuen Teppich für das Wohnzimmer gekauft.", "zh": "我們為客廳買了一張新地毯。" },
+        { "s": "Zieh bitte die Schuhe aus, bevor du den Teppich betrittst.", "zh": "踩上地毯前請先脫鞋。" }
+      ]
+    },
+    "fr": {
+      "word": "le tapis",
+      "ipa": "[lə ta.pi]",
+      "examples": [
+        { "s": "Nous avons acheté un nouveau tapis pour le salon.", "zh": "我們為客廳買了一張新地毯。" },
+        { "s": "Enlève tes chaussures avant de marcher sur le tapis.", "zh": "踩上地毯前請先脫鞋。" }
+      ]
+    },
+    "ja": {
+      "word": "じゅうたん",
+      "kana": "じゅうたん",
+      "romaji": "jūtan",
+      "examples": [
+        { "s": "リビング用に新しいじゅうたんを買いました。", "zh": "我們為客廳買了新地毯。" },
+        { "s": "じゅうたんに上がる前に靴を脱いでください。", "zh": "踩上地毯前請先脫鞋。" }
+      ]
+    }
+  },
+  {
+    "id": "p0384",
+    "de": {
+      "word": "der Träger",
+      "ipa": "[ˈtʁɛːɡɐ]",
+      "examples": [
+        { "s": "Der Flugzeugträger liegt vor der Küste.", "zh": "航空母艦停在海岸外。" },
+        { "s": "Dieser Lkw dient als Träger für schwere Maschinen.", "zh": "這輛卡車作為重型機械的運輸載具。" }
+      ]
+    },
+    "fr": {
+      "word": "le porte-avions",
+      "ipa": "[lə pɔʁt.a.vjɔ̃]",
+      "examples": [
+        { "s": "Le porte-avions est ancré au large.", "zh": "航空母艦停泊在外海。" },
+        { "s": "Ce véhicule sert de moyen de transport pour les marchandises.", "zh": "這輛車作為貨物的運輸工具。" }
+      ]
+    },
+    "ja": {
+      "word": "空母",
+      "kana": "くうぼ",
+      "romaji": "kūbo",
+      "examples": [
+        { "s": "空母が沖合に停泊しています。", "zh": "航空母艦停泊在外海。" },
+        { "s": "このトラックは重い機械を運ぶ輸送手段です。", "zh": "這輛卡車是搬運重機械的運輸工具。" }
+      ]
+    }
+  },
+  {
+    "id": "p0385",
+    "de": {
+      "word": "der Einkaufswagen",
+      "ipa": "[ˈaɪnkaʊfsˌvaːɡn̩]",
+      "examples": [
+        { "s": "Ich schiebe den Einkaufswagen durch den Supermarkt.", "zh": "我推著購物車穿過超市。" },
+        { "s": "Der Einkaufswagen ist schon voll mit Lebensmitteln.", "zh": "購物車已經裝滿了食品。" }
+      ]
+    },
+    "fr": {
+      "word": "le chariot",
+      "ipa": "[lə ʃa.ʁjo]",
+      "examples": [
+        { "s": "Je pousse le chariot dans le supermarché.", "zh": "我在超市裡推著購物車。" },
+        { "s": "Le chariot est déjà rempli de courses.", "zh": "購物車已經裝滿了要買的東西。" }
+      ]
+    },
+    "ja": {
+      "word": "カート",
+      "kana": "カート",
+      "romaji": "kāto",
+      "examples": [
+        { "s": "スーパーでカートを押しています。", "zh": "我在超市裡推著購物車。" },
+        { "s": "カートはもう食料品でいっぱいです。", "zh": "購物車已經裝滿食品了。" }
+      ]
+    }
+  },
+  {
+    "id": "p0386",
+    "de": {
+      "word": "das Bargeld",
+      "ipa": "[ˈbaːɐ̯ˌɡɛlt]",
+      "examples": [
+        { "s": "Ich habe kein Bargeld dabei, nur meine Karte.", "zh": "我身上沒帶現金,只有我的卡。" },
+        { "s": "In diesem Laden kann man nur mit Bargeld bezahlen.", "zh": "這家店只能用現金付款。" }
+      ]
+    },
+    "fr": {
+      "word": "l'argent liquide",
+      "ipa": "[laʁ.ʒɑ̃ li.kid]",
+      "examples": [
+        { "s": "Je n'ai pas d'argent liquide sur moi, seulement ma carte.", "zh": "我身上沒帶現金,只有我的卡。" },
+        { "s": "Ce magasin n'accepte que l'argent liquide.", "zh": "這家店只收現金。" }
+      ]
+    },
+    "ja": {
+      "word": "現金",
+      "kana": "げんきん",
+      "romaji": "genkin",
+      "examples": [
+        { "s": "現金を持っていなくて、カードしかありません。", "zh": "我沒帶現金,只有卡。" },
+        { "s": "この店は現金しか使えません。", "zh": "這家店只能用現金。" }
+      ]
+    }
+  },
+  {
+    "id": "p0387",
+    "de": {
+      "word": "der Cashflow",
+      "ipa": "[ˈkɛʃfloː]",
+      "examples": [
+        { "s": "Das Unternehmen hat dieses Jahr einen positiven Cashflow.", "zh": "這家公司今年有正的現金流。" },
+        { "s": "Ein guter Cashflow ist für kleine Firmen entscheidend.", "zh": "良好的現金流對小公司至關重要。" }
+      ]
+    },
+    "fr": {
+      "word": "la trésorerie",
+      "ipa": "[la tʁe.zɔ.ʁ.ʁi]",
+      "examples": [
+        { "s": "L'entreprise a une trésorerie positive cette année.", "zh": "公司今年有正的現金流。" },
+        { "s": "Une bonne trésorerie est essentielle pour les petites entreprises.", "zh": "良好的現金流對小企業至關重要。" }
+      ]
+    },
+    "ja": {
+      "word": "キャッシュフロー",
+      "kana": "キャッシュフロー",
+      "romaji": "kyasshufurō",
+      "examples": [
+        { "s": "その会社は今年、プラスのキャッシュフローを出しています。", "zh": "那家公司今年現金流為正。" },
+        { "s": "良いキャッシュフローは小さな会社にとって重要です。", "zh": "良好的現金流對小公司很重要。" }
+      ]
+    }
+  },
+  {
+    "id": "p0388",
+    "de": {
+      "word": "die Registrierkasse",
+      "ipa": "[ʁeɡɪsˈtʁiːɐ̯ˌkasə]",
+      "examples": [
+        { "s": "Die Kassiererin tippt den Preis in die Registrierkasse.", "zh": "收銀員把價格輸入收銀機。" },
+        { "s": "Die Registrierkasse ist plötzlich ausgefallen.", "zh": "收銀機突然故障了。" }
+      ]
+    },
+    "fr": {
+      "word": "la caisse enregistreuse",
+      "ipa": "[la kɛs ɑ̃.ʁə.ʒis.tʁøz]",
+      "examples": [
+        { "s": "La caissière tape le prix sur la caisse enregistreuse.", "zh": "收銀員把價格輸入收銀機。" },
+        { "s": "La caisse enregistreuse est tombée en panne.", "zh": "收銀機故障了。" }
+      ]
+    },
+    "ja": {
+      "word": "レジ",
+      "kana": "レジ",
+      "romaji": "reji",
+      "examples": [
+        { "s": "店員がレジに金額を打ち込んでいます。", "zh": "店員正把金額輸入收銀機。" },
+        { "s": "急にレジが動かなくなりました。", "zh": "收銀機突然不動了。" }
+      ]
+    }
+  },
+  {
+    "id": "p0389",
+    "de": {
+      "word": "der Kassierer",
+      "ipa": "[kaˈsiːʁɐ]",
+      "examples": [
+        { "s": "Der Kassierer gibt mir das Wechselgeld zurück.", "zh": "收銀員把零錢找給我。" },
+        { "s": "Sie arbeitet als Kassiererin im Supermarkt.", "zh": "她在超市當收銀員。" }
+      ]
+    },
+    "fr": {
+      "word": "le caissier",
+      "ipa": "[lə kɛ.sje]",
+      "examples": [
+        { "s": "Le caissier me rend la monnaie.", "zh": "收銀員把零錢找給我。" },
+        { "s": "Elle travaille comme caissière au supermarché.", "zh": "她在超市當收銀員。" }
+      ]
+    },
+    "ja": {
+      "word": "レジ係",
+      "kana": "レジがかり",
+      "romaji": "rejigakari",
+      "examples": [
+        { "s": "レジ係がおつりを渡してくれました。", "zh": "收銀員把零錢找給我了。" },
+        { "s": "彼女はスーパーでレジ係として働いています。", "zh": "她在超市當收銀員。" }
+      ]
+    }
+  },
+  {
+    "id": "p0390",
+    "de": {
+      "word": "die Besetzung",
+      "ipa": "[bəˈzɛt͡sʊŋ]",
+      "examples": [
+        { "s": "Die Besetzung des Films ist wirklich beeindruckend.", "zh": "這部電影的演員陣容真令人印象深刻。" },
+        { "s": "Der Regisseur stellte eine talentierte Besetzung zusammen.", "zh": "導演組建了一組才華洋溢的演員陣容。" }
+      ]
+    },
+    "fr": {
+      "word": "la distribution",
+      "ipa": "[la dis.tʁi.by.sjɔ̃]",
+      "examples": [
+        { "s": "La distribution du film est vraiment impressionnante.", "zh": "這部電影的演員陣容真令人印象深刻。" },
+        { "s": "Le réalisateur a réuni une distribution talentueuse.", "zh": "導演集結了一組才華洋溢的演員陣容。" }
+      ]
+    },
+    "ja": {
+      "word": "キャスト",
+      "kana": "キャスト",
+      "romaji": "kyasuto",
+      "examples": [
+        { "s": "この映画のキャストは本当に豪華です。", "zh": "這部電影的演員陣容真是豪華。" },
+        { "s": "監督は才能あるキャストを集めました。", "zh": "導演集結了有才華的演員陣容。" }
+      ]
+    }
+  },
+  {
+    "id": "p0391",
+    "de": {
+      "word": "das Schloss",
+      "ipa": "[ʃlɔs]",
+      "examples": [
+        { "s": "Wir haben ein altes Schloss in Bayern besucht.", "zh": "我們參觀了巴伐利亞的一座古老城堡。" },
+        { "s": "Das Schloss steht auf einem hohen Hügel.", "zh": "這座城堡座落在高高的山丘上。" }
+      ]
+    },
+    "fr": {
+      "word": "le château",
+      "ipa": "[lə ʃɑ.to]",
+      "examples": [
+        { "s": "Nous avons visité un vieux château dans la vallée.", "zh": "我們參觀了山谷裡的一座古老城堡。" },
+        { "s": "Le château se dresse sur une colline.", "zh": "這座城堡矗立在山丘上。" }
+      ]
+    },
+    "ja": {
+      "word": "城",
+      "kana": "しろ",
+      "romaji": "shiro",
+      "examples": [
+        { "s": "私たちは古いお城を訪ねました。", "zh": "我們拜訪了一座古老的城堡。" },
+        { "s": "その城は高い丘の上に建っています。", "zh": "那座城堡建在高高的山丘上。" }
+      ]
+    }
+  },
+  {
+    "id": "p0392",
+    "de": {
+      "word": "leger",
+      "ipa": "[leˈʒeːɐ̯]",
+      "examples": [
+        { "s": "Für das Treffen kannst du dich leger anziehen.", "zh": "這場聚會你可以穿得隨性一點。" },
+        { "s": "Er hat eine sehr legere Art zu reden.", "zh": "他說話的方式很隨性。" }
+      ]
+    },
+    "fr": {
+      "word": "décontracté",
+      "ipa": "[de.kɔ̃.tʁak.te]",
+      "examples": [
+        { "s": "Tu peux venir en tenue décontractée à la fête.", "zh": "你可以穿休閒的衣服來參加派對。" },
+        { "s": "Il a une attitude très décontractée.", "zh": "他的態度很隨性。" }
+      ]
+    },
+    "ja": {
+      "word": "カジュアルな",
+      "kana": "カジュアルな",
+      "romaji": "kajuaru na",
+      "examples": [
+        { "s": "パーティーにはカジュアルな服装で来てください。", "zh": "派對請穿休閒服裝來。" },
+        { "s": "彼はいつもカジュアルな雰囲気です。", "zh": "他總是給人很隨性的感覺。" }
+      ]
+    }
+  },
+  {
+    "id": "p0393",
+    "de": {
+      "word": "die Katze",
+      "ipa": "[ˈkat͡sə]",
+      "examples": [
+        { "s": "Meine Katze schläft den ganzen Tag auf dem Sofa.", "zh": "我的貓整天在沙發上睡覺。" },
+        { "s": "Die Katze jagt gern nach dem roten Punkt.", "zh": "這隻貓喜歡追逐那個紅點。" }
+      ]
+    },
+    "fr": {
+      "word": "le chat",
+      "ipa": "[lə ʃa]",
+      "examples": [
+        { "s": "Mon chat dort toute la journée sur le canapé.", "zh": "我的貓整天在沙發上睡覺。" },
+        { "s": "Le chat aime chasser le point rouge.", "zh": "這隻貓喜歡追逐那個紅點。" }
+      ]
+    },
+    "ja": {
+      "word": "猫",
+      "kana": "ねこ",
+      "romaji": "neko",
+      "examples": [
+        { "s": "うちの猫は一日中ソファで寝ています。", "zh": "我家的貓整天在沙發上睡覺。" },
+        { "s": "猫は赤い点を追いかけるのが好きです。", "zh": "貓喜歡追那個紅點。" }
+      ]
+    }
+  },
+  {
+    "id": "p0394",
+    "de": {
+      "word": "fangen",
+      "ipa": "[ˈfaŋən]",
+      "examples": [
+        { "s": "Kannst du den Ball fangen, wenn ich ihn werfe?", "zh": "我丟球時你能接住嗎?" },
+        { "s": "Die Polizei konnte den Dieb schnell fangen.", "zh": "警察很快就抓住了小偷。" }
+      ]
+    },
+    "fr": {
+      "word": "attraper",
+      "ipa": "[a.tʁa.pe]",
+      "examples": [
+        { "s": "Peux-tu attraper le ballon quand je le lance ?", "zh": "我丟球時你能接住嗎?" },
+        { "s": "La police a réussi à attraper le voleur.", "zh": "警察成功抓住了小偷。" }
+      ]
+    },
+    "ja": {
+      "word": "捕まえる",
+      "kana": "つかまえる",
+      "romaji": "tsukamaeru",
+      "examples": [
+        { "s": "ボールを投げるから捕まえてね。", "zh": "我要丟球了,你接住喔。" },
+        { "s": "警察はすぐに泥棒を捕まえた。", "zh": "警察很快就抓住了小偷。" }
+      ]
+    }
+  },
+  {
+    "id": "p0395",
+    "de": {
+      "word": "die Raupe",
+      "ipa": "[ˈʁaʊpə]",
+      "examples": [
+        { "s": "Eine grüne Raupe kriecht über das Blatt.", "zh": "一隻綠色的毛毛蟲在葉子上爬。" },
+        { "s": "Aus der Raupe wird später ein Schmetterling.", "zh": "毛毛蟲後來會變成蝴蝶。" }
+      ]
+    },
+    "fr": {
+      "word": "la chenille",
+      "ipa": "[la ʃə.nij]",
+      "examples": [
+        { "s": "Une chenille verte grimpe sur la feuille.", "zh": "一隻綠色的毛毛蟲在葉子上爬。" },
+        { "s": "La chenille se transformera en papillon.", "zh": "毛毛蟲會變成蝴蝶。" }
+      ]
+    },
+    "ja": {
+      "word": "毛虫",
+      "kana": "けむし",
+      "romaji": "kemushi",
+      "examples": [
+        { "s": "緑色の毛虫が葉っぱの上を這っています。", "zh": "一隻綠色的毛毛蟲在葉子上爬。" },
+        { "s": "毛虫はやがて蝶になります。", "zh": "毛毛蟲最終會變成蝴蝶。" }
+      ]
+    }
+  },
+  {
+    "id": "p0396",
+    "de": {
+      "word": "der Kokon",
+      "ipa": "[koˈkõː]",
+      "examples": [
+        { "s": "Die Raupe spinnt sich einen Kokon aus Seide.", "zh": "毛毛蟲用絲為自己結了一個繭。" },
+        { "s": "Im Kokon verwandelt sich das Insekt langsam.", "zh": "昆蟲在繭裡慢慢蛻變。" }
+      ]
+    },
+    "fr": {
+      "word": "le cocon",
+      "ipa": "[lə kɔ.kɔ̃]",
+      "examples": [
+        { "s": "La chenille tisse un cocon de soie.", "zh": "毛毛蟲用絲織了一個繭。" },
+        { "s": "Dans le cocon, l'insecte se transforme lentement.", "zh": "昆蟲在繭裡慢慢蛻變。" }
+      ]
+    },
+    "ja": {
+      "word": "繭",
+      "kana": "まゆ",
+      "romaji": "mayu",
+      "examples": [
+        { "s": "毛虫は絹の糸で繭を作ります。", "zh": "毛毛蟲用絲線做繭。" },
+        { "s": "繭の中で虫は少しずつ変化します。", "zh": "昆蟲在繭裡逐漸變化。" }
+      ]
+    }
+  },
+  {
+    "id": "p0397",
+    "de": {
+      "word": "die Kathedrale",
+      "ipa": "[kateˈdʁaːlə]",
+      "examples": [
+        { "s": "Die Kathedrale in Köln ist weltberühmt.", "zh": "科隆的大教堂舉世聞名。" },
+        { "s": "Wir haben die alte Kathedrale im Stadtzentrum besichtigt.", "zh": "我們參觀了市中心的古老大教堂。" }
+      ]
+    },
+    "fr": {
+      "word": "la cathédrale",
+      "ipa": "[la ka.te.dʁal]",
+      "examples": [
+        { "s": "La cathédrale de Paris est mondialement connue.", "zh": "巴黎的大教堂舉世聞名。" },
+        { "s": "Nous avons visité la vieille cathédrale du centre-ville.", "zh": "我們參觀了市中心的古老大教堂。" }
+      ]
+    },
+    "ja": {
+      "word": "大聖堂",
+      "kana": "だいせいどう",
+      "romaji": "daiseidō",
+      "examples": [
+        { "s": "この街の大聖堂は世界的に有名です。", "zh": "這座城市的大教堂舉世聞名。" },
+        { "s": "私たちは古い大聖堂を見学しました。", "zh": "我們參觀了古老的大教堂。" }
+      ]
+    }
+  },
+  {
+    "id": "p0398",
+    "de": {
+      "word": "das Vieh",
+      "ipa": "[fiː]",
+      "examples": [
+        { "s": "Der Bauer treibt das Vieh auf die Weide.", "zh": "農夫把牛群趕到牧場上。" },
+        { "s": "Das Vieh grast ruhig auf dem Feld.", "zh": "牛群在田野上安靜地吃草。" }
+      ]
+    },
+    "fr": {
+      "word": "le bétail",
+      "ipa": "[lə be.taj]",
+      "examples": [
+        { "s": "Le fermier conduit le bétail au pâturage.", "zh": "農夫把牛群趕到牧場。" },
+        { "s": "Le bétail broute tranquillement dans le champ.", "zh": "牛群在田裡安靜地吃草。" }
+      ]
+    },
+    "ja": {
+      "word": "牛",
+      "kana": "うし",
+      "romaji": "ushi",
+      "examples": [
+        { "s": "農夫が牛の群れを牧場へ追い立てています。", "zh": "農夫把牛群趕往牧場。" },
+        { "s": "牛たちが野原で静かに草を食べています。", "zh": "牛群在田野上安靜地吃草。" }
+      ]
+    }
+  },
+  {
+    "id": "p0399",
+    "de": {
+      "word": "die Dichtmasse",
+      "ipa": "[ˈdɪçtˌmasə]",
+      "examples": [
+        { "s": "Ich trage Dichtmasse um die Badewanne auf.", "zh": "我在浴缸周圍塗上填縫膠。" },
+        { "s": "Die alte Dichtmasse muss zuerst entfernt werden.", "zh": "舊的填縫膠必須先清除。" }
+      ]
+    },
+    "fr": {
+      "word": "le mastic",
+      "ipa": "[lə mas.tik]",
+      "examples": [
+        { "s": "J'applique du mastic autour de la baignoire.", "zh": "我在浴缸周圍塗上填縫膠。" },
+        { "s": "Il faut d'abord enlever l'ancien mastic.", "zh": "必須先清除舊的填縫膠。" }
+      ]
+    },
+    "ja": {
+      "word": "コーキング材",
+      "kana": "コーキングざい",
+      "romaji": "kōkingu zai",
+      "examples": [
+        { "s": "浴槽の周りにコーキング材を塗ります。", "zh": "我在浴缸周圍塗填縫膠。" },
+        { "s": "古いコーキング材をまず取り除く必要があります。", "zh": "必須先清除舊的填縫膠。" }
+      ]
+    }
+  },
+  {
+    "id": "p0400",
+    "de": {
+      "word": "die Ursache",
+      "ipa": "[ˈuːɐ̯ˌzaxə]",
+      "examples": [
+        { "s": "Die Ursache des Unfalls ist noch unbekannt.", "zh": "事故的原因仍然不明。" },
+        { "s": "Ärzte suchen nach der Ursache der Krankheit.", "zh": "醫生正在尋找這種疾病的起因。" }
+      ]
+    },
+    "fr": {
+      "word": "la cause",
+      "ipa": "[la koz]",
+      "examples": [
+        { "s": "La cause de l'accident reste inconnue.", "zh": "事故的原因仍然不明。" },
+        { "s": "Les médecins cherchent la cause de la maladie.", "zh": "醫生正在尋找這種疾病的起因。" }
+      ]
+    },
+    "ja": {
+      "word": "原因",
+      "kana": "げんいん",
+      "romaji": "gen'in",
+      "examples": [
+        { "s": "事故の原因はまだ分かっていません。", "zh": "事故的原因還不清楚。" },
+        { "s": "医者は病気の原因を探しています。", "zh": "醫生正在尋找疾病的起因。" }
+      ]
+    }
+  }
+]

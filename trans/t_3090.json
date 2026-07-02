@@ -1,0 +1,170 @@
+[
+  {
+    "id": "p3041",
+    "de": {
+      "word": "gestern",
+      "ipa": "[ˈɡɛstɐn]",
+      "examples": [
+        { "s": "Gestern habe ich den ganzen Tag gearbeitet.", "zh": "我昨天工作了一整天。" },
+        { "s": "Wir haben uns gestern Abend im Kino getroffen.", "zh": "我們昨天晚上在電影院見面了。" }
+      ]
+    },
+    "fr": {
+      "word": "hier",
+      "ipa": "[jɛʁ]",
+      "examples": [
+        { "s": "Hier, il a plu toute la journée.", "zh": "昨天下了一整天的雨。" },
+        { "s": "Je l'ai vu hier au supermarché.", "zh": "我昨天在超市看到他。" }
+      ]
+    },
+    "ja": {
+      "word": "昨日",
+      "kana": "きのう",
+      "romaji": "kinou",
+      "examples": [
+        { "s": "昨日は友達と映画を見ました。", "zh": "昨天我和朋友看了電影。" },
+        { "s": "昨日の夜は早く寝ました。", "zh": "昨天晚上我很早就睡了。" }
+      ]
+    }
+  },
+  {
+    "id": "p3042",
+    "de": {
+      "word": "die Vorfahrt",
+      "ipa": "[ˈfoːɐ̯faːɐ̯t]",
+      "examples": [
+        { "s": "An dieser Kreuzung musst du die Vorfahrt beachten.", "zh": "在這個路口你必須注意禮讓。" },
+        { "s": "Bitte gewähre den Fußgängern die Vorfahrt.", "zh": "請讓行給行人。" }
+      ]
+    },
+    "fr": {
+      "word": "céder le passage",
+      "ipa": "[sede lə pasaʒ]",
+      "examples": [
+        { "s": "Tu dois céder le passage aux voitures venant de droite.", "zh": "你必須讓行給右邊來的車。" },
+        { "s": "Le panneau indique qu'il faut céder le passage.", "zh": "標誌顯示必須禮讓。" }
+      ]
+    },
+    "ja": {
+      "word": "譲る",
+      "kana": "ゆずる",
+      "romaji": "yuzuru",
+      "examples": [
+        { "s": "交差点では歩行者に道を譲ってください。", "zh": "在路口請禮讓行人。" },
+        { "s": "彼はお年寄りに席を譲りました。", "zh": "他把座位讓給了老人家。" }
+      ]
+    }
+  },
+  {
+    "id": "p3043",
+    "de": {
+      "word": "das Yoga",
+      "ipa": "[ˈjoːɡa]",
+      "examples": [
+        { "s": "Ich mache jeden Morgen eine halbe Stunde Yoga.", "zh": "我每天早上做半小時瑜伽。" },
+        { "s": "Yoga hilft mir, mich nach der Arbeit zu entspannen.", "zh": "瑜伽幫助我在下班後放鬆。" }
+      ]
+    },
+    "fr": {
+      "word": "le yoga",
+      "ipa": "[jɔɡa]",
+      "examples": [
+        { "s": "Elle fait du yoga tous les dimanches matin.", "zh": "她每個星期天早上做瑜伽。" },
+        { "s": "Le yoga m'aide à mieux dormir.", "zh": "瑜伽幫助我睡得更好。" }
+      ]
+    },
+    "ja": {
+      "word": "ヨガ",
+      "kana": "ヨガ",
+      "romaji": "yoga",
+      "examples": [
+        { "s": "週末はいつもヨガ教室に通っています。", "zh": "週末我總是去上瑜伽課。" },
+        { "s": "ヨガをすると体が柔らかくなります。", "zh": "做瑜伽會讓身體變柔軟。" }
+      ]
+    }
+  },
+  {
+    "id": "p3044",
+    "de": {
+      "word": "jung",
+      "ipa": "[jʊŋ]",
+      "examples": [
+        { "s": "Sie ist noch sehr jung und voller Energie.", "zh": "她還很年輕,充滿活力。" },
+        { "s": "Als ich jung war, habe ich viel Sport gemacht.", "zh": "我年輕的時候做很多運動。" }
+      ]
+    },
+    "fr": {
+      "word": "jeune",
+      "ipa": "[ʒœn]",
+      "examples": [
+        { "s": "Il est encore trop jeune pour conduire.", "zh": "他還太年輕,不能開車。" },
+        { "s": "Ce quartier attire beaucoup de jeunes familles.", "zh": "這個社區吸引了許多年輕家庭。" }
+      ]
+    },
+    "ja": {
+      "word": "若い",
+      "kana": "わかい",
+      "romaji": "wakai",
+      "examples": [
+        { "s": "彼女はまだ若いのに、とても仕事ができます。", "zh": "她雖然還年輕,卻很會工作。" },
+        { "s": "若いうちにいろいろな経験をしたほうがいいです。", "zh": "趁年輕多累積各種經驗比較好。" }
+      ]
+    }
+  },
+  {
+    "id": "p3045",
+    "de": {
+      "word": "die Zone",
+      "ipa": "[ˈt͡soːnə]",
+      "examples": [
+        { "s": "In dieser Zone darf man nicht parken.", "zh": "在這個區域不能停車。" },
+        { "s": "Die ganze Innenstadt ist eine Fußgängerzone.", "zh": "整個市中心是行人徒步區。" }
+      ]
+    },
+    "fr": {
+      "word": "la zone",
+      "ipa": "[zon]",
+      "examples": [
+        { "s": "Cette zone est réservée aux piétons.", "zh": "這個地帶是行人專用區。" },
+        { "s": "Il n'y a pas de réseau dans cette zone.", "zh": "這個區域沒有訊號。" }
+      ]
+    },
+    "ja": {
+      "word": "地帯",
+      "kana": "ちたい",
+      "romaji": "chitai",
+      "examples": [
+        { "s": "この地帯は駐車禁止です。", "zh": "這個地帶禁止停車。" },
+        { "s": "工場が多い地帯に住んでいます。", "zh": "我住在工廠很多的地帶。" }
+      ]
+    }
+  },
+  {
+    "id": "p3046",
+    "de": {
+      "word": "heranzoomen",
+      "ipa": "[hɛˈʁanˌt͡suːmən]",
+      "examples": [
+        { "s": "Kannst du das Bild ein bisschen heranzoomen?", "zh": "你可以把圖片拉近一點嗎?" },
+        { "s": "Mit dem Handy kann man ganz einfach heranzoomen.", "zh": "用手機可以很輕鬆地變焦拉近。" }
+      ]
+    },
+    "fr": {
+      "word": "zoomer",
+      "ipa": "[zume]",
+      "examples": [
+        { "s": "Zoome un peu pour mieux voir le texte.", "zh": "拉近一點才能看清楚文字。" },
+        { "s": "Il a zoomé sur le visage de l'enfant.", "zh": "他把鏡頭拉近到孩子的臉上。" }
+      ]
+    },
+    "ja": {
+      "word": "ズームする",
+      "kana": "ズームする",
+      "romaji": "zuumu suru",
+      "examples": [
+        { "s": "写真をズームして細かい部分を見ました。", "zh": "我把照片拉近看細節。" },
+        { "s": "もう少しズームしてくれますか。", "zh": "可以再拉近一點嗎?" }
+      ]
+    }
+  }
+]

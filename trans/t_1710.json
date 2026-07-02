@@ -1,0 +1,842 @@
+[
+  {
+    "id": "p1661",
+    "de": {
+      "word": "das Protokoll",
+      "ipa": "[pʁotoˈkɔl]",
+      "examples": [
+        { "s": "Ich schreibe das Protokoll der heutigen Sitzung.", "zh": "我來寫今天會議的記錄。" },
+        { "s": "Kannst du mir das Protokoll von gestern schicken?", "zh": "你可以把昨天的會議記錄寄給我嗎？" }
+      ]
+    },
+    "fr": {
+      "word": "le compte rendu",
+      "ipa": "[lə kɔ̃t ʁɑ̃dy]",
+      "examples": [
+        { "s": "Je dois rédiger le compte rendu de la réunion.", "zh": "我得撰寫這次會議的記錄。" },
+        { "s": "Le compte rendu sera envoyé à toute l'équipe.", "zh": "會議記錄將寄給整個團隊。" }
+      ]
+    },
+    "ja": {
+      "word": "議事録",
+      "kana": "ぎじろく",
+      "romaji": "gijiroku",
+      "examples": [
+        { "s": "会議の議事録をまとめておきます。", "zh": "我會把會議記錄整理好。" },
+        { "s": "昨日の議事録を送ってもらえますか。", "zh": "可以把昨天的會議記錄寄給我嗎？" }
+      ]
+    }
+  },
+  {
+    "id": "p1662",
+    "de": {
+      "word": "die Rakete",
+      "ipa": "[ʁaˈkeːtə]",
+      "examples": [
+        { "s": "Die Armee hat eine Rakete abgefeuert.", "zh": "軍方發射了一枚飛彈。" },
+        { "s": "Die Rakete traf ihr Ziel genau.", "zh": "那枚飛彈精準命中目標。" }
+      ]
+    },
+    "fr": {
+      "word": "le missile",
+      "ipa": "[lə misil]",
+      "examples": [
+        { "s": "Le missile a été lancé ce matin.", "zh": "這枚飛彈在今早發射了。" },
+        { "s": "Ils ont intercepté le missile ennemi.", "zh": "他們攔截了敵方的飛彈。" }
+      ]
+    },
+    "ja": {
+      "word": "ミサイル",
+      "kana": "ミサイル",
+      "romaji": "misairu",
+      "examples": [
+        { "s": "ミサイルが発射されたというニュースを見た。", "zh": "我看到飛彈發射的新聞。" },
+        { "s": "そのミサイルは海に落ちた。", "zh": "那枚飛彈落入了海中。" }
+      ]
+    }
+  },
+  {
+    "id": "p1663",
+    "de": {
+      "word": "die Mission",
+      "ipa": "[mɪˈsi̯oːn]",
+      "examples": [
+        { "s": "Unsere Mission ist es, sauberes Wasser zu liefern.", "zh": "我們的任務是提供乾淨的水。" },
+        { "s": "Die Mission war ein voller Erfolg.", "zh": "這次任務大獲成功。" }
+      ]
+    },
+    "fr": {
+      "word": "la mission",
+      "ipa": "[la misjɔ̃]",
+      "examples": [
+        { "s": "Sa mission est de former les nouveaux employés.", "zh": "他的任務是培訓新進員工。" },
+        { "s": "La mission a duré trois mois.", "zh": "這次任務持續了三個月。" }
+      ]
+    },
+    "ja": {
+      "word": "任務",
+      "kana": "にんむ",
+      "romaji": "ninmu",
+      "examples": [
+        { "s": "彼は難しい任務を任された。", "zh": "他被交付了艱難的任務。" },
+        { "s": "その任務は無事に完了した。", "zh": "那項任務順利完成了。" }
+      ]
+    }
+  },
+  {
+    "id": "p1664",
+    "de": {
+      "word": "mischen",
+      "ipa": "[ˈmɪʃn̩]",
+      "examples": [
+        { "s": "Bitte mische das Mehl mit dem Zucker.", "zh": "請把麵粉和糖攪拌在一起。" },
+        { "s": "Wir mischen die Farben, um Grün zu bekommen.", "zh": "我們混合顏料來調出綠色。" }
+      ]
+    },
+    "fr": {
+      "word": "mélanger",
+      "ipa": "[melɑ̃ʒe]",
+      "examples": [
+        { "s": "Mélange bien les œufs et le lait.", "zh": "把蛋和牛奶攪拌均勻。" },
+        { "s": "Il faut mélanger la peinture avant de l'utiliser.", "zh": "使用前要先把油漆攪拌好。" }
+      ]
+    },
+    "ja": {
+      "word": "混ぜる",
+      "kana": "まぜる",
+      "romaji": "mazeru",
+      "examples": [
+        { "s": "小麦粉と砂糖をよく混ぜてください。", "zh": "請把麵粉和糖攪拌均勻。" },
+        { "s": "二つの色を混ぜると紫になる。", "zh": "把兩種顏色混合會變成紫色。" }
+      ]
+    }
+  },
+  {
+    "id": "p1665",
+    "de": {
+      "word": "die Mischung",
+      "ipa": "[ˈmɪʃʊŋ]",
+      "examples": [
+        { "s": "Diese Mischung aus Kräutern schmeckt wunderbar.", "zh": "這種香草混合物味道很棒。" },
+        { "s": "Der Kuchen ist eine Mischung aus süß und salzig.", "zh": "這蛋糕是甜與鹹的混合。" }
+      ]
+    },
+    "fr": {
+      "word": "le mélange",
+      "ipa": "[lə melɑ̃ʒ]",
+      "examples": [
+        { "s": "Ce mélange d'épices vient d'Inde.", "zh": "這種香料混合物來自印度。" },
+        { "s": "J'aime le mélange de café et de chocolat.", "zh": "我喜歡咖啡與巧克力的混合。" }
+      ]
+    },
+    "ja": {
+      "word": "混合物",
+      "kana": "こんごうぶつ",
+      "romaji": "kongoubutsu",
+      "examples": [
+        { "s": "この飲み物はいくつかの果汁の混合物です。", "zh": "這飲料是幾種果汁的混合物。" },
+        { "s": "その粉は砂と塩の混合物だった。", "zh": "那種粉是砂與鹽的混合物。" }
+      ]
+    }
+  },
+  {
+    "id": "p1666",
+    "de": {
+      "word": "der Mokka",
+      "ipa": "[ˈmɔka]",
+      "examples": [
+        { "s": "Ich hätte gern einen heißen Mokka, bitte.", "zh": "我想要一杯熱摩卡，謝謝。" },
+        { "s": "Der Mokka hier schmeckt besonders schokoladig.", "zh": "這裡的摩卡特別有巧克力味。" }
+      ]
+    },
+    "fr": {
+      "word": "le moka",
+      "ipa": "[lə mɔka]",
+      "examples": [
+        { "s": "Je prends toujours un moka le matin.", "zh": "我早上總是喝一杯摩卡。" },
+        { "s": "Ce moka est un peu trop sucré.", "zh": "這杯摩卡有點太甜了。" }
+      ]
+    },
+    "ja": {
+      "word": "モカ",
+      "kana": "モカ",
+      "romaji": "moka",
+      "examples": [
+        { "s": "ホットのモカを一つください。", "zh": "請給我一杯熱摩卡。" },
+        { "s": "このカフェのモカはとても美味しい。", "zh": "這家咖啡店的摩卡很好喝。" }
+      ]
+    }
+  },
+  {
+    "id": "p1667",
+    "de": {
+      "word": "modern",
+      "ipa": "[moˈdɛʁn]",
+      "examples": [
+        { "s": "Ihre Wohnung ist sehr modern eingerichtet.", "zh": "她的公寓布置得很現代。" },
+        { "s": "Wir benutzen moderne Technik im Büro.", "zh": "我們在辦公室使用現代科技。" }
+      ]
+    },
+    "fr": {
+      "word": "moderne",
+      "ipa": "[mɔdɛʁn]",
+      "examples": [
+        { "s": "Ce bâtiment a un design très moderne.", "zh": "這棟建築的設計很現代。" },
+        { "s": "Elle préfère l'art moderne.", "zh": "她比較喜歡現代藝術。" }
+      ]
+    },
+    "ja": {
+      "word": "現代的な",
+      "kana": "げんだいてきな",
+      "romaji": "gendaiteki na",
+      "examples": [
+        { "s": "このビルはとても現代的なデザインだ。", "zh": "這棟大樓的設計非常現代。" },
+        { "s": "彼女は現代的な考え方を持っている。", "zh": "她有著現代化的思維。" }
+      ]
+    }
+  },
+  {
+    "id": "p1668",
+    "de": {
+      "word": "die Feuchtigkeitscreme",
+      "ipa": "[ˈfɔɪçtɪçkaɪtsˌkʁeːm]",
+      "examples": [
+        { "s": "Ich trage jeden Morgen eine Feuchtigkeitscreme auf.", "zh": "我每天早上都擦保濕乳液。" },
+        { "s": "Diese Feuchtigkeitscreme ist gut für trockene Haut.", "zh": "這款保濕霜適合乾性肌膚。" }
+      ]
+    },
+    "fr": {
+      "word": "la crème hydratante",
+      "ipa": "[la kʁɛm idʁatɑ̃t]",
+      "examples": [
+        { "s": "J'applique de la crème hydratante après la douche.", "zh": "我洗完澡後會擦保濕乳液。" },
+        { "s": "Cette crème hydratante sent très bon.", "zh": "這款保濕霜香味很好聞。" }
+      ]
+    },
+    "ja": {
+      "word": "保湿クリーム",
+      "kana": "ほしつクリーム",
+      "romaji": "hoshitsu kuriimu",
+      "examples": [
+        { "s": "毎朝、顔に保湿クリームを塗ります。", "zh": "我每天早上在臉上擦保濕乳液。" },
+        { "s": "冬は保湿クリームが欠かせない。", "zh": "冬天少不了保濕霜。" }
+      ]
+    }
+  },
+  {
+    "id": "p1669",
+    "de": {
+      "word": "der Mojito",
+      "ipa": "[moˈxiːto]",
+      "examples": [
+        { "s": "An heißen Tagen trinke ich gern einen Mojito.", "zh": "炎熱的日子我喜歡喝莫希托。" },
+        { "s": "Der Mojito schmeckt herrlich nach Minze.", "zh": "這杯莫希托有很棒的薄荷味。" }
+      ]
+    },
+    "fr": {
+      "word": "le mojito",
+      "ipa": "[lə mɔʒito]",
+      "examples": [
+        { "s": "On commande deux mojitos, s'il vous plaît.", "zh": "我們點兩杯莫希托，謝謝。" },
+        { "s": "Le mojito est ma boisson préférée en été.", "zh": "莫希托是我夏天最愛的飲料。" }
+      ]
+    },
+    "ja": {
+      "word": "モヒート",
+      "kana": "モヒート",
+      "romaji": "mohiito",
+      "examples": [
+        { "s": "夏になるとモヒートが飲みたくなる。", "zh": "一到夏天就想喝莫希托。" },
+        { "s": "このバーのモヒートはミントが効いている。", "zh": "這家酒吧的莫希托薄荷味很足。" }
+      ]
+    }
+  },
+  {
+    "id": "p1670",
+    "de": {
+      "word": "das Molekül",
+      "ipa": "[moleˈkyːl]",
+      "examples": [
+        { "s": "Wasser besteht aus zwei Wasserstoff- und einem Sauerstoffmolekül.", "zh": "水由兩個氫和一個氧分子組成。" },
+        { "s": "Der Lehrer erklärte, wie ein Molekül aufgebaut ist.", "zh": "老師解釋了分子是如何構成的。" }
+      ]
+    },
+    "fr": {
+      "word": "la molécule",
+      "ipa": "[la mɔlekyl]",
+      "examples": [
+        { "s": "Une molécule d'eau contient deux atomes d'hydrogène.", "zh": "一個水分子含有兩個氫原子。" },
+        { "s": "Les scientifiques étudient cette molécule complexe.", "zh": "科學家在研究這個複雜的分子。" }
+      ]
+    },
+    "ja": {
+      "word": "分子",
+      "kana": "ぶんし",
+      "romaji": "bunshi",
+      "examples": [
+        { "s": "水の分子は水素と酸素からできている。", "zh": "水分子由氫和氧構成。" },
+        { "s": "この薬は特別な分子構造を持つ。", "zh": "這種藥有特殊的分子結構。" }
+      ]
+    }
+  },
+  {
+    "id": "p1671",
+    "de": {
+      "word": "der Montag",
+      "ipa": "[ˈmoːntaːk]",
+      "examples": [
+        { "s": "Am Montag beginnt wieder die Arbeit.", "zh": "星期一又要開始工作了。" },
+        { "s": "Wir treffen uns nächsten Montag um zehn.", "zh": "我們下週一十點見面。" }
+      ]
+    },
+    "fr": {
+      "word": "le lundi",
+      "ipa": "[lə lœ̃di]",
+      "examples": [
+        { "s": "Le lundi, je vais toujours à la gym.", "zh": "星期一我總是去健身房。" },
+        { "s": "La réunion aura lieu lundi matin.", "zh": "會議將在星期一早上舉行。" }
+      ]
+    },
+    "ja": {
+      "word": "月曜日",
+      "kana": "げつようび",
+      "romaji": "getsuyoubi",
+      "examples": [
+        { "s": "月曜日はいつも忙しい。", "zh": "星期一總是很忙。" },
+        { "s": "来週の月曜日に会いましょう。", "zh": "我們下週一見吧。" }
+      ]
+    }
+  },
+  {
+    "id": "p1672",
+    "de": {
+      "word": "das Geld",
+      "ipa": "[ɡɛlt]",
+      "examples": [
+        { "s": "Ich habe nicht genug Geld für das Auto.", "zh": "我沒有足夠的錢買那台車。" },
+        { "s": "Er spart jeden Monat etwas Geld.", "zh": "他每個月都存一點錢。" }
+      ]
+    },
+    "fr": {
+      "word": "l'argent",
+      "ipa": "[laʁʒɑ̃]",
+      "examples": [
+        { "s": "Je n'ai pas assez d'argent ce mois-ci.", "zh": "我這個月的錢不夠。" },
+        { "s": "Il dépense trop d'argent en vêtements.", "zh": "他在衣服上花太多錢了。" }
+      ]
+    },
+    "ja": {
+      "word": "お金",
+      "kana": "おかね",
+      "romaji": "okane",
+      "examples": [
+        { "s": "旅行のためにお金を貯めている。", "zh": "我為了旅行在存錢。" },
+        { "s": "今月はお金があまりない。", "zh": "這個月我的錢不太夠。" }
+      ]
+    }
+  },
+  {
+    "id": "p1673",
+    "de": {
+      "word": "der Monitor",
+      "ipa": "[ˈmoːnitoːɐ̯]",
+      "examples": [
+        { "s": "Mein Monitor ist zu klein zum Arbeiten.", "zh": "我的螢幕太小了不好工作。" },
+        { "s": "Ich habe einen neuen Monitor gekauft.", "zh": "我買了一台新螢幕。" }
+      ]
+    },
+    "fr": {
+      "word": "l'écran",
+      "ipa": "[lekʁɑ̃]",
+      "examples": [
+        { "s": "Mon écran d'ordinateur est trop petit.", "zh": "我的電腦螢幕太小了。" },
+        { "s": "Je passe trop de temps devant l'écran.", "zh": "我在螢幕前待太久了。" }
+      ]
+    },
+    "ja": {
+      "word": "モニター",
+      "kana": "モニター",
+      "romaji": "monitaa",
+      "examples": [
+        { "s": "新しいモニターを買った。", "zh": "我買了一台新螢幕。" },
+        { "s": "このモニターは画質がとても良い。", "zh": "這台螢幕的畫質非常好。" }
+      ]
+    }
+  },
+  {
+    "id": "p1674",
+    "de": {
+      "word": "der Mönch",
+      "ipa": "[mœnç]",
+      "examples": [
+        { "s": "Der Mönch lebt in einem alten Kloster.", "zh": "這位僧侶住在一座古老的修道院裡。" },
+        { "s": "Ein Mönch begrüßte uns am Tor.", "zh": "一位修士在門口迎接我們。" }
+      ]
+    },
+    "fr": {
+      "word": "le moine",
+      "ipa": "[lə mwan]",
+      "examples": [
+        { "s": "Le moine passe ses journées à prier.", "zh": "這位修士整天都在祈禱。" },
+        { "s": "Un moine nous a montré le monastère.", "zh": "一位修士帶我們參觀了修道院。" }
+      ]
+    },
+    "ja": {
+      "word": "僧侶",
+      "kana": "そうりょ",
+      "romaji": "souryo",
+      "examples": [
+        { "s": "その僧侶は毎朝お経を読む。", "zh": "那位僧侶每天早上誦經。" },
+        { "s": "山寺で若い僧侶に出会った。", "zh": "我在山中的寺廟遇見一位年輕僧侶。" }
+      ]
+    }
+  },
+  {
+    "id": "p1675",
+    "de": {
+      "word": "die Monogamie",
+      "ipa": "[monoɡaˈmiː]",
+      "examples": [
+        { "s": "Sie glauben an die Monogamie in ihrer Ehe.", "zh": "他們相信婚姻中的一夫一妻。" },
+        { "s": "Monogamie ist für viele Paare selbstverständlich.", "zh": "對許多伴侶來說專一是理所當然的。" }
+      ]
+    },
+    "fr": {
+      "word": "la monogamie",
+      "ipa": "[la mɔnɔɡami]",
+      "examples": [
+        { "s": "La monogamie est courante dans leur culture.", "zh": "一夫一妻在他們的文化中很普遍。" },
+        { "s": "Ils ont choisi la monogamie par conviction.", "zh": "他們出於信念選擇了專一關係。" }
+      ]
+    },
+    "ja": {
+      "word": "一夫一妻",
+      "kana": "いっぷいっさい",
+      "romaji": "ippuissai",
+      "examples": [
+        { "s": "彼らは一夫一妻の関係を大切にしている。", "zh": "他們很重視一夫一妻的關係。" },
+        { "s": "多くの国では一夫一妻が法律で定められている。", "zh": "許多國家以法律規定一夫一妻。" }
+      ]
+    }
+  },
+  {
+    "id": "p1676",
+    "de": {
+      "word": "das Monopol",
+      "ipa": "[monoˈpoːl]",
+      "examples": [
+        { "s": "Die Firma hat ein Monopol auf dem Markt.", "zh": "這家公司在市場上處於壟斷地位。" },
+        { "s": "Der Staat besitzt ein Monopol auf Tabak.", "zh": "國家對菸草擁有專賣權。" }
+      ]
+    },
+    "fr": {
+      "word": "le monopole",
+      "ipa": "[lə mɔnɔpɔl]",
+      "examples": [
+        { "s": "Cette entreprise détient un monopole sur le gaz.", "zh": "這家公司壟斷了天然氣市場。" },
+        { "s": "Le monopole nuit à la concurrence.", "zh": "壟斷損害了市場競爭。" }
+      ]
+    },
+    "ja": {
+      "word": "独占",
+      "kana": "どくせん",
+      "romaji": "dokusen",
+      "examples": [
+        { "s": "その会社は市場を独占している。", "zh": "那家公司壟斷了市場。" },
+        { "s": "独占は消費者にとって不利になることが多い。", "zh": "壟斷往往對消費者不利。" }
+      ]
+    }
+  },
+  {
+    "id": "p1677",
+    "de": {
+      "word": "das Monster",
+      "ipa": "[ˈmɔnstɐ]",
+      "examples": [
+        { "s": "Das Kind hatte Angst vor dem Monster im Schrank.", "zh": "那孩子害怕衣櫃裡的怪物。" },
+        { "s": "In dem Film kämpfen sie gegen ein riesiges Monster.", "zh": "電影裡他們與一隻巨大的怪物搏鬥。" }
+      ]
+    },
+    "fr": {
+      "word": "le monstre",
+      "ipa": "[lə mɔ̃stʁ]",
+      "examples": [
+        { "s": "L'enfant croit qu'un monstre vit sous son lit.", "zh": "那孩子以為床底下住著怪物。" },
+        { "s": "Le héros affronte un monstre effrayant.", "zh": "英雄面對一隻可怕的怪物。" }
+      ]
+    },
+    "ja": {
+      "word": "怪物",
+      "kana": "かいぶつ",
+      "romaji": "kaibutsu",
+      "examples": [
+        { "s": "子供はクローゼットの中の怪物を怖がった。", "zh": "孩子害怕衣櫃裡的怪物。" },
+        { "s": "その映画には恐ろしい怪物が出てくる。", "zh": "那部電影裡出現了可怕的怪物。" }
+      ]
+    }
+  },
+  {
+    "id": "p1678",
+    "de": {
+      "word": "monatlich",
+      "ipa": "[ˈmoːnatlɪç]",
+      "examples": [
+        { "s": "Ich zahle die Miete monatlich.", "zh": "我每個月付房租。" },
+        { "s": "Wir haben ein monatliches Treffen im Büro.", "zh": "我們辦公室有每月一次的聚會。" }
+      ]
+    },
+    "fr": {
+      "word": "mensuel",
+      "ipa": "[mɑ̃sɥɛl]",
+      "examples": [
+        { "s": "Le loyer est un paiement mensuel.", "zh": "房租是每月支付的。" },
+        { "s": "Elle reçoit un salaire mensuel.", "zh": "她領的是月薪。" }
+      ]
+    },
+    "ja": {
+      "word": "毎月",
+      "kana": "まいつき",
+      "romaji": "maitsuki",
+      "examples": [
+        { "s": "毎月、家賃を払っています。", "zh": "我每個月都付房租。" },
+        { "s": "この雑誌は毎月発行される。", "zh": "這本雜誌每月發行。" }
+      ]
+    }
+  },
+  {
+    "id": "p1679",
+    "de": {
+      "word": "das Denkmal",
+      "ipa": "[ˈdɛŋkmaːl]",
+      "examples": [
+        { "s": "Im Park steht ein altes Denkmal.", "zh": "公園裡有一座古老的紀念碑。" },
+        { "s": "Das Denkmal erinnert an die gefallenen Soldaten.", "zh": "這座紀念碑紀念陣亡的士兵。" }
+      ]
+    },
+    "fr": {
+      "word": "le monument",
+      "ipa": "[lə mɔnymɑ̃]",
+      "examples": [
+        { "s": "Ce monument attire beaucoup de touristes.", "zh": "這座歷史遺跡吸引許多遊客。" },
+        { "s": "Le monument a été construit au dix-neuvième siècle.", "zh": "這座紀念碑建於十九世紀。" }
+      ]
+    },
+    "ja": {
+      "word": "記念碑",
+      "kana": "きねんひ",
+      "romaji": "kinenhi",
+      "examples": [
+        { "s": "広場に大きな記念碑が立っている。", "zh": "廣場上矗立著一座大型紀念碑。" },
+        { "s": "その記念碑は戦争の犠牲者を悼むものだ。", "zh": "那座紀念碑是為悼念戰爭犧牲者而建。" }
+      ]
+    }
+  },
+  {
+    "id": "p1680",
+    "de": {
+      "word": "die Stimmung",
+      "ipa": "[ˈʃtɪmʊŋ]",
+      "examples": [
+        { "s": "Heute bin ich in guter Stimmung.", "zh": "我今天心情很好。" },
+        { "s": "Die Musik hat meine Stimmung gehoben.", "zh": "音樂讓我的心情變好了。" }
+      ]
+    },
+    "fr": {
+      "word": "l'humeur",
+      "ipa": "[lymœʁ]",
+      "examples": [
+        { "s": "Je suis de bonne humeur aujourd'hui.", "zh": "我今天心情很好。" },
+        { "s": "La pluie met tout le monde de mauvaise humeur.", "zh": "下雨讓大家心情都很差。" }
+      ]
+    },
+    "ja": {
+      "word": "気分",
+      "kana": "きぶん",
+      "romaji": "kibun",
+      "examples": [
+        { "s": "今日はとてもいい気分だ。", "zh": "我今天心情非常好。" },
+        { "s": "音楽を聴くと気分が良くなる。", "zh": "聽音樂讓我的心情變好。" }
+      ]
+    }
+  },
+  {
+    "id": "p1681",
+    "de": {
+      "word": "launisch",
+      "ipa": "[ˈlaʊnɪʃ]",
+      "examples": [
+        { "s": "Er ist heute wieder ziemlich launisch.", "zh": "他今天又相當喜怒無常。" },
+        { "s": "Ein launisches Kind ist schwer zu beruhigen.", "zh": "情緒多變的孩子很難安撫。" }
+      ]
+    },
+    "fr": {
+      "word": "lunatique",
+      "ipa": "[lynatik]",
+      "examples": [
+        { "s": "Elle est très lunatique le matin.", "zh": "她早上情緒特別多變。" },
+        { "s": "Mon patron est lunatique et imprévisible.", "zh": "我老闆喜怒無常又難以預測。" }
+      ]
+    },
+    "ja": {
+      "word": "気まぐれな",
+      "kana": "きまぐれな",
+      "romaji": "kimagure na",
+      "examples": [
+        { "s": "彼は気まぐれで扱いにくい。", "zh": "他情緒多變很難相處。" },
+        { "s": "気まぐれな天気で予定が立てにくい。", "zh": "天氣多變讓人很難安排計畫。" }
+      ]
+    }
+  },
+  {
+    "id": "p1682",
+    "de": {
+      "word": "der Mond",
+      "ipa": "[moːnt]",
+      "examples": [
+        { "s": "Heute Nacht ist der Mond besonders hell.", "zh": "今晚的月亮特別亮。" },
+        { "s": "Wir haben den Vollmond zusammen betrachtet.", "zh": "我們一起看了滿月。" }
+      ]
+    },
+    "fr": {
+      "word": "la lune",
+      "ipa": "[la lyn]",
+      "examples": [
+        { "s": "La lune brille au-dessus de la mer.", "zh": "月亮在海面上方閃耀。" },
+        { "s": "Ce soir, la lune est pleine.", "zh": "今晚是滿月。" }
+      ]
+    },
+    "ja": {
+      "word": "月",
+      "kana": "つき",
+      "romaji": "tsuki",
+      "examples": [
+        { "s": "今夜の月はとてもきれいだ。", "zh": "今晚的月亮很美。" },
+        { "s": "海の上に大きな月が昇った。", "zh": "海面上升起了一輪大月亮。" }
+      ]
+    }
+  },
+  {
+    "id": "p1683",
+    "de": {
+      "word": "moralisch",
+      "ipa": "[moˈʁaːlɪʃ]",
+      "examples": [
+        { "s": "Das war eine moralisch schwierige Entscheidung.", "zh": "那是一個道德上很艱難的決定。" },
+        { "s": "Die Geschichte hat eine klare moralische Botschaft.", "zh": "這個故事有明確的寓意。" }
+      ]
+    },
+    "fr": {
+      "word": "moral",
+      "ipa": "[mɔʁal]",
+      "examples": [
+        { "s": "C'est un dilemme moral difficile.", "zh": "這是個困難的道德兩難。" },
+        { "s": "La fable contient une leçon morale.", "zh": "這則寓言蘊含道德教訓。" }
+      ]
+    },
+    "ja": {
+      "word": "道徳的な",
+      "kana": "どうとくてきな",
+      "romaji": "doutokuteki na",
+      "examples": [
+        { "s": "それは道徳的に難しい問題だ。", "zh": "那是個道德上很難的問題。" },
+        { "s": "この物語には道徳的な教訓がある。", "zh": "這個故事有道德上的寓意。" }
+      ]
+    }
+  },
+  {
+    "id": "p1684",
+    "de": {
+      "word": "mehr",
+      "ipa": "[meːɐ̯]",
+      "examples": [
+        { "s": "Ich brauche mehr Zeit für dieses Projekt.", "zh": "這個專案我需要更多時間。" },
+        { "s": "Kann ich bitte etwas mehr Kaffee haben?", "zh": "可以再給我多一點咖啡嗎？" }
+      ]
+    },
+    "fr": {
+      "word": "plus",
+      "ipa": "[ply]",
+      "examples": [
+        { "s": "J'ai besoin de plus de temps.", "zh": "我需要更多時間。" },
+        { "s": "Veux-tu plus de café ?", "zh": "你要再多來點咖啡嗎？" }
+      ]
+    },
+    "ja": {
+      "word": "もっと",
+      "kana": "もっと",
+      "romaji": "motto",
+      "examples": [
+        { "s": "この仕事にはもっと時間が必要だ。", "zh": "這份工作需要更多時間。" },
+        { "s": "コーヒーをもっといただけますか。", "zh": "可以再給我多一點咖啡嗎？" }
+      ]
+    }
+  },
+  {
+    "id": "p1685",
+    "de": {
+      "word": "der Morgen",
+      "ipa": "[ˈmɔʁɡn̩]",
+      "examples": [
+        { "s": "Am Morgen trinke ich immer einen Kaffee.", "zh": "我早上總是喝一杯咖啡。" },
+        { "s": "Der Morgen war heute sehr kalt.", "zh": "今天早上非常冷。" }
+      ]
+    },
+    "fr": {
+      "word": "le matin",
+      "ipa": "[lə matɛ̃]",
+      "examples": [
+        { "s": "Le matin, je fais une petite promenade.", "zh": "早上我會去散個步。" },
+        { "s": "Ce matin, il faisait très froid.", "zh": "今天早上非常冷。" }
+      ]
+    },
+    "ja": {
+      "word": "朝",
+      "kana": "あさ",
+      "romaji": "asa",
+      "examples": [
+        { "s": "毎朝コーヒーを一杯飲む。", "zh": "我每天早上喝一杯咖啡。" },
+        { "s": "今朝はとても寒かった。", "zh": "今天早上非常冷。" }
+      ]
+    }
+  },
+  {
+    "id": "p1686",
+    "de": {
+      "word": "der Sterbliche",
+      "ipa": "[ˈʃtɛʁplɪçə]",
+      "examples": [
+        { "s": "In der Sage kämpft ein Sterblicher gegen die Götter.", "zh": "傳說中一個凡人與眾神對抗。" },
+        { "s": "Auch ein Sterblicher kann Großes vollbringen.", "zh": "即使是凡人也能成就偉大的事。" }
+      ]
+    },
+    "fr": {
+      "word": "le mortel",
+      "ipa": "[lə mɔʁtɛl]",
+      "examples": [
+        { "s": "Dans le mythe, un mortel défie les dieux.", "zh": "在神話中，一個凡人挑戰眾神。" },
+        { "s": "Aucun mortel ne vit éternellement.", "zh": "沒有任何凡人能永生。" }
+      ]
+    },
+    "ja": {
+      "word": "人間",
+      "kana": "にんげん",
+      "romaji": "ningen",
+      "examples": [
+        { "s": "神話では一人の人間が神々に立ち向かう。", "zh": "神話中一個凡人挺身對抗眾神。" },
+        { "s": "人間はいつか必ず死ぬ運命にある。", "zh": "凡人終究難逃一死的命運。" }
+      ]
+    }
+  },
+  {
+    "id": "p1687",
+    "de": {
+      "word": "die Hypothek",
+      "ipa": "[hypoˈteːk]",
+      "examples": [
+        { "s": "Wir zahlen noch zwanzig Jahre unsere Hypothek ab.", "zh": "我們的房貸還要再還二十年。" },
+        { "s": "Die Bank hat uns eine Hypothek genehmigt.", "zh": "銀行核准了我們的房屋貸款。" }
+      ]
+    },
+    "fr": {
+      "word": "l'hypothèque",
+      "ipa": "[lipɔtɛk]",
+      "examples": [
+        { "s": "Nous remboursons notre hypothèque chaque mois.", "zh": "我們每個月償還房貸。" },
+        { "s": "Il a contracté une hypothèque pour acheter la maison.", "zh": "他為了買房辦了抵押貸款。" }
+      ]
+    },
+    "ja": {
+      "word": "住宅ローン",
+      "kana": "じゅうたくローン",
+      "romaji": "juutaku roon",
+      "examples": [
+        { "s": "住宅ローンの返済はまだ二十年残っている。", "zh": "房屋貸款還要再還二十年。" },
+        { "s": "銀行が住宅ローンを承認してくれた。", "zh": "銀行核准了我的房貸。" }
+      ]
+    }
+  },
+  {
+    "id": "p1688",
+    "de": {
+      "word": "die Moschee",
+      "ipa": "[mɔˈʃeː]",
+      "examples": [
+        { "s": "Die Moschee in der Stadt ist sehr alt.", "zh": "城裡的這座清真寺非常古老。" },
+        { "s": "Am Freitag beten viele Menschen in der Moschee.", "zh": "星期五許多人在清真寺禱告。" }
+      ]
+    },
+    "fr": {
+      "word": "la mosquée",
+      "ipa": "[la mɔske]",
+      "examples": [
+        { "s": "La mosquée est ouverte à tous les visiteurs.", "zh": "這座清真寺對所有訪客開放。" },
+        { "s": "Nous avons visité une belle mosquée à Istanbul.", "zh": "我們在伊斯坦堡參觀了一座美麗的清真寺。" }
+      ]
+    },
+    "ja": {
+      "word": "モスク",
+      "kana": "モスク",
+      "romaji": "mosuku",
+      "examples": [
+        { "s": "町の中心に古いモスクがある。", "zh": "鎮中心有一座古老的清真寺。" },
+        { "s": "金曜日にはモスクで多くの人が祈る。", "zh": "星期五許多人在清真寺祈禱。" }
+      ]
+    }
+  },
+  {
+    "id": "p1689",
+    "de": {
+      "word": "die Mücke",
+      "ipa": "[ˈmʏkə]",
+      "examples": [
+        { "s": "Eine Mücke hat mich in den Arm gestochen.", "zh": "一隻蚊子叮了我的手臂。" },
+        { "s": "Im Sommer gibt es hier viele Mücken.", "zh": "夏天這裡有很多蚊子。" }
+      ]
+    },
+    "fr": {
+      "word": "le moustique",
+      "ipa": "[lə mustik]",
+      "examples": [
+        { "s": "Un moustique m'a piqué pendant la nuit.", "zh": "晚上有隻蚊子叮了我。" },
+        { "s": "Il y a beaucoup de moustiques près du lac.", "zh": "湖邊有很多蚊子。" }
+      ]
+    },
+    "ja": {
+      "word": "蚊",
+      "kana": "か",
+      "romaji": "ka",
+      "examples": [
+        { "s": "夜中に蚊に刺されてしまった。", "zh": "半夜被蚊子叮了。" },
+        { "s": "夏はこの辺りに蚊が多い。", "zh": "夏天這附近蚊子很多。" }
+      ]
+    }
+  },
+  {
+    "id": "p1690",
+    "de": {
+      "word": "das Moos",
+      "ipa": "[moːs]",
+      "examples": [
+        { "s": "Auf den Steinen wächst grünes Moos.", "zh": "石頭上長著綠色的苔蘚。" },
+        { "s": "Der Waldboden ist mit weichem Moos bedeckt.", "zh": "森林地面覆蓋著柔軟的苔蘚。" }
+      ]
+    },
+    "fr": {
+      "word": "la mousse",
+      "ipa": "[la mus]",
+      "examples": [
+        { "s": "La mousse pousse sur les vieux troncs d'arbres.", "zh": "苔蘚長在老樹幹上。" },
+        { "s": "Les rochers sont couverts de mousse verte.", "zh": "岩石上覆滿了綠色的苔蘚。" }
+      ]
+    },
+    "ja": {
+      "word": "苔",
+      "kana": "こけ",
+      "romaji": "koke",
+      "examples": [
+        { "s": "石の上に緑の苔が生えている。", "zh": "石頭上長著綠色的苔蘚。" },
+        { "s": "この庭は美しい苔で有名だ。", "zh": "這座庭園以美麗的苔蘚聞名。" }
+      ]
+    }
+  }
+]

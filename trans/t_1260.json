@@ -1,0 +1,842 @@
+[
+  {
+    "id": "p1211",
+    "de": {
+      "word": "mahlen",
+      "ipa": "[ˈmaːlən]",
+      "examples": [
+        { "s": "Ich mahle die Kaffeebohnen jeden Morgen frisch.", "zh": "我每天早上現磨咖啡豆。" },
+        { "s": "Die Mühle mahlt das Getreide zu Mehl.", "zh": "磨坊把穀物磨成麵粉。" }
+      ]
+    },
+    "fr": {
+      "word": "moudre",
+      "ipa": "[mudʁ]",
+      "examples": [
+        { "s": "Je mouds les grains de café avant le petit-déjeuner.", "zh": "我在早餐前磨咖啡豆。" },
+        { "s": "Ce moulin sert à moudre le poivre.", "zh": "這個研磨器是用來磨胡椒的。" }
+      ]
+    },
+    "ja": {
+      "word": "挽く",
+      "kana": "ひく",
+      "romaji": "hiku",
+      "examples": [
+        { "s": "毎朝コーヒー豆を挽いています。", "zh": "我每天早上磨咖啡豆。" },
+        { "s": "この機械で小麦を挽いて粉にします。", "zh": "用這台機器把小麥磨成粉。" }
+      ]
+    }
+  },
+  {
+    "id": "p1212",
+    "de": {
+      "word": "der Lebensmittelladen",
+      "ipa": "[ˈleːbənsˌmɪtl̩ˌlaːdn̩]",
+      "examples": [
+        { "s": "Ich muss noch in den Lebensmittelladen, wir haben keine Milch mehr.", "zh": "我還得去食品雜貨店,我們沒牛奶了。" },
+        { "s": "Der Lebensmittelladen an der Ecke hat bis zehn Uhr geöffnet.", "zh": "轉角的雜貨店營業到十點。" }
+      ]
+    },
+    "fr": {
+      "word": "l'épicerie",
+      "ipa": "[episʁi]",
+      "examples": [
+        { "s": "Je passe à l'épicerie acheter du pain et des œufs.", "zh": "我順路去雜貨店買麵包和雞蛋。" },
+        { "s": "L'épicerie du quartier ferme le dimanche.", "zh": "社區的雜貨店週日不營業。" }
+      ]
+    },
+    "ja": {
+      "word": "食料品",
+      "kana": "しょくりょうひん",
+      "romaji": "shokuryōhin",
+      "examples": [
+        { "s": "週末に食料品をまとめて買います。", "zh": "我週末一次買齊食品雜貨。" },
+        { "s": "近くのお店で食料品が全部そろいます。", "zh": "附近的店裡食品雜貨一應俱全。" }
+      ]
+    }
+  },
+  {
+    "id": "p1213",
+    "de": {
+      "word": "pflegen",
+      "ipa": "[ˈpfleːɡn̩]",
+      "examples": [
+        { "s": "Sie pflegt das Fell ihres Hundes jeden Tag.", "zh": "她每天為她的狗梳理毛髮。" },
+        { "s": "Die Katze pflegt sich stundenlang.", "zh": "貓花好幾個小時整理自己的毛。" }
+      ]
+    },
+    "fr": {
+      "word": "toiletter",
+      "ipa": "[twalɛte]",
+      "examples": [
+        { "s": "Je toilette mon chien toutes les semaines.", "zh": "我每週幫我的狗梳理毛髮。" },
+        { "s": "Le chat se toilette après avoir mangé.", "zh": "貓吃完飯後會整理毛髮。" }
+      ]
+    },
+    "ja": {
+      "word": "毛づくろいする",
+      "kana": "けづくろいする",
+      "romaji": "kezukuroi suru",
+      "examples": [
+        { "s": "毎日犬の毛づくろいをしています。", "zh": "我每天幫狗梳理毛髮。" },
+        { "s": "猫は自分で毛づくろいをします。", "zh": "貓會自己整理毛髮。" }
+      ]
+    }
+  },
+  {
+    "id": "p1214",
+    "de": {
+      "word": "brutto",
+      "ipa": "[ˈbʁʊto]",
+      "examples": [
+        { "s": "Mein Bruttogehalt ist höher als das, was ich am Ende bekomme.", "zh": "我的稅前薪水比我最後拿到的還高。" },
+        { "s": "Das Paket wiegt brutto zwei Kilogramm.", "zh": "這個包裹毛重兩公斤。" }
+      ]
+    },
+    "fr": {
+      "word": "brut",
+      "ipa": "[bʁyt]",
+      "examples": [
+        { "s": "Mon salaire brut est de trois mille euros par mois.", "zh": "我的稅前月薪是三千歐元。" },
+        { "s": "Le poids brut inclut l'emballage.", "zh": "毛重包含了包裝。" }
+      ]
+    },
+    "ja": {
+      "word": "総額の",
+      "kana": "そうがくの",
+      "romaji": "sōgaku no",
+      "examples": [
+        { "s": "総額の給料から税金が引かれます。", "zh": "稅金會從總薪資裡扣除。" },
+        { "s": "この数字は総額で、手取りではありません。", "zh": "這個數字是總額,不是實拿的。" }
+      ]
+    }
+  },
+  {
+    "id": "p1215",
+    "de": {
+      "word": "der Gruppenchat",
+      "ipa": "[ˈɡʁʊpn̩ˌtʃɛt]",
+      "examples": [
+        { "s": "Wir planen die Party im Gruppenchat.", "zh": "我們在群組聊天裡籌辦派對。" },
+        { "s": "Im Familien-Gruppenchat gibt es hundert neue Nachrichten.", "zh": "家庭群組裡有一百則新訊息。" }
+      ]
+    },
+    "fr": {
+      "word": "la discussion de groupe",
+      "ipa": "[diskysjɔ̃ də ɡʁup]",
+      "examples": [
+        { "s": "On organise le week-end dans la discussion de groupe.", "zh": "我們在群組聊天裡安排週末活動。" },
+        { "s": "J'ai raté cent messages dans la discussion de groupe.", "zh": "我在群組聊天裡漏看了一百則訊息。" }
+      ]
+    },
+    "ja": {
+      "word": "グループチャット",
+      "kana": "グループチャット",
+      "romaji": "gurūpu chatto",
+      "examples": [
+        { "s": "旅行の予定はグループチャットで決めましょう。", "zh": "旅行的行程就在群組聊天裡決定吧。" },
+        { "s": "グループチャットの通知が止まりません。", "zh": "群組聊天的通知響個不停。" }
+      ]
+    }
+  },
+  {
+    "id": "p1216",
+    "de": {
+      "word": "wachsen",
+      "ipa": "[ˈvaksn̩]",
+      "examples": [
+        { "s": "Die Tomaten wachsen sehr schnell in diesem Sommer.", "zh": "今年夏天番茄長得很快。" },
+        { "s": "Wir bauen im Garten Kräuter an, die gut wachsen.", "zh": "我們在花園裡種了長得很好的香草。" }
+      ]
+    },
+    "fr": {
+      "word": "pousser",
+      "ipa": "[puse]",
+      "examples": [
+        { "s": "Les fleurs poussent bien au soleil.", "zh": "花在陽光下長得很好。" },
+        { "s": "Nous faisons pousser des légumes sur le balcon.", "zh": "我們在陽台上栽種蔬菜。" }
+      ]
+    },
+    "ja": {
+      "word": "育つ",
+      "kana": "そだつ",
+      "romaji": "sodatsu",
+      "examples": [
+        { "s": "この植物は日陰でもよく育ちます。", "zh": "這種植物就算在陰處也長得好。" },
+        { "s": "ベランダでハーブを育てています。", "zh": "我在陽台上栽培香草。" }
+      ]
+    }
+  },
+  {
+    "id": "p1217",
+    "de": {
+      "word": "aufwachsen",
+      "ipa": "[ˈaʊfˌvaksn̩]",
+      "examples": [
+        { "s": "Ich bin auf dem Land aufgewachsen.", "zh": "我是在鄉下長大的。" },
+        { "s": "Die Kinder wachsen so schnell auf.", "zh": "孩子們長大得好快。" }
+      ]
+    },
+    "fr": {
+      "word": "grandir",
+      "ipa": "[ɡʁɑ̃diʁ]",
+      "examples": [
+        { "s": "J'ai grandi dans une petite ville.", "zh": "我在一個小鎮長大。" },
+        { "s": "Tu as beaucoup grandi depuis l'année dernière.", "zh": "你從去年到現在長大了不少。" }
+      ]
+    },
+    "ja": {
+      "word": "成長する",
+      "kana": "せいちょうする",
+      "romaji": "seichō suru",
+      "examples": [
+        { "s": "私は田舎で成長しました。", "zh": "我在鄉下長大。" },
+        { "s": "子どもたちはあっという間に成長します。", "zh": "孩子們一轉眼就長大了。" }
+      ]
+    }
+  },
+  {
+    "id": "p1218",
+    "de": {
+      "word": "das Wachstum",
+      "ipa": "[ˈvakstuːm]",
+      "examples": [
+        { "s": "Das Wachstum der Firma war letztes Jahr enorm.", "zh": "公司去年的成長非常驚人。" },
+        { "s": "Ausreichend Schlaf ist wichtig für das Wachstum von Kindern.", "zh": "充足的睡眠對孩子的成長很重要。" }
+      ]
+    },
+    "fr": {
+      "word": "la croissance",
+      "ipa": "[kʁwasɑ̃s]",
+      "examples": [
+        { "s": "La croissance de l'entreprise a surpris tout le monde.", "zh": "公司的成長讓所有人都驚訝。" },
+        { "s": "Une bonne alimentation favorise la croissance.", "zh": "良好的飲食有助於成長。" }
+      ]
+    },
+    "ja": {
+      "word": "成長",
+      "kana": "せいちょう",
+      "romaji": "seichō",
+      "examples": [
+        { "s": "会社の成長がとても早いです。", "zh": "公司的成長非常快速。" },
+        { "s": "子どもの成長を毎日感じます。", "zh": "我每天都感受到孩子的成長。" }
+      ]
+    }
+  },
+  {
+    "id": "p1219",
+    "de": {
+      "word": "der Wächter",
+      "ipa": "[ˈvɛçtɐ]",
+      "examples": [
+        { "s": "Der Wächter kontrolliert nachts das Gebäude.", "zh": "警衛在夜間巡查大樓。" },
+        { "s": "Am Eingang steht ein Wächter.", "zh": "入口處站著一名守衛。" }
+      ]
+    },
+    "fr": {
+      "word": "le gardien",
+      "ipa": "[ɡaʁdjɛ̃]",
+      "examples": [
+        { "s": "Le gardien surveille l'entrée de l'immeuble.", "zh": "警衛看守著大樓的入口。" },
+        { "s": "Un gardien fait sa ronde chaque soir.", "zh": "一名守衛每晚都會巡邏。" }
+      ]
+    },
+    "ja": {
+      "word": "警備員",
+      "kana": "けいびいん",
+      "romaji": "keibiin",
+      "examples": [
+        { "s": "警備員が入口を見張っています。", "zh": "警衛守著入口。" },
+        { "s": "夜は警備員が建物を巡回します。", "zh": "晚上警衛會在大樓內巡邏。" }
+      ]
+    }
+  },
+  {
+    "id": "p1220",
+    "de": {
+      "word": "der Vormund",
+      "ipa": "[ˈfoːɐ̯mʊnt]",
+      "examples": [
+        { "s": "Nach dem Unfall wurde die Tante ihr Vormund.", "zh": "意外之後,阿姨成了她的監護人。" },
+        { "s": "Der Vormund kümmert sich um das Wohl des Kindes.", "zh": "監護人照顧著孩子的福祉。" }
+      ]
+    },
+    "fr": {
+      "word": "le gardien",
+      "ipa": "[ɡaʁdjɛ̃]",
+      "examples": [
+        { "s": "Son oncle est devenu son gardien légal.", "zh": "她的叔叔成了她的法定監護人。" },
+        { "s": "Le gardien veille sur l'enfant.", "zh": "監護人守護著這個孩子。" }
+      ]
+    },
+    "ja": {
+      "word": "保護者",
+      "kana": "ほごしゃ",
+      "romaji": "hogosha",
+      "examples": [
+        { "s": "保護者として子どもを守ります。", "zh": "我以守護者的身分保護孩子。" },
+        { "s": "彼女の保護者は祖母です。", "zh": "她的守護者是祖母。" }
+      ]
+    }
+  },
+  {
+    "id": "p1221",
+    "de": {
+      "word": "raten",
+      "ipa": "[ˈʁaːtn̩]",
+      "examples": [
+        { "s": "Rate mal, wen ich heute getroffen habe!", "zh": "你猜猜我今天遇到誰!" },
+        { "s": "Ich kann nur raten, wie alt sie ist.", "zh": "我只能猜她幾歲。" }
+      ]
+    },
+    "fr": {
+      "word": "deviner",
+      "ipa": "[dəvine]",
+      "examples": [
+        { "s": "Devine ce que j'ai acheté aujourd'hui !", "zh": "猜猜我今天買了什麼!" },
+        { "s": "Je n'arrive pas à deviner la réponse.", "zh": "我猜不出答案。" }
+      ]
+    },
+    "ja": {
+      "word": "推測する",
+      "kana": "すいそくする",
+      "romaji": "suisoku suru",
+      "examples": [
+        { "s": "答えを推測してみてください。", "zh": "請試著猜猜答案。" },
+        { "s": "彼の年齢を推測するのは難しいです。", "zh": "很難猜他的年紀。" }
+      ]
+    }
+  },
+  {
+    "id": "p1222",
+    "de": {
+      "word": "der Gast",
+      "ipa": "[ɡast]",
+      "examples": [
+        { "s": "Wir haben heute Abend Gäste zum Essen.", "zh": "我們今晚有客人來吃飯。" },
+        { "s": "Der Gast übernachtet im Gästezimmer.", "zh": "客人在客房過夜。" }
+      ]
+    },
+    "fr": {
+      "word": "l'invité",
+      "ipa": "[ɛ̃vite]",
+      "examples": [
+        { "s": "Nous attendons nos invités pour le dîner.", "zh": "我們在等客人來吃晚餐。" },
+        { "s": "L'invité dort dans la chambre d'amis.", "zh": "客人睡在客房裡。" }
+      ]
+    },
+    "ja": {
+      "word": "お客さん",
+      "kana": "おきゃくさん",
+      "romaji": "okyakusan",
+      "examples": [
+        { "s": "今晩お客さんが来ます。", "zh": "今晚有客人要來。" },
+        { "s": "お客さんを部屋に案内しました。", "zh": "我把客人帶到房間。" }
+      ]
+    }
+  },
+  {
+    "id": "p1223",
+    "de": {
+      "word": "der Reiseführer",
+      "ipa": "[ˈʁaɪzəˌfyːʁɐ]",
+      "examples": [
+        { "s": "Im Reiseführer stehen die besten Restaurants der Stadt.", "zh": "旅遊指南裡列出了城裡最好的餐廳。" },
+        { "s": "Ich habe mir vor der Reise einen Reiseführer gekauft.", "zh": "出發前我買了一本旅遊指南。" }
+      ]
+    },
+    "fr": {
+      "word": "le guide de voyage",
+      "ipa": "[ɡid də vwajaʒ]",
+      "examples": [
+        { "s": "Le guide de voyage recommande ce musée.", "zh": "旅遊指南推薦了這間博物館。" },
+        { "s": "J'emporte toujours un guide de voyage en vacances.", "zh": "度假時我總會帶著旅遊指南。" }
+      ]
+    },
+    "ja": {
+      "word": "ガイドブック",
+      "kana": "ガイドブック",
+      "romaji": "gaido bukku",
+      "examples": [
+        { "s": "旅行の前にガイドブックを読みます。", "zh": "旅行前我會看旅遊指南。" },
+        { "s": "ガイドブックにおすすめのお店が載っています。", "zh": "旅遊指南裡登了推薦的店家。" }
+      ]
+    }
+  },
+  {
+    "id": "p1224",
+    "de": {
+      "word": "schuldig",
+      "ipa": "[ˈʃʊldɪç]",
+      "examples": [
+        { "s": "Er fühlte sich schuldig, weil er zu spät kam.", "zh": "他因為遲到而感到內疚。" },
+        { "s": "Das Gericht befand ihn für schuldig.", "zh": "法院判他有罪。" }
+      ]
+    },
+    "fr": {
+      "word": "coupable",
+      "ipa": "[kupabl]",
+      "examples": [
+        { "s": "Je me sens coupable d'avoir oublié son anniversaire.", "zh": "我因為忘了他的生日而感到內疚。" },
+        { "s": "Le jury l'a déclaré coupable.", "zh": "陪審團判定他有罪。" }
+      ]
+    },
+    "ja": {
+      "word": "有罪の",
+      "kana": "ゆうざいの",
+      "romaji": "yūzai no",
+      "examples": [
+        { "s": "彼は裁判で有罪になりました。", "zh": "他在審判中被判有罪。" },
+        { "s": "嘘をついて有罪の気持ちになりました。", "zh": "我撒了謊,產生了罪惡感。" }
+      ]
+    }
+  },
+  {
+    "id": "p1225",
+    "de": {
+      "word": "die Gitarre",
+      "ipa": "[ɡiˈtaʁə]",
+      "examples": [
+        { "s": "Mein Bruder spielt jeden Abend Gitarre.", "zh": "我弟弟每天晚上彈吉他。" },
+        { "s": "Sie hat sich eine neue Gitarre gekauft.", "zh": "她買了一把新吉他。" }
+      ]
+    },
+    "fr": {
+      "word": "la guitare",
+      "ipa": "[ɡitaʁ]",
+      "examples": [
+        { "s": "Il joue de la guitare dans un groupe.", "zh": "他在一個樂團裡彈吉他。" },
+        { "s": "J'apprends la guitare depuis six mois.", "zh": "我學吉他六個月了。" }
+      ]
+    },
+    "ja": {
+      "word": "ギター",
+      "kana": "ギター",
+      "romaji": "gitā",
+      "examples": [
+        { "s": "毎晩ギターを練習しています。", "zh": "我每天晚上練吉他。" },
+        { "s": "新しいギターを買いました。", "zh": "我買了一把新吉他。" }
+      ]
+    }
+  },
+  {
+    "id": "p1226",
+    "de": {
+      "word": "der Golf",
+      "ipa": "[ɡɔlf]",
+      "examples": [
+        { "s": "Der Golf von Mexiko ist sehr warm im Sommer.", "zh": "墨西哥灣在夏天非常溫暖。" },
+        { "s": "Wir segelten über den ruhigen Golf.", "zh": "我們駛過平靜的海灣。" }
+      ]
+    },
+    "fr": {
+      "word": "le golfe",
+      "ipa": "[ɡɔlf]",
+      "examples": [
+        { "s": "Le golfe est calme ce matin.", "zh": "今天早上海灣很平靜。" },
+        { "s": "Des bateaux de pêche traversent le golfe.", "zh": "漁船穿越海灣。" }
+      ]
+    },
+    "ja": {
+      "word": "湾",
+      "kana": "わん",
+      "romaji": "wan",
+      "examples": [
+        { "s": "湾の景色がとてもきれいです。", "zh": "海灣的景色非常美。" },
+        { "s": "船が静かな湾を進んでいきます。", "zh": "船在平靜的海灣中前行。" }
+      ]
+    }
+  },
+  {
+    "id": "p1227",
+    "de": {
+      "word": "das Zahnfleisch",
+      "ipa": "[ˈtsaːnflaɪʃ]",
+      "examples": [
+        { "s": "Mein Zahnfleisch blutet, wenn ich die Zähne putze.", "zh": "我刷牙時牙齦會流血。" },
+        { "s": "Gesundes Zahnfleisch ist rosa und fest.", "zh": "健康的牙齦是粉紅色且結實的。" }
+      ]
+    },
+    "fr": {
+      "word": "la gencive",
+      "ipa": "[ʒɑ̃siv]",
+      "examples": [
+        { "s": "Mes gencives saignent un peu ce matin.", "zh": "今天早上我的牙齦有點流血。" },
+        { "s": "Le dentiste a examiné mes gencives.", "zh": "牙醫檢查了我的牙齦。" }
+      ]
+    },
+    "ja": {
+      "word": "歯茎",
+      "kana": "はぐき",
+      "romaji": "haguki",
+      "examples": [
+        { "s": "歯を磨くと歯茎から血が出ます。", "zh": "刷牙時牙齦會出血。" },
+        { "s": "健康な歯茎はピンク色です。", "zh": "健康的牙齦是粉紅色的。" }
+      ]
+    }
+  },
+  {
+    "id": "p1228",
+    "de": {
+      "word": "die Waffe",
+      "ipa": "[ˈvafə]",
+      "examples": [
+        { "s": "Der Polizist trägt eine Waffe am Gürtel.", "zh": "警察腰間佩帶著槍。" },
+        { "s": "Der Besitz einer Waffe ist hier streng geregelt.", "zh": "這裡對持有槍枝有嚴格規範。" }
+      ]
+    },
+    "fr": {
+      "word": "l'arme",
+      "ipa": "[aʁm]",
+      "examples": [
+        { "s": "Le policier porte une arme à la ceinture.", "zh": "警察腰上佩帶著槍。" },
+        { "s": "Il est interdit de porter une arme ici.", "zh": "這裡禁止攜帶槍枝。" }
+      ]
+    },
+    "ja": {
+      "word": "銃",
+      "kana": "じゅう",
+      "romaji": "jū",
+      "examples": [
+        { "s": "警官は銃を持っています。", "zh": "警官持有槍枝。" },
+        { "s": "この国では銃の所持が禁止されています。", "zh": "這個國家禁止持有槍枝。" }
+      ]
+    }
+  },
+  {
+    "id": "p1229",
+    "de": {
+      "word": "das Fitnessstudio",
+      "ipa": "[ˈfɪtnɛsˌʃtuːdi̯o]",
+      "examples": [
+        { "s": "Ich gehe dreimal die Woche ins Fitnessstudio.", "zh": "我一週去健身房三次。" },
+        { "s": "Das Fitnessstudio hat neue Geräte bekommen.", "zh": "健身房添購了新器材。" }
+      ]
+    },
+    "fr": {
+      "word": "la salle de sport",
+      "ipa": "[sal də spɔʁ]",
+      "examples": [
+        { "s": "Je vais à la salle de sport après le travail.", "zh": "我下班後去健身房。" },
+        { "s": "La salle de sport est ouverte jusqu'à minuit.", "zh": "健身房開到午夜。" }
+      ]
+    },
+    "ja": {
+      "word": "ジム",
+      "kana": "ジム",
+      "romaji": "jimu",
+      "examples": [
+        { "s": "週に三回ジムに通っています。", "zh": "我一週上健身房三次。" },
+        { "s": "仕事の後でジムで運動します。", "zh": "下班後我在健身房運動。" }
+      ]
+    }
+  },
+  {
+    "id": "p1230",
+    "de": {
+      "word": "die Gewohnheit",
+      "ipa": "[ɡəˈvoːnhaɪt]",
+      "examples": [
+        { "s": "Früh aufzustehen ist bei mir eine feste Gewohnheit.", "zh": "早起對我來說是固定的習慣。" },
+        { "s": "Es ist schwer, eine schlechte Gewohnheit abzulegen.", "zh": "要戒掉壞習慣很難。" }
+      ]
+    },
+    "fr": {
+      "word": "l'habitude",
+      "ipa": "[abityd]",
+      "examples": [
+        { "s": "J'ai l'habitude de boire un café le matin.", "zh": "我習慣早上喝一杯咖啡。" },
+        { "s": "C'est difficile de changer une vieille habitude.", "zh": "要改變一個老習慣很難。" }
+      ]
+    },
+    "ja": {
+      "word": "習慣",
+      "kana": "しゅうかん",
+      "romaji": "shūkan",
+      "examples": [
+        { "s": "毎朝散歩するのが私の習慣です。", "zh": "每天早上散步是我的習慣。" },
+        { "s": "悪い習慣をやめるのは難しいです。", "zh": "要戒掉壞習慣很難。" }
+      ]
+    }
+  },
+  {
+    "id": "p1231",
+    "de": {
+      "word": "der Lebensraum",
+      "ipa": "[ˈleːbənsˌʁaʊm]",
+      "examples": [
+        { "s": "Der Wald ist der natürliche Lebensraum vieler Tiere.", "zh": "森林是許多動物的天然棲息地。" },
+        { "s": "Durch die Rodung verlieren die Vögel ihren Lebensraum.", "zh": "由於砍伐,鳥類失去了棲息地。" }
+      ]
+    },
+    "fr": {
+      "word": "l'habitat",
+      "ipa": "[abita]",
+      "examples": [
+        { "s": "La forêt est l'habitat naturel de nombreux animaux.", "zh": "森林是許多動物的天然棲息地。" },
+        { "s": "La pollution détruit l'habitat des poissons.", "zh": "污染破壞了魚類的棲息地。" }
+      ]
+    },
+    "ja": {
+      "word": "生息地",
+      "kana": "せいそくち",
+      "romaji": "seisokuchi",
+      "examples": [
+        { "s": "森は多くの動物の生息地です。", "zh": "森林是許多動物的棲息地。" },
+        { "s": "開発で鳥の生息地が減っています。", "zh": "開發使鳥類的棲息地減少。" }
+      ]
+    }
+  },
+  {
+    "id": "p1232",
+    "de": {
+      "word": "der Hacker",
+      "ipa": "[ˈhɛkɐ]",
+      "examples": [
+        { "s": "Ein Hacker hat sich in das Firmennetzwerk eingeloggt.", "zh": "一名駭客入侵了公司的網路。" },
+        { "s": "Der Hacker stahl Tausende von Passwörtern.", "zh": "駭客竊取了數千組密碼。" }
+      ]
+    },
+    "fr": {
+      "word": "le pirate informatique",
+      "ipa": "[piʁat ɛ̃fɔʁmatik]",
+      "examples": [
+        { "s": "Un pirate informatique a volé nos données.", "zh": "一名駭客竊取了我們的資料。" },
+        { "s": "Le pirate informatique a attaqué le site web.", "zh": "駭客攻擊了這個網站。" }
+      ]
+    },
+    "ja": {
+      "word": "ハッカー",
+      "kana": "ハッカー",
+      "romaji": "hakkā",
+      "examples": [
+        { "s": "ハッカーが会社のシステムに侵入しました。", "zh": "駭客入侵了公司的系統。" },
+        { "s": "ハッカーに個人情報を盗まれました。", "zh": "我的個人資料被駭客盜走了。" }
+      ]
+    }
+  },
+  {
+    "id": "p1233",
+    "de": {
+      "word": "der Hagel",
+      "ipa": "[ˈhaːɡl̩]",
+      "examples": [
+        { "s": "Der Hagel hat die Autos beschädigt.", "zh": "冰雹把車子砸壞了。" },
+        { "s": "Beim Gewitter fiel plötzlich Hagel.", "zh": "雷雨時突然下起了冰雹。" }
+      ]
+    },
+    "fr": {
+      "word": "la grêle",
+      "ipa": "[ɡʁɛl]",
+      "examples": [
+        { "s": "La grêle a abîmé les récoltes.", "zh": "冰雹毀了農作物。" },
+        { "s": "Il est tombé de la grêle pendant l'orage.", "zh": "暴風雨時下了冰雹。" }
+      ]
+    },
+    "ja": {
+      "word": "ひょう",
+      "kana": "ひょう",
+      "romaji": "hyō",
+      "examples": [
+        { "s": "急にひょうが降ってきました。", "zh": "突然下起了冰雹。" },
+        { "s": "ひょうで車がへこみました。", "zh": "冰雹把車子砸凹了。" }
+      ]
+    }
+  },
+  {
+    "id": "p1234",
+    "de": {
+      "word": "das Haar",
+      "ipa": "[haːɐ̯]",
+      "examples": [
+        { "s": "Sie hat lange, glatte Haare.", "zh": "她有一頭又長又直的頭髮。" },
+        { "s": "Ich muss mir dringend die Haare schneiden lassen.", "zh": "我急需去剪頭髮。" }
+      ]
+    },
+    "fr": {
+      "word": "les cheveux",
+      "ipa": "[ʃəvø]",
+      "examples": [
+        { "s": "Elle a de longs cheveux bruns.", "zh": "她有一頭棕色長髮。" },
+        { "s": "Je me lave les cheveux tous les matins.", "zh": "我每天早上洗頭。" }
+      ]
+    },
+    "ja": {
+      "word": "髪",
+      "kana": "かみ",
+      "romaji": "kami",
+      "examples": [
+        { "s": "彼女は長い髪をしています。", "zh": "她留著長頭髮。" },
+        { "s": "毎朝髪を洗います。", "zh": "我每天早上洗頭髮。" }
+      ]
+    }
+  },
+  {
+    "id": "p1235",
+    "de": {
+      "word": "die Haarnadel",
+      "ipa": "[ˈhaːɐ̯ˌnaːdl̩]",
+      "examples": [
+        { "s": "Sie steckte ihr Haar mit einer Haarnadel hoch.", "zh": "她用髮夾把頭髮盤了起來。" },
+        { "s": "Ich habe eine Haarnadel unter dem Sofa gefunden.", "zh": "我在沙發下找到一支髮夾。" }
+      ]
+    },
+    "fr": {
+      "word": "l'épingle à cheveux",
+      "ipa": "[epɛ̃ɡl a ʃəvø]",
+      "examples": [
+        { "s": "Elle attache ses cheveux avec une épingle à cheveux.", "zh": "她用髮夾把頭髮夾起來。" },
+        { "s": "J'ai perdu une épingle à cheveux ce matin.", "zh": "今天早上我弄丟了一支髮夾。" }
+      ]
+    },
+    "ja": {
+      "word": "ヘアピン",
+      "kana": "ヘアピン",
+      "romaji": "heapin",
+      "examples": [
+        { "s": "ヘアピンで前髪を留めました。", "zh": "我用髮夾把瀏海夾住。" },
+        { "s": "ヘアピンが一本足りません。", "zh": "少了一支髮夾。" }
+      ]
+    }
+  },
+  {
+    "id": "p1236",
+    "de": {
+      "word": "die Frisur",
+      "ipa": "[fʁiˈzuːɐ̯]",
+      "examples": [
+        { "s": "Deine neue Frisur steht dir sehr gut.", "zh": "你的新髮型很適合你。" },
+        { "s": "Für die Hochzeit möchte ich eine besondere Frisur.", "zh": "婚禮上我想要一個特別的髮型。" }
+      ]
+    },
+    "fr": {
+      "word": "la coiffure",
+      "ipa": "[kwafyʁ]",
+      "examples": [
+        { "s": "J'aime beaucoup ta nouvelle coiffure.", "zh": "我很喜歡你的新髮型。" },
+        { "s": "Elle a changé de coiffure avant la fête.", "zh": "派對前她換了髮型。" }
+      ]
+    },
+    "ja": {
+      "word": "髪型",
+      "kana": "かみがた",
+      "romaji": "kamigata",
+      "examples": [
+        { "s": "新しい髪型がとても似合っています。", "zh": "新髮型很適合你。" },
+        { "s": "気分を変えるために髪型を変えました。", "zh": "為了換心情我換了髮型。" }
+      ]
+    }
+  },
+  {
+    "id": "p1237",
+    "de": {
+      "word": "die Hälfte",
+      "ipa": "[ˈhɛlftə]",
+      "examples": [
+        { "s": "Die Hälfte des Kuchens ist schon weg.", "zh": "蛋糕已經被吃掉一半了。" },
+        { "s": "Wir teilen die Rechnung zur Hälfte.", "zh": "我們把帳單平分成兩半。" }
+      ]
+    },
+    "fr": {
+      "word": "la moitié",
+      "ipa": "[mwatje]",
+      "examples": [
+        { "s": "J'ai mangé la moitié de la pizza.", "zh": "我吃了半個披薩。" },
+        { "s": "On partage l'addition en deux, chacun la moitié.", "zh": "我們把帳單分成兩半,一人一半。" }
+      ]
+    },
+    "ja": {
+      "word": "半分",
+      "kana": "はんぶん",
+      "romaji": "hanbun",
+      "examples": [
+        { "s": "ケーキを半分に切りました。", "zh": "我把蛋糕切成一半。" },
+        { "s": "この仕事はもう半分終わりました。", "zh": "這份工作已經完成一半了。" }
+      ]
+    }
+  },
+  {
+    "id": "p1238",
+    "de": {
+      "word": "der Flur",
+      "ipa": "[fluːɐ̯]",
+      "examples": [
+        { "s": "Die Schuhe stehen im Flur.", "zh": "鞋子放在玄關過道上。" },
+        { "s": "Am Ende des Flurs ist das Badezimmer.", "zh": "走廊盡頭是浴室。" }
+      ]
+    },
+    "fr": {
+      "word": "le couloir",
+      "ipa": "[kulwaʁ]",
+      "examples": [
+        { "s": "Les chambres sont au bout du couloir.", "zh": "臥室在走廊的盡頭。" },
+        { "s": "Il y a un tapis dans le couloir.", "zh": "走廊上鋪了一條地毯。" }
+      ]
+    },
+    "ja": {
+      "word": "廊下",
+      "kana": "ろうか",
+      "romaji": "rōka",
+      "examples": [
+        { "s": "廊下の突き当たりがトイレです。", "zh": "走廊盡頭就是廁所。" },
+        { "s": "廊下を走らないでください。", "zh": "請不要在走廊上奔跑。" }
+      ]
+    }
+  },
+  {
+    "id": "p1239",
+    "de": {
+      "word": "der Hammer",
+      "ipa": "[ˈhamɐ]",
+      "examples": [
+        { "s": "Ich schlage den Nagel mit dem Hammer in die Wand.", "zh": "我用鎚子把釘子敲進牆裡。" },
+        { "s": "Kannst du mir mal den Hammer geben?", "zh": "你可以把鎚子遞給我嗎?" }
+      ]
+    },
+    "fr": {
+      "word": "le marteau",
+      "ipa": "[maʁto]",
+      "examples": [
+        { "s": "Il plante le clou avec un marteau.", "zh": "他用鎚子把釘子敲進去。" },
+        { "s": "Passe-moi le marteau, s'il te plaît.", "zh": "請把鎚子遞給我。" }
+      ]
+    },
+    "ja": {
+      "word": "ハンマー",
+      "kana": "ハンマー",
+      "romaji": "hanmā",
+      "examples": [
+        { "s": "ハンマーで釘を打ちました。", "zh": "我用鎚子把釘子敲進去。" },
+        { "s": "ハンマーを取ってくれますか。", "zh": "可以幫我拿鎚子嗎?" }
+      ]
+    }
+  },
+  {
+    "id": "p1240",
+    "de": {
+      "word": "der Hamster",
+      "ipa": "[ˈhamstɐ]",
+      "examples": [
+        { "s": "Unser Hamster läuft nachts in seinem Rad.", "zh": "我們的倉鼠晚上會在滾輪裡跑。" },
+        { "s": "Der Hamster versteckt Futter in seinen Backen.", "zh": "倉鼠把食物藏在頰囊裡。" }
+      ]
+    },
+    "fr": {
+      "word": "le hamster",
+      "ipa": "[amstɛʁ]",
+      "examples": [
+        { "s": "Mon hamster dort toute la journée.", "zh": "我的倉鼠一整天都在睡覺。" },
+        { "s": "Le hamster cache de la nourriture dans ses joues.", "zh": "倉鼠把食物藏在頰囊裡。" }
+      ]
+    },
+    "ja": {
+      "word": "ハムスター",
+      "kana": "ハムスター",
+      "romaji": "hamusutā",
+      "examples": [
+        { "s": "ハムスターが回し車で遊んでいます。", "zh": "倉鼠在滾輪裡玩耍。" },
+        { "s": "ハムスターはほおに餌をためます。", "zh": "倉鼠把食物存在頰囊裡。" }
+      ]
+    }
+  }
+]

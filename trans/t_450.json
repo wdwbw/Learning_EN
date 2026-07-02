@@ -1,0 +1,842 @@
+[
+  {
+    "id": "p0401",
+    "de": {
+      "word": "die Höhle",
+      "ipa": "[ˈhøːlə]",
+      "examples": [
+        { "s": "Wir haben eine tiefe Höhle im Wald entdeckt.", "zh": "我們在森林裡發現了一個很深的洞穴。" },
+        { "s": "In der Höhle war es kalt und dunkel.", "zh": "洞穴裡又冷又暗。" }
+      ]
+    },
+    "fr": {
+      "word": "la grotte",
+      "ipa": "[la ɡʁɔt]",
+      "examples": [
+        { "s": "Nous avons visité une grotte pleine de stalactites.", "zh": "我們參觀了一個滿是鐘乳石的洞穴。" },
+        { "s": "La grotte est cachée derrière la cascade.", "zh": "洞穴藏在瀑布後面。" }
+      ]
+    },
+    "ja": {
+      "word": "洞窟",
+      "kana": "どうくつ",
+      "romaji": "dōkutsu",
+      "examples": [
+        { "s": "山の中に大きな洞窟があります。", "zh": "山裡有一個大洞穴。" },
+        { "s": "洞窟の中はとても暗かった。", "zh": "洞穴裡面非常暗。" }
+      ]
+    }
+  },
+  {
+    "id": "p0402",
+    "de": {
+      "word": "die Decke",
+      "ipa": "[ˈdɛkə]",
+      "examples": [
+        { "s": "Die Lampe hängt an der Decke.", "zh": "燈掛在天花板上。" },
+        { "s": "Die Decke im Wohnzimmer ist sehr hoch.", "zh": "客廳的天花板很高。" }
+      ]
+    },
+    "fr": {
+      "word": "le plafond",
+      "ipa": "[lə plafɔ̃]",
+      "examples": [
+        { "s": "Le plafond de la salle est décoré de fresques.", "zh": "大廳的天花板裝飾著壁畫。" },
+        { "s": "Il y a une fissure au plafond.", "zh": "天花板上有一道裂縫。" }
+      ]
+    },
+    "ja": {
+      "word": "天井",
+      "kana": "てんじょう",
+      "romaji": "tenjō",
+      "examples": [
+        { "s": "この部屋は天井が高いです。", "zh": "這個房間天花板很高。" },
+        { "s": "天井に照明を取り付けました。", "zh": "我在天花板上裝了照明。" }
+      ]
+    }
+  },
+  {
+    "id": "p0403",
+    "de": {
+      "word": "feiern",
+      "ipa": "[ˈfaɪ̯ɐn]",
+      "examples": [
+        { "s": "Wir feiern heute ihren Geburtstag.", "zh": "我們今天慶祝她的生日。" },
+        { "s": "Lass uns den Erfolg feiern!", "zh": "讓我們慶祝這次的成功吧！" }
+      ]
+    },
+    "fr": {
+      "word": "célébrer",
+      "ipa": "[selebʁe]",
+      "examples": [
+        { "s": "Nous allons célébrer notre anniversaire de mariage.", "zh": "我們要慶祝結婚紀念日。" },
+        { "s": "Toute la ville célèbre la fête ce soir.", "zh": "今晚全城都在慶祝節日。" }
+      ]
+    },
+    "ja": {
+      "word": "祝う",
+      "kana": "いわう",
+      "romaji": "iwau",
+      "examples": [
+        { "s": "みんなで彼の合格を祝いました。", "zh": "大家一起慶祝他考上了。" },
+        { "s": "新年を家族で祝います。", "zh": "全家一起慶祝新年。" }
+      ]
+    }
+  },
+  {
+    "id": "p0404",
+    "de": {
+      "word": "die Zelle",
+      "ipa": "[ˈtsɛlə]",
+      "examples": [
+        { "s": "Der menschliche Körper besteht aus vielen Zellen.", "zh": "人體由許多細胞組成。" },
+        { "s": "Unter dem Mikroskop kann man die Zellen sehen.", "zh": "在顯微鏡下可以看到細胞。" }
+      ]
+    },
+    "fr": {
+      "word": "la cellule",
+      "ipa": "[la selyl]",
+      "examples": [
+        { "s": "Chaque cellule contient un noyau.", "zh": "每個細胞都含有一個細胞核。" },
+        { "s": "Les cellules se divisent pour se multiplier.", "zh": "細胞透過分裂來增殖。" }
+      ]
+    },
+    "ja": {
+      "word": "細胞",
+      "kana": "さいぼう",
+      "romaji": "saibō",
+      "examples": [
+        { "s": "人間の体は細胞でできています。", "zh": "人的身體是由細胞構成的。" },
+        { "s": "顕微鏡で細胞を観察した。", "zh": "用顯微鏡觀察了細胞。" }
+      ]
+    }
+  },
+  {
+    "id": "p0405",
+    "de": {
+      "word": "das Cello",
+      "ipa": "[ˈtʃɛlo]",
+      "examples": [
+        { "s": "Sie spielt seit ihrer Kindheit Cello.", "zh": "她從小就在拉大提琴。" },
+        { "s": "Der Klang des Cellos ist sehr warm.", "zh": "大提琴的音色非常溫暖。" }
+      ]
+    },
+    "fr": {
+      "word": "le violoncelle",
+      "ipa": "[lə vjɔlɔ̃sɛl]",
+      "examples": [
+        { "s": "Il apprend le violoncelle au conservatoire.", "zh": "他在音樂學院學大提琴。" },
+        { "s": "Le violoncelle a un son grave et profond.", "zh": "大提琴的聲音低沉而深厚。" }
+      ]
+    },
+    "ja": {
+      "word": "チェロ",
+      "kana": "チェロ",
+      "romaji": "chero",
+      "examples": [
+        { "s": "彼女はコンサートでチェロを演奏した。", "zh": "她在音樂會上演奏了大提琴。" },
+        { "s": "チェロの練習を毎日しています。", "zh": "我每天都練習大提琴。" }
+      ]
+    }
+  },
+  {
+    "id": "p0406",
+    "de": {
+      "word": "der Zement",
+      "ipa": "[tseˈmɛnt]",
+      "examples": [
+        { "s": "Die Arbeiter mischen Zement mit Wasser.", "zh": "工人把水泥和水混合。" },
+        { "s": "Der Boden wurde mit Zement befestigt.", "zh": "地面用水泥加固了。" }
+      ]
+    },
+    "fr": {
+      "word": "le ciment",
+      "ipa": "[lə simɑ̃]",
+      "examples": [
+        { "s": "Ils versent du ciment pour les fondations.", "zh": "他們倒水泥來打地基。" },
+        { "s": "Le ciment met plusieurs jours à sécher.", "zh": "水泥需要好幾天才會乾。" }
+      ]
+    },
+    "ja": {
+      "word": "セメント",
+      "kana": "セメント",
+      "romaji": "semento",
+      "examples": [
+        { "s": "セメントを水と混ぜて固めます。", "zh": "把水泥和水混合使其凝固。" },
+        { "s": "工事現場でセメントを運んでいる。", "zh": "在工地上搬運水泥。" }
+      ]
+    }
+  },
+  {
+    "id": "p0407",
+    "de": {
+      "word": "das Jahrhundert",
+      "ipa": "[jaːɐ̯ˈhʊndɐt]",
+      "examples": [
+        { "s": "Diese Kirche wurde im 12. Jahrhundert gebaut.", "zh": "這座教堂建於十二世紀。" },
+        { "s": "Im letzten Jahrhundert gab es viele Erfindungen.", "zh": "上個世紀有許多發明。" }
+      ]
+    },
+    "fr": {
+      "word": "le siècle",
+      "ipa": "[lə sjɛkl]",
+      "examples": [
+        { "s": "Ce château date du dix-septième siècle.", "zh": "這座城堡可追溯到十七世紀。" },
+        { "s": "Nous vivons au vingt et unième siècle.", "zh": "我們生活在二十一世紀。" }
+      ]
+    },
+    "ja": {
+      "word": "世紀",
+      "kana": "せいき",
+      "romaji": "seiki",
+      "examples": [
+        { "s": "この建物は十九世紀に造られました。", "zh": "這棟建築建於十九世紀。" },
+        { "s": "二十一世紀は技術が急速に進歩している。", "zh": "二十一世紀科技快速進步。" }
+      ]
+    }
+  },
+  {
+    "id": "p0408",
+    "de": {
+      "word": "die Keramik",
+      "ipa": "[keˈraːmɪk]",
+      "examples": [
+        { "s": "Sie sammelt handbemalte Keramik aus Japan.", "zh": "她收集來自日本的手繪陶瓷。" },
+        { "s": "Die Vase ist aus feiner Keramik.", "zh": "這個花瓶是用精緻的陶瓷做的。" }
+      ]
+    },
+    "fr": {
+      "word": "la céramique",
+      "ipa": "[la seʁamik]",
+      "examples": [
+        { "s": "Cet atelier fabrique de la céramique artisanale.", "zh": "這間工作室製作手工陶瓷。" },
+        { "s": "Les assiettes en céramique sont fragiles.", "zh": "陶瓷盤子很易碎。" }
+      ]
+    },
+    "ja": {
+      "word": "陶磁器",
+      "kana": "とうじき",
+      "romaji": "tōjiki",
+      "examples": [
+        { "s": "この店は美しい陶磁器を売っています。", "zh": "這家店賣漂亮的陶瓷。" },
+        { "s": "陶磁器のカップでお茶を飲む。", "zh": "用陶瓷杯喝茶。" }
+      ]
+    }
+  },
+  {
+    "id": "p0409",
+    "de": {
+      "word": "die Zeremonie",
+      "ipa": "[tseʁemoˈniː]",
+      "examples": [
+        { "s": "Die Zeremonie beginnt um zehn Uhr.", "zh": "典禮十點開始。" },
+        { "s": "Wir waren bei der feierlichen Zeremonie dabei.", "zh": "我們參加了那場隆重的典禮。" }
+      ]
+    },
+    "fr": {
+      "word": "la cérémonie",
+      "ipa": "[la seʁemɔni]",
+      "examples": [
+        { "s": "La cérémonie de mariage était très émouvante.", "zh": "婚禮儀式非常感人。" },
+        { "s": "Ils ont assisté à la cérémonie d'ouverture.", "zh": "他們出席了開幕典禮。" }
+      ]
+    },
+    "ja": {
+      "word": "式典",
+      "kana": "しきてん",
+      "romaji": "shikiten",
+      "examples": [
+        { "s": "卒業式典に大勢の人が集まった。", "zh": "很多人聚集在畢業典禮上。" },
+        { "s": "開会式典は午前十時に始まります。", "zh": "開幕典禮上午十點開始。" }
+      ]
+    }
+  },
+  {
+    "id": "p0410",
+    "de": {
+      "word": "das Zertifikat",
+      "ipa": "[tsɛʁtifiˈkaːt]",
+      "examples": [
+        { "s": "Nach dem Kurs erhältst du ein Zertifikat.", "zh": "課程結束後你會拿到一張證書。" },
+        { "s": "Das Zertifikat bestätigt seine Deutschkenntnisse.", "zh": "這張證書證明了他的德語能力。" }
+      ]
+    },
+    "fr": {
+      "word": "le certificat",
+      "ipa": "[lə sɛʁtifika]",
+      "examples": [
+        { "s": "Elle a obtenu un certificat de formation.", "zh": "她取得了一張培訓證書。" },
+        { "s": "Vous devez présenter votre certificat médical.", "zh": "你必須出示你的健康證明。" }
+      ]
+    },
+    "ja": {
+      "word": "証明書",
+      "kana": "しょうめいしょ",
+      "romaji": "shōmeisho",
+      "examples": [
+        { "s": "研修の後で証明書がもらえます。", "zh": "研習之後可以拿到證書。" },
+        { "s": "この証明書は語学力を示します。", "zh": "這張證書證明語言能力。" }
+      ]
+    }
+  },
+  {
+    "id": "p0411",
+    "de": {
+      "word": "die Kette",
+      "ipa": "[ˈkɛtə]",
+      "examples": [
+        { "s": "Die Kette des Fahrrads ist gerissen.", "zh": "腳踏車的鏈條斷了。" },
+        { "s": "Er befestigte den Hund mit einer Kette.", "zh": "他用鏈條把狗拴住。" }
+      ]
+    },
+    "fr": {
+      "word": "la chaîne",
+      "ipa": "[la ʃɛn]",
+      "examples": [
+        { "s": "La chaîne du vélo a besoin d'huile.", "zh": "腳踏車的鏈條需要上油。" },
+        { "s": "Il a attaché le portail avec une chaîne.", "zh": "他用鏈條把大門鎖上。" }
+      ]
+    },
+    "ja": {
+      "word": "鎖",
+      "kana": "くさり",
+      "romaji": "kusari",
+      "examples": [
+        { "s": "自転車の鎖が外れてしまった。", "zh": "腳踏車的鏈條脫落了。" },
+        { "s": "犬を鎖でつないでおいた。", "zh": "用鏈條把狗拴住了。" }
+      ]
+    }
+  },
+  {
+    "id": "p0412",
+    "de": {
+      "word": "der Stuhl",
+      "ipa": "[ʃtuːl]",
+      "examples": [
+        { "s": "Bitte nimm auf diesem Stuhl Platz.", "zh": "請坐在這張椅子上。" },
+        { "s": "Der Stuhl in der Küche ist kaputt.", "zh": "廚房裡的椅子壞了。" }
+      ]
+    },
+    "fr": {
+      "word": "la chaise",
+      "ipa": "[la ʃɛz]",
+      "examples": [
+        { "s": "Il s'est assis sur une chaise en bois.", "zh": "他坐在一張木頭椅子上。" },
+        { "s": "Peux-tu apporter une chaise de plus ?", "zh": "你能再多拿一張椅子來嗎？" }
+      ]
+    },
+    "ja": {
+      "word": "椅子",
+      "kana": "いす",
+      "romaji": "isu",
+      "examples": [
+        { "s": "どうぞこの椅子に座ってください。", "zh": "請坐這張椅子。" },
+        { "s": "椅子が足りないので一つ持ってきて。", "zh": "椅子不夠，再拿一張來。" }
+      ]
+    }
+  },
+  {
+    "id": "p0413",
+    "de": {
+      "word": "die Tafel",
+      "ipa": "[ˈtaːfl̩]",
+      "examples": [
+        { "s": "Der Lehrer schreibt die Aufgabe an die Tafel.", "zh": "老師把題目寫在黑板上。" },
+        { "s": "Bitte wisch die Tafel sauber.", "zh": "請把黑板擦乾淨。" }
+      ]
+    },
+    "fr": {
+      "word": "le tableau noir",
+      "ipa": "[lə tablo nwaʁ]",
+      "examples": [
+        { "s": "La maîtresse écrit la date au tableau noir.", "zh": "老師把日期寫在黑板上。" },
+        { "s": "Efface le tableau noir avant le cours.", "zh": "上課前把黑板擦掉。" }
+      ]
+    },
+    "ja": {
+      "word": "黒板",
+      "kana": "こくばん",
+      "romaji": "kokuban",
+      "examples": [
+        { "s": "先生が黒板に問題を書いた。", "zh": "老師在黑板上寫了題目。" },
+        { "s": "授業の後で黒板を消してください。", "zh": "下課後請把黑板擦掉。" }
+      ]
+    }
+  },
+  {
+    "id": "p0414",
+    "de": {
+      "word": "die Herausforderung",
+      "ipa": "[hɛˈʁaʊ̯sˌfɔʁdəʁʊŋ]",
+      "examples": [
+        { "s": "Der neue Job ist eine große Herausforderung.", "zh": "這份新工作是個很大的挑戰。" },
+        { "s": "Sie nimmt jede Herausforderung gerne an.", "zh": "她樂於接受每一個挑戰。" }
+      ]
+    },
+    "fr": {
+      "word": "le défi",
+      "ipa": "[lə defi]",
+      "examples": [
+        { "s": "Apprendre une langue est un vrai défi.", "zh": "學一門語言是個真正的挑戰。" },
+        { "s": "Elle a relevé le défi avec courage.", "zh": "她勇敢地迎接了挑戰。" }
+      ]
+    },
+    "ja": {
+      "word": "挑戦",
+      "kana": "ちょうせん",
+      "romaji": "chōsen",
+      "examples": [
+        { "s": "新しい仕事は大きな挑戦です。", "zh": "新工作是很大的挑戰。" },
+        { "s": "彼はどんな挑戦にも立ち向かう。", "zh": "他勇於面對任何挑戰。" }
+      ]
+    }
+  },
+  {
+    "id": "p0415",
+    "de": {
+      "word": "die Kamille",
+      "ipa": "[kaˈmɪlə]",
+      "examples": [
+        { "s": "Vor dem Schlafen trinke ich gern Kamille.", "zh": "睡前我喜歡喝洋甘菊茶。" },
+        { "s": "Kamille hilft bei einem nervösen Magen.", "zh": "洋甘菊有助於緩解胃部不適。" }
+      ]
+    },
+    "fr": {
+      "word": "la camomille",
+      "ipa": "[la kamɔmij]",
+      "examples": [
+        { "s": "Une tisane à la camomille aide à dormir.", "zh": "一杯洋甘菊茶有助於入睡。" },
+        { "s": "Elle boit de la camomille chaque soir.", "zh": "她每天晚上喝洋甘菊茶。" }
+      ]
+    },
+    "ja": {
+      "word": "カモミール",
+      "kana": "カモミール",
+      "romaji": "kamomīru",
+      "examples": [
+        { "s": "寝る前にカモミールティーを飲みます。", "zh": "睡前我會喝洋甘菊茶。" },
+        { "s": "カモミールは心を落ち着かせてくれる。", "zh": "洋甘菊能讓心情平靜下來。" }
+      ]
+    }
+  },
+  {
+    "id": "p0416",
+    "de": {
+      "word": "der Champagner",
+      "ipa": "[ʃamˈpanjɐ]",
+      "examples": [
+        { "s": "Zum Neujahr öffnen wir eine Flasche Champagner.", "zh": "跨年時我們會開一瓶香檳。" },
+        { "s": "Der Champagner ist eiskalt und lecker.", "zh": "這香檳冰涼又好喝。" }
+      ]
+    },
+    "fr": {
+      "word": "le champagne",
+      "ipa": "[lə ʃɑ̃paɲ]",
+      "examples": [
+        { "s": "On a débouché le champagne pour fêter ça.", "zh": "我們開了香檳來慶祝。" },
+        { "s": "Le champagne pétille dans les verres.", "zh": "香檳在杯子裡冒著氣泡。" }
+      ]
+    },
+    "ja": {
+      "word": "シャンパン",
+      "kana": "シャンパン",
+      "romaji": "shanpan",
+      "examples": [
+        { "s": "お祝いにシャンパンを開けました。", "zh": "為了慶祝開了香檳。" },
+        { "s": "冷えたシャンパンで乾杯した。", "zh": "用冰過的香檳乾杯了。" }
+      ]
+    }
+  },
+  {
+    "id": "p0417",
+    "de": {
+      "word": "der Champion",
+      "ipa": "[ˈtʃɛmpi̯ən]",
+      "examples": [
+        { "s": "Er wurde dieses Jahr Champion im Tennis.", "zh": "他今年成為網球冠軍。" },
+        { "s": "Der Champion feierte seinen Sieg mit dem Team.", "zh": "冠軍和隊友一起慶祝勝利。" }
+      ]
+    },
+    "fr": {
+      "word": "le champion",
+      "ipa": "[lə ʃɑ̃pjɔ̃]",
+      "examples": [
+        { "s": "Il est devenu champion du monde de boxe.", "zh": "他成為了世界拳擊冠軍。" },
+        { "s": "Le champion a soulevé la coupe avec fierté.", "zh": "冠軍自豪地舉起了獎盃。" }
+      ]
+    },
+    "ja": {
+      "word": "チャンピオン",
+      "kana": "チャンピオン",
+      "romaji": "chanpion",
+      "examples": [
+        { "s": "彼は今年のチャンピオンになった。", "zh": "他成為了今年的冠軍。" },
+        { "s": "チャンピオンは笑顔でトロフィーを掲げた。", "zh": "冠軍面帶笑容舉起了獎盃。" }
+      ]
+    }
+  },
+  {
+    "id": "p0418",
+    "de": {
+      "word": "das Wechselgeld",
+      "ipa": "[ˈvɛksl̩ˌɡɛlt]",
+      "examples": [
+        { "s": "Der Verkäufer gab mir das Wechselgeld zurück.", "zh": "店員把找的錢還給我。" },
+        { "s": "Ich habe kein Wechselgeld für den Automaten.", "zh": "我沒有零錢可以投自動販賣機。" }
+      ]
+    },
+    "fr": {
+      "word": "la monnaie",
+      "ipa": "[la mɔnɛ]",
+      "examples": [
+        { "s": "La caissière m'a rendu la monnaie.", "zh": "收銀員找了零錢給我。" },
+        { "s": "Je n'ai pas de monnaie pour le parcmètre.", "zh": "我沒有零錢可以投停車收費器。" }
+      ]
+    },
+    "ja": {
+      "word": "お釣り",
+      "kana": "おつり",
+      "romaji": "otsuri",
+      "examples": [
+        { "s": "店員さんがお釣りを渡してくれた。", "zh": "店員把找的錢遞給我。" },
+        { "s": "細かいお釣りがなくて困った。", "zh": "沒有零錢很傷腦筋。" }
+      ]
+    }
+  },
+  {
+    "id": "p0419",
+    "de": {
+      "word": "der Kanal",
+      "ipa": "[kaˈnaːl]",
+      "examples": [
+        { "s": "Schalt bitte auf den anderen Kanal um.", "zh": "請轉到另一個頻道。" },
+        { "s": "Dieser Kanal zeigt den ganzen Tag Nachrichten.", "zh": "這個頻道整天播新聞。" }
+      ]
+    },
+    "fr": {
+      "word": "la chaîne",
+      "ipa": "[la ʃɛn]",
+      "examples": [
+        { "s": "Change de chaîne, ce film est ennuyeux.", "zh": "換個頻道吧，這部電影很無聊。" },
+        { "s": "Cette chaîne diffuse du sport en direct.", "zh": "這個頻道直播體育賽事。" }
+      ]
+    },
+    "ja": {
+      "word": "チャンネル",
+      "kana": "チャンネル",
+      "romaji": "channeru",
+      "examples": [
+        { "s": "別のチャンネルに変えてください。", "zh": "請換到別的頻道。" },
+        { "s": "このチャンネルはニュースばかり流している。", "zh": "這個頻道一直在播新聞。" }
+      ]
+    }
+  },
+  {
+    "id": "p0420",
+    "de": {
+      "word": "der Gesang",
+      "ipa": "[ɡəˈzaŋ]",
+      "examples": [
+        { "s": "Der monotone Gesang der Mönche hallte durch die Halle.", "zh": "僧侶單調的吟誦在大廳裡回盪。" },
+        { "s": "Die Menge stimmte einen rhythmischen Gesang an.", "zh": "群眾唱起了有節奏的口號。" }
+      ]
+    },
+    "fr": {
+      "word": "le chant",
+      "ipa": "[lə ʃɑ̃]",
+      "examples": [
+        { "s": "Le chant des moines résonnait dans l'église.", "zh": "僧侶的吟誦在教堂裡回響。" },
+        { "s": "Les supporters ont entonné un chant en chœur.", "zh": "球迷們齊聲唱起了口號。" }
+      ]
+    },
+    "ja": {
+      "word": "詠唱",
+      "kana": "えいしょう",
+      "romaji": "eishō",
+      "examples": [
+        { "s": "僧侶たちの詠唱が堂内に響いた。", "zh": "僧侶的吟誦在殿內回盪。" },
+        { "s": "観客はリズムに合わせて詠唱を始めた。", "zh": "觀眾隨著節奏開始唱誦。" }
+      ]
+    }
+  },
+  {
+    "id": "p0421",
+    "de": {
+      "word": "die Figur",
+      "ipa": "[fiˈɡuːɐ̯]",
+      "examples": [
+        { "s": "Die Hauptfigur des Films ist ein junger Detektiv.", "zh": "這部電影的主角是一位年輕偵探。" },
+        { "s": "Meine liebste Figur im Buch ist die alte Frau.", "zh": "書裡我最喜歡的角色是那位老婦人。" }
+      ]
+    },
+    "fr": {
+      "word": "le personnage",
+      "ipa": "[lə pɛʁsɔnaʒ]",
+      "examples": [
+        { "s": "Le personnage principal est très attachant.", "zh": "主角非常討人喜歡。" },
+        { "s": "Chaque personnage a une histoire différente.", "zh": "每個角色都有不同的故事。" }
+      ]
+    },
+    "ja": {
+      "word": "登場人物",
+      "kana": "とうじょうじんぶつ",
+      "romaji": "tōjōjinbutsu",
+      "examples": [
+        { "s": "この物語の登場人物はとても魅力的だ。", "zh": "這個故事的角色非常有魅力。" },
+        { "s": "主人公は勇敢な登場人物です。", "zh": "主角是個勇敢的角色。" }
+      ]
+    }
+  },
+  {
+    "id": "p0422",
+    "de": {
+      "word": "das Anthrazit",
+      "ipa": "[antʁaˈtsiːt]",
+      "examples": [
+        { "s": "Der Anzug ist in einem eleganten Anthrazit gehalten.", "zh": "這套西裝是優雅的炭灰色。" },
+        { "s": "Ich mag die Wand in Anthrazit streichen.", "zh": "我想把牆漆成深灰色。" }
+      ]
+    },
+    "fr": {
+      "word": "l'anthracite",
+      "ipa": "[lɑ̃tʁasit]",
+      "examples": [
+        { "s": "Elle porte un manteau couleur anthracite.", "zh": "她穿著一件炭灰色的外套。" },
+        { "s": "Le mur est peint en gris anthracite.", "zh": "牆壁漆成了深炭灰色。" }
+      ]
+    },
+    "ja": {
+      "word": "チャコールグレー",
+      "kana": "チャコールグレー",
+      "romaji": "chakōru gurē",
+      "examples": [
+        { "s": "彼はチャコールグレーのスーツを着ている。", "zh": "他穿著炭灰色的西裝。" },
+        { "s": "壁をチャコールグレーに塗りたい。", "zh": "我想把牆漆成深灰色。" }
+      ]
+    }
+  },
+  {
+    "id": "p0423",
+    "de": {
+      "word": "aufladen",
+      "ipa": "[ˈaʊ̯fˌlaːdn̩]",
+      "examples": [
+        { "s": "Ich muss mein Handy vor der Reise aufladen.", "zh": "出發前我得幫手機充電。" },
+        { "s": "Der Akku lädt sich in zwei Stunden auf.", "zh": "電池兩小時就能充飽電。" }
+      ]
+    },
+    "fr": {
+      "word": "recharger",
+      "ipa": "[ʁ(ə)ʃaʁʒe]",
+      "examples": [
+        { "s": "Je dois recharger mon téléphone, la batterie est vide.", "zh": "我得幫手機充電，電池沒電了。" },
+        { "s": "N'oublie pas de recharger ta tablette ce soir.", "zh": "別忘了今晚幫你的平板充電。" }
+      ]
+    },
+    "ja": {
+      "word": "充電する",
+      "kana": "じゅうでんする",
+      "romaji": "jūden suru",
+      "examples": [
+        { "s": "出かける前にスマホを充電する。", "zh": "出門前幫手機充電。" },
+        { "s": "バッテリーが切れたので充電した。", "zh": "電池沒電了所以充了電。" }
+      ]
+    }
+  },
+  {
+    "id": "p0424",
+    "de": {
+      "word": "das Ladegerät",
+      "ipa": "[ˈlaːdəɡəˌʁɛːt]",
+      "examples": [
+        { "s": "Hast du dein Ladegerät zu Hause vergessen?", "zh": "你把充電器忘在家裡了嗎？" },
+        { "s": "Dieses Ladegerät passt zu allen meinen Geräten.", "zh": "這個充電器適用於我所有的裝置。" }
+      ]
+    },
+    "fr": {
+      "word": "le chargeur",
+      "ipa": "[lə ʃaʁʒœʁ]",
+      "examples": [
+        { "s": "J'ai oublié mon chargeur au bureau.", "zh": "我把充電器忘在辦公室了。" },
+        { "s": "Peux-tu me prêter ton chargeur ?", "zh": "你可以借我你的充電器嗎？" }
+      ]
+    },
+    "ja": {
+      "word": "充電器",
+      "kana": "じゅうでんき",
+      "romaji": "jūdenki",
+      "examples": [
+        { "s": "充電器を家に忘れてきてしまった。", "zh": "我把充電器忘在家裡了。" },
+        { "s": "この充電器はどの機器にも使える。", "zh": "這個充電器任何裝置都能用。" }
+      ]
+    }
+  },
+  {
+    "id": "p0425",
+    "de": {
+      "word": "der Anhänger",
+      "ipa": "[ˈanˌhɛŋɐ]",
+      "examples": [
+        { "s": "Sie trägt einen kleinen Anhänger an ihrer Halskette.", "zh": "她的項鍊上掛著一個小墜飾。" },
+        { "s": "Der Anhänger soll Glück bringen.", "zh": "這個護身墜飾據說能帶來好運。" }
+      ]
+    },
+    "fr": {
+      "word": "le pendentif",
+      "ipa": "[lə pɑ̃dɑ̃tif]",
+      "examples": [
+        { "s": "Elle porte un joli pendentif en argent.", "zh": "她戴著一個漂亮的銀墜飾。" },
+        { "s": "Ce pendentif est un porte-bonheur.", "zh": "這個墜飾是護身符。" }
+      ]
+    },
+    "ja": {
+      "word": "チャーム",
+      "kana": "チャーム",
+      "romaji": "chāmu",
+      "examples": [
+        { "s": "ネックレスに小さなチャームを付けた。", "zh": "在項鍊上掛了一個小飾物。" },
+        { "s": "このチャームはお守りだそうです。", "zh": "聽說這個小墜飾是護身符。" }
+      ]
+    }
+  },
+  {
+    "id": "p0426",
+    "de": {
+      "word": "das Diagramm",
+      "ipa": "[diaˈɡʁam]",
+      "examples": [
+        { "s": "Das Diagramm zeigt die Verkaufszahlen des Jahres.", "zh": "這張圖表顯示了今年的銷售數字。" },
+        { "s": "Erkläre bitte das Diagramm auf der Folie.", "zh": "請解釋一下投影片上的圖表。" }
+      ]
+    },
+    "fr": {
+      "word": "le graphique",
+      "ipa": "[lə ɡʁafik]",
+      "examples": [
+        { "s": "Ce graphique illustre l'évolution des ventes.", "zh": "這張圖表說明了銷售的變化。" },
+        { "s": "Le graphique montre une hausse importante.", "zh": "圖表顯示出明顯的上升。" }
+      ]
+    },
+    "ja": {
+      "word": "図表",
+      "kana": "ずひょう",
+      "romaji": "zuhyō",
+      "examples": [
+        { "s": "この図表は今年の売上を示しています。", "zh": "這張圖表顯示了今年的銷售額。" },
+        { "s": "会議で図表を使って説明した。", "zh": "在會議上用圖表做了說明。" }
+      ]
+    }
+  },
+  {
+    "id": "p0427",
+    "de": {
+      "word": "verfolgen",
+      "ipa": "[fɛɐ̯ˈfɔlɡn̩]",
+      "examples": [
+        { "s": "Die Polizei verfolgte den Dieb durch die Straßen.", "zh": "警察沿街追捕小偷。" },
+        { "s": "Der Hund verfolgte die Katze bis zum Zaun.", "zh": "那隻狗把貓追到了圍籬邊。" }
+      ]
+    },
+    "fr": {
+      "word": "poursuivre",
+      "ipa": "[puʁsɥivʁ]",
+      "examples": [
+        { "s": "Les policiers ont poursuivi le voleur en courant.", "zh": "警察一路追捕小偷。" },
+        { "s": "Le chat poursuit la souris dans le jardin.", "zh": "貓在花園裡追捕老鼠。" }
+      ]
+    },
+    "ja": {
+      "word": "追いかける",
+      "kana": "おいかける",
+      "romaji": "oikakeru",
+      "examples": [
+        { "s": "警察が泥棒を追いかけた。", "zh": "警察追捕小偷。" },
+        { "s": "犬が猫を庭まで追いかけた。", "zh": "狗把貓追到了院子裡。" }
+      ]
+    }
+  },
+  {
+    "id": "p0428",
+    "de": {
+      "word": "plaudern",
+      "ipa": "[ˈplaʊ̯dɐn]",
+      "examples": [
+        { "s": "Wir haben lange bei einem Kaffee geplaudert.", "zh": "我們邊喝咖啡邊聊了很久。" },
+        { "s": "Die Nachbarn plaudern gern über den Gartenzaun.", "zh": "鄰居們喜歡隔著花園圍籬聊天。" }
+      ]
+    },
+    "fr": {
+      "word": "bavarder",
+      "ipa": "[bavaʁde]",
+      "examples": [
+        { "s": "Elles ont bavardé pendant des heures au café.", "zh": "她們在咖啡館聊了好幾個小時。" },
+        { "s": "On a bavardé un peu avant de partir.", "zh": "我們離開前聊了一會兒。" }
+      ]
+    },
+    "ja": {
+      "word": "おしゃべりする",
+      "kana": "おしゃべりする",
+      "romaji": "oshaberi suru",
+      "examples": [
+        { "s": "友達とカフェで長い間おしゃべりした。", "zh": "和朋友在咖啡館聊了很久。" },
+        { "s": "近所の人と少しおしゃべりした。", "zh": "和鄰居聊了一會兒。" }
+      ]
+    }
+  },
+  {
+    "id": "p0429",
+    "de": {
+      "word": "billig",
+      "ipa": "[ˈbɪlɪç]",
+      "examples": [
+        { "s": "Auf dem Markt ist das Gemüse ziemlich billig.", "zh": "市場上的蔬菜相當便宜。" },
+        { "s": "Diese Schuhe waren billig, aber gut.", "zh": "這雙鞋很便宜但很好穿。" }
+      ]
+    },
+    "fr": {
+      "word": "bon marché",
+      "ipa": "[bɔ̃ maʁʃe]",
+      "examples": [
+        { "s": "Ce restaurant est bon marché et délicieux.", "zh": "這家餐廳便宜又好吃。" },
+        { "s": "J'ai trouvé un billet bon marché pour Paris.", "zh": "我找到一張便宜的巴黎機票。" }
+      ]
+    },
+    "ja": {
+      "word": "安い",
+      "kana": "やすい",
+      "romaji": "yasui",
+      "examples": [
+        { "s": "この店の野菜はとても安い。", "zh": "這家店的蔬菜非常便宜。" },
+        { "s": "安いのに品質が良い靴を買った。", "zh": "買了雙便宜又好穿的鞋。" }
+      ]
+    }
+  },
+  {
+    "id": "p0430",
+    "de": {
+      "word": "fremdgehen",
+      "ipa": "[ˈfʁɛmtˌɡeːən]",
+      "examples": [
+        { "s": "Sie hat ihn verlassen, weil er fremdgegangen ist.", "zh": "她離開了他，因為他劈腿了。" },
+        { "s": "Er würde seine Partnerin niemals betrügen.", "zh": "他絕不會對他的伴侶不忠。" }
+      ]
+    },
+    "fr": {
+      "word": "tromper",
+      "ipa": "[tʁɔ̃pe]",
+      "examples": [
+        { "s": "Elle a découvert qu'il la trompait.", "zh": "她發現他劈腿了。" },
+        { "s": "Il n'a jamais trompé sa femme.", "zh": "他從未對妻子不忠。" }
+      ]
+    },
+    "ja": {
+      "word": "浮気する",
+      "kana": "うわきする",
+      "romaji": "uwaki suru",
+      "examples": [
+        { "s": "彼が浮気したので別れた。", "zh": "因為他劈腿所以分手了。" },
+        { "s": "彼女は決して浮気しない人だ。", "zh": "她是絕不會不忠的人。" }
+      ]
+    }
+  }
+]

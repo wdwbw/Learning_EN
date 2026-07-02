@@ -1,0 +1,842 @@
+[
+  {
+    "id": "p0281",
+    "de": {
+      "word": "der Boom",
+      "ipa": "[buːm]",
+      "examples": [
+        { "s": "Die Wirtschaft erlebt gerade einen großen Boom.", "zh": "經濟正經歷一場大繁榮。" },
+        { "s": "Der Boom in der Baubranche hält seit Jahren an.", "zh": "建築業的景氣已持續好幾年了。" }
+      ]
+    },
+    "fr": {
+      "word": "le boom",
+      "ipa": "[bum]",
+      "examples": [
+        { "s": "Le pays connaît un boom économique impressionnant.", "zh": "這個國家正經歷驚人的經濟繁榮。" },
+        { "s": "Ce quartier a profité du boom immobilier.", "zh": "這個區受惠於房地產的景氣大好。" }
+      ]
+    },
+    "ja": {
+      "word": "ブーム",
+      "kana": "ブーム",
+      "romaji": "būmu",
+      "examples": [
+        { "s": "この街は今、観光ブームで賑わっている。", "zh": "這座城市現在因觀光熱潮而熱鬧非凡。" },
+        { "s": "景気のブームで会社の売上が急に伸びた。", "zh": "因景氣繁榮，公司的營收突然大增。" }
+      ]
+    }
+  },
+  {
+    "id": "p0282",
+    "de": {
+      "word": "die Stiefel",
+      "ipa": "[ˈʃtiːfl̩]",
+      "examples": [
+        { "s": "Im Winter trage ich immer warme Stiefel.", "zh": "冬天我總是穿保暖的靴子。" },
+        { "s": "Meine neuen Stiefel sind wasserdicht.", "zh": "我的新靴子是防水的。" }
+      ]
+    },
+    "fr": {
+      "word": "les bottes",
+      "ipa": "[bɔt]",
+      "examples": [
+        { "s": "Elle a acheté des bottes en cuir noir.", "zh": "她買了一雙黑色皮靴。" },
+        { "s": "Mets tes bottes, il pleut dehors.", "zh": "穿上你的靴子，外面在下雨。" }
+      ]
+    },
+    "ja": {
+      "word": "ブーツ",
+      "kana": "ブーツ",
+      "romaji": "būtsu",
+      "examples": [
+        { "s": "冬になると必ずブーツを履きます。", "zh": "一到冬天我一定穿靴子。" },
+        { "s": "この革のブーツはとても暖かい。", "zh": "這雙皮靴非常保暖。" }
+      ]
+    }
+  },
+  {
+    "id": "p0283",
+    "de": {
+      "word": "die Grenze",
+      "ipa": "[ˈɡʁɛnt͡sə]",
+      "examples": [
+        { "s": "Wir haben die Grenze nach Frankreich überquert.", "zh": "我們越過了通往法國的邊界。" },
+        { "s": "An der Grenze wurden unsere Pässe kontrolliert.", "zh": "在國界處我們的護照受到檢查。" }
+      ]
+    },
+    "fr": {
+      "word": "la frontière",
+      "ipa": "[fʁɔ̃tjɛʁ]",
+      "examples": [
+        { "s": "Nous avons traversé la frontière allemande hier.", "zh": "我們昨天越過了德國邊界。" },
+        { "s": "La ville se trouve tout près de la frontière.", "zh": "這座城市就在國界附近。" }
+      ]
+    },
+    "ja": {
+      "word": "国境",
+      "kana": "こっきょう",
+      "romaji": "kokkyō",
+      "examples": [
+        { "s": "私たちは車で国境を越えた。", "zh": "我們開車越過了國界。" },
+        { "s": "国境の町では二つの言葉が話されている。", "zh": "邊界的小鎮上使用兩種語言。" }
+      ]
+    }
+  },
+  {
+    "id": "p0284",
+    "de": {
+      "word": "gelangweilt",
+      "ipa": "[ɡəˈlaŋvaɪlt]",
+      "examples": [
+        { "s": "Ich bin so gelangweilt, es gibt nichts zu tun.", "zh": "我好無聊，沒有事情可做。" },
+        { "s": "Die Kinder waren während des langen Vortrags gelangweilt.", "zh": "孩子們在冗長的演講中覺得很無聊。" }
+      ]
+    },
+    "fr": {
+      "word": "ennuyé",
+      "ipa": "[ɑ̃nɥije]",
+      "examples": [
+        { "s": "Je suis ennuyé, il n'y a rien à faire ici.", "zh": "我好無聊，這裡沒事可做。" },
+        { "s": "Il avait l'air ennuyé pendant toute la réunion.", "zh": "整場會議他看起來都很無聊。" }
+      ]
+    },
+    "ja": {
+      "word": "退屈な",
+      "kana": "たいくつな",
+      "romaji": "taikutsu na",
+      "examples": [
+        { "s": "雨の日は家で退屈な時間を過ごした。", "zh": "下雨天我在家裡度過了無聊的時光。" },
+        { "s": "その映画は長くて退屈だった。", "zh": "那部電影又長又無聊。" }
+      ]
+    }
+  },
+  {
+    "id": "p0285",
+    "de": {
+      "word": "leihen",
+      "ipa": "[ˈlaɪən]",
+      "examples": [
+        { "s": "Kann ich mir dein Fahrrad für heute leihen?", "zh": "今天我可以借你的腳踏車嗎？" },
+        { "s": "Ich habe mir ein Buch aus der Bibliothek geliehen.", "zh": "我從圖書館借了一本書。" }
+      ]
+    },
+    "fr": {
+      "word": "emprunter",
+      "ipa": "[ɑ̃pʁœ̃te]",
+      "examples": [
+        { "s": "Puis-je emprunter ton stylo un instant ?", "zh": "我可以借一下你的筆嗎？" },
+        { "s": "Elle a emprunté de l'argent à sa sœur.", "zh": "她向她姊姊借了錢。" }
+      ]
+    },
+    "ja": {
+      "word": "借りる",
+      "kana": "かりる",
+      "romaji": "kariru",
+      "examples": [
+        { "s": "友達から傘を借りて帰った。", "zh": "我向朋友借了傘回家。" },
+        { "s": "図書館で本を三冊借りた。", "zh": "我在圖書館借了三本書。" }
+      ]
+    }
+  },
+  {
+    "id": "p0286",
+    "de": {
+      "word": "der Chef",
+      "ipa": "[ʃɛf]",
+      "examples": [
+        { "s": "Mein Chef hat mir heute frei gegeben.", "zh": "我的老闆今天給我放假。" },
+        { "s": "Der neue Chef ist sehr freundlich zu allen.", "zh": "新老闆對每個人都很友善。" }
+      ]
+    },
+    "fr": {
+      "word": "le patron",
+      "ipa": "[patʁɔ̃]",
+      "examples": [
+        { "s": "Mon patron m'a félicité pour mon travail.", "zh": "我的老闆稱讚我的工作表現。" },
+        { "s": "Le patron arrive toujours le premier au bureau.", "zh": "老闆總是第一個到辦公室。" }
+      ]
+    },
+    "ja": {
+      "word": "上司",
+      "kana": "じょうし",
+      "romaji": "jōshi",
+      "examples": [
+        { "s": "上司に企画書を提出しました。", "zh": "我把企劃書交給了上司。" },
+        { "s": "新しい上司はとても親切な人だ。", "zh": "新來的上司是個很親切的人。" }
+      ]
+    }
+  },
+  {
+    "id": "p0287",
+    "de": {
+      "word": "die Flasche",
+      "ipa": "[ˈflaʃə]",
+      "examples": [
+        { "s": "Das Baby trinkt seine Milch aus der Flasche.", "zh": "寶寶用奶瓶喝牛奶。" },
+        { "s": "Bitte wärme die Flasche vor dem Füttern an.", "zh": "餵奶前請先把奶瓶溫熱。" }
+      ]
+    },
+    "fr": {
+      "word": "le biberon",
+      "ipa": "[bibʁɔ̃]",
+      "examples": [
+        { "s": "Le bébé s'endort après son biberon.", "zh": "寶寶喝完奶瓶後就睡著了。" },
+        { "s": "Il faut stériliser le biberon avant de l'utiliser.", "zh": "使用奶瓶前必須先消毒。" }
+      ]
+    },
+    "ja": {
+      "word": "哺乳瓶",
+      "kana": "ほにゅうびん",
+      "romaji": "honyūbin",
+      "examples": [
+        { "s": "赤ちゃんに哺乳瓶でミルクをあげた。", "zh": "我用奶瓶餵寶寶喝奶。" },
+        { "s": "使う前に哺乳瓶をよく洗ってください。", "zh": "使用前請把奶瓶洗乾淨。" }
+      ]
+    }
+  },
+  {
+    "id": "p0288",
+    "de": {
+      "word": "der Boulevard",
+      "ipa": "[bulˈvaːɐ̯]",
+      "examples": [
+        { "s": "Wir spazierten den breiten Boulevard entlang.", "zh": "我們沿著寬闊的林蔭大道散步。" },
+        { "s": "Auf dem Boulevard gibt es viele schöne Cafés.", "zh": "林蔭大道上有許多漂亮的咖啡館。" }
+      ]
+    },
+    "fr": {
+      "word": "le boulevard",
+      "ipa": "[bulvaʁ]",
+      "examples": [
+        { "s": "Nous avons marché sur le boulevard bordé d'arbres.", "zh": "我們走在兩旁種滿樹的林蔭大道上。" },
+        { "s": "Le boulevard est animé le samedi soir.", "zh": "這條林蔭大道在週六晚上很熱鬧。" }
+      ]
+    },
+    "ja": {
+      "word": "大通り",
+      "kana": "おおどおり",
+      "romaji": "ōdōri",
+      "examples": [
+        { "s": "並木の続く大通りを散歩した。", "zh": "我在兩旁綠樹成蔭的大道上散步。" },
+        { "s": "この大通りには高級な店が並んでいる。", "zh": "這條林蔭大道上排列著高級商店。" }
+      ]
+    }
+  },
+  {
+    "id": "p0289",
+    "de": {
+      "word": "springen",
+      "ipa": "[ˈʃpʁɪŋən]",
+      "examples": [
+        { "s": "Der Ball springt hoch von der Wand ab.", "zh": "球從牆上高高彈起。" },
+        { "s": "Die Kinder lassen den Gummiball auf dem Boden springen.", "zh": "孩子們讓橡皮球在地上彈跳。" }
+      ]
+    },
+    "fr": {
+      "word": "rebondir",
+      "ipa": "[ʁəbɔ̃diʁ]",
+      "examples": [
+        { "s": "La balle rebondit sur le mur du gymnase.", "zh": "球從體育館的牆上彈回。" },
+        { "s": "Le ballon a rebondi deux fois avant de s'arrêter.", "zh": "球彈了兩下才停下來。" }
+      ]
+    },
+    "ja": {
+      "word": "跳ねる",
+      "kana": "はねる",
+      "romaji": "haneru",
+      "examples": [
+        { "s": "ボールが地面で高く跳ねた。", "zh": "球在地面上高高彈起。" },
+        { "s": "このボールはよく跳ねるね。", "zh": "這顆球彈得真好。" }
+      ]
+    }
+  },
+  {
+    "id": "p0290",
+    "de": {
+      "word": "die Grenze",
+      "ipa": "[ˈɡʁɛnt͡sə]",
+      "examples": [
+        { "s": "Jeder muss seine eigenen Grenzen kennen.", "zh": "每個人都必須認清自己的界線。" },
+        { "s": "Diese Bemerkung überschreitet die Grenze des Anstands.", "zh": "這句話超出了禮貌的分際。" }
+      ]
+    },
+    "fr": {
+      "word": "la limite",
+      "ipa": "[limit]",
+      "examples": [
+        { "s": "Il est important de fixer des limites claires.", "zh": "設定清楚的界線很重要。" },
+        { "s": "Cette remarque dépasse les limites de la politesse.", "zh": "這句話超出了禮貌的分際。" }
+      ]
+    },
+    "ja": {
+      "word": "境界",
+      "kana": "きょうかい",
+      "romaji": "kyōkai",
+      "examples": [
+        { "s": "仕事と私生活の境界をはっきりさせたい。", "zh": "我想把工作與私生活的界線劃清楚。" },
+        { "s": "彼の発言は許される境界を越えていた。", "zh": "他的發言越過了可容許的分際。" }
+      ]
+    }
+  },
+  {
+    "id": "p0291",
+    "de": {
+      "word": "der Blumenstrauß",
+      "ipa": "[ˈbluːmənˌʃtʁaʊs]",
+      "examples": [
+        { "s": "Er schenkte ihr einen bunten Blumenstrauß.", "zh": "他送給她一束五顏六色的花。" },
+        { "s": "Der Blumenstrauß duftet herrlich im Wohnzimmer.", "zh": "這束花在客廳裡散發著芬芳。" }
+      ]
+    },
+    "fr": {
+      "word": "le bouquet",
+      "ipa": "[bukɛ]",
+      "examples": [
+        { "s": "Il a offert un magnifique bouquet à sa mère.", "zh": "他送給母親一束漂亮的花。" },
+        { "s": "Ce bouquet de roses sent très bon.", "zh": "這束玫瑰花非常香。" }
+      ]
+    },
+    "ja": {
+      "word": "花束",
+      "kana": "はなたば",
+      "romaji": "hanataba",
+      "examples": [
+        { "s": "誕生日に彼女へ花束を贈った。", "zh": "我在生日時送了女朋友一束花。" },
+        { "s": "テーブルの上に美しい花束が飾ってある。", "zh": "桌上擺著一束美麗的花。" }
+      ]
+    }
+  },
+  {
+    "id": "p0292",
+    "de": {
+      "word": "der Bogen",
+      "ipa": "[ˈboːɡn̩]",
+      "examples": [
+        { "s": "Die Geigerin zog den Bogen sanft über die Saiten.", "zh": "小提琴手輕柔地將琴弓拉過琴弦。" },
+        { "s": "Man muss den Bogen regelmäßig mit Harz einreiben.", "zh": "琴弓必須定期塗上松香。" }
+      ]
+    },
+    "fr": {
+      "word": "l'archet",
+      "ipa": "[aʁʃɛ]",
+      "examples": [
+        { "s": "Le violoniste passe l'archet sur les cordes.", "zh": "小提琴手用琴弓拉過琴弦。" },
+        { "s": "Il faut entretenir l'archet avec soin.", "zh": "琴弓必須細心保養。" }
+      ]
+    },
+    "ja": {
+      "word": "弓",
+      "kana": "ゆみ",
+      "romaji": "yumi",
+      "examples": [
+        { "s": "彼女は弓を弦の上でゆっくり動かした。", "zh": "她慢慢地把琴弓移過琴弦。" },
+        { "s": "バイオリンの弓に松脂を塗った。", "zh": "我在小提琴的琴弓上塗了松香。" }
+      ]
+    }
+  },
+  {
+    "id": "p0293",
+    "de": {
+      "word": "die Schüssel",
+      "ipa": "[ˈʃʏsl̩]",
+      "examples": [
+        { "s": "Sie füllte die Schüssel mit frischem Obst.", "zh": "她把新鮮水果裝滿了碗。" },
+        { "s": "Gib bitte das Mehl in die große Schüssel.", "zh": "請把麵粉倒進大碗裡。" }
+      ]
+    },
+    "fr": {
+      "word": "le bol",
+      "ipa": "[bɔl]",
+      "examples": [
+        { "s": "Je prends toujours un bol de café le matin.", "zh": "我早上總是喝一碗咖啡。" },
+        { "s": "Elle a rempli le bol de soupe chaude.", "zh": "她把碗裝滿了熱湯。" }
+      ]
+    },
+    "ja": {
+      "word": "ボウル",
+      "kana": "ボウル",
+      "romaji": "bōru",
+      "examples": [
+        { "s": "ボウルに卵と小麦粉を入れて混ぜた。", "zh": "我把蛋和麵粉放進碗裡攪拌。" },
+        { "s": "朝はいつもボウルにシリアルを入れて食べる。", "zh": "我早上總是把麥片倒進碗裡吃。" }
+      ]
+    }
+  },
+  {
+    "id": "p0294",
+    "de": {
+      "word": "der Freund",
+      "ipa": "[fʁɔɪnt]",
+      "examples": [
+        { "s": "Sie stellte ihren Freund den Eltern vor.", "zh": "她把男朋友介紹給父母。" },
+        { "s": "Mein Freund und ich gehen heute ins Kino.", "zh": "我和男朋友今天要去看電影。" }
+      ]
+    },
+    "fr": {
+      "word": "le petit ami",
+      "ipa": "[pəti tami]",
+      "examples": [
+        { "s": "Elle est allée au concert avec son petit ami.", "zh": "她和男朋友一起去了演唱會。" },
+        { "s": "Son petit ami lui a offert des fleurs.", "zh": "她的男朋友送了她花。" }
+      ]
+    },
+    "ja": {
+      "word": "彼氏",
+      "kana": "かれし",
+      "romaji": "kareshi",
+      "examples": [
+        { "s": "週末は彼氏と映画を見に行く予定だ。", "zh": "週末我打算和男朋友去看電影。" },
+        { "s": "彼女は彼氏を家族に紹介した。", "zh": "她把男朋友介紹給家人。" }
+      ]
+    }
+  },
+  {
+    "id": "p0295",
+    "de": {
+      "word": "das Armband",
+      "ipa": "[ˈaʁmˌbant]",
+      "examples": [
+        { "s": "Sie trägt ein silbernes Armband am Handgelenk.", "zh": "她手腕上戴著一條銀手鍊。" },
+        { "s": "Das Armband war ein Geschenk von meiner Oma.", "zh": "這條手鍊是我奶奶送的禮物。" }
+      ]
+    },
+    "fr": {
+      "word": "le bracelet",
+      "ipa": "[bʁaslɛ]",
+      "examples": [
+        { "s": "Elle porte un joli bracelet en or.", "zh": "她戴著一條漂亮的金手鍊。" },
+        { "s": "Ce bracelet me vient de ma grand-mère.", "zh": "這條手鍊是我祖母傳給我的。" }
+      ]
+    },
+    "ja": {
+      "word": "ブレスレット",
+      "kana": "ブレスレット",
+      "romaji": "buresuretto",
+      "examples": [
+        { "s": "彼女は手首に銀のブレスレットをつけている。", "zh": "她手腕上戴著一條銀手鍊。" },
+        { "s": "このブレスレットは祖母からもらったものだ。", "zh": "這條手鍊是祖母送給我的。" }
+      ]
+    }
+  },
+  {
+    "id": "p0296",
+    "de": {
+      "word": "die Halterung",
+      "ipa": "[ˈhaltəʁʊŋ]",
+      "examples": [
+        { "s": "Die Halterung hält das Regal an der Wand.", "zh": "這個支架把層架固定在牆上。" },
+        { "s": "Ich habe eine neue Halterung für den Fernseher montiert.", "zh": "我裝了一個新的電視支架。" }
+      ]
+    },
+    "fr": {
+      "word": "le support",
+      "ipa": "[sypɔʁ]",
+      "examples": [
+        { "s": "Le support fixe l'étagère solidement au mur.", "zh": "這個托架把層架牢牢固定在牆上。" },
+        { "s": "J'ai installé un support pour le téléviseur.", "zh": "我裝了一個電視支架。" }
+      ]
+    },
+    "ja": {
+      "word": "ブラケット",
+      "kana": "ブラケット",
+      "romaji": "buraketto",
+      "examples": [
+        { "s": "棚をブラケットで壁にしっかり固定した。", "zh": "我用支架把層架牢牢固定在牆上。" },
+        { "s": "テレビ用の新しいブラケットを取り付けた。", "zh": "我裝了一個新的電視支架。" }
+      ]
+    }
+  },
+  {
+    "id": "p0297",
+    "de": {
+      "word": "das Gehirn",
+      "ipa": "[ɡəˈhɪʁn]",
+      "examples": [
+        { "s": "Das menschliche Gehirn ist unglaublich komplex.", "zh": "人類的大腦極其複雜。" },
+        { "s": "Schlaf ist wichtig für die Erholung des Gehirns.", "zh": "睡眠對大腦的恢復很重要。" }
+      ]
+    },
+    "fr": {
+      "word": "le cerveau",
+      "ipa": "[sɛʁvo]",
+      "examples": [
+        { "s": "Le cerveau humain contient des milliards de neurones.", "zh": "人腦含有數十億個神經元。" },
+        { "s": "Le sommeil aide le cerveau à récupérer.", "zh": "睡眠幫助大腦恢復。" }
+      ]
+    },
+    "ja": {
+      "word": "脳",
+      "kana": "のう",
+      "romaji": "nō",
+      "examples": [
+        { "s": "人間の脳はとても複雑な器官だ。", "zh": "人類的大腦是非常複雜的器官。" },
+        { "s": "十分な睡眠は脳の働きを助ける。", "zh": "充足的睡眠有助於大腦運作。" }
+      ]
+    }
+  },
+  {
+    "id": "p0298",
+    "de": {
+      "word": "die Bremse",
+      "ipa": "[ˈbʁɛmzə]",
+      "examples": [
+        { "s": "Er trat plötzlich auf die Bremse.", "zh": "他突然踩了煞車。" },
+        { "s": "Die Bremsen des Autos müssen repariert werden.", "zh": "這輛車的煞車需要修理。" }
+      ]
+    },
+    "fr": {
+      "word": "le frein",
+      "ipa": "[fʁɛ̃]",
+      "examples": [
+        { "s": "Il a freiné brusquement pour éviter le chien.", "zh": "他為了閃避狗而急踩煞車。" },
+        { "s": "Les freins de la voiture sont usés.", "zh": "這輛車的煞車磨損了。" }
+      ]
+    },
+    "ja": {
+      "word": "ブレーキ",
+      "kana": "ブレーキ",
+      "romaji": "burēki",
+      "examples": [
+        { "s": "急に子供が飛び出してブレーキを踏んだ。", "zh": "有小孩突然衝出來，我踩了煞車。" },
+        { "s": "車のブレーキがきかなくて怖かった。", "zh": "車子的煞車失靈，好可怕。" }
+      ]
+    }
+  },
+  {
+    "id": "p0299",
+    "de": {
+      "word": "die Filiale",
+      "ipa": "[filiˈaːlə]",
+      "examples": [
+        { "s": "Die Bank hat eine neue Filiale in der Stadt eröffnet.", "zh": "這家銀行在市區開了一家新分行。" },
+        { "s": "Ich arbeite in der Filiale am Hauptbahnhof.", "zh": "我在火車總站的那家分行上班。" }
+      ]
+    },
+    "fr": {
+      "word": "la succursale",
+      "ipa": "[sykyʁsal]",
+      "examples": [
+        { "s": "La banque a ouvert une nouvelle succursale en ville.", "zh": "這家銀行在市區開了一家新分行。" },
+        { "s": "Cette succursale est ouverte le samedi matin.", "zh": "這家分行週六早上有營業。" }
+      ]
+    },
+    "ja": {
+      "word": "支店",
+      "kana": "してん",
+      "romaji": "shiten",
+      "examples": [
+        { "s": "その銀行は駅前に新しい支店を開いた。", "zh": "那家銀行在車站前開了一家新分行。" },
+        { "s": "私は市内の支店で働いています。", "zh": "我在市區的分行工作。" }
+      ]
+    }
+  },
+  {
+    "id": "p0300",
+    "de": {
+      "word": "die Marke",
+      "ipa": "[ˈmaʁkə]",
+      "examples": [
+        { "s": "Diese Marke ist für ihre Qualität bekannt.", "zh": "這個品牌以品質著稱。" },
+        { "s": "Welche Marke von Kaffee trinkst du am liebsten?", "zh": "你最喜歡喝哪個品牌的咖啡？" }
+      ]
+    },
+    "fr": {
+      "word": "la marque",
+      "ipa": "[maʁk]",
+      "examples": [
+        { "s": "Cette marque est très populaire chez les jeunes.", "zh": "這個品牌在年輕人中很受歡迎。" },
+        { "s": "Je préfère cette marque de chaussures.", "zh": "我比較喜歡這個品牌的鞋子。" }
+      ]
+    },
+    "ja": {
+      "word": "ブランド",
+      "kana": "ブランド",
+      "romaji": "burando",
+      "examples": [
+        { "s": "このブランドは品質で有名です。", "zh": "這個品牌以品質聞名。" },
+        { "s": "彼女は有名なブランドのバッグを持っている。", "zh": "她有一個知名品牌的包包。" }
+      ]
+    }
+  },
+  {
+    "id": "p0301",
+    "de": {
+      "word": "brandneu",
+      "ipa": "[ˈbʁantˌnɔɪ]",
+      "examples": [
+        { "s": "Er fährt ein brandneues Auto.", "zh": "他開著一輛全新的車。" },
+        { "s": "Dieses Handy ist brandneu auf dem Markt.", "zh": "這款手機是市場上剛推出的全新產品。" }
+      ]
+    },
+    "fr": {
+      "word": "flambant neuf",
+      "ipa": "[flɑ̃bɑ̃ nœf]",
+      "examples": [
+        { "s": "Il a acheté une voiture flambant neuve.", "zh": "他買了一輛全新的車。" },
+        { "s": "Leur maison est flambant neuve.", "zh": "他們的房子是全新的。" }
+      ]
+    },
+    "ja": {
+      "word": "新品の",
+      "kana": "しんぴんの",
+      "romaji": "shinpin no",
+      "examples": [
+        { "s": "彼は新品のスマホを手に入れた。", "zh": "他弄到了一支全新的手機。" },
+        { "s": "この自転車はまだ新品同様だ。", "zh": "這輛腳踏車還跟全新的一樣。" }
+      ]
+    }
+  },
+  {
+    "id": "p0302",
+    "de": {
+      "word": "der Vertragsbruch",
+      "ipa": "[fɛɐ̯ˈtʁaːksˌbʁʊx]",
+      "examples": [
+        { "s": "Der Vertragsbruch hatte rechtliche Folgen.", "zh": "違約帶來了法律後果。" },
+        { "s": "Ihm wurde ein schwerer Vertragsbruch vorgeworfen.", "zh": "他被指控嚴重違約。" }
+      ]
+    },
+    "fr": {
+      "word": "la violation",
+      "ipa": "[vjɔlasjɔ̃]",
+      "examples": [
+        { "s": "Cette action constitue une violation du contrat.", "zh": "這個行為構成違約。" },
+        { "s": "La violation de l'accord a entraîné un procès.", "zh": "違反協議導致了訴訟。" }
+      ]
+    },
+    "ja": {
+      "word": "違反",
+      "kana": "いはん",
+      "romaji": "ihan",
+      "examples": [
+        { "s": "契約違反で会社は訴えられた。", "zh": "公司因違約而被起訴。" },
+        { "s": "彼の行為は規則違反にあたる。", "zh": "他的行為屬於違反規定。" }
+      ]
+    }
+  },
+  {
+    "id": "p0303",
+    "de": {
+      "word": "Hals- und Beinbruch",
+      "ipa": "[hals ʊnt ˈbaɪnbʁʊx]",
+      "examples": [
+        { "s": "Vor dem Auftritt sagte sie mir: Hals- und Beinbruch!", "zh": "演出前她對我說：祝你好運！" },
+        { "s": "Hals- und Beinbruch bei deiner Prüfung morgen!", "zh": "祝你明天考試順利！" }
+      ]
+    },
+    "fr": {
+      "word": "merde",
+      "ipa": "[mɛʁd]",
+      "examples": [
+        { "s": "Avant d'entrer sur scène, il m'a dit : merde !", "zh": "上台前他對我說：祝好運！" },
+        { "s": "Je te dis merde pour ton concert de ce soir.", "zh": "祝你今晚的演出順利！" }
+      ]
+    },
+    "ja": {
+      "word": "頑張って",
+      "kana": "がんばって",
+      "romaji": "ganbatte",
+      "examples": [
+        { "s": "本番前に「頑張って！」と声をかけられた。", "zh": "演出前有人對我說「加油！」。" },
+        { "s": "明日の舞台、頑張ってね。", "zh": "明天的舞台，祝你好運。" }
+      ]
+    }
+  },
+  {
+    "id": "p0304",
+    "de": {
+      "word": "eine Panne haben",
+      "ipa": "[ˈaɪnə ˈpanə ˈhaːbn̩]",
+      "examples": [
+        { "s": "Unser Auto hatte auf der Autobahn eine Panne.", "zh": "我們的車在高速公路上故障了。" },
+        { "s": "Nach dem Stress hatte er einen völligen Zusammenbruch.", "zh": "在壓力之後他徹底崩潰了。" }
+      ]
+    },
+    "fr": {
+      "word": "tomber en panne",
+      "ipa": "[tɔ̃be ɑ̃ pan]",
+      "examples": [
+        { "s": "La voiture est tombée en panne sur l'autoroute.", "zh": "車子在高速公路上故障了。" },
+        { "s": "Il a fait une dépression après tant de stress.", "zh": "在這麼多壓力之後他崩潰了。" }
+      ]
+    },
+    "ja": {
+      "word": "故障する",
+      "kana": "こしょうする",
+      "romaji": "koshō suru",
+      "examples": [
+        { "s": "車が高速道路で故障してしまった。", "zh": "車子在高速公路上故障了。" },
+        { "s": "働きすぎて彼は精神的に崩れてしまった。", "zh": "工作過度讓他精神崩潰了。" }
+      ]
+    }
+  },
+  {
+    "id": "p0305",
+    "de": {
+      "word": "die Trennung",
+      "ipa": "[ˈtʁɛnʊŋ]",
+      "examples": [
+        { "s": "Die Trennung von ihm fiel ihr sehr schwer.", "zh": "和他分手對她來說很難受。" },
+        { "s": "Nach der Trennung zog sie in eine andere Stadt.", "zh": "分手之後她搬到了另一個城市。" }
+      ]
+    },
+    "fr": {
+      "word": "la rupture",
+      "ipa": "[ʁyptyʁ]",
+      "examples": [
+        { "s": "La rupture a été difficile pour tous les deux.", "zh": "這次分手對兩人來說都很難熬。" },
+        { "s": "Après leur rupture, ils sont restés amis.", "zh": "分手之後他們仍然是朋友。" }
+      ]
+    },
+    "ja": {
+      "word": "別れ",
+      "kana": "わかれ",
+      "romaji": "wakare",
+      "examples": [
+        { "s": "二人の別れはとても悲しいものだった。", "zh": "兩人的分手非常令人難過。" },
+        { "s": "彼女は別れのあと引っ越した。", "zh": "她在分手之後搬了家。" }
+      ]
+    }
+  },
+  {
+    "id": "p0306",
+    "de": {
+      "word": "atmen",
+      "ipa": "[ˈaːtmən]",
+      "examples": [
+        { "s": "Atme tief ein und entspann dich.", "zh": "深呼吸，放輕鬆。" },
+        { "s": "In den Bergen kann man frische Luft atmen.", "zh": "在山上可以呼吸新鮮空氣。" }
+      ]
+    },
+    "fr": {
+      "word": "respirer",
+      "ipa": "[ʁɛspiʁe]",
+      "examples": [
+        { "s": "Respire profondément pour te détendre.", "zh": "深呼吸讓自己放鬆。" },
+        { "s": "À la campagne, on respire de l'air pur.", "zh": "在鄉下能呼吸到純淨的空氣。" }
+      ]
+    },
+    "ja": {
+      "word": "呼吸する",
+      "kana": "こきゅうする",
+      "romaji": "kokyū suru",
+      "examples": [
+        { "s": "ゆっくり呼吸すると気持ちが落ち着く。", "zh": "慢慢呼吸能讓心情平靜下來。" },
+        { "s": "山の上できれいな空気を呼吸した。", "zh": "我在山上呼吸了清新的空氣。" }
+      ]
+    }
+  },
+  {
+    "id": "p0307",
+    "de": {
+      "word": "die Atmung",
+      "ipa": "[ˈaːtmʊŋ]",
+      "examples": [
+        { "s": "Beim Yoga achtet man auf die richtige Atmung.", "zh": "做瑜伽時要注意正確的呼吸。" },
+        { "s": "Seine Atmung wurde nach dem Lauf wieder ruhiger.", "zh": "跑步後他的呼吸又平緩下來了。" }
+      ]
+    },
+    "fr": {
+      "word": "la respiration",
+      "ipa": "[ʁɛspiʁasjɔ̃]",
+      "examples": [
+        { "s": "La respiration est essentielle pendant la méditation.", "zh": "冥想時呼吸至關重要。" },
+        { "s": "Sa respiration s'est calmée après l'effort.", "zh": "運動之後他的呼吸平緩了下來。" }
+      ]
+    },
+    "ja": {
+      "word": "呼吸",
+      "kana": "こきゅう",
+      "romaji": "kokyū",
+      "examples": [
+        { "s": "ヨガでは呼吸をとても大切にする。", "zh": "瑜伽非常重視呼吸。" },
+        { "s": "走ったあと、呼吸がだんだん落ち着いた。", "zh": "跑步後，呼吸漸漸平穩下來。" }
+      ]
+    }
+  },
+  {
+    "id": "p0308",
+    "de": {
+      "word": "die Rasse",
+      "ipa": "[ˈʁasə]",
+      "examples": [
+        { "s": "Der Labrador ist eine sehr beliebte Rasse.", "zh": "拉布拉多是很受歡迎的品種。" },
+        { "s": "Diese Rasse von Hühnern legt besonders viele Eier.", "zh": "這個品種的雞下的蛋特別多。" }
+      ]
+    },
+    "fr": {
+      "word": "la race",
+      "ipa": "[ʁas]",
+      "examples": [
+        { "s": "Le berger allemand est une race très intelligente.", "zh": "德國牧羊犬是非常聰明的品種。" },
+        { "s": "Cette race de chat a un pelage très doux.", "zh": "這個品種的貓毛非常柔軟。" }
+      ]
+    },
+    "ja": {
+      "word": "品種",
+      "kana": "ひんしゅ",
+      "romaji": "hinshu",
+      "examples": [
+        { "s": "この犬は珍しい品種だそうだ。", "zh": "聽說這隻狗是稀有品種。" },
+        { "s": "農家は新しい品種の米を育てている。", "zh": "農家正在栽培新品種的稻米。" }
+      ]
+    }
+  },
+  {
+    "id": "p0309",
+    "de": {
+      "word": "die Brise",
+      "ipa": "[ˈbʁiːzə]",
+      "examples": [
+        { "s": "Eine leichte Brise weht vom Meer her.", "zh": "一陣輕風從海上吹來。" },
+        { "s": "Die kühle Brise am Abend tat richtig gut.", "zh": "傍晚涼爽的微風讓人感覺很舒服。" }
+      ]
+    },
+    "fr": {
+      "word": "la brise",
+      "ipa": "[bʁiz]",
+      "examples": [
+        { "s": "Une douce brise soufflait sur la plage.", "zh": "一陣柔和的微風吹拂著海灘。" },
+        { "s": "La brise du soir rafraîchit l'air.", "zh": "傍晚的微風讓空氣涼爽起來。" }
+      ]
+    },
+    "ja": {
+      "word": "そよ風",
+      "kana": "そよかぜ",
+      "romaji": "soyokaze",
+      "examples": [
+        { "s": "海から気持ちのいいそよ風が吹いてきた。", "zh": "從海上吹來一陣舒服的微風。" },
+        { "s": "夕方のそよ風がとても心地よかった。", "zh": "傍晚的微風非常宜人。" }
+      ]
+    }
+  },
+  {
+    "id": "p0310",
+    "de": {
+      "word": "brauen",
+      "ipa": "[ˈbʁaʊən]",
+      "examples": [
+        { "s": "Er braut zu Hause sein eigenes Bier.", "zh": "他在家自己釀啤酒。" },
+        { "s": "Am Morgen brauen wir uns frischen Kaffee.", "zh": "早上我們沖一壺新鮮的咖啡。" }
+      ]
+    },
+    "fr": {
+      "word": "brasser",
+      "ipa": "[bʁase]",
+      "examples": [
+        { "s": "Cette brasserie brasse sa propre bière.", "zh": "這家啤酒廠釀造自己的啤酒。" },
+        { "s": "Il aime préparer et infuser son thé lui-même.", "zh": "他喜歡自己泡茶。" }
+      ]
+    },
+    "ja": {
+      "word": "醸造する",
+      "kana": "じょうぞうする",
+      "romaji": "jōzō suru",
+      "examples": [
+        { "s": "この工場では地元のビールを醸造している。", "zh": "這家工廠釀造在地啤酒。" },
+        { "s": "朝は自分で新しいコーヒーを淹れる。", "zh": "早上我自己沖一壺新鮮咖啡。" }
+      ]
+    }
+  }
+]

@@ -1,0 +1,842 @@
+[
+  {
+    "id": "p0461",
+    "de": {
+      "word": "der Refrain",
+      "ipa": "[ʁəˈfʁɛ̃ː]",
+      "examples": [
+        { "s": "Alle sangen beim Refrain laut mit.", "zh": "大家在唱到副歌時都大聲跟著唱。" },
+        { "s": "Dieser Refrain geht mir nicht mehr aus dem Kopf.", "zh": "這段副歌一直在我腦中揮之不去。" }
+      ]
+    },
+    "fr": {
+      "word": "le refrain",
+      "ipa": "[ʁə.fʁɛ̃]",
+      "examples": [
+        { "s": "Tout le monde reprend le refrain en chœur.", "zh": "所有人齊聲合唱這段副歌。" },
+        { "s": "Le refrain de cette chanson est très entraînant.", "zh": "這首歌的副歌非常朗朗上口。" }
+      ]
+    },
+    "ja": {
+      "word": "サビ",
+      "kana": "サビ",
+      "romaji": "sabi",
+      "examples": [
+        { "s": "この曲のサビはみんなで一緒に歌えます。", "zh": "這首歌的副歌大家可以一起唱。" },
+        { "s": "サビの部分がいちばん盛り上がります。", "zh": "副歌的部分最能炒熱氣氛。" }
+      ]
+    }
+  },
+  {
+    "id": "p0462",
+    "de": {
+      "word": "chronisch",
+      "ipa": "[ˈkʁoːnɪʃ]",
+      "examples": [
+        { "s": "Er leidet seit Jahren an chronischen Rückenschmerzen.", "zh": "他多年來受慢性背痛所苦。" },
+        { "s": "Chronischer Stress kann krank machen.", "zh": "慢性壓力可能會讓人生病。" }
+      ]
+    },
+    "fr": {
+      "word": "chronique",
+      "ipa": "[kʁɔ.nik]",
+      "examples": [
+        { "s": "Elle souffre d'une maladie chronique depuis l'enfance.", "zh": "她從小就患有一種慢性疾病。" },
+        { "s": "La fatigue chronique l'empêche de travailler.", "zh": "慢性疲勞讓他無法工作。" }
+      ]
+    },
+    "ja": {
+      "word": "慢性の",
+      "kana": "まんせいの",
+      "romaji": "mansei no",
+      "examples": [
+        { "s": "祖父は慢性の病気を抱えています。", "zh": "祖父患有慢性疾病。" },
+        { "s": "慢性の肩こりに悩まされています。", "zh": "我為慢性肩膀僵硬所苦。" }
+      ]
+    }
+  },
+  {
+    "id": "p0463",
+    "de": {
+      "word": "pummelig",
+      "ipa": "[ˈpʊməlɪç]",
+      "examples": [
+        { "s": "Das pummelige Baby lachte die ganze Zeit.", "zh": "那個胖嘟嘟的寶寶一直笑個不停。" },
+        { "s": "Als Kind war er ziemlich pummelig.", "zh": "他小時候相當圓潤。" }
+      ]
+    },
+    "fr": {
+      "word": "potelé",
+      "ipa": "[pɔt.le]",
+      "examples": [
+        { "s": "Le bébé a de jolies joues potelées.", "zh": "這個寶寶有圓潤可愛的臉頰。" },
+        { "s": "Ses petites mains potelées sont adorables.", "zh": "他胖嘟嘟的小手很可愛。" }
+      ]
+    },
+    "ja": {
+      "word": "ぽっちゃりした",
+      "kana": "ぽっちゃりした",
+      "romaji": "pocchari shita",
+      "examples": [
+        { "s": "ぽっちゃりした赤ちゃんが笑っています。", "zh": "胖嘟嘟的寶寶在笑。" },
+        { "s": "子犬はぽっちゃりしていてかわいい。", "zh": "小狗胖嘟嘟的很可愛。" }
+      ]
+    }
+  },
+  {
+    "id": "p0464",
+    "de": {
+      "word": "die Kirche",
+      "ipa": "[ˈkɪʁçə]",
+      "examples": [
+        { "s": "Am Sonntag gehen wir in die Kirche.", "zh": "星期天我們去教堂。" },
+        { "s": "Die alte Kirche steht mitten im Dorf.", "zh": "那座古老的教堂位於村莊中央。" }
+      ]
+    },
+    "fr": {
+      "word": "l'église",
+      "ipa": "[le.ɡliz]",
+      "examples": [
+        { "s": "L'église du village est très ancienne.", "zh": "村裡的教堂非常古老。" },
+        { "s": "Ils se sont mariés à l'église.", "zh": "他們在教堂舉行了婚禮。" }
+      ]
+    },
+    "ja": {
+      "word": "教会",
+      "kana": "きょうかい",
+      "romaji": "kyōkai",
+      "examples": [
+        { "s": "日曜日に教会へお祈りに行きます。", "zh": "星期天去教堂禱告。" },
+        { "s": "古い教会の鐘が鳴っています。", "zh": "古老教堂的鐘聲響起。" }
+      ]
+    }
+  },
+  {
+    "id": "p0465",
+    "de": {
+      "word": "der Apfelwein",
+      "ipa": "[ˈap͡fl̩ˌvaɪ̯n]",
+      "examples": [
+        { "s": "Im Herbst trinken wir gern frischen Apfelwein.", "zh": "秋天我們喜歡喝新鮮的蘋果酒。" },
+        { "s": "In Hessen ist Apfelwein ein beliebtes Getränk.", "zh": "在黑森邦蘋果酒是很受歡迎的飲料。" }
+      ]
+    },
+    "fr": {
+      "word": "le cidre",
+      "ipa": "[sidʁ]",
+      "examples": [
+        { "s": "En Bretagne, on boit du cidre avec les crêpes.", "zh": "在布列塔尼，人們配著可麗餅喝蘋果酒。" },
+        { "s": "Ce cidre est doux et légèrement pétillant.", "zh": "這款蘋果酒清甜且帶點氣泡。" }
+      ]
+    },
+    "ja": {
+      "word": "シードル",
+      "kana": "シードル",
+      "romaji": "shīdoru",
+      "examples": [
+        { "s": "りんごから作ったシードルを飲みました。", "zh": "我喝了用蘋果做的蘋果酒。" },
+        { "s": "夏はよく冷えたシードルがおいしい。", "zh": "夏天冰涼的蘋果酒很好喝。" }
+      ]
+    }
+  },
+  {
+    "id": "p0466",
+    "de": {
+      "word": "der Kreis",
+      "ipa": "[kʁaɪ̯s]",
+      "examples": [
+        { "s": "Die Kinder setzten sich in einen Kreis.", "zh": "孩子們圍坐成一個圓圈。" },
+        { "s": "Zeichne bitte einen Kreis auf das Blatt.", "zh": "請在紙上畫一個圓。" }
+      ]
+    },
+    "fr": {
+      "word": "le cercle",
+      "ipa": "[sɛʁkl]",
+      "examples": [
+        { "s": "Les élèves forment un cercle dans la cour.", "zh": "學生們在操場上圍成一個圓圈。" },
+        { "s": "Dessine un cercle avec le compas.", "zh": "用圓規畫一個圓。" }
+      ]
+    },
+    "ja": {
+      "word": "円",
+      "kana": "えん",
+      "romaji": "en",
+      "examples": [
+        { "s": "コンパスできれいな円を描きました。", "zh": "我用圓規畫了一個漂亮的圓。" },
+        { "s": "みんなで円になって座りました。", "zh": "大家圍成一個圓圈坐下。" }
+      ]
+    }
+  },
+  {
+    "id": "p0467",
+    "de": {
+      "word": "die Durchblutung",
+      "ipa": "[ˈdʊʁçˌbluːtʊŋ]",
+      "examples": [
+        { "s": "Bewegung fördert die Durchblutung der Beine.", "zh": "運動能促進腿部的血液循環。" },
+        { "s": "Bei Kälte ist die Durchblutung der Hände schlechter.", "zh": "天冷時手部的血液循環會變差。" }
+      ]
+    },
+    "fr": {
+      "word": "la circulation",
+      "ipa": "[siʁ.ky.la.sjɔ̃]",
+      "examples": [
+        { "s": "La marche améliore la circulation du sang.", "zh": "走路能改善血液循環。" },
+        { "s": "Une mauvaise circulation provoque des jambes froides.", "zh": "血液循環不良會導致雙腿冰冷。" }
+      ]
+    },
+    "ja": {
+      "word": "血行",
+      "kana": "けっこう",
+      "romaji": "kekkō",
+      "examples": [
+        { "s": "運動をすると血行がよくなります。", "zh": "運動能使血液循環變好。" },
+        { "s": "冷えは血行を悪くします。", "zh": "身體受寒會讓血液循環變差。" }
+      ]
+    }
+  },
+  {
+    "id": "p0468",
+    "de": {
+      "word": "der Bürger",
+      "ipa": "[ˈbʏʁɡɐ]",
+      "examples": [
+        { "s": "Jeder Bürger hat das Recht zu wählen.", "zh": "每位公民都有投票的權利。" },
+        { "s": "Die Bürger der Stadt trafen sich im Rathaus.", "zh": "這座城市的市民在市政廳集會。" }
+      ]
+    },
+    "fr": {
+      "word": "le citoyen",
+      "ipa": "[si.twa.jɛ̃]",
+      "examples": [
+        { "s": "Chaque citoyen doit respecter la loi.", "zh": "每位公民都必須遵守法律。" },
+        { "s": "Les citoyens ont voté aux élections.", "zh": "公民們在選舉中投了票。" }
+      ]
+    },
+    "ja": {
+      "word": "市民",
+      "kana": "しみん",
+      "romaji": "shimin",
+      "examples": [
+        { "s": "市民には投票する権利があります。", "zh": "市民擁有投票的權利。" },
+        { "s": "多くの市民が公園に集まりました。", "zh": "許多市民聚集在公園裡。" }
+      ]
+    }
+  },
+  {
+    "id": "p0469",
+    "de": {
+      "word": "das Rathaus",
+      "ipa": "[ˈʁaːtˌhaʊ̯s]",
+      "examples": [
+        { "s": "Das Rathaus liegt am zentralen Marktplatz.", "zh": "市政廳位於中央市集廣場旁。" },
+        { "s": "Wir haben unsere Ehe im Rathaus angemeldet.", "zh": "我們在市政廳登記了結婚。" }
+      ]
+    },
+    "fr": {
+      "word": "la mairie",
+      "ipa": "[mɛ.ʁi]",
+      "examples": [
+        { "s": "Il faut aller à la mairie pour ce document.", "zh": "辦這份文件得去市政廳。" },
+        { "s": "La mairie se trouve sur la place principale.", "zh": "市政廳位於主要廣場上。" }
+      ]
+    },
+    "ja": {
+      "word": "市役所",
+      "kana": "しやくしょ",
+      "romaji": "shiyakusho",
+      "examples": [
+        { "s": "住所変更の手続きに市役所へ行きました。", "zh": "我去市政廳辦理地址變更手續。" },
+        { "s": "市役所は駅のすぐ近くにあります。", "zh": "市政廳就在車站附近。" }
+      ]
+    }
+  },
+  {
+    "id": "p0470",
+    "de": {
+      "word": "die Zivilisation",
+      "ipa": "[t͡sivilizaˈt͡si̯oːn]",
+      "examples": [
+        { "s": "Die alte Zivilisation hinterließ beeindruckende Bauwerke.", "zh": "這個古老文明留下了令人驚嘆的建築。" },
+        { "s": "Wasser war für jede frühe Zivilisation wichtig.", "zh": "水對每個早期文明都很重要。" }
+      ]
+    },
+    "fr": {
+      "word": "la civilisation",
+      "ipa": "[si.vi.li.za.sjɔ̃]",
+      "examples": [
+        { "s": "La civilisation égyptienne fascine les historiens.", "zh": "埃及文明令歷史學家著迷。" },
+        { "s": "Cette civilisation a disparu il y a des siècles.", "zh": "這個文明在數個世紀前消失了。" }
+      ]
+    },
+    "ja": {
+      "word": "文明",
+      "kana": "ぶんめい",
+      "romaji": "bunmei",
+      "examples": [
+        { "s": "古代文明の遺跡を見学しました。", "zh": "我參觀了古代文明的遺跡。" },
+        { "s": "川のそばで文明が発展しました。", "zh": "文明在河流旁發展起來。" }
+      ]
+    }
+  },
+  {
+    "id": "p0471",
+    "de": {
+      "word": "behaupten",
+      "ipa": "[bəˈhaʊ̯ptn̩]",
+      "examples": [
+        { "s": "Er behauptet, den Termin vergessen zu haben.", "zh": "他聲稱自己忘了這個約會。" },
+        { "s": "Sie behauptet, immer die Wahrheit zu sagen.", "zh": "她主張自己總是說實話。" }
+      ]
+    },
+    "fr": {
+      "word": "prétendre",
+      "ipa": "[pʁe.tɑ̃dʁ]",
+      "examples": [
+        { "s": "Il prétend ne rien savoir de l'affaire.", "zh": "他聲稱對這件事一無所知。" },
+        { "s": "Elle prétend avoir raison sur tout.", "zh": "她主張自己在每件事上都對。" }
+      ]
+    },
+    "ja": {
+      "word": "主張する",
+      "kana": "しゅちょうする",
+      "romaji": "shuchō suru",
+      "examples": [
+        { "s": "彼は自分は無実だと主張しています。", "zh": "他主張自己是清白的。" },
+        { "s": "彼女は意見を強く主張しました。", "zh": "她強烈地主張自己的意見。" }
+      ]
+    }
+  },
+  {
+    "id": "p0472",
+    "de": {
+      "word": "die Muschel",
+      "ipa": "[ˈmʊʃl̩]",
+      "examples": [
+        { "s": "Zum Abendessen gab es frische Muscheln.", "zh": "晚餐吃了新鮮的蛤蜊。" },
+        { "s": "Am Strand sammelten wir Muscheln.", "zh": "我們在沙灘上撿蛤蜊殼。" }
+      ]
+    },
+    "fr": {
+      "word": "la palourde",
+      "ipa": "[pa.luʁd]",
+      "examples": [
+        { "s": "On a mangé des palourdes au restaurant.", "zh": "我們在餐廳吃了蛤蜊。" },
+        { "s": "Les palourdes se cachent dans le sable.", "zh": "蛤蜊藏在沙子裡。" }
+      ]
+    },
+    "ja": {
+      "word": "ハマグリ",
+      "kana": "ハマグリ",
+      "romaji": "hamaguri",
+      "examples": [
+        { "s": "味噌汁にハマグリを入れました。", "zh": "我把蛤蜊放進味噌湯裡。" },
+        { "s": "潮干狩りでハマグリを取りました。", "zh": "我在退潮撿貝時挖到了蛤蜊。" }
+      ]
+    }
+  },
+  {
+    "id": "p0473",
+    "de": {
+      "word": "die Klemme",
+      "ipa": "[ˈklɛmə]",
+      "examples": [
+        { "s": "Ich befestigte das Brett mit einer Klemme.", "zh": "我用夾具把木板固定住。" },
+        { "s": "Die Klemme hält die beiden Teile zusammen.", "zh": "這個夾具把兩個部件夾在一起。" }
+      ]
+    },
+    "fr": {
+      "word": "la pince",
+      "ipa": "[pɛ̃s]",
+      "examples": [
+        { "s": "Serre la planche avec une pince.", "zh": "用夾具把木板夾緊。" },
+        { "s": "La pince maintient le tuyau en place.", "zh": "這個夾具把管子固定在原位。" }
+      ]
+    },
+    "ja": {
+      "word": "クランプ",
+      "kana": "クランプ",
+      "romaji": "kuranpu",
+      "examples": [
+        { "s": "板をクランプでしっかり固定しました。", "zh": "我用夾具把木板牢牢固定。" },
+        { "s": "クランプで二枚の材料を挟みます。", "zh": "用夾具把兩片材料夾住。" }
+      ]
+    }
+  },
+  {
+    "id": "p0474",
+    "de": {
+      "word": "klären",
+      "ipa": "[ˈklɛːʁən]",
+      "examples": [
+        { "s": "Könnten Sie diesen Punkt bitte klären?", "zh": "您能澄清一下這一點嗎？" },
+        { "s": "Wir müssen das Missverständnis klären.", "zh": "我們必須把這個誤會說清楚。" }
+      ]
+    },
+    "fr": {
+      "word": "clarifier",
+      "ipa": "[kla.ʁi.fje]",
+      "examples": [
+        { "s": "Pouvez-vous clarifier votre demande ?", "zh": "您能澄清一下您的要求嗎？" },
+        { "s": "Il faut clarifier ce malentendu tout de suite.", "zh": "必須立刻把這個誤會說清楚。" }
+      ]
+    },
+    "ja": {
+      "word": "明確にする",
+      "kana": "めいかくにする",
+      "romaji": "meikaku ni suru",
+      "examples": [
+        { "s": "その点をもう少し明確にしてください。", "zh": "請把那一點說得更清楚一些。" },
+        { "s": "誤解を明確にする必要があります。", "zh": "有必要把誤會澄清清楚。" }
+      ]
+    }
+  },
+  {
+    "id": "p0475",
+    "de": {
+      "word": "die Klarinette",
+      "ipa": "[klaʁiˈnɛtə]",
+      "examples": [
+        { "s": "Sie spielt seit drei Jahren Klarinette.", "zh": "她學單簧管已經三年了。" },
+        { "s": "Der Klang der Klarinette ist sehr warm.", "zh": "單簧管的音色非常溫暖。" }
+      ]
+    },
+    "fr": {
+      "word": "la clarinette",
+      "ipa": "[kla.ʁi.nɛt]",
+      "examples": [
+        { "s": "Mon fils apprend la clarinette à l'école.", "zh": "我兒子在學校學單簧管。" },
+        { "s": "La clarinette a un son doux et chaud.", "zh": "單簧管的聲音柔和又溫暖。" }
+      ]
+    },
+    "ja": {
+      "word": "クラリネット",
+      "kana": "クラリネット",
+      "romaji": "kurarinetto",
+      "examples": [
+        { "s": "吹奏楽部でクラリネットを吹いています。", "zh": "我在管樂社吹單簧管。" },
+        { "s": "クラリネットの音はとても優しいです。", "zh": "單簧管的音色非常柔和。" }
+      ]
+    }
+  },
+  {
+    "id": "p0476",
+    "de": {
+      "word": "der Verschluss",
+      "ipa": "[fɛɐ̯ˈʃlʊs]",
+      "examples": [
+        { "s": "Der Verschluss der Kette ist kaputt.", "zh": "項鍊的搭扣壞了。" },
+        { "s": "Sie schloss den Verschluss ihrer Handtasche.", "zh": "她扣上了手提包的扣環。" }
+      ]
+    },
+    "fr": {
+      "word": "le fermoir",
+      "ipa": "[fɛʁ.mwaʁ]",
+      "examples": [
+        { "s": "Le fermoir de mon collier s'est cassé.", "zh": "我項鍊的搭扣斷了。" },
+        { "s": "Ferme bien le fermoir du bracelet.", "zh": "把手鍊的扣環扣好。" }
+      ]
+    },
+    "ja": {
+      "word": "留め金",
+      "kana": "とめがね",
+      "romaji": "tomegane",
+      "examples": [
+        { "s": "ネックレスの留め金が外れてしまいました。", "zh": "項鍊的扣環鬆開了。" },
+        { "s": "バッグの留め金をしっかり留めました。", "zh": "我把包包的扣環扣緊了。" }
+      ]
+    }
+  },
+  {
+    "id": "p0477",
+    "de": {
+      "word": "die Klasse",
+      "ipa": "[ˈklasə]",
+      "examples": [
+        { "s": "Unsere Klasse macht morgen einen Ausflug.", "zh": "我們班明天要去校外教學。" },
+        { "s": "Die erste Klasse beginnt um acht Uhr.", "zh": "第一堂課八點開始。" }
+      ]
+    },
+    "fr": {
+      "word": "la classe",
+      "ipa": "[klas]",
+      "examples": [
+        { "s": "Toute la classe est allée au musée.", "zh": "全班都去了博物館。" },
+        { "s": "Le cours commence dans la classe du fond.", "zh": "課在後面那間教室上。" }
+      ]
+    },
+    "ja": {
+      "word": "クラス",
+      "kana": "クラス",
+      "romaji": "kurasu",
+      "examples": [
+        { "s": "私たちのクラスは明日遠足に行きます。", "zh": "我們班明天要去遠足。" },
+        { "s": "次の英語のクラスは十時からです。", "zh": "下一堂英文課從十點開始。" }
+      ]
+    }
+  },
+  {
+    "id": "p0478",
+    "de": {
+      "word": "das Klassenzimmer",
+      "ipa": "[ˈklasn̩ˌt͡sɪmɐ]",
+      "examples": [
+        { "s": "Das Klassenzimmer ist hell und geräumig.", "zh": "教室既明亮又寬敞。" },
+        { "s": "Bitte verlasst das Klassenzimmer leise.", "zh": "請安靜地離開教室。" }
+      ]
+    },
+    "fr": {
+      "word": "la salle de classe",
+      "ipa": "[sal də klas]",
+      "examples": [
+        { "s": "La salle de classe est au premier étage.", "zh": "教室在二樓。" },
+        { "s": "Les élèves nettoient la salle de classe.", "zh": "學生們正在打掃教室。" }
+      ]
+    },
+    "ja": {
+      "word": "教室",
+      "kana": "きょうしつ",
+      "romaji": "kyōshitsu",
+      "examples": [
+        { "s": "教室はとても明るくて広いです。", "zh": "教室非常明亮又寬敞。" },
+        { "s": "放課後に教室を掃除しました。", "zh": "放學後我打掃了教室。" }
+      ]
+    }
+  },
+  {
+    "id": "p0479",
+    "de": {
+      "word": "die Klausel",
+      "ipa": "[ˈklaʊ̯zl̩]",
+      "examples": [
+        { "s": "Lies bitte diese Klausel im Vertrag genau.", "zh": "請仔細看合約裡的這個條款。" },
+        { "s": "Eine Klausel regelt die Kündigungsfrist.", "zh": "有一項條款規定了解約期限。" }
+      ]
+    },
+    "fr": {
+      "word": "la clause",
+      "ipa": "[kloz]",
+      "examples": [
+        { "s": "Cette clause du contrat n'est pas claire.", "zh": "合約裡的這個條款不清楚。" },
+        { "s": "Il faut signer chaque clause du document.", "zh": "文件的每個條款都要簽名。" }
+      ]
+    },
+    "ja": {
+      "word": "条項",
+      "kana": "じょうこう",
+      "romaji": "jōkō",
+      "examples": [
+        { "s": "契約書のこの条項をよく読んでください。", "zh": "請仔細閱讀合約的這個條款。" },
+        { "s": "その条項は解約について定めています。", "zh": "那個條款規定了解約事宜。" }
+      ]
+    }
+  },
+  {
+    "id": "p0480",
+    "de": {
+      "word": "sauber",
+      "ipa": "[ˈzaʊ̯bɐ]",
+      "examples": [
+        { "s": "Die Küche ist jetzt wieder ganz sauber.", "zh": "廚房現在又變得很乾淨了。" },
+        { "s": "Zieh bitte saubere Kleidung an.", "zh": "請穿上乾淨的衣服。" }
+      ]
+    },
+    "fr": {
+      "word": "propre",
+      "ipa": "[pʁɔpʁ]",
+      "examples": [
+        { "s": "La cuisine est enfin propre.", "zh": "廚房終於乾淨了。" },
+        { "s": "Mets une chemise propre pour la fête.", "zh": "去派對前換一件乾淨的襯衫。" }
+      ]
+    },
+    "ja": {
+      "word": "きれいな",
+      "kana": "きれいな",
+      "romaji": "kirei na",
+      "examples": [
+        { "s": "台所がまたきれいになりました。", "zh": "廚房又變乾淨了。" },
+        { "s": "きれいなシャツに着替えました。", "zh": "我換上了乾淨的襯衫。" }
+      ]
+    }
+  },
+  {
+    "id": "p0481",
+    "de": {
+      "word": "die saubere Energie",
+      "ipa": "[ˈzaʊ̯bəʁə ʔenɛʁˈɡiː]",
+      "examples": [
+        { "s": "Die Stadt setzt immer mehr auf saubere Energie.", "zh": "這座城市越來越倚重潔淨能源。" },
+        { "s": "Sonnenlicht ist eine wichtige Quelle sauberer Energie.", "zh": "陽光是重要的潔淨能源來源。" }
+      ]
+    },
+    "fr": {
+      "word": "l'énergie propre",
+      "ipa": "[le.nɛʁ.ʒi pʁɔpʁ]",
+      "examples": [
+        { "s": "Le pays investit dans l'énergie propre.", "zh": "這個國家投資潔淨能源。" },
+        { "s": "L'éolien est une énergie propre.", "zh": "風力是一種潔淨能源。" }
+      ]
+    },
+    "ja": {
+      "word": "クリーンエネルギー",
+      "kana": "クリーンエネルギー",
+      "romaji": "kurīn enerugī",
+      "examples": [
+        { "s": "太陽光はクリーンエネルギーの一つです。", "zh": "太陽能是潔淨能源之一。" },
+        { "s": "町はクリーンエネルギーの導入を進めています。", "zh": "這個城鎮正在推動導入潔淨能源。" }
+      ]
+    }
+  },
+  {
+    "id": "p0482",
+    "de": {
+      "word": "aufräumen",
+      "ipa": "[ˈaʊ̯fˌʁɔɪ̯mən]",
+      "examples": [
+        { "s": "Nach der Party müssen wir noch aufräumen.", "zh": "派對結束後我們還得收拾乾淨。" },
+        { "s": "Räum bitte dein Zimmer auf.", "zh": "請把你的房間收拾乾淨。" }
+      ]
+    },
+    "fr": {
+      "word": "ranger",
+      "ipa": "[ʁɑ̃.ʒe]",
+      "examples": [
+        { "s": "Il faut ranger la cuisine après le dîner.", "zh": "晚餐後得把廚房收拾乾淨。" },
+        { "s": "Range tes jouets avant de dormir.", "zh": "睡覺前把你的玩具收拾好。" }
+      ]
+    },
+    "ja": {
+      "word": "片付ける",
+      "kana": "かたづける",
+      "romaji": "katazukeru",
+      "examples": [
+        { "s": "パーティーのあと、みんなで片付けました。", "zh": "派對結束後，大家一起收拾乾淨。" },
+        { "s": "寝る前におもちゃを片付けなさい。", "zh": "睡覺前把玩具收拾好。" }
+      ]
+    }
+  },
+  {
+    "id": "p0483",
+    "de": {
+      "word": "das Reinigungsmittel",
+      "ipa": "[ˈʁaɪ̯nɪɡʊŋsˌmɪtl̩]",
+      "examples": [
+        { "s": "Ich benutze ein mildes Reinigungsmittel für das Gesicht.", "zh": "我用溫和的洗面乳洗臉。" },
+        { "s": "Dieses Reinigungsmittel trocknet die Haut nicht aus.", "zh": "這款潔膚品不會讓皮膚乾燥。" }
+      ]
+    },
+    "fr": {
+      "word": "le nettoyant",
+      "ipa": "[nɛ.twa.jɑ̃]",
+      "examples": [
+        { "s": "J'utilise un nettoyant doux pour le visage.", "zh": "我用溫和的洗面乳洗臉。" },
+        { "s": "Ce nettoyant convient aux peaux sensibles.", "zh": "這款潔膚品適合敏感肌膚。" }
+      ]
+    },
+    "ja": {
+      "word": "洗顔料",
+      "kana": "せんがんりょう",
+      "romaji": "sengan-ryō",
+      "examples": [
+        { "s": "朝は優しい洗顔料で顔を洗います。", "zh": "早上我用溫和的洗面乳洗臉。" },
+        { "s": "この洗顔料は肌にやさしいです。", "zh": "這款洗面乳對肌膚很溫和。" }
+      ]
+    }
+  },
+  {
+    "id": "p0484",
+    "de": {
+      "word": "aufklaren",
+      "ipa": "[ˈaʊ̯fˌklaːʁən]",
+      "examples": [
+        { "s": "Am Nachmittag soll es endlich aufklaren.", "zh": "下午天氣應該終於會放晴。" },
+        { "s": "Der Himmel klart nach dem Regen langsam auf.", "zh": "雨後天空慢慢放晴了。" }
+      ]
+    },
+    "fr": {
+      "word": "s'éclaircir",
+      "ipa": "[se.klɛʁ.siʁ]",
+      "examples": [
+        { "s": "Le ciel commence à s'éclaircir cet après-midi.", "zh": "今天下午天空開始放晴。" },
+        { "s": "Après l'orage, le temps s'est éclairci.", "zh": "暴風雨過後天氣放晴了。" }
+      ]
+    },
+    "ja": {
+      "word": "晴れる",
+      "kana": "はれる",
+      "romaji": "hareru",
+      "examples": [
+        { "s": "午後にはようやく空が晴れました。", "zh": "到了下午天空終於放晴了。" },
+        { "s": "雨のあと、だんだん晴れてきました。", "zh": "雨後天氣漸漸放晴了。" }
+      ]
+    }
+  },
+  {
+    "id": "p0485",
+    "de": {
+      "word": "der Ausverkauf",
+      "ipa": "[ˈaʊ̯sfɛɐ̯ˌkaʊ̯f]",
+      "examples": [
+        { "s": "Beim Ausverkauf habe ich zwei Jacken gekauft.", "zh": "在清倉特賣時我買了兩件外套。" },
+        { "s": "Der Laden hat gerade einen großen Ausverkauf.", "zh": "那家店正在進行大清倉特賣。" }
+      ]
+    },
+    "fr": {
+      "word": "la liquidation",
+      "ipa": "[li.ki.da.sjɔ̃]",
+      "examples": [
+        { "s": "Le magasin fait une liquidation avant la fermeture.", "zh": "這家店在關門前進行清倉特賣。" },
+        { "s": "J'ai trouvé de bonnes affaires en liquidation.", "zh": "我在清倉特賣中找到不少划算的東西。" }
+      ]
+    },
+    "ja": {
+      "word": "在庫一掃セール",
+      "kana": "ざいこいっそうセール",
+      "romaji": "zaiko issō sēru",
+      "examples": [
+        { "s": "在庫一掃セールでコートを安く買いました。", "zh": "我在清倉特賣中便宜買到一件大衣。" },
+        { "s": "あの店は今、在庫一掃セール中です。", "zh": "那家店現在正在清倉特賣。" }
+      ]
+    }
+  },
+  {
+    "id": "p0486",
+    "de": {
+      "word": "klicken",
+      "ipa": "[ˈklɪkn̩]",
+      "examples": [
+        { "s": "Klicken Sie bitte auf den blauen Knopf.", "zh": "請點擊那個藍色按鈕。" },
+        { "s": "Ich habe versehentlich auf den falschen Link geklickt.", "zh": "我不小心點錯了連結。" }
+      ]
+    },
+    "fr": {
+      "word": "cliquer",
+      "ipa": "[kli.ke]",
+      "examples": [
+        { "s": "Cliquez ici pour continuer.", "zh": "請點擊這裡以繼續。" },
+        { "s": "J'ai cliqué sur le mauvais bouton.", "zh": "我點錯了按鈕。" }
+      ]
+    },
+    "ja": {
+      "word": "クリックする",
+      "kana": "クリックする",
+      "romaji": "kurikku suru",
+      "examples": [
+        { "s": "青いボタンをクリックしてください。", "zh": "請點擊藍色按鈕。" },
+        { "s": "うっかり違うリンクをクリックしました。", "zh": "我不小心點錯了連結。" }
+      ]
+    }
+  },
+  {
+    "id": "p0487",
+    "de": {
+      "word": "der Kunde",
+      "ipa": "[ˈkʊndə]",
+      "examples": [
+        { "s": "Der Kunde wartet schon im Besprechungsraum.", "zh": "客戶已經在會議室裡等了。" },
+        { "s": "Wir schicken dem Kunden morgen das Angebot.", "zh": "我們明天會把報價寄給客戶。" }
+      ]
+    },
+    "fr": {
+      "word": "le client",
+      "ipa": "[kli.jɑ̃]",
+      "examples": [
+        { "s": "Le client attend dans la salle de réunion.", "zh": "客戶正在會議室等候。" },
+        { "s": "Nous enverrons le devis au client demain.", "zh": "我們明天會把報價寄給客戶。" }
+      ]
+    },
+    "ja": {
+      "word": "顧客",
+      "kana": "こきゃく",
+      "romaji": "kokyaku",
+      "examples": [
+        { "s": "顧客が会議室で待っています。", "zh": "客戶正在會議室等候。" },
+        { "s": "明日、顧客に見積書を送ります。", "zh": "明天我會把報價單寄給客戶。" }
+      ]
+    }
+  },
+  {
+    "id": "p0488",
+    "de": {
+      "word": "die Klippe",
+      "ipa": "[ˈklɪpə]",
+      "examples": [
+        { "s": "Von der Klippe hat man einen weiten Blick aufs Meer.", "zh": "從懸崖上可以遠眺大海。" },
+        { "s": "Geh nicht zu nah an die Klippe.", "zh": "別太靠近懸崖。" }
+      ]
+    },
+    "fr": {
+      "word": "la falaise",
+      "ipa": "[fa.lɛz]",
+      "examples": [
+        { "s": "La falaise domine la plage en contrebas.", "zh": "懸崖俯瞰著下方的海灘。" },
+        { "s": "Ne t'approche pas trop du bord de la falaise.", "zh": "別太靠近懸崖邊緣。" }
+      ]
+    },
+    "ja": {
+      "word": "崖",
+      "kana": "がけ",
+      "romaji": "gake",
+      "examples": [
+        { "s": "崖の上から海がよく見えます。", "zh": "從懸崖上可以清楚看見大海。" },
+        { "s": "崖の端に近づかないでください。", "zh": "請別靠近懸崖邊緣。" }
+      ]
+    }
+  },
+  {
+    "id": "p0489",
+    "de": {
+      "word": "das Klima",
+      "ipa": "[ˈkliːma]",
+      "examples": [
+        { "s": "Das Klima in dieser Region ist sehr mild.", "zh": "這個地區的氣候非常溫和。" },
+        { "s": "Sie kann das feuchte Klima kaum ertragen.", "zh": "她幾乎受不了這潮濕的氣候。" }
+      ]
+    },
+    "fr": {
+      "word": "le climat",
+      "ipa": "[kli.ma]",
+      "examples": [
+        { "s": "Le climat de cette région est doux.", "zh": "這個地區的氣候很溫和。" },
+        { "s": "Ils s'habituent peu à peu au climat tropical.", "zh": "他們漸漸適應了熱帶氣候。" }
+      ]
+    },
+    "ja": {
+      "word": "気候",
+      "kana": "きこう",
+      "romaji": "kikō",
+      "examples": [
+        { "s": "この地域の気候はとても穏やかです。", "zh": "這個地區的氣候非常溫和。" },
+        { "s": "湿った気候にはなかなか慣れません。", "zh": "我很難適應潮濕的氣候。" }
+      ]
+    }
+  },
+  {
+    "id": "p0490",
+    "de": {
+      "word": "der Klimawandel",
+      "ipa": "[ˈkliːmaˌvandl̩]",
+      "examples": [
+        { "s": "Der Klimawandel bedroht viele Küstenstädte.", "zh": "氣候變遷威脅著許多沿海城市。" },
+        { "s": "Wir müssen jetzt gegen den Klimawandel handeln.", "zh": "我們現在就必須採取行動對抗氣候變遷。" }
+      ]
+    },
+    "fr": {
+      "word": "le changement climatique",
+      "ipa": "[ʃɑ̃ʒ.mɑ̃ kli.ma.tik]",
+      "examples": [
+        { "s": "Le changement climatique menace de nombreuses régions.", "zh": "氣候變遷威脅著許多地區。" },
+        { "s": "Il faut agir contre le changement climatique.", "zh": "必須採取行動對抗氣候變遷。" }
+      ]
+    },
+    "ja": {
+      "word": "気候変動",
+      "kana": "きこうへんどう",
+      "romaji": "kikō hendō",
+      "examples": [
+        { "s": "気候変動は多くの沿岸の町を脅かしています。", "zh": "氣候變遷正威脅著許多沿海城鎮。" },
+        { "s": "今すぐ気候変動に対策を取るべきです。", "zh": "我們應該立刻對氣候變遷採取對策。" }
+      ]
+    }
+  }
+]

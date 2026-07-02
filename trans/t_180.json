@@ -1,0 +1,842 @@
+[
+  {
+    "id": "p0131",
+    "de": {
+      "word": "der Asteroid",
+      "ipa": "[asteʁoˈiːt]",
+      "examples": [
+        { "s": "Ein riesiger Asteroid raste an der Erde vorbei.", "zh": "一顆巨大的小行星從地球旁邊飛掠而過。" },
+        { "s": "Wissenschaftler beobachten den Asteroiden seit Wochen.", "zh": "科學家已經觀測這顆小行星好幾週了。" }
+      ]
+    },
+    "fr": {
+      "word": "l'astéroïde (m.)",
+      "ipa": "[asteʁɔid]",
+      "examples": [
+        { "s": "Un astéroïde est passé tout près de notre planète.", "zh": "一顆小行星從我們的星球旁邊近距離掠過。" },
+        { "s": "Les astronomes ont donné un nom à ce nouvel astéroïde.", "zh": "天文學家為這顆新發現的小行星命名。" }
+      ]
+    },
+    "ja": {
+      "word": "小惑星",
+      "kana": "しょうわくせい",
+      "romaji": "shōwakusei",
+      "examples": [
+        { "s": "巨大な小惑星が地球のそばを通り過ぎた。", "zh": "一顆巨大的小行星從地球旁邊經過。" },
+        { "s": "科学者たちはその小惑星を数週間観測している。", "zh": "科學家們觀測那顆小行星已經好幾週了。" }
+      ]
+    }
+  },
+  {
+    "id": "p0132",
+    "de": {
+      "word": "das Asthma",
+      "ipa": "[ˈastma]",
+      "examples": [
+        { "s": "Mein Sohn hat seit seiner Kindheit Asthma.", "zh": "我兒子從小就有氣喘。" },
+        { "s": "Bei kalter Luft wird ihr Asthma oft schlimmer.", "zh": "空氣寒冷時她的氣喘常常會加重。" }
+      ]
+    },
+    "fr": {
+      "word": "l'asthme (m.)",
+      "ipa": "[asm]",
+      "examples": [
+        { "s": "Il a toujours son inhalateur à cause de son asthme.", "zh": "因為氣喘,他總是隨身帶著吸入器。" },
+        { "s": "La fumée déclenche souvent son asthme.", "zh": "煙霧常常會誘發她的氣喘。" }
+      ]
+    },
+    "ja": {
+      "word": "喘息",
+      "kana": "ぜんそく",
+      "romaji": "zensoku",
+      "examples": [
+        { "s": "息子は子どものころから喘息を持っている。", "zh": "我兒子從小就有氣喘。" },
+        { "s": "冷たい空気で喘息の発作が起きやすい。", "zh": "寒冷的空氣容易引發氣喘發作。" }
+      ]
+    }
+  },
+  {
+    "id": "p0133",
+    "de": {
+      "word": "der Astronaut",
+      "ipa": "[astʁoˈnaʊt]",
+      "examples": [
+        { "s": "Der Astronaut schwebte langsam durch die Raumstation.", "zh": "太空人在太空站裡緩緩地漂浮著。" },
+        { "s": "Als Kind wollte sie unbedingt Astronautin werden.", "zh": "她小時候非常想成為太空人。" }
+      ]
+    },
+    "fr": {
+      "word": "l'astronaute (m./f.)",
+      "ipa": "[astʁonot]",
+      "examples": [
+        { "s": "L'astronaute a passé six mois dans l'espace.", "zh": "這位太空人在太空待了六個月。" },
+        { "s": "Chaque astronaute suit un entraînement très strict.", "zh": "每位太空人都要接受非常嚴格的訓練。" }
+      ]
+    },
+    "ja": {
+      "word": "宇宙飛行士",
+      "kana": "うちゅうひこうし",
+      "romaji": "uchū hikōshi",
+      "examples": [
+        { "s": "宇宙飛行士は半年間宇宙で過ごした。", "zh": "太空人在太空度過了半年。" },
+        { "s": "子どものころ、彼は宇宙飛行士になりたかった。", "zh": "小時候他想成為太空人。" }
+      ]
+    }
+  },
+  {
+    "id": "p0134",
+    "de": {
+      "word": "zurzeit",
+      "ipa": "[t͡suːɐ̯ˈt͡saɪt]",
+      "examples": [
+        { "s": "Zurzeit können wir Ihnen leider keine Auskunft geben.", "zh": "目前我們恐怕無法提供您資訊。" },
+        { "s": "Wir haben zurzeit keine freien Termine.", "zh": "我們此刻沒有空出的預約時段。" }
+      ]
+    },
+    "fr": {
+      "word": "en ce moment",
+      "ipa": "[ɑ̃ sə mɔmɑ̃]",
+      "examples": [
+        { "s": "En ce moment, nous ne pouvons pas répondre à votre demande.", "zh": "目前我們無法回覆您的請求。" },
+        { "s": "Il est très occupé en ce moment.", "zh": "他此刻非常忙碌。" }
+      ]
+    },
+    "ja": {
+      "word": "現在",
+      "kana": "げんざい",
+      "romaji": "genzai",
+      "examples": [
+        { "s": "現在、その件についてはお答えできかねます。", "zh": "目前關於那件事我們無法回覆。" },
+        { "s": "現在、空いているお席はございません。", "zh": "此刻沒有空的座位。" }
+      ]
+    }
+  },
+  {
+    "id": "p0135",
+    "de": {
+      "word": "zu Ihrer Verfügung",
+      "ipa": "[t͡suː ˈiːʁɐ fɛɐ̯ˈfyːɡʊŋ]",
+      "examples": [
+        { "s": "Ich stehe Ihnen jederzeit zu Ihrer Verfügung.", "zh": "我隨時供您差遣。" },
+        { "s": "Unser Team steht Ihnen gern zu Ihrer Verfügung.", "zh": "我們的團隊很樂意供您使用。" }
+      ]
+    },
+    "fr": {
+      "word": "à votre disposition",
+      "ipa": "[a vɔtʁ dispozisjɔ̃]",
+      "examples": [
+        { "s": "Je reste à votre disposition pour toute question.", "zh": "如有任何問題,我隨時供您差遣。" },
+        { "s": "Notre équipe est à votre entière disposition.", "zh": "我們的團隊完全供您使用。" }
+      ]
+    },
+    "ja": {
+      "word": "ご自由にお使いください",
+      "kana": "ごじゆうにおつかいください",
+      "romaji": "gojiyū ni otsukai kudasai",
+      "examples": [
+        { "s": "何かございましたら、いつでもお申し付けください。", "zh": "若有需要,隨時吩咐我。" },
+        { "s": "こちらの資料はご自由にお使いください。", "zh": "這份資料供您自由使用。" }
+      ]
+    }
+  },
+  {
+    "id": "p0136",
+    "de": {
+      "word": "möglichst bald",
+      "ipa": "[ˈmøːklɪçst balt]",
+      "examples": [
+        { "s": "Bitte antworten Sie mir möglichst bald.", "zh": "請您儘早回覆我。" },
+        { "s": "Wir bitten um Rückmeldung möglichst bald.", "zh": "請您在方便時儘早回覆。" }
+      ]
+    },
+    "fr": {
+      "word": "dans les meilleurs délais",
+      "ipa": "[dɑ̃ le mɛjœʁ dela]",
+      "examples": [
+        { "s": "Merci de me répondre dans les meilleurs délais.", "zh": "請您儘早回覆我。" },
+        { "s": "Nous traiterons votre demande dans les meilleurs délais.", "zh": "我們會儘早處理您的請求。" }
+      ]
+    },
+    "ja": {
+      "word": "お早めに",
+      "kana": "おはやめに",
+      "romaji": "ohayame ni",
+      "examples": [
+        { "s": "ご都合のよいときに、お早めにご返信ください。", "zh": "請您在方便時儘早回覆。" },
+        { "s": "お早めにお申し込みください。", "zh": "請您儘早報名。" }
+      ]
+    }
+  },
+  {
+    "id": "p0137",
+    "de": {
+      "word": "der Athlet",
+      "ipa": "[atˈleːt]",
+      "examples": [
+        { "s": "Der Athlet trainiert jeden Morgen im Stadion.", "zh": "這位運動員每天早上在體育場訓練。" },
+        { "s": "Sie ist eine der besten Athletinnen des Landes.", "zh": "她是全國最優秀的運動員之一。" }
+      ]
+    },
+    "fr": {
+      "word": "l'athlète (m./f.)",
+      "ipa": "[atlɛt]",
+      "examples": [
+        { "s": "Cet athlète s'entraîne tous les jours au stade.", "zh": "這位運動員每天在體育場訓練。" },
+        { "s": "L'athlète a battu le record national.", "zh": "這位運動員打破了全國紀錄。" }
+      ]
+    },
+    "ja": {
+      "word": "運動選手",
+      "kana": "うんどうせんしゅ",
+      "romaji": "undō senshu",
+      "examples": [
+        { "s": "その運動選手は毎朝スタジアムで練習している。", "zh": "那位運動員每天早上在體育場練習。" },
+        { "s": "彼女は国内でも有数の運動選手だ。", "zh": "她是國內數一數二的運動員。" }
+      ]
+    }
+  },
+  {
+    "id": "p0138",
+    "de": {
+      "word": "der Atlas",
+      "ipa": "[ˈatlas]",
+      "examples": [
+        { "s": "Er schlug im Atlas die Karte von Europa auf.", "zh": "他在地圖集裡翻開歐洲的地圖。" },
+        { "s": "Im Regal steht ein alter Atlas aus dem Jahr 1950.", "zh": "書架上放著一本1950年的舊地圖集。" }
+      ]
+    },
+    "fr": {
+      "word": "l'atlas (m.)",
+      "ipa": "[atlas]",
+      "examples": [
+        { "s": "Elle a cherché le pays dans l'atlas.", "zh": "她在地圖集裡查那個國家。" },
+        { "s": "Cet atlas contient des cartes du monde entier.", "zh": "這本地圖集收錄了全世界的地圖。" }
+      ]
+    },
+    "ja": {
+      "word": "地図帳",
+      "kana": "ちずちょう",
+      "romaji": "chizuchō",
+      "examples": [
+        { "s": "彼は地図帳でヨーロッパのページを開いた。", "zh": "他在地圖集裡翻開歐洲那一頁。" },
+        { "s": "この地図帳には世界中の地図が載っている。", "zh": "這本地圖集收錄了全世界的地圖。" }
+      ]
+    }
+  },
+  {
+    "id": "p0139",
+    "de": {
+      "word": "der Geldautomat",
+      "ipa": "[ˈɡɛltʔaʊtomaːt]",
+      "examples": [
+        { "s": "Ich muss noch schnell am Geldautomaten Geld abheben.", "zh": "我還得快去自動提款機領錢。" },
+        { "s": "Der Geldautomat an der Ecke ist leider defekt.", "zh": "轉角那台自動提款機故障了。" }
+      ]
+    },
+    "fr": {
+      "word": "le distributeur automatique",
+      "ipa": "[distʁibytœʁ otɔmatik]",
+      "examples": [
+        { "s": "Je retire de l'argent au distributeur automatique.", "zh": "我在自動提款機領錢。" },
+        { "s": "Le distributeur automatique de la banque est en panne.", "zh": "銀行的自動提款機故障了。" }
+      ]
+    },
+    "ja": {
+      "word": "現金自動預払機",
+      "kana": "げんきんじどうあずけばらいき",
+      "romaji": "genkin jidō azukebaraiki",
+      "examples": [
+        { "s": "コンビニのATMでお金をおろした。", "zh": "我在便利商店的提款機領了錢。" },
+        { "s": "駅前のATMは故障中でした。", "zh": "車站前的提款機故障中。" }
+      ]
+    }
+  },
+  {
+    "id": "p0140",
+    "de": {
+      "word": "die Atmosphäre",
+      "ipa": "[atmoˈsfɛːʁə]",
+      "examples": [
+        { "s": "Die Atmosphäre der Erde schützt uns vor der Sonne.", "zh": "地球的大氣層保護我們免受太陽照射。" },
+        { "s": "Der Satellit trat wieder in die Atmosphäre ein.", "zh": "衛星重新進入了大氣層。" }
+      ]
+    },
+    "fr": {
+      "word": "l'atmosphère (f.)",
+      "ipa": "[atmɔsfɛʁ]",
+      "examples": [
+        { "s": "L'atmosphère nous protège des rayons du soleil.", "zh": "大氣層保護我們免受陽光照射。" },
+        { "s": "La navette est rentrée dans l'atmosphère terrestre.", "zh": "太空梭重新進入了地球大氣層。" }
+      ]
+    },
+    "ja": {
+      "word": "大気",
+      "kana": "たいき",
+      "romaji": "taiki",
+      "examples": [
+        { "s": "地球の大気は太陽の光から私たちを守っている。", "zh": "地球的大氣層保護我們免受陽光照射。" },
+        { "s": "その衛星は再び大気圏に突入した。", "zh": "那顆衛星再次進入了大氣層。" }
+      ]
+    }
+  },
+  {
+    "id": "p0141",
+    "de": {
+      "word": "das Atom",
+      "ipa": "[aˈtoːm]",
+      "examples": [
+        { "s": "Ein Molekül besteht aus mehreren Atomen.", "zh": "一個分子由好幾個原子組成。" },
+        { "s": "Der Lehrer erklärte den Aufbau eines Atoms.", "zh": "老師解釋了原子的結構。" }
+      ]
+    },
+    "fr": {
+      "word": "l'atome (m.)",
+      "ipa": "[atɔm]",
+      "examples": [
+        { "s": "Une molécule est formée de plusieurs atomes.", "zh": "一個分子由好幾個原子組成。" },
+        { "s": "Le professeur a dessiné la structure d'un atome.", "zh": "老師畫出了原子的結構。" }
+      ]
+    },
+    "ja": {
+      "word": "原子",
+      "kana": "げんし",
+      "romaji": "genshi",
+      "examples": [
+        { "s": "分子はいくつかの原子からできている。", "zh": "分子由好幾個原子組成。" },
+        { "s": "先生が原子の構造を説明してくれた。", "zh": "老師為我們解釋了原子的結構。" }
+      ]
+    }
+  },
+  {
+    "id": "p0142",
+    "de": {
+      "word": "anhängen",
+      "ipa": "[ˈanhɛŋən]",
+      "examples": [
+        { "s": "Bitte hängen Sie die Rechnung an die E-Mail an.", "zh": "請把發票附加到電子郵件裡。" },
+        { "s": "Ich habe vergessen, das Dokument anzuhängen.", "zh": "我忘記附加那份文件了。" }
+      ]
+    },
+    "fr": {
+      "word": "joindre",
+      "ipa": "[ʒwɛ̃dʁ]",
+      "examples": [
+        { "s": "Veuillez joindre la facture à votre message.", "zh": "請將發票附加在您的訊息中。" },
+        { "s": "J'ai oublié de joindre le fichier.", "zh": "我忘記附加那個檔案了。" }
+      ]
+    },
+    "ja": {
+      "word": "添付する",
+      "kana": "てんぷする",
+      "romaji": "tenpu suru",
+      "examples": [
+        { "s": "請求書をメールに添付してください。", "zh": "請把發票附加到郵件裡。" },
+        { "s": "ファイルを添付し忘れてしまいました。", "zh": "我忘記附加檔案了。" }
+      ]
+    }
+  },
+  {
+    "id": "p0143",
+    "de": {
+      "word": "der Anhang",
+      "ipa": "[ˈanhaŋ]",
+      "examples": [
+        { "s": "Im Anhang finden Sie den Vertrag.", "zh": "您可以在附件中找到合約。" },
+        { "s": "Der Anhang war leider zu groß zum Versenden.", "zh": "這個附件太大了,無法寄出。" }
+      ]
+    },
+    "fr": {
+      "word": "la pièce jointe",
+      "ipa": "[pjɛs ʒwɛ̃t]",
+      "examples": [
+        { "s": "Vous trouverez le contrat en pièce jointe.", "zh": "您可以在附件中找到合約。" },
+        { "s": "La pièce jointe était trop lourde pour être envoyée.", "zh": "這個附件太大了,無法寄出。" }
+      ]
+    },
+    "ja": {
+      "word": "添付ファイル",
+      "kana": "てんぷファイル",
+      "romaji": "tenpu fairu",
+      "examples": [
+        { "s": "契約書は添付ファイルをご覧ください。", "zh": "合約請看附加檔案。" },
+        { "s": "添付ファイルが大きすぎて送れませんでした。", "zh": "附件太大了,寄不出去。" }
+      ]
+    }
+  },
+  {
+    "id": "p0144",
+    "de": {
+      "word": "teilnehmen",
+      "ipa": "[ˈtaɪlneːmən]",
+      "examples": [
+        { "s": "Ich werde morgen an der Sitzung teilnehmen.", "zh": "我明天會出席這場會議。" },
+        { "s": "Viele Studenten nahmen an dem Vortrag teil.", "zh": "許多學生參加了那場演講。" }
+      ]
+    },
+    "fr": {
+      "word": "assister",
+      "ipa": "[asiste]",
+      "examples": [
+        { "s": "Je vais assister à la réunion demain.", "zh": "我明天會出席這場會議。" },
+        { "s": "Beaucoup d'étudiants ont assisté à la conférence.", "zh": "許多學生參加了那場演講。" }
+      ]
+    },
+    "ja": {
+      "word": "出席する",
+      "kana": "しゅっせきする",
+      "romaji": "shusseki suru",
+      "examples": [
+        { "s": "明日の会議に出席します。", "zh": "我會出席明天的會議。" },
+        { "s": "多くの学生が講演に参加した。", "zh": "許多學生參加了那場演講。" }
+      ]
+    }
+  },
+  {
+    "id": "p0145",
+    "de": {
+      "word": "die Anwesenheit",
+      "ipa": "[ˈanveːzn̩haɪt]",
+      "examples": [
+        { "s": "Die Anwesenheit im Unterricht ist verpflichtend.", "zh": "課堂的出席是強制規定的。" },
+        { "s": "Der Lehrer überprüft jeden Morgen die Anwesenheit.", "zh": "老師每天早上都會點名出席。" }
+      ]
+    },
+    "fr": {
+      "word": "la présence",
+      "ipa": "[pʁezɑ̃s]",
+      "examples": [
+        { "s": "La présence en cours est obligatoire.", "zh": "課堂出席是強制的。" },
+        { "s": "Le professeur vérifie la présence chaque matin.", "zh": "老師每天早上都會點名。" }
+      ]
+    },
+    "ja": {
+      "word": "出席",
+      "kana": "しゅっせき",
+      "romaji": "shusseki",
+      "examples": [
+        { "s": "授業への出席は義務です。", "zh": "上課出席是義務。" },
+        { "s": "先生は毎朝出席を確認します。", "zh": "老師每天早上都會確認出席。" }
+      ]
+    }
+  },
+  {
+    "id": "p0146",
+    "de": {
+      "word": "der Teilnehmer",
+      "ipa": "[ˈtaɪlneːmɐ]",
+      "examples": [
+        { "s": "Alle Teilnehmer erhielten ein Namensschild.", "zh": "所有與會者都拿到了名牌。" },
+        { "s": "Die Zahl der Teilnehmer war höher als erwartet.", "zh": "與會者的人數比預期還多。" }
+      ]
+    },
+    "fr": {
+      "word": "le participant",
+      "ipa": "[paʁtisipɑ̃]",
+      "examples": [
+        { "s": "Chaque participant a reçu un badge à l'entrée.", "zh": "每位與會者在入口都拿到了名牌。" },
+        { "s": "Le nombre de participants a dépassé nos attentes.", "zh": "與會者人數超出了我們的預期。" }
+      ]
+    },
+    "ja": {
+      "word": "参加者",
+      "kana": "さんかしゃ",
+      "romaji": "sankasha",
+      "examples": [
+        { "s": "参加者全員に名札が配られた。", "zh": "所有與會者都拿到了名牌。" },
+        { "s": "参加者の数は予想より多かった。", "zh": "與會者的人數比預期還多。" }
+      ]
+    }
+  },
+  {
+    "id": "p0147",
+    "de": {
+      "word": "die Aufmerksamkeit",
+      "ipa": "[ˈaʊfmɛʁkzaːmkaɪt]",
+      "examples": [
+        { "s": "Bitte schenken Sie mir einen Moment Ihre Aufmerksamkeit.", "zh": "請給我一點您的注意力。" },
+        { "s": "Das laute Geräusch zog seine Aufmerksamkeit auf sich.", "zh": "那個巨響吸引了他的注意力。" }
+      ]
+    },
+    "fr": {
+      "word": "l'attention (f.)",
+      "ipa": "[atɑ̃sjɔ̃]",
+      "examples": [
+        { "s": "Merci de me prêter un instant votre attention.", "zh": "請給我片刻的注意力。" },
+        { "s": "Le bruit a attiré toute son attention.", "zh": "那個聲音吸引了他全部的注意力。" }
+      ]
+    },
+    "ja": {
+      "word": "注意",
+      "kana": "ちゅうい",
+      "romaji": "chūi",
+      "examples": [
+        { "s": "少しの間、私に注意を向けてください。", "zh": "請把注意力放在我這裡一下。" },
+        { "s": "大きな音が彼の注意を引いた。", "zh": "巨大的聲響吸引了他的注意力。" }
+      ]
+    }
+  },
+  {
+    "id": "p0148",
+    "de": {
+      "word": "aufmerksam",
+      "ipa": "[ˈaʊfmɛʁkzaːm]",
+      "examples": [
+        { "s": "Die Schüler hörten aufmerksam zu.", "zh": "學生們專注地聽講。" },
+        { "s": "Sie las den Brief aufmerksam durch.", "zh": "她專注地把信讀了一遍。" }
+      ]
+    },
+    "fr": {
+      "word": "attentivement",
+      "ipa": "[atɑ̃tivmɑ̃]",
+      "examples": [
+        { "s": "Les élèves écoutaient attentivement le professeur.", "zh": "學生們專注地聽老師講課。" },
+        { "s": "Elle a lu le contrat attentivement.", "zh": "她用心地讀了合約。" }
+      ]
+    },
+    "ja": {
+      "word": "注意深く",
+      "kana": "ちゅういぶかく",
+      "romaji": "chūibukaku",
+      "examples": [
+        { "s": "生徒たちは注意深く話を聞いていた。", "zh": "學生們專注地聽著。" },
+        { "s": "彼女は手紙を注意深く読んだ。", "zh": "她用心地讀了那封信。" }
+      ]
+    }
+  },
+  {
+    "id": "p0149",
+    "de": {
+      "word": "der Dachboden",
+      "ipa": "[ˈdaxboːdn̩]",
+      "examples": [
+        { "s": "Auf dem Dachboden lagern viele alte Kisten.", "zh": "閣樓上堆放著許多舊箱子。" },
+        { "s": "Wir haben den Dachboden zu einem Zimmer ausgebaut.", "zh": "我們把閣樓改建成了一個房間。" }
+      ]
+    },
+    "fr": {
+      "word": "le grenier",
+      "ipa": "[ɡʁənje]",
+      "examples": [
+        { "s": "De vieilles caisses sont rangées dans le grenier.", "zh": "許多舊箱子收在閣樓裡。" },
+        { "s": "Nous avons aménagé le grenier en chambre.", "zh": "我們把閣樓改成了一間房。" }
+      ]
+    },
+    "ja": {
+      "word": "屋根裏部屋",
+      "kana": "やねうらべや",
+      "romaji": "yaneura-beya",
+      "examples": [
+        { "s": "屋根裏部屋には古い箱がたくさん置いてある。", "zh": "閣樓裡放著許多舊箱子。" },
+        { "s": "屋根裏部屋を子ども部屋に改装した。", "zh": "我們把閣樓改裝成兒童房。" }
+      ]
+    }
+  },
+  {
+    "id": "p0150",
+    "de": {
+      "word": "die Einstellung",
+      "ipa": "[ˈaɪnʃtɛlʊŋ]",
+      "examples": [
+        { "s": "Seine positive Einstellung beeindruckt alle.", "zh": "他正面的態度讓所有人印象深刻。" },
+        { "s": "Mit dieser Einstellung wirst du es weit bringen.", "zh": "抱著這樣的態度,你會很有成就。" }
+      ]
+    },
+    "fr": {
+      "word": "l'attitude (f.)",
+      "ipa": "[atityd]",
+      "examples": [
+        { "s": "Son attitude positive impressionne tout le monde.", "zh": "他正面的態度讓所有人印象深刻。" },
+        { "s": "Je n'aime pas du tout ton attitude aujourd'hui.", "zh": "我一點也不喜歡你今天的態度。" }
+      ]
+    },
+    "ja": {
+      "word": "態度",
+      "kana": "たいど",
+      "romaji": "taido",
+      "examples": [
+        { "s": "彼の前向きな態度にみんなが感心している。", "zh": "他積極的態度讓大家很佩服。" },
+        { "s": "そんな態度では誰も助けてくれないよ。", "zh": "抱著那種態度,沒有人會幫你的。" }
+      ]
+    }
+  },
+  {
+    "id": "p0151",
+    "de": {
+      "word": "der Anwalt",
+      "ipa": "[ˈanvalt]",
+      "examples": [
+        { "s": "Mein Anwalt kümmert sich um den Vertrag.", "zh": "我的律師會處理這份合約。" },
+        { "s": "Sie hat einen guten Anwalt für den Fall gefunden.", "zh": "她為這個案子找到了一位好律師。" }
+      ]
+    },
+    "fr": {
+      "word": "l'avocat (m.)",
+      "ipa": "[avɔka]",
+      "examples": [
+        { "s": "Mon avocat s'occupe de ce contrat.", "zh": "我的律師會處理這份合約。" },
+        { "s": "Elle a engagé un avocat pour la défendre.", "zh": "她聘請了一位律師來為她辯護。" }
+      ]
+    },
+    "ja": {
+      "word": "弁護士",
+      "kana": "べんごし",
+      "romaji": "bengoshi",
+      "examples": [
+        { "s": "私の弁護士がこの契約を担当します。", "zh": "我的律師會負責這份合約。" },
+        { "s": "彼女はこの件で優秀な弁護士を見つけた。", "zh": "她為這件事找到了一位優秀的律師。" }
+      ]
+    }
+  },
+  {
+    "id": "p0152",
+    "de": {
+      "word": "das Publikum",
+      "ipa": "[ˈpuːblikʊm]",
+      "examples": [
+        { "s": "Das Publikum applaudierte nach dem Konzert lange.", "zh": "音樂會結束後觀眾鼓掌很久。" },
+        { "s": "Die Sängerin lächelte ins Publikum.", "zh": "歌手對著觀眾微笑。" }
+      ]
+    },
+    "fr": {
+      "word": "le public",
+      "ipa": "[pyblik]",
+      "examples": [
+        { "s": "Le public a applaudi longuement après le concert.", "zh": "音樂會後觀眾鼓掌了很久。" },
+        { "s": "L'actrice a salué le public à la fin de la pièce.", "zh": "戲劇結束時女演員向觀眾致意。" }
+      ]
+    },
+    "ja": {
+      "word": "観客",
+      "kana": "かんきゃく",
+      "romaji": "kankyaku",
+      "examples": [
+        { "s": "コンサートのあと、観客は長い間拍手した。", "zh": "演唱會後觀眾鼓掌了很久。" },
+        { "s": "歌手は観客に向かってほほ笑んだ。", "zh": "歌手對著觀眾微笑。" }
+      ]
+    }
+  },
+  {
+    "id": "p0153",
+    "de": {
+      "word": "der August",
+      "ipa": "[aʊˈɡʊst]",
+      "examples": [
+        { "s": "Im August fahren wir ans Meer.", "zh": "八月我們要去海邊。" },
+        { "s": "Ihr Geburtstag ist Ende August.", "zh": "她的生日在八月底。" }
+      ]
+    },
+    "fr": {
+      "word": "le mois d'août",
+      "ipa": "[mwa d‿u]",
+      "examples": [
+        { "s": "Au mois d'août, nous partons à la mer.", "zh": "八月我們要去海邊。" },
+        { "s": "Son anniversaire est à la fin du mois d'août.", "zh": "她的生日在八月底。" }
+      ]
+    },
+    "ja": {
+      "word": "八月",
+      "kana": "はちがつ",
+      "romaji": "hachigatsu",
+      "examples": [
+        { "s": "八月に海へ行く予定です。", "zh": "我們預計八月去海邊。" },
+        { "s": "彼女の誕生日は八月の終わりです。", "zh": "她的生日在八月底。" }
+      ]
+    }
+  },
+  {
+    "id": "p0154",
+    "de": {
+      "word": "die Tante",
+      "ipa": "[ˈtantə]",
+      "examples": [
+        { "s": "Meine Tante wohnt in der Nähe von München.", "zh": "我的阿姨住在慕尼黑附近。" },
+        { "s": "Am Wochenende besuchen wir unsere Tante.", "zh": "週末我們要去探望阿姨。" }
+      ]
+    },
+    "fr": {
+      "word": "la tante",
+      "ipa": "[tɑ̃t]",
+      "examples": [
+        { "s": "Ma tante habite près de Lyon.", "zh": "我的阿姨住在里昂附近。" },
+        { "s": "Nous rendons visite à notre tante ce week-end.", "zh": "這個週末我們要去探望阿姨。" }
+      ]
+    },
+    "ja": {
+      "word": "おば",
+      "kana": "おば",
+      "romaji": "oba",
+      "examples": [
+        { "s": "おばは名古屋の近くに住んでいます。", "zh": "我的阿姨住在名古屋附近。" },
+        { "s": "週末におばの家を訪ねます。", "zh": "週末我要去阿姨家。" }
+      ]
+    }
+  },
+  {
+    "id": "p0155",
+    "de": {
+      "word": "die Behörde",
+      "ipa": "[bəˈhøːɐ̯də]",
+      "examples": [
+        { "s": "Die zuständige Behörde hat den Antrag genehmigt.", "zh": "主管當局已核准了申請。" },
+        { "s": "Du musst dieses Formular bei der Behörde einreichen.", "zh": "你必須把這份表格交給相關當局。" }
+      ]
+    },
+    "fr": {
+      "word": "l'autorité (f.)",
+      "ipa": "[otɔʁite]",
+      "examples": [
+        { "s": "L'autorité compétente a approuvé la demande.", "zh": "主管當局已核准了申請。" },
+        { "s": "Les autorités locales ont fermé la route.", "zh": "地方當局封閉了那條路。" }
+      ]
+    },
+    "ja": {
+      "word": "当局",
+      "kana": "とうきょく",
+      "romaji": "tōkyoku",
+      "examples": [
+        { "s": "担当の当局が申請を承認した。", "zh": "主管當局核准了申請。" },
+        { "s": "地元の当局が道路を封鎖した。", "zh": "地方當局封閉了那條路。" }
+      ]
+    }
+  },
+  {
+    "id": "p0156",
+    "de": {
+      "word": "der Avatar",
+      "ipa": "[avaˈtaːɐ̯]",
+      "examples": [
+        { "s": "Ich habe meinen Avatar im Spiel neu gestaltet.", "zh": "我重新設計了遊戲裡的虛擬形象。" },
+        { "s": "Ihr Avatar zeigt eine lächelnde Katze.", "zh": "她的頭像是一隻微笑的貓。" }
+      ]
+    },
+    "fr": {
+      "word": "l'avatar (m.)",
+      "ipa": "[avataʁ]",
+      "examples": [
+        { "s": "J'ai personnalisé mon avatar dans le jeu.", "zh": "我把遊戲裡的虛擬形象客製化了。" },
+        { "s": "Son avatar est une petite chouette bleue.", "zh": "她的頭像是一隻藍色的小貓頭鷹。" }
+      ]
+    },
+    "ja": {
+      "word": "アバター",
+      "kana": "アバター",
+      "romaji": "abatā",
+      "examples": [
+        { "s": "ゲームのアバターを新しく作り直した。", "zh": "我重新做了遊戲裡的虛擬形象。" },
+        { "s": "彼女のアバターは笑っている猫だ。", "zh": "她的頭像是一隻在笑的貓。" }
+      ]
+    }
+  },
+  {
+    "id": "p0157",
+    "de": {
+      "word": "die Allee",
+      "ipa": "[aˈleː]",
+      "examples": [
+        { "s": "Wir spazierten die breite Allee entlang.", "zh": "我們沿著寬闊的大道散步。" },
+        { "s": "Sein Büro liegt an einer belebten Allee.", "zh": "他的辦公室位於一條繁忙的大道上。" }
+      ]
+    },
+    "fr": {
+      "word": "l'avenue (f.)",
+      "ipa": "[avny]",
+      "examples": [
+        { "s": "Nous avons marché le long de la grande avenue.", "zh": "我們沿著這條大道散步。" },
+        { "s": "Son bureau se trouve sur une avenue très animée.", "zh": "他的辦公室位在一條很熱鬧的大道上。" }
+      ]
+    },
+    "ja": {
+      "word": "大通り",
+      "kana": "おおどおり",
+      "romaji": "ōdōri",
+      "examples": [
+        { "s": "私たちは広い大通りを散歩した。", "zh": "我們沿著寬闊的大道散步。" },
+        { "s": "彼の事務所はにぎやかな大通りにある。", "zh": "他的辦公室在一條熱鬧的大道上。" }
+      ]
+    }
+  },
+  {
+    "id": "p0158",
+    "de": {
+      "word": "die Straßenkreuzung",
+      "ipa": "[ˈʃtʁaːsn̩ˌkʁɔɪ̯t͡sʊŋ]",
+      "examples": [
+        { "s": "An der Straßenkreuzung musst du nach links abbiegen.", "zh": "在大道路口你要往左轉。" },
+        { "s": "Die Straßenkreuzung ist zur Rushhour sehr voll.", "zh": "尖峰時段這個路口非常擁擠。" }
+      ]
+    },
+    "fr": {
+      "word": "le carrefour",
+      "ipa": "[kaʁfuʁ]",
+      "examples": [
+        { "s": "Au carrefour, tournez à gauche.", "zh": "在路口請往左轉。" },
+        { "s": "Ce carrefour est dangereux aux heures de pointe.", "zh": "這個路口在尖峰時段很危險。" }
+      ]
+    },
+    "ja": {
+      "word": "交差点",
+      "kana": "こうさてん",
+      "romaji": "kōsaten",
+      "examples": [
+        { "s": "その交差点を左に曲がってください。", "zh": "請在那個路口往左轉。" },
+        { "s": "この交差点はラッシュ時にとても混む。", "zh": "這個路口在尖峰時段非常擁擠。" }
+      ]
+    }
+  },
+  {
+    "id": "p0159",
+    "de": {
+      "word": "der Durchschnitt",
+      "ipa": "[ˈdʊʁçʃnɪt]",
+      "examples": [
+        { "s": "Der Durchschnitt der Klasse liegt bei 75 Punkten.", "zh": "全班的平均是75分。" },
+        { "s": "Im Durchschnitt schläft er sieben Stunden pro Nacht.", "zh": "他平均每晚睡七個小時。" }
+      ]
+    },
+    "fr": {
+      "word": "la moyenne",
+      "ipa": "[mwajɛn]",
+      "examples": [
+        { "s": "La moyenne de la classe est de 75 points.", "zh": "全班的平均是75分。" },
+        { "s": "En moyenne, il dort sept heures par nuit.", "zh": "他平均每晚睡七個小時。" }
+      ]
+    },
+    "ja": {
+      "word": "平均",
+      "kana": "へいきん",
+      "romaji": "heikin",
+      "examples": [
+        { "s": "クラスの平均点は75点だ。", "zh": "全班的平均分數是75分。" },
+        { "s": "彼は平均して毎晩七時間眠る。", "zh": "他平均每晚睡七個小時。" }
+      ]
+    }
+  },
+  {
+    "id": "p0160",
+    "de": {
+      "word": "in Erwartung Ihrer Antwort",
+      "ipa": "[ɪn ɛɐ̯ˈvaʁtʊŋ ˈiːʁɐ ˈantvɔʁt]",
+      "examples": [
+        { "s": "In Erwartung Ihrer Antwort verbleibe ich mit freundlichen Grüßen.", "zh": "靜候您的回覆,謹致問候。" },
+        { "s": "Wir sind in Erwartung Ihrer baldigen Antwort.", "zh": "我們靜候您儘早的回覆。" }
+      ]
+    },
+    "fr": {
+      "word": "dans l'attente de votre réponse",
+      "ipa": "[dɑ̃ latɑ̃t də vɔtʁ ʁepɔ̃s]",
+      "examples": [
+        { "s": "Dans l'attente de votre réponse, je vous prie d'agréer mes salutations.", "zh": "靜候您的回覆,謹致問候。" },
+        { "s": "Nous restons dans l'attente de votre réponse.", "zh": "我們靜候您的回覆。" }
+      ]
+    },
+    "ja": {
+      "word": "お返事をお待ちしております",
+      "kana": "おへんじをおまちしております",
+      "romaji": "ohenji o omachi shite orimasu",
+      "examples": [
+        { "s": "お返事をお待ちしております。", "zh": "靜候您的回覆。" },
+        { "s": "ご返信を心よりお待ちしております。", "zh": "我們誠摯地靜候您的回覆。" }
+      ]
+    }
+  }
+]

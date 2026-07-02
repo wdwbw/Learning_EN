@@ -1,0 +1,842 @@
+[
+  {
+    "id": "w031",
+    "de": {
+      "word": "erschöpft",
+      "ipa": "[ɛɐ̯ˈʃœpft]",
+      "examples": [
+        { "s": "Nach der langen Schicht war ich völlig erschöpft.", "zh": "上完長班之後我筋疲力盡。" },
+        { "s": "Die Kinder waren nach dem Spielen total erschöpft.", "zh": "孩子們玩耍後累壞了。" }
+      ]
+    },
+    "fr": {
+      "word": "épuisé",
+      "ipa": "[epɥize]",
+      "examples": [
+        { "s": "Après cette journée, je suis complètement épuisé.", "zh": "這一天過後，我完全筋疲力盡。" },
+        { "s": "Elle rentre épuisée après le travail.", "zh": "她下班後筋疲力盡地回家。" }
+      ]
+    },
+    "ja": {
+      "word": "疲れ果てた",
+      "kana": "つかれはてた",
+      "romaji": "tsukarehateta",
+      "examples": [
+        { "s": "残業続きで疲れ果ててしまった。", "zh": "連日加班讓我筋疲力盡。" },
+        { "s": "一日中歩いて疲れ果てた。", "zh": "走了一整天，累到不行。" }
+      ]
+    }
+  },
+  {
+    "id": "w032",
+    "de": {
+      "word": "nervös",
+      "ipa": "[nɛrˈvøːs]",
+      "examples": [
+        { "s": "Vor dem Vorstellungsgespräch bin ich immer nervös.", "zh": "面試前我總是很緊張。" },
+        { "s": "Sei nicht nervös, du schaffst das!", "zh": "別緊張，你做得到的！" }
+      ]
+    },
+    "fr": {
+      "word": "nerveux",
+      "ipa": "[nɛʁvø]",
+      "examples": [
+        { "s": "Je suis nerveux avant chaque examen.", "zh": "每次考試前我都很緊張。" },
+        { "s": "Il devient nerveux quand il doit parler en public.", "zh": "他要公開演講時就會變得緊張。" }
+      ]
+    },
+    "ja": {
+      "word": "緊張した",
+      "kana": "きんちょうした",
+      "romaji": "kinchō shita",
+      "examples": [
+        { "s": "面接の前はいつも緊張する。", "zh": "面試前我總是很緊張。" },
+        { "s": "初めての発表でとても緊張した。", "zh": "第一次上台報告非常緊張。" }
+      ]
+    }
+  },
+  {
+    "id": "w033",
+    "de": {
+      "word": "erleichtert",
+      "ipa": "[ɛɐ̯ˈlaɪ̯çtɐt]",
+      "examples": [
+        { "s": "Ich bin so erleichtert, dass alles gut gegangen ist.", "zh": "一切順利，我鬆了一口氣。" },
+        { "s": "Sie war erleichtert, als der Test vorbei war.", "zh": "考試結束時她鬆了一口氣。" }
+      ]
+    },
+    "fr": {
+      "word": "soulagé",
+      "ipa": "[sulaʒe]",
+      "examples": [
+        { "s": "Je suis soulagé que tout se soit bien passé.", "zh": "一切都順利，我鬆了一口氣。" },
+        { "s": "Elle a poussé un soupir, soulagée.", "zh": "她寬慰地嘆了一口氣。" }
+      ]
+    },
+    "ja": {
+      "word": "ほっとした",
+      "kana": "ほっとした",
+      "romaji": "hotto shita",
+      "examples": [
+        { "s": "無事に終わってほっとした。", "zh": "順利結束，我鬆了一口氣。" },
+        { "s": "結果を聞いて、みんなほっとした。", "zh": "聽到結果後，大家都鬆了一口氣。" }
+      ]
+    }
+  },
+  {
+    "id": "w034",
+    "de": {
+      "word": "frustriert",
+      "ipa": "[frʊsˈtriːɐ̯t]",
+      "examples": [
+        { "s": "Ich bin frustriert, weil nichts funktioniert.", "zh": "什麼都不順，我很沮喪。" },
+        { "s": "Er war frustriert über die vielen Fehler.", "zh": "他對這麼多錯誤感到受挫。" }
+      ]
+    },
+    "fr": {
+      "word": "frustré",
+      "ipa": "[fʁystʁe]",
+      "examples": [
+        { "s": "Je suis frustré parce que rien ne marche.", "zh": "什麼都不順，我很沮喪。" },
+        { "s": "Elle est frustrée de ne pas avoir réussi.", "zh": "她因為沒有成功而感到受挫。" }
+      ]
+    },
+    "ja": {
+      "word": "イライラした",
+      "kana": "イライラした",
+      "romaji": "iraira shita",
+      "examples": [
+        { "s": "何度やってもうまくいかなくてイライラした。", "zh": "試了好幾次都不行，我很沮喪。" },
+        { "s": "渋滞にはまってイライラする。", "zh": "塞在車陣裡讓人很煩躁。" }
+      ]
+    }
+  },
+  {
+    "id": "w035",
+    "de": {
+      "word": "begeistert",
+      "ipa": "[bəˈɡaɪ̯stɐt]",
+      "examples": [
+        { "s": "Ich bin begeistert, dass wir gewonnen haben!", "zh": "我們贏了，我超級興奮！" },
+        { "s": "Sie war begeistert von der guten Nachricht.", "zh": "她對這個好消息興奮不已。" }
+      ]
+    },
+    "fr": {
+      "word": "ravi",
+      "ipa": "[ʁavi]",
+      "examples": [
+        { "s": "Je suis ravi de te revoir !", "zh": "能再見到你我超開心！" },
+        { "s": "Ils étaient ravis d'apprendre la bonne nouvelle.", "zh": "他們得知好消息時非常開心。" }
+      ]
+    },
+    "ja": {
+      "word": "大喜びの",
+      "kana": "おおよろこびの",
+      "romaji": "ōyorokobi no",
+      "examples": [
+        { "s": "合格の知らせを聞いて大喜びした。", "zh": "聽到錄取通知，我超級開心。" },
+        { "s": "プレゼントをもらって子供は大喜びだ。", "zh": "收到禮物，孩子開心極了。" }
+      ]
+    }
+  },
+  {
+    "id": "w036",
+    "de": {
+      "word": "abhängen",
+      "ipa": "[ˈaphɛŋən]",
+      "examples": [
+        { "s": "Am Wochenende hänge ich gern mit Freunden ab.", "zh": "週末我喜歡跟朋友出去玩。" },
+        { "s": "Wir hängen heute Abend einfach zu Hause ab.", "zh": "我們今晚就在家隨便打發時間。" }
+      ]
+    },
+    "fr": {
+      "word": "traîner",
+      "ipa": "[tʁene]",
+      "examples": [
+        { "s": "On aime traîner ensemble le week-end.", "zh": "我們週末喜歡一起出去晃。" },
+        { "s": "Ils traînent au parc après les cours.", "zh": "他們下課後在公園閒晃。" }
+      ]
+    },
+    "ja": {
+      "word": "遊ぶ",
+      "kana": "あそぶ",
+      "romaji": "asobu",
+      "examples": [
+        { "s": "週末は友達とぶらぶら遊ぶのが好きだ。", "zh": "週末我喜歡跟朋友出去玩。" },
+        { "s": "放課後、みんなで公園で遊んだ。", "zh": "放學後大家一起在公園玩。" }
+      ]
+    }
+  },
+  {
+    "id": "w037",
+    "de": {
+      "word": "peinlich",
+      "ipa": "[ˈpaɪ̯nlɪç]",
+      "examples": [
+        { "s": "Es war eine peinliche Stille im Raum.", "zh": "房間裡出現了一陣尷尬的沉默。" },
+        { "s": "Das war mir wirklich peinlich.", "zh": "那件事讓我真的很尷尬。" }
+      ]
+    },
+    "fr": {
+      "word": "gênant",
+      "ipa": "[ʒɛnɑ̃]",
+      "examples": [
+        { "s": "Il y a eu un silence gênant.", "zh": "出現了一陣尷尬的沉默。" },
+        { "s": "C'était une situation vraiment gênante.", "zh": "那是個非常尷尬的場面。" }
+      ]
+    },
+    "ja": {
+      "word": "気まずい",
+      "kana": "きまずい",
+      "romaji": "kimazui",
+      "examples": [
+        { "s": "二人の間に気まずい空気が流れた。", "zh": "兩人之間瀰漫著尷尬的氣氛。" },
+        { "s": "名前を忘れてしまって気まずかった。", "zh": "忘了對方的名字，好尷尬。" }
+      ]
+    }
+  },
+  {
+    "id": "w038",
+    "de": {
+      "word": "einer Meinung sein",
+      "ipa": "[ˈaɪ̯nɐ ˈmaɪ̯nʊŋ zaɪ̯n]",
+      "examples": [
+        { "s": "Ich möchte sichergehen, dass wir einer Meinung sind.", "zh": "我想確認我們有共識。" },
+        { "s": "In diesem Punkt sind wir einer Meinung.", "zh": "在這一點上我們想法一致。" }
+      ]
+    },
+    "fr": {
+      "word": "être sur la même longueur d'onde",
+      "ipa": "[ɛtʁ syʁ la mɛm lɔ̃ɡœʁ dɔ̃d]",
+      "examples": [
+        { "s": "Assurons-nous d'être sur la même longueur d'onde.", "zh": "我們確認一下彼此有共識。" },
+        { "s": "On est enfin sur la même longueur d'onde.", "zh": "我們終於想法一致了。" }
+      ]
+    },
+    "ja": {
+      "word": "同じ考えである",
+      "kana": "おなじかんがえである",
+      "romaji": "onaji kangae de aru",
+      "examples": [
+        { "s": "私たちが同じ考えか確認しておきたい。", "zh": "我想確認我們是否有共識。" },
+        { "s": "この件では二人の意見が一致している。", "zh": "在這件事上，我們兩人想法一致。" }
+      ]
+    }
+  },
+  {
+    "id": "w039",
+    "de": {
+      "word": "ansprechen",
+      "ipa": "[ˈanʃprɛçn̩]",
+      "examples": [
+        { "s": "Ich möchte ein wichtiges Thema ansprechen.", "zh": "我想提起一個重要的話題。" },
+        { "s": "Er hat das Problem beim Meeting angesprochen.", "zh": "他在會議上提出了那個問題。" }
+      ]
+    },
+    "fr": {
+      "word": "aborder",
+      "ipa": "[abɔʁde]",
+      "examples": [
+        { "s": "Je voudrais aborder un sujet important.", "zh": "我想提起一個重要的話題。" },
+        { "s": "Elle a abordé la question pendant la réunion.", "zh": "她在會議上提出了那個問題。" }
+      ]
+    },
+    "ja": {
+      "word": "話を持ち出す",
+      "kana": "はなしをもちだす",
+      "romaji": "hanashi o mochidasu",
+      "examples": [
+        { "s": "大事な話を持ち出したいのですが。", "zh": "我想提起一件重要的事。" },
+        { "s": "会議でその問題を持ち出した。", "zh": "他在會議上提出了那個問題。" }
+      ]
+    }
+  },
+  {
+    "id": "w040",
+    "de": {
+      "word": "übrigens",
+      "ipa": "[ˈyːbrɪɡn̩s]",
+      "examples": [
+        { "s": "Übrigens, hast du meine E-Mail bekommen?", "zh": "對了，你收到我的郵件了嗎？" },
+        { "s": "Übrigens, morgen ist Feiertag.", "zh": "順帶一提，明天是假日。" }
+      ]
+    },
+    "fr": {
+      "word": "au fait",
+      "ipa": "[o fɛ]",
+      "examples": [
+        { "s": "Au fait, tu as reçu mon message ?", "zh": "對了，你收到我的訊息了嗎？" },
+        { "s": "Au fait, demain c'est férié.", "zh": "順帶一提，明天是假日。" }
+      ]
+    },
+    "ja": {
+      "word": "ところで",
+      "kana": "ところで",
+      "romaji": "tokorode",
+      "examples": [
+        { "s": "ところで、私のメール届いた？", "zh": "對了，你收到我的郵件了嗎？" },
+        { "s": "ところで、明日は祝日だよ。", "zh": "順帶一提，明天是假日喔。" }
+      ]
+    }
+  },
+  {
+    "id": "w041",
+    "de": {
+      "word": "herausfinden",
+      "ipa": "[hɛˈraʊ̯sfɪndn̩]",
+      "examples": [
+        { "s": "Ich muss herausfinden, wie das funktioniert.", "zh": "我得弄清楚這是怎麼運作的。" },
+        { "s": "Zusammen finden wir eine Lösung heraus.", "zh": "我們一起想出辦法。" }
+      ]
+    },
+    "fr": {
+      "word": "comprendre",
+      "ipa": "[kɔ̃pʁɑ̃dʁ]",
+      "examples": [
+        { "s": "Je dois comprendre comment ça marche.", "zh": "我得弄清楚這是怎麼運作的。" },
+        { "s": "On finira par trouver une solution.", "zh": "我們最後會想出辦法的。" }
+      ]
+    },
+    "ja": {
+      "word": "解決する",
+      "kana": "かいけつする",
+      "romaji": "kaiketsu suru",
+      "examples": [
+        { "s": "どうすればいいか自分で考え出さなきゃ。", "zh": "我得自己弄清楚該怎麼做。" },
+        { "s": "原因を突き止めて問題を解決した。", "zh": "查出原因，把問題解決了。" }
+      ]
+    }
+  },
+  {
+    "id": "w042",
+    "de": {
+      "word": "enden",
+      "ipa": "[ˈɛndn̩]",
+      "examples": [
+        { "s": "Am Ende sind wir doch zu Hause geblieben.", "zh": "最後我們還是待在家裡。" },
+        { "s": "Wir endeten in einem kleinen Café.", "zh": "我們最後跑到一家小咖啡館。" }
+      ]
+    },
+    "fr": {
+      "word": "finir par",
+      "ipa": "[finiʁ paʁ]",
+      "examples": [
+        { "s": "On a fini par rester à la maison.", "zh": "我們最後還是待在家裡。" },
+        { "s": "Il a fini par accepter le poste.", "zh": "他最後還是接受了那份工作。" }
+      ]
+    },
+    "ja": {
+      "word": "結局～になる",
+      "kana": "けっきょく～になる",
+      "romaji": "kekkyoku ~ ni naru",
+      "examples": [
+        { "s": "結局、家で過ごすことになった。", "zh": "結果我們最後待在家裡。" },
+        { "s": "道に迷って結局遅刻した。", "zh": "迷了路，結果遲到了。" }
+      ]
+    }
+  },
+  {
+    "id": "w043",
+    "de": {
+      "word": "verfügbar",
+      "ipa": "[fɛɐ̯ˈfyːkbaːɐ̯]",
+      "examples": [
+        { "s": "Bist du morgen Nachmittag verfügbar?", "zh": "你明天下午有空嗎？" },
+        { "s": "Das Produkt ist momentan nicht verfügbar.", "zh": "這個產品目前買不到。" }
+      ]
+    },
+    "fr": {
+      "word": "disponible",
+      "ipa": "[dispɔnibl]",
+      "examples": [
+        { "s": "Es-tu disponible demain après-midi ?", "zh": "你明天下午有空嗎？" },
+        { "s": "Ce produit n'est plus disponible.", "zh": "這個產品已經買不到了。" }
+      ]
+    },
+    "ja": {
+      "word": "空いている",
+      "kana": "あいている",
+      "romaji": "aite iru",
+      "examples": [
+        { "s": "明日の午後は空いていますか。", "zh": "你明天下午有空嗎？" },
+        { "s": "その商品は今在庫がありません。", "zh": "那個商品現在沒有貨。" }
+      ]
+    }
+  },
+  {
+    "id": "w044",
+    "de": {
+      "word": "schätzen",
+      "ipa": "[ˈʃɛtsn̩]",
+      "examples": [
+        { "s": "Ich schätze deine Hilfe sehr.", "zh": "我很感激你的幫忙。" },
+        { "s": "Wir schätzen dein Verständnis.", "zh": "我們感謝你的體諒。" }
+      ]
+    },
+    "fr": {
+      "word": "apprécier",
+      "ipa": "[apʁesje]",
+      "examples": [
+        { "s": "J'apprécie vraiment ton aide.", "zh": "我真的很感激你的幫忙。" },
+        { "s": "Nous apprécions votre compréhension.", "zh": "我們感謝您的體諒。" }
+      ]
+    },
+    "ja": {
+      "word": "感謝する",
+      "kana": "かんしゃする",
+      "romaji": "kansha suru",
+      "examples": [
+        { "s": "手伝ってくれて本当に感謝しています。", "zh": "很感謝你幫我，真的。" },
+        { "s": "ご理解に感謝いたします。", "zh": "感謝您的體諒。" }
+      ]
+    }
+  },
+  {
+    "id": "w045",
+    "de": {
+      "word": "ankommen auf",
+      "ipa": "[ˈankɔmən aʊ̯f]",
+      "examples": [
+        { "s": "Das kommt ganz auf das Wetter an.", "zh": "這完全取決於天氣。" },
+        { "s": "Ob wir kommen, kommt auf die Zeit an.", "zh": "我們來不來要看時間而定。" }
+      ]
+    },
+    "fr": {
+      "word": "dépendre de",
+      "ipa": "[depɑ̃dʁ də]",
+      "examples": [
+        { "s": "Ça dépend entièrement du temps.", "zh": "這完全取決於天氣。" },
+        { "s": "Tout dépend de ta décision.", "zh": "一切都取決於你的決定。" }
+      ]
+    },
+    "ja": {
+      "word": "次第である",
+      "kana": "しだいである",
+      "romaji": "shidai de aru",
+      "examples": [
+        { "s": "それは天気次第だね。", "zh": "那要看天氣而定。" },
+        { "s": "行けるかどうかは君の返事次第だ。", "zh": "能不能去，取決於你的答覆。" }
+      ]
+    }
+  },
+  {
+    "id": "w046",
+    "de": {
+      "word": "verantwortlich für",
+      "ipa": "[fɛɐ̯ˈʔantvɔrtlɪç fyːɐ̯]",
+      "examples": [
+        { "s": "Sie ist für das ganze Projekt verantwortlich.", "zh": "她負責整個專案。" },
+        { "s": "Wer ist heute für die Kasse verantwortlich?", "zh": "今天誰負責收銀？" }
+      ]
+    },
+    "fr": {
+      "word": "responsable de",
+      "ipa": "[ʁɛspɔ̃sabl də]",
+      "examples": [
+        { "s": "Elle est responsable de tout le projet.", "zh": "她負責整個專案。" },
+        { "s": "Qui est responsable de la caisse aujourd'hui ?", "zh": "今天誰負責收銀？" }
+      ]
+    },
+    "ja": {
+      "word": "担当している",
+      "kana": "たんとうしている",
+      "romaji": "tantō shite iru",
+      "examples": [
+        { "s": "彼女がこのプロジェクト全体を担当している。", "zh": "她負責整個專案。" },
+        { "s": "今日はレジを担当しています。", "zh": "今天我負責收銀。" }
+      ]
+    }
+  },
+  {
+    "id": "w047",
+    "de": {
+      "word": "Sinn ergeben",
+      "ipa": "[zɪn ɛɐ̯ˈɡeːbn̩]",
+      "examples": [
+        { "s": "Deine Erklärung ergibt jetzt Sinn.", "zh": "你的解釋現在說得通了。" },
+        { "s": "Das ergibt überhaupt keinen Sinn.", "zh": "這根本說不通。" }
+      ]
+    },
+    "fr": {
+      "word": "avoir du sens",
+      "ipa": "[avwaʁ dy sɑ̃s]",
+      "examples": [
+        { "s": "Ton explication a du sens maintenant.", "zh": "你的解釋現在說得通了。" },
+        { "s": "Ça n'a aucun sens.", "zh": "這根本說不通。" }
+      ]
+    },
+    "ja": {
+      "word": "筋が通る",
+      "kana": "すじがとおる",
+      "romaji": "suji ga tōru",
+      "examples": [
+        { "s": "その説明なら筋が通るね。", "zh": "這樣解釋就說得通了。" },
+        { "s": "彼の話は全然筋が通らない。", "zh": "他說的話根本說不通。" }
+      ]
+    }
+  },
+  {
+    "id": "w048",
+    "de": {
+      "word": "ausgehen",
+      "ipa": "[ˈaʊ̯sɡeːən]",
+      "examples": [
+        { "s": "Uns ist die Milch ausgegangen.", "zh": "我們的牛奶用完了。" },
+        { "s": "Mir geht langsam die Geduld aus.", "zh": "我的耐心快用光了。" }
+      ]
+    },
+    "fr": {
+      "word": "être à court de",
+      "ipa": "[ɛtʁ a kuʁ də]",
+      "examples": [
+        { "s": "On est à court de lait.", "zh": "我們的牛奶用完了。" },
+        { "s": "Je suis à court de temps.", "zh": "我的時間快用完了。" }
+      ]
+    },
+    "ja": {
+      "word": "切らす",
+      "kana": "きらす",
+      "romaji": "kirasu",
+      "examples": [
+        { "s": "牛乳を切らしてしまった。", "zh": "牛奶用完了。" },
+        { "s": "ガソリンが切れそうだ。", "zh": "汽油快用完了。" }
+      ]
+    }
+  },
+  {
+    "id": "w049",
+    "de": {
+      "word": "sich freuen auf",
+      "ipa": "[zɪç ˈfrɔɪ̯ən aʊ̯f]",
+      "examples": [
+        { "s": "Ich freue mich schon auf das Wochenende.", "zh": "我很期待週末。" },
+        { "s": "Wir freuen uns auf deinen Besuch.", "zh": "我們期待你來訪。" }
+      ]
+    },
+    "fr": {
+      "word": "avoir hâte de",
+      "ipa": "[avwaʁ ɑt də]",
+      "examples": [
+        { "s": "J'ai hâte d'être au week-end.", "zh": "我很期待週末。" },
+        { "s": "Nous avons hâte de te revoir.", "zh": "我們期待再見到你。" }
+      ]
+    },
+    "ja": {
+      "word": "楽しみにする",
+      "kana": "たのしみにする",
+      "romaji": "tanoshimi ni suru",
+      "examples": [
+        { "s": "週末を楽しみにしている。", "zh": "我很期待週末。" },
+        { "s": "あなたに会えるのを楽しみにしています。", "zh": "我很期待見到你。" }
+      ]
+    }
+  },
+  {
+    "id": "w050",
+    "de": {
+      "word": "in Kontakt bleiben",
+      "ipa": "[ɪn kɔnˈtakt ˈblaɪ̯bn̩]",
+      "examples": [
+        { "s": "Lass uns in Kontakt bleiben!", "zh": "我們保持聯絡吧！" },
+        { "s": "Wir sind über die Jahre in Kontakt geblieben.", "zh": "這些年來我們一直保持聯絡。" }
+      ]
+    },
+    "fr": {
+      "word": "rester en contact",
+      "ipa": "[ʁɛste ɑ̃ kɔ̃takt]",
+      "examples": [
+        { "s": "Restons en contact !", "zh": "我們保持聯絡吧！" },
+        { "s": "On est restés en contact pendant des années.", "zh": "我們這些年一直保持聯絡。" }
+      ]
+    },
+    "ja": {
+      "word": "連絡を取り合う",
+      "kana": "れんらくをとりあう",
+      "romaji": "renraku o toriau",
+      "examples": [
+        { "s": "これからも連絡を取り合おうね。", "zh": "以後也要保持聯絡喔。" },
+        { "s": "卒業後もずっと連絡を取り合っている。", "zh": "畢業後我們一直保持聯絡。" }
+      ]
+    }
+  },
+  {
+    "id": "p0001",
+    "de": {
+      "word": "fangen",
+      "ipa": "[ˈfaŋən]",
+      "examples": [
+        { "s": "Die Polizei konnte den Dieb fangen.", "zh": "警方逮住了那個小偷。" },
+        { "s": "Die Katze hat eine Maus gefangen.", "zh": "貓抓到了一隻老鼠。" }
+      ]
+    },
+    "fr": {
+      "word": "capturer",
+      "ipa": "[kaptyʁe]",
+      "examples": [
+        { "s": "La police a réussi à capturer le voleur.", "zh": "警方成功逮住了小偷。" },
+        { "s": "Le chat a capturé une souris.", "zh": "貓抓到了一隻老鼠。" }
+      ]
+    },
+    "ja": {
+      "word": "捕まえる",
+      "kana": "つかまえる",
+      "romaji": "tsukamaeru",
+      "examples": [
+        { "s": "警察が泥棒を捕まえた。", "zh": "警察逮住了小偷。" },
+        { "s": "猫がネズミを捕まえた。", "zh": "貓抓到了一隻老鼠。" }
+      ]
+    }
+  },
+  {
+    "id": "p0002",
+    "de": {
+      "word": "ein schwieriger Mensch",
+      "ipa": "[aɪ̯n ˈʃviːrɪɡɐ ˈmɛnʃ]",
+      "examples": [
+        { "s": "Der neue Chef ist echt ein schwieriger Mensch.", "zh": "新來的主管真是個難搞的人。" },
+        { "s": "Sie kann ein ziemlich schwieriger Mensch sein.", "zh": "她有時候真是個麻煩人物。" }
+      ]
+    },
+    "fr": {
+      "word": "un cas difficile",
+      "ipa": "[œ̃ kɑ difisil]",
+      "examples": [
+        { "s": "Ce client est vraiment un cas difficile.", "zh": "這位客人真是個難搞的人。" },
+        { "s": "Franchement, c'est un sacré cas.", "zh": "老實說，他真是個麻煩人物。" }
+      ]
+    },
+    "ja": {
+      "word": "扱いにくい人",
+      "kana": "あつかいにくいひと",
+      "romaji": "atsukainikui hito",
+      "examples": [
+        { "s": "彼は本当に扱いにくい人だ。", "zh": "他真是個難搞的人。" },
+        { "s": "あの上司はちょっと面倒な人だ。", "zh": "那位主管有點麻煩。" }
+      ]
+    }
+  },
+  {
+    "id": "p0003",
+    "de": {
+      "word": "die Abzocke",
+      "ipa": "[diː ˈaptsɔkə]",
+      "examples": [
+        { "s": "Zehn Euro für einen Kaffee? Das ist Abzocke!", "zh": "一杯咖啡十歐元？根本敲竹槓！" },
+        { "s": "Die Ticketpreise sind reine Abzocke.", "zh": "這票價根本是敲竹槓。" }
+      ]
+    },
+    "fr": {
+      "word": "une arnaque",
+      "ipa": "[yn aʁnak]",
+      "examples": [
+        { "s": "Dix euros pour un café ? C'est une arnaque !", "zh": "一杯咖啡十歐元？根本是敲竹槓！" },
+        { "s": "Ce prix, c'est carrément une arnaque.", "zh": "這價格根本是敲竹槓。" }
+      ]
+    },
+    "ja": {
+      "word": "ぼったくり",
+      "kana": "ぼったくり",
+      "romaji": "bottakuri",
+      "examples": [
+        { "s": "コーヒー一杯で千円？ぼったくりだよ。", "zh": "一杯咖啡一千日圓？根本敲竹槓。" },
+        { "s": "この値段はぼったくりだと思う。", "zh": "我覺得這價格根本是敲竹槓。" }
+      ]
+    }
+  },
+  {
+    "id": "p0004",
+    "de": {
+      "word": "ein totales Chaos",
+      "ipa": "[aɪ̯n toˈtaːləs ˈkaːɔs]",
+      "examples": [
+        { "s": "Nach der Party war die Wohnung ein totales Chaos.", "zh": "派對後房子亂成一團。" },
+        { "s": "Mein Schreibtisch ist ein totales Chaos.", "zh": "我的書桌一團亂。" }
+      ]
+    },
+    "fr": {
+      "word": "un vrai bazar",
+      "ipa": "[œ̃ vʁɛ bazaʁ]",
+      "examples": [
+        { "s": "Après la fête, l'appartement était un vrai bazar.", "zh": "派對後房子一團亂。" },
+        { "s": "Ton bureau, c'est un vrai bazar !", "zh": "你的書桌根本一團亂！" }
+      ]
+    },
+    "ja": {
+      "word": "めちゃくちゃ",
+      "kana": "めちゃくちゃ",
+      "romaji": "mechakucha",
+      "examples": [
+        { "s": "パーティーのあと、部屋はめちゃくちゃだった。", "zh": "派對後房間一團亂。" },
+        { "s": "机の上がめちゃくちゃで探せない。", "zh": "桌上一團亂，根本找不到東西。" }
+      ]
+    }
+  },
+  {
+    "id": "p0005",
+    "de": {
+      "word": "ein Kinderspiel",
+      "ipa": "[aɪ̯n ˈkɪndɐʃpiːl]",
+      "examples": [
+        { "s": "Die Prüfung war für ihn ein Kinderspiel.", "zh": "這場考試對他來說輕而易舉。" },
+        { "s": "Keine Sorge, das ist ein Kinderspiel.", "zh": "別擔心，這很容易。" }
+      ]
+    },
+    "fr": {
+      "word": "un jeu d'enfant",
+      "ipa": "[œ̃ ʒø dɑ̃fɑ̃]",
+      "examples": [
+        { "s": "Pour lui, cet examen était un jeu d'enfant.", "zh": "這場考試對他來說輕而易舉。" },
+        { "s": "Ne t'inquiète pas, c'est un jeu d'enfant.", "zh": "別擔心，這很容易。" }
+      ]
+    },
+    "ja": {
+      "word": "朝飯前",
+      "kana": "あさめしまえ",
+      "romaji": "asameshimae",
+      "examples": [
+        { "s": "そんな作業は朝飯前だよ。", "zh": "那種工作對我來說輕而易舉。" },
+        { "s": "彼にとってこのテストは朝飯前だった。", "zh": "這場考試對他來說很容易。" }
+      ]
+    }
+  },
+  {
+    "id": "p0006",
+    "de": {
+      "word": "die Fähigkeit",
+      "ipa": "[diː ˈfɛːɪçkaɪ̯t]",
+      "examples": [
+        { "s": "Sie hat die Fähigkeit, andere zu motivieren.", "zh": "她有激勵別人的能力。" },
+        { "s": "Diese Fähigkeit muss man üben.", "zh": "這種能力需要練習。" }
+      ]
+    },
+    "fr": {
+      "word": "la capacité",
+      "ipa": "[la kapasite]",
+      "examples": [
+        { "s": "Elle a la capacité de motiver les autres.", "zh": "她有激勵別人的能力。" },
+        { "s": "Cette capacité se développe avec la pratique.", "zh": "這種能力透過練習才能養成。" }
+      ]
+    },
+    "ja": {
+      "word": "能力",
+      "kana": "のうりょく",
+      "romaji": "nōryoku",
+      "examples": [
+        { "s": "彼女には人を励ます能力がある。", "zh": "她有激勵別人的能力。" },
+        { "s": "この能力は練習で身につく。", "zh": "這種能力靠練習才能養成。" }
+      ]
+    }
+  },
+  {
+    "id": "p0007",
+    "de": {
+      "word": "im Ausland",
+      "ipa": "[ɪm ˈaʊ̯slant]",
+      "examples": [
+        { "s": "Nächstes Jahr möchte ich im Ausland studieren.", "zh": "明年我想去國外留學。" },
+        { "s": "Sie arbeitet seit drei Jahren im Ausland.", "zh": "她在國外工作三年了。" }
+      ]
+    },
+    "fr": {
+      "word": "à l'étranger",
+      "ipa": "[a letʁɑ̃ʒe]",
+      "examples": [
+        { "s": "L'année prochaine, je veux étudier à l'étranger.", "zh": "明年我想去國外留學。" },
+        { "s": "Elle travaille à l'étranger depuis trois ans.", "zh": "她在國外工作三年了。" }
+      ]
+    },
+    "ja": {
+      "word": "海外",
+      "kana": "かいがい",
+      "romaji": "kaigai",
+      "examples": [
+        { "s": "来年は海外に留学したい。", "zh": "明年我想去國外留學。" },
+        { "s": "彼女は三年前から海外で働いている。", "zh": "她三年前開始在國外工作。" }
+      ]
+    }
+  },
+  {
+    "id": "p0008",
+    "de": {
+      "word": "aufnehmen",
+      "ipa": "[ˈaʊ̯fneːmən]",
+      "examples": [
+        { "s": "Der Schwamm nimmt viel Wasser auf.", "zh": "海綿吸收很多水。" },
+        { "s": "Kinder nehmen neue Sprachen schnell auf.", "zh": "孩子很快就能吸收新語言。" }
+      ]
+    },
+    "fr": {
+      "word": "absorber",
+      "ipa": "[apsɔʁbe]",
+      "examples": [
+        { "s": "L'éponge absorbe beaucoup d'eau.", "zh": "海綿吸收很多水。" },
+        { "s": "Les enfants absorbent vite les nouvelles langues.", "zh": "孩子很快就能吸收新語言。" }
+      ]
+    },
+    "ja": {
+      "word": "吸収する",
+      "kana": "きゅうしゅうする",
+      "romaji": "kyūshū suru",
+      "examples": [
+        { "s": "スポンジは水をよく吸収する。", "zh": "海綿很會吸水。" },
+        { "s": "子供は新しい言葉をすぐに吸収する。", "zh": "孩子很快就能吸收新的詞彙。" }
+      ]
+    }
+  },
+  {
+    "id": "p0009",
+    "de": {
+      "word": "abstrakt",
+      "ipa": "[apsˈtrakt]",
+      "examples": [
+        { "s": "Das ist ein sehr abstraktes Konzept.", "zh": "這是個非常抽象的概念。" },
+        { "s": "Ich mag abstrakte Kunst.", "zh": "我喜歡抽象藝術。" }
+      ]
+    },
+    "fr": {
+      "word": "abstrait",
+      "ipa": "[apstʁɛ]",
+      "examples": [
+        { "s": "C'est un concept très abstrait.", "zh": "這是個非常抽象的概念。" },
+        { "s": "J'aime l'art abstrait.", "zh": "我喜歡抽象藝術。" }
+      ]
+    },
+    "ja": {
+      "word": "抽象的な",
+      "kana": "ちゅうしょうてきな",
+      "romaji": "chūshōteki na",
+      "examples": [
+        { "s": "それはとても抽象的な概念だ。", "zh": "這是個非常抽象的概念。" },
+        { "s": "私は抽象的な絵が好きだ。", "zh": "我喜歡抽象的畫作。" }
+      ]
+    }
+  },
+  {
+    "id": "p0010",
+    "de": {
+      "word": "der Zugang",
+      "ipa": "[deːɐ̯ ˈtsuːɡaŋ]",
+      "examples": [
+        { "s": "Nur Mitarbeiter haben Zugang zu diesem Raum.", "zh": "只有員工能進入這個房間。" },
+        { "s": "Ich habe keinen Zugang zu dieser Datei.", "zh": "我沒有這個檔案的存取權限。" }
+      ]
+    },
+    "fr": {
+      "word": "l'accès",
+      "ipa": "[laksɛ]",
+      "examples": [
+        { "s": "Seul le personnel a accès à cette salle.", "zh": "只有員工能進入這個房間。" },
+        { "s": "Je n'ai pas accès à ce fichier.", "zh": "我沒有這個檔案的存取權限。" }
+      ]
+    },
+    "ja": {
+      "word": "アクセス権",
+      "kana": "アクセスけん",
+      "romaji": "akusesu ken",
+      "examples": [
+        { "s": "この部屋に入れるのは社員だけだ。", "zh": "只有員工能進入這個房間。" },
+        { "s": "そのファイルへのアクセス権がない。", "zh": "我沒有這個檔案的存取權限。" }
+      ]
+    }
+  }
+]

@@ -1,0 +1,842 @@
+[
+  {
+    "id": "p0041",
+    "de": {
+      "word": "zustimmen",
+      "ipa": "[ˈtsuːˌʃtɪmən]",
+      "examples": [
+        { "s": "Ich stimme dir völlig zu.", "zh": "我完全同意你。" },
+        { "s": "Wir konnten uns nicht auf einen Preis einigen und niemand wollte zustimmen.", "zh": "我們無法就價格達成一致,沒有人願意同意。" }
+      ]
+    },
+    "fr": {
+      "word": "être d'accord",
+      "ipa": "[ɛtʁ dakɔʁ]",
+      "examples": [
+        { "s": "Je suis tout à fait d'accord avec toi.", "zh": "我完全同意你。" },
+        { "s": "Tout le monde était d'accord pour partir plus tôt.", "zh": "大家都同意提早出發。" }
+      ]
+    },
+    "ja": {
+      "word": "同意する",
+      "kana": "どういする",
+      "romaji": "dōi suru",
+      "examples": [
+        { "s": "あなたの意見に同意します。", "zh": "我同意你的意見。" },
+        { "s": "みんながその計画に同意した。", "zh": "大家都同意那個計畫。" }
+      ]
+    }
+  },
+  {
+    "id": "p0042",
+    "de": {
+      "word": "das Abkommen",
+      "ipa": "[ˈapˌkɔmən]",
+      "examples": [
+        { "s": "Die beiden Firmen haben ein Abkommen unterzeichnet.", "zh": "兩家公司簽署了一份協議。" },
+        { "s": "Das Abkommen tritt nächsten Monat in Kraft.", "zh": "這份協定下個月生效。" }
+      ]
+    },
+    "fr": {
+      "word": "l'accord (m.)",
+      "ipa": "[lakɔʁ]",
+      "examples": [
+        { "s": "Les deux pays ont signé un accord commercial.", "zh": "兩國簽署了一份貿易協定。" },
+        { "s": "Nous sommes parvenus à un accord après de longues négociations.", "zh": "經過長時間談判後我們達成了協議。" }
+      ]
+    },
+    "ja": {
+      "word": "協定",
+      "kana": "きょうてい",
+      "romaji": "kyōtei",
+      "examples": [
+        { "s": "両社は新しい協定を結んだ。", "zh": "兩家公司締結了新協定。" },
+        { "s": "この協定は来月発効します。", "zh": "這份協定下個月生效。" }
+      ]
+    }
+  },
+  {
+    "id": "p0043",
+    "de": {
+      "word": "die Hilfe",
+      "ipa": "[ˈhɪlfə]",
+      "examples": [
+        { "s": "Die Organisation leistet Hilfe für Erdbebenopfer.", "zh": "該組織為地震災民提供援助。" },
+        { "s": "Ohne finanzielle Hilfe kann das Projekt nicht weitergehen.", "zh": "沒有財務援助,這個計畫無法繼續。" }
+      ]
+    },
+    "fr": {
+      "word": "l'aide (f.)",
+      "ipa": "[lɛd]",
+      "examples": [
+        { "s": "Les secouristes apportent de l'aide aux sinistrés.", "zh": "救難人員為災民提供援助。" },
+        { "s": "Merci pour ton aide, je n'y serais pas arrivé seul.", "zh": "謝謝你的幫助,我一個人做不到。" }
+      ]
+    },
+    "ja": {
+      "word": "援助",
+      "kana": "えんじょ",
+      "romaji": "enjo",
+      "examples": [
+        { "s": "被災地に食料の援助が届いた。", "zh": "食物援助送到了災區。" },
+        { "s": "政府は難民への援助を決めた。", "zh": "政府決定援助難民。" }
+      ]
+    }
+  },
+  {
+    "id": "p0044",
+    "de": {
+      "word": "die Luftwaffe",
+      "ipa": "[ˈlʊftˌvafə]",
+      "examples": [
+        { "s": "Mein Onkel dient bei der Luftwaffe.", "zh": "我叔叔在空軍服役。" },
+        { "s": "Die Luftwaffe führte eine Übung über der Nordsee durch.", "zh": "空軍在北海上空進行了演習。" }
+      ]
+    },
+    "fr": {
+      "word": "l'armée de l'air (f.)",
+      "ipa": "[laʁme də lɛʁ]",
+      "examples": [
+        { "s": "Il rêve de rejoindre l'armée de l'air.", "zh": "他夢想加入空軍。" },
+        { "s": "L'armée de l'air a présenté ses nouveaux avions.", "zh": "空軍展示了新型戰機。" }
+      ]
+    },
+    "ja": {
+      "word": "空軍",
+      "kana": "くうぐん",
+      "romaji": "kūgun",
+      "examples": [
+        { "s": "彼は空軍のパイロットです。", "zh": "他是空軍飛行員。" },
+        { "s": "空軍の基地は海の近くにある。", "zh": "空軍基地在海邊附近。" }
+      ]
+    }
+  },
+  {
+    "id": "p0045",
+    "de": {
+      "word": "lüften",
+      "ipa": "[ˈlʏftn̩]",
+      "examples": [
+        { "s": "Bitte lüfte kurz das Zimmer, hier riecht es muffig.", "zh": "請幫房間透一下氣,這裡有霉味。" },
+        { "s": "Ich hänge die Decken nach draußen, um sie zu lüften.", "zh": "我把被子掛到外面透氣。" }
+      ]
+    },
+    "fr": {
+      "word": "aérer",
+      "ipa": "[aeʁe]",
+      "examples": [
+        { "s": "Ouvre la fenêtre pour aérer la pièce.", "zh": "打開窗戶讓房間通風。" },
+        { "s": "Il faut aérer la chambre tous les matins.", "zh": "每天早上都要讓臥室透氣。" }
+      ]
+    },
+    "ja": {
+      "word": "換気する",
+      "kana": "かんきする",
+      "romaji": "kanki suru",
+      "examples": [
+        { "s": "窓を開けて部屋を換気しましょう。", "zh": "打開窗戶讓房間通風吧。" },
+        { "s": "布団を外に干して風を通した。", "zh": "把被子拿到外面曬讓它透氣。" }
+      ]
+    }
+  },
+  {
+    "id": "p0046",
+    "de": {
+      "word": "das Fluggerät",
+      "ipa": "[ˈfluːkɡəˌʁɛːt]",
+      "examples": [
+        { "s": "Das neue Fluggerät kann senkrecht starten.", "zh": "這款新飛行器可以垂直起飛。" },
+        { "s": "Militärische Fluggeräte überflogen die Stadt.", "zh": "軍用飛行器飛越了城市上空。" }
+      ]
+    },
+    "fr": {
+      "word": "l'aéronef (m.)",
+      "ipa": "[laeʁɔnɛf]",
+      "examples": [
+        { "s": "Cet aéronef peut transporter cent passagers.", "zh": "這架飛行器可以搭載一百名乘客。" },
+        { "s": "Plusieurs aéronefs militaires ont survolé la région.", "zh": "數架軍機飛越了該地區。" }
+      ]
+    },
+    "ja": {
+      "word": "航空機",
+      "kana": "こうくうき",
+      "romaji": "kōkūki",
+      "examples": [
+        { "s": "新しい航空機が空港に到着した。", "zh": "新型飛行器抵達了機場。" },
+        { "s": "軍用航空機が上空を飛んでいった。", "zh": "軍機從上空飛過。" }
+      ]
+    }
+  },
+  {
+    "id": "p0047",
+    "de": {
+      "word": "das Flugzeug",
+      "ipa": "[ˈfluːkˌtsɔɪ̯k]",
+      "examples": [
+        { "s": "Unser Flugzeug startet um acht Uhr.", "zh": "我們的飛機八點起飛。" },
+        { "s": "Ich habe Angst, wenn das Flugzeug durch Turbulenzen fliegt.", "zh": "飛機遇到亂流時我會害怕。" }
+      ]
+    },
+    "fr": {
+      "word": "l'avion (m.)",
+      "ipa": "[lavjɔ̃]",
+      "examples": [
+        { "s": "L'avion décolle dans une heure.", "zh": "飛機一小時後起飛。" },
+        { "s": "C'est la première fois que je prends l'avion.", "zh": "這是我第一次搭飛機。" }
+      ]
+    },
+    "ja": {
+      "word": "飛行機",
+      "kana": "ひこうき",
+      "romaji": "hikōki",
+      "examples": [
+        { "s": "飛行機は予定通り出発しました。", "zh": "飛機按時出發了。" },
+        { "s": "初めて飛行機に乗って緊張した。", "zh": "第一次搭飛機很緊張。" }
+      ]
+    }
+  },
+  {
+    "id": "p0048",
+    "de": {
+      "word": "der Flugmodus",
+      "ipa": "[ˈfluːkˌmoːdʊs]",
+      "examples": [
+        { "s": "Bitte schalten Sie Ihr Handy in den Flugmodus.", "zh": "請將您的手機切換到飛航模式。" },
+        { "s": "Im Flugmodus kann ich trotzdem Musik hören.", "zh": "在飛航模式下我還是可以聽音樂。" }
+      ]
+    },
+    "fr": {
+      "word": "le mode avion",
+      "ipa": "[lə mɔd avjɔ̃]",
+      "examples": [
+        { "s": "Mets ton téléphone en mode avion avant le décollage.", "zh": "起飛前把手機調成飛航模式。" },
+        { "s": "En mode avion, je ne reçois plus de messages.", "zh": "在飛航模式下我就收不到訊息了。" }
+      ]
+    },
+    "ja": {
+      "word": "機内モード",
+      "kana": "きないモード",
+      "romaji": "kinai mōdo",
+      "examples": [
+        { "s": "離陸前にスマホを機内モードにしてください。", "zh": "起飛前請把手機設成飛航模式。" },
+        { "s": "機内モードでも音楽は聞けます。", "zh": "飛航模式下也能聽音樂。" }
+      ]
+    }
+  },
+  {
+    "id": "p0049",
+    "de": {
+      "word": "der Flughafen",
+      "ipa": "[ˈfluːkˌhaːfn̩]",
+      "examples": [
+        { "s": "Wir müssen zwei Stunden früher am Flughafen sein.", "zh": "我們必須提前兩小時到機場。" },
+        { "s": "Der Flughafen ist wegen des Sturms geschlossen.", "zh": "機場因暴風雨而關閉。" }
+      ]
+    },
+    "fr": {
+      "word": "l'aéroport (m.)",
+      "ipa": "[laeʁɔpɔʁ]",
+      "examples": [
+        { "s": "Je t'attends à l'aéroport à midi.", "zh": "我中午在機場等你。" },
+        { "s": "L'aéroport est bondé pendant les vacances.", "zh": "假期期間機場很擁擠。" }
+      ]
+    },
+    "ja": {
+      "word": "空港",
+      "kana": "くうこう",
+      "romaji": "kūkō",
+      "examples": [
+        { "s": "空港には二時間前に着きたい。", "zh": "我想提前兩小時到機場。" },
+        { "s": "友達を空港まで迎えに行った。", "zh": "我去機場接朋友。" }
+      ]
+    }
+  },
+  {
+    "id": "p0050",
+    "de": {
+      "word": "der Gangplatz",
+      "ipa": "[ˈɡaŋˌplats]",
+      "examples": [
+        { "s": "Ich hätte gern einen Gangplatz, bitte.", "zh": "我想要一個走道座位,謝謝。" },
+        { "s": "Auf dem Gangplatz kann ich leichter aufstehen.", "zh": "坐在走道座位我比較容易起身。" }
+      ]
+    },
+    "fr": {
+      "word": "la place côté couloir",
+      "ipa": "[la plas kote kulwaʁ]",
+      "examples": [
+        { "s": "Je préfère une place côté couloir pour me dégourdir les jambes.", "zh": "我比較喜歡走道座位好活動雙腿。" },
+        { "s": "Il ne reste que des places côté couloir.", "zh": "只剩下走道的座位了。" }
+      ]
+    },
+    "ja": {
+      "word": "通路側の席",
+      "kana": "つうろがわのせき",
+      "romaji": "tsūrogawa no seki",
+      "examples": [
+        { "s": "通路側の席をお願いします。", "zh": "請給我走道側的座位。" },
+        { "s": "通路側の席だと立ちやすい。", "zh": "走道側的座位比較好起身。" }
+      ]
+    }
+  },
+  {
+    "id": "p0051",
+    "de": {
+      "word": "der Alarm",
+      "ipa": "[aˈlaʁm]",
+      "examples": [
+        { "s": "Der Alarm ging mitten in der Nacht los.", "zh": "警報器在半夜響了起來。" },
+        { "s": "Vergiss nicht, den Alarm einzuschalten, bevor du gehst.", "zh": "離開前別忘了開啟警報器。" }
+      ]
+    },
+    "fr": {
+      "word": "l'alarme (f.)",
+      "ipa": "[lalaʁm]",
+      "examples": [
+        { "s": "L'alarme s'est déclenchée quand la fenêtre s'est ouverte.", "zh": "窗戶一打開警報器就響了。" },
+        { "s": "N'oublie pas de brancher l'alarme en partant.", "zh": "離開時別忘了啟動警報器。" }
+      ]
+    },
+    "ja": {
+      "word": "警報器",
+      "kana": "けいほうき",
+      "romaji": "keihōki",
+      "examples": [
+        { "s": "夜中に警報器が鳴り出した。", "zh": "警報器在半夜響了。" },
+        { "s": "出かける前に警報器をセットした。", "zh": "出門前設定了警報器。" }
+      ]
+    }
+  },
+  {
+    "id": "p0052",
+    "de": {
+      "word": "das Album",
+      "ipa": "[ˈalbʊm]",
+      "examples": [
+        { "s": "Die Band hat gerade ihr neues Album veröffentlicht.", "zh": "這個樂團剛發行了新專輯。" },
+        { "s": "Ich höre dieses Album immer wieder.", "zh": "我一遍又一遍地聽這張專輯。" }
+      ]
+    },
+    "fr": {
+      "word": "l'album (m.)",
+      "ipa": "[lalbɔm]",
+      "examples": [
+        { "s": "Son dernier album est vraiment excellent.", "zh": "他最新的專輯真的很棒。" },
+        { "s": "J'ai acheté l'album en vinyle.", "zh": "我買了黑膠版的專輯。" }
+      ]
+    },
+    "ja": {
+      "word": "アルバム",
+      "kana": "アルバム",
+      "romaji": "arubamu",
+      "examples": [
+        { "s": "そのバンドの新しいアルバムが出た。", "zh": "那個樂團的新專輯出了。" },
+        { "s": "このアルバムを何度も聴いている。", "zh": "我反覆聽這張專輯。" }
+      ]
+    }
+  },
+  {
+    "id": "p0053",
+    "de": {
+      "word": "das Ale",
+      "ipa": "[eɪl]",
+      "examples": [
+        { "s": "In diesem Pub gibt es ein sehr gutes Ale.", "zh": "這間酒吧有非常好喝的麥酒。" },
+        { "s": "Er bestellte ein kühles Ale nach der Arbeit.", "zh": "他下班後點了一杯冰涼的愛爾啤酒。" }
+      ]
+    },
+    "fr": {
+      "word": "l'ale (f.)",
+      "ipa": "[lɛl]",
+      "examples": [
+        { "s": "Cette brasserie sert une ale artisanale.", "zh": "這家釀酒廠供應手工愛爾啤酒。" },
+        { "s": "Je préfère l'ale à la bière blonde.", "zh": "比起金啤酒我更喜歡愛爾啤酒。" }
+      ]
+    },
+    "ja": {
+      "word": "エール",
+      "kana": "エール",
+      "romaji": "ēru",
+      "examples": [
+        { "s": "このパブのエールはとても美味しい。", "zh": "這家酒吧的愛爾啤酒很好喝。" },
+        { "s": "仕事の後に冷たいエールを一杯飲んだ。", "zh": "下班後喝了一杯冰涼的麥酒。" }
+      ]
+    }
+  },
+  {
+    "id": "p0054",
+    "de": {
+      "word": "das Alibi",
+      "ipa": "[ˈaːlibi]",
+      "examples": [
+        { "s": "Der Verdächtige hatte ein wasserdichtes Alibi.", "zh": "嫌疑人有滴水不漏的不在場證明。" },
+        { "s": "Kannst du mir für heute Abend ein Alibi geben?", "zh": "你能幫我今晚做個不在場證明嗎?" }
+      ]
+    },
+    "fr": {
+      "word": "l'alibi (m.)",
+      "ipa": "[lalibi]",
+      "examples": [
+        { "s": "Il a fourni un alibi solide à la police.", "zh": "他向警方提供了可靠的不在場證明。" },
+        { "s": "Son alibi n'a convaincu personne.", "zh": "他的不在場證明沒能說服任何人。" }
+      ]
+    },
+    "ja": {
+      "word": "アリバイ",
+      "kana": "アリバイ",
+      "romaji": "aribai",
+      "examples": [
+        { "s": "容疑者には完璧なアリバイがあった。", "zh": "嫌疑人有完美的不在場證明。" },
+        { "s": "彼のアリバイは崩れてしまった。", "zh": "他的不在場證明被推翻了。" }
+      ]
+    }
+  },
+  {
+    "id": "p0055",
+    "de": {
+      "word": "der Außerirdische",
+      "ipa": "[ˈaʊ̯sɐˌʔɪʁdɪʃə]",
+      "examples": [
+        { "s": "Im Film landen Außerirdische auf der Erde.", "zh": "電影裡外星人降落在地球上。" },
+        { "s": "Glaubst du, dass es Außerirdische gibt?", "zh": "你相信有外星人存在嗎?" }
+      ]
+    },
+    "fr": {
+      "word": "l'extraterrestre (m.)",
+      "ipa": "[lɛkstʁateʁɛstʁ]",
+      "examples": [
+        { "s": "Les enfants ont dessiné un extraterrestre vert.", "zh": "孩子們畫了一個綠色的外星人。" },
+        { "s": "Beaucoup de gens croient aux extraterrestres.", "zh": "很多人相信外星人的存在。" }
+      ]
+    },
+    "ja": {
+      "word": "宇宙人",
+      "kana": "うちゅうじん",
+      "romaji": "uchūjin",
+      "examples": [
+        { "s": "その映画には宇宙人が登場する。", "zh": "那部電影裡有外星人登場。" },
+        { "s": "宇宙人は本当にいると思いますか。", "zh": "你認為外星人真的存在嗎?" }
+      ]
+    }
+  },
+  {
+    "id": "p0056",
+    "de": {
+      "word": "ausrichten",
+      "ipa": "[ˈaʊ̯sˌʁɪçtn̩]",
+      "examples": [
+        { "s": "Bitte richte die Bilder an der Wand gerade aus.", "zh": "請把牆上的畫對齊擺正。" },
+        { "s": "Das Team muss seine Ziele aufeinander ausrichten.", "zh": "團隊必須讓彼此的目標取得一致。" }
+      ]
+    },
+    "fr": {
+      "word": "aligner",
+      "ipa": "[aliɲe]",
+      "examples": [
+        { "s": "Il faut aligner les chaises contre le mur.", "zh": "要把椅子沿著牆對齊。" },
+        { "s": "Nous devons aligner notre stratégie sur celle du groupe.", "zh": "我們必須讓策略與集團取得一致。" }
+      ]
+    },
+    "ja": {
+      "word": "そろえる",
+      "kana": "そろえる",
+      "romaji": "soroeru",
+      "examples": [
+        { "s": "机の上の本をきれいにそろえた。", "zh": "把桌上的書整齊對齊。" },
+        { "s": "チームで目標をそろえる必要がある。", "zh": "團隊需要讓目標取得一致。" }
+      ]
+    }
+  },
+  {
+    "id": "p0057",
+    "de": {
+      "word": "die Allergie",
+      "ipa": "[alɛʁˈɡiː]",
+      "examples": [
+        { "s": "Ich habe eine Allergie gegen Erdnüsse.", "zh": "我對花生過敏。" },
+        { "s": "Im Frühling wird meine Allergie immer schlimmer.", "zh": "春天我的過敏總是變得更嚴重。" }
+      ]
+    },
+    "fr": {
+      "word": "l'allergie (f.)",
+      "ipa": "[lalɛʁʒi]",
+      "examples": [
+        { "s": "Elle a une allergie aux fruits de mer.", "zh": "她對海鮮過敏。" },
+        { "s": "Mon allergie au pollen me fait éternuer.", "zh": "我對花粉過敏害我打噴嚏。" }
+      ]
+    },
+    "ja": {
+      "word": "アレルギー",
+      "kana": "アレルギー",
+      "romaji": "arerugī",
+      "examples": [
+        { "s": "私は卵アレルギーがあります。", "zh": "我對蛋過敏。" },
+        { "s": "春になると花粉のアレルギーがひどくなる。", "zh": "一到春天花粉過敏就會變嚴重。" }
+      ]
+    }
+  },
+  {
+    "id": "p0058",
+    "de": {
+      "word": "die Gasse",
+      "ipa": "[ˈɡasə]",
+      "examples": [
+        { "s": "Das Café liegt in einer engen Gasse.", "zh": "那間咖啡館位在一條窄巷裡。" },
+        { "s": "Die Katze verschwand in einer dunklen Gasse.", "zh": "貓消失在一條昏暗的巷子裡。" }
+      ]
+    },
+    "fr": {
+      "word": "la ruelle",
+      "ipa": "[la ʁɥɛl]",
+      "examples": [
+        { "s": "Il y a un petit restaurant dans cette ruelle.", "zh": "這條小巷裡有一家小餐館。" },
+        { "s": "Nous avons pris un raccourci par une ruelle.", "zh": "我們抄了一條小巷的捷徑。" }
+      ]
+    },
+    "ja": {
+      "word": "路地",
+      "kana": "ろじ",
+      "romaji": "roji",
+      "examples": [
+        { "s": "その店は狭い路地にあります。", "zh": "那家店在一條窄巷裡。" },
+        { "s": "猫が暗い路地に入っていった。", "zh": "貓走進了昏暗的巷子。" }
+      ]
+    }
+  },
+  {
+    "id": "p0059",
+    "de": {
+      "word": "das Bündnis",
+      "ipa": "[ˈbʏntnɪs]",
+      "examples": [
+        { "s": "Die beiden Länder bildeten ein starkes Bündnis.", "zh": "兩國組成了強大的同盟。" },
+        { "s": "Das Bündnis wurde nach dem Krieg aufgelöst.", "zh": "這個聯盟在戰後解散了。" }
+      ]
+    },
+    "fr": {
+      "word": "l'alliance (f.)",
+      "ipa": "[laljɑ̃s]",
+      "examples": [
+        { "s": "Les deux nations ont formé une alliance militaire.", "zh": "兩國組成了軍事同盟。" },
+        { "s": "Cette alliance a duré plusieurs décennies.", "zh": "這個聯盟持續了數十年。" }
+      ]
+    },
+    "ja": {
+      "word": "同盟",
+      "kana": "どうめい",
+      "romaji": "dōmei",
+      "examples": [
+        { "s": "両国は軍事同盟を結んだ。", "zh": "兩國締結了軍事同盟。" },
+        { "s": "その同盟は長く続いた。", "zh": "那個同盟持續了很久。" }
+      ]
+    }
+  },
+  {
+    "id": "p0060",
+    "de": {
+      "word": "schon",
+      "ipa": "[ʃoːn]",
+      "examples": [
+        { "s": "Ich habe schon gegessen, danke.", "zh": "我已經吃過了,謝謝。" },
+        { "s": "Bist du schon fertig mit deiner Arbeit?", "zh": "你的工作已經做完了嗎?" }
+      ]
+    },
+    "fr": {
+      "word": "déjà",
+      "ipa": "[deʒa]",
+      "examples": [
+        { "s": "J'ai déjà vu ce film.", "zh": "我已經看過這部電影了。" },
+        { "s": "Il est déjà minuit, rentrons.", "zh": "已經半夜十二點了,我們回家吧。" }
+      ]
+    },
+    "ja": {
+      "word": "もう",
+      "kana": "もう",
+      "romaji": "mō",
+      "examples": [
+        { "s": "もう昼ご飯を食べました。", "zh": "我已經吃過午餐了。" },
+        { "s": "電車はもう出てしまった。", "zh": "電車已經開走了。" }
+      ]
+    }
+  },
+  {
+    "id": "p0061",
+    "de": {
+      "word": "der Altar",
+      "ipa": "[alˈtaːɐ̯]",
+      "examples": [
+        { "s": "Vor dem Altar standen viele Kerzen.", "zh": "祭壇前擺著許多蠟燭。" },
+        { "s": "Das Brautpaar trat vor den Altar.", "zh": "這對新人走到祭壇前。" }
+      ]
+    },
+    "fr": {
+      "word": "l'autel (m.)",
+      "ipa": "[lotɛl]",
+      "examples": [
+        { "s": "Des fleurs blanches ornaient l'autel.", "zh": "白花裝飾著祭壇。" },
+        { "s": "Le prêtre s'est approché de l'autel.", "zh": "神父走近祭壇。" }
+      ]
+    },
+    "ja": {
+      "word": "祭壇",
+      "kana": "さいだん",
+      "romaji": "saidan",
+      "examples": [
+        { "s": "祭壇の前にろうそくが並んでいた。", "zh": "祭壇前排著蠟燭。" },
+        { "s": "花で祭壇が飾られていた。", "zh": "祭壇用花裝飾著。" }
+      ]
+    }
+  },
+  {
+    "id": "p0062",
+    "de": {
+      "word": "das Aluminium",
+      "ipa": "[aluˈmiːni̯ʊm]",
+      "examples": [
+        { "s": "Die Dose ist aus Aluminium.", "zh": "這個罐子是鋁做的。" },
+        { "s": "Aluminium ist leicht und rostet nicht.", "zh": "鋁很輕而且不會生鏽。" }
+      ]
+    },
+    "fr": {
+      "word": "l'aluminium (m.)",
+      "ipa": "[lalyminjɔm]",
+      "examples": [
+        { "s": "J'ai emballé le sandwich dans du papier aluminium.", "zh": "我用鋁箔紙把三明治包起來。" },
+        { "s": "Ce cadre est fait en aluminium léger.", "zh": "這個框架是用輕鋁製成的。" }
+      ]
+    },
+    "ja": {
+      "word": "アルミニウム",
+      "kana": "アルミニウム",
+      "romaji": "aruminiumu",
+      "examples": [
+        { "s": "この缶はアルミニウムでできている。", "zh": "這個罐子是鋁做的。" },
+        { "s": "アルミニウムは軽くて錆びにくい。", "zh": "鋁很輕而且不易生鏽。" }
+      ]
+    }
+  },
+  {
+    "id": "p0063",
+    "de": {
+      "word": "immer",
+      "ipa": "[ˈɪmɐ]",
+      "examples": [
+        { "s": "Sie kommt immer zu spät zur Arbeit.", "zh": "她上班總是遲到。" },
+        { "s": "Ich trinke morgens immer einen Kaffee.", "zh": "我早上總是喝一杯咖啡。" }
+      ]
+    },
+    "fr": {
+      "word": "toujours",
+      "ipa": "[tuʒuʁ]",
+      "examples": [
+        { "s": "Il est toujours de bonne humeur.", "zh": "他總是心情很好。" },
+        { "s": "Je prends toujours le même bus.", "zh": "我總是搭同一班公車。" }
+      ]
+    },
+    "ja": {
+      "word": "いつも",
+      "kana": "いつも",
+      "romaji": "itsumo",
+      "examples": [
+        { "s": "彼女はいつも遅刻する。", "zh": "她總是遲到。" },
+        { "s": "朝はいつもコーヒーを飲みます。", "zh": "我早上總是喝咖啡。" }
+      ]
+    }
+  },
+  {
+    "id": "p0064",
+    "de": {
+      "word": "der Botschafter",
+      "ipa": "[ˈboːtˌʃaftɐ]",
+      "examples": [
+        { "s": "Der Botschafter traf sich mit dem Präsidenten.", "zh": "大使與總統會面。" },
+        { "s": "Sie wurde zur neuen Botschafterin ernannt.", "zh": "她被任命為新任大使。" }
+      ]
+    },
+    "fr": {
+      "word": "l'ambassadeur (m.)",
+      "ipa": "[lɑ̃basadœʁ]",
+      "examples": [
+        { "s": "L'ambassadeur a présenté ses lettres de créance.", "zh": "大使遞交了他的國書。" },
+        { "s": "L'ambassadeur du Japon a fait un discours.", "zh": "日本大使發表了演說。" }
+      ]
+    },
+    "ja": {
+      "word": "大使",
+      "kana": "たいし",
+      "romaji": "taishi",
+      "examples": [
+        { "s": "大使は大統領と会談した。", "zh": "大使與總統會談。" },
+        { "s": "彼は日本の駐米大使になった。", "zh": "他成為日本駐美大使。" }
+      ]
+    }
+  },
+  {
+    "id": "p0065",
+    "de": {
+      "word": "das Bernstein",
+      "ipa": "[ˈbɛʁnˌʃtaɪ̯n]",
+      "examples": [
+        { "s": "Die Ampel leuchtete bernsteinfarben.", "zh": "紅綠燈亮起了琥珀色。" },
+        { "s": "Sie trägt eine Kette aus Bernstein.", "zh": "她戴著一條琥珀項鍊。" }
+      ]
+    },
+    "fr": {
+      "word": "l'ambre (m.)",
+      "ipa": "[lɑ̃bʁ]",
+      "examples": [
+        { "s": "Le feu est passé à l'ambre.", "zh": "號誌燈變成了琥珀色。" },
+        { "s": "Sa bière avait une belle couleur ambre.", "zh": "他的啤酒呈現漂亮的琥珀色。" }
+      ]
+    },
+    "ja": {
+      "word": "琥珀色",
+      "kana": "こはくいろ",
+      "romaji": "kohakuiro",
+      "examples": [
+        { "s": "信号が琥珀色に変わった。", "zh": "號誌變成了琥珀色。" },
+        { "s": "夕日が空を琥珀色に染めた。", "zh": "夕陽把天空染成琥珀色。" }
+      ]
+    }
+  },
+  {
+    "id": "p0066",
+    "de": {
+      "word": "mehrdeutig",
+      "ipa": "[ˈmeːɐ̯ˌdɔɪ̯tɪç]",
+      "examples": [
+        { "s": "Seine Antwort war sehr mehrdeutig.", "zh": "他的回答非常曖昧不明。" },
+        { "s": "Der Satz ist mehrdeutig und kann verschieden verstanden werden.", "zh": "這句話語意不明,可以有不同的理解。" }
+      ]
+    },
+    "fr": {
+      "word": "ambigu",
+      "ipa": "[ɑ̃biɡy]",
+      "examples": [
+        { "s": "Sa réponse était trop ambiguë.", "zh": "他的回答太過曖昧不明。" },
+        { "s": "Le titre du film est volontairement ambigu.", "zh": "這部電影的片名故意取得曖昧不明。" }
+      ]
+    },
+    "ja": {
+      "word": "曖昧な",
+      "kana": "あいまいな",
+      "romaji": "aimai na",
+      "examples": [
+        { "s": "彼の返事は曖昧だった。", "zh": "他的回答很曖昧。" },
+        { "s": "この文は曖昧で意味が二通りに取れる。", "zh": "這句話很曖昧,可以有兩種意思。" }
+      ]
+    }
+  },
+  {
+    "id": "p0067",
+    "de": {
+      "word": "der Krankenwagen",
+      "ipa": "[ˈkʁaŋkn̩ˌvaːɡn̩]",
+      "examples": [
+        { "s": "Ruf schnell einen Krankenwagen!", "zh": "快叫救護車!" },
+        { "s": "Der Krankenwagen kam innerhalb weniger Minuten.", "zh": "救護車在幾分鐘內就到了。" }
+      ]
+    },
+    "fr": {
+      "word": "l'ambulance (f.)",
+      "ipa": "[lɑ̃bylɑ̃s]",
+      "examples": [
+        { "s": "Appelez vite une ambulance !", "zh": "快叫救護車!" },
+        { "s": "L'ambulance a transporté le blessé à l'hôpital.", "zh": "救護車把傷者送到了醫院。" }
+      ]
+    },
+    "ja": {
+      "word": "救急車",
+      "kana": "きゅうきゅうしゃ",
+      "romaji": "kyūkyūsha",
+      "examples": [
+        { "s": "すぐに救急車を呼んでください。", "zh": "請馬上叫救護車。" },
+        { "s": "救急車が数分で到着した。", "zh": "救護車幾分鐘內就到了。" }
+      ]
+    }
+  },
+  {
+    "id": "p0068",
+    "de": {
+      "word": "ändern",
+      "ipa": "[ˈɛndɐn]",
+      "examples": [
+        { "s": "Wir müssen den Vertrag noch ändern.", "zh": "我們還需要修改這份合約。" },
+        { "s": "Das Parlament hat das Gesetz geändert.", "zh": "國會修改了這條法律。" }
+      ]
+    },
+    "fr": {
+      "word": "modifier",
+      "ipa": "[mɔdifje]",
+      "examples": [
+        { "s": "Nous devons modifier le contrat.", "zh": "我們必須修改這份合約。" },
+        { "s": "Ils ont modifié la loi l'année dernière.", "zh": "他們去年修改了這條法律。" }
+      ]
+    },
+    "ja": {
+      "word": "修正する",
+      "kana": "しゅうせいする",
+      "romaji": "shūsei suru",
+      "examples": [
+        { "s": "契約書を修正する必要があります。", "zh": "有必要修改這份合約。" },
+        { "s": "議会は法律を修正した。", "zh": "議會修改了法律。" }
+      ]
+    }
+  },
+  {
+    "id": "p0069",
+    "de": {
+      "word": "die Annehmlichkeiten",
+      "ipa": "[ˈanˌneːmlɪçkaɪ̯tn̩]",
+      "examples": [
+        { "s": "Das Hotel bietet viele Annehmlichkeiten wie einen Pool und ein Spa.", "zh": "這間飯店提供泳池、水療等許多設施。" },
+        { "s": "Im Zimmer finden Sie kostenlose Annehmlichkeiten.", "zh": "房間內備有免費的備品。" }
+      ]
+    },
+    "fr": {
+      "word": "les équipements (m.)",
+      "ipa": "[lez‿ekipmɑ̃]",
+      "examples": [
+        { "s": "L'hôtel dispose de nombreux équipements pour les clients.", "zh": "這間飯店為顧客提供許多設施。" },
+        { "s": "La chambre offre tous les équipements nécessaires.", "zh": "房間備有一切必要的備品。" }
+      ]
+    },
+    "ja": {
+      "word": "設備",
+      "kana": "せつび",
+      "romaji": "setsubi",
+      "examples": [
+        { "s": "このホテルには充実した設備がある。", "zh": "這間飯店設施完善。" },
+        { "s": "部屋には無料のアメニティが揃っている。", "zh": "房間裡備有免費的備品。" }
+      ]
+    }
+  },
+  {
+    "id": "p0070",
+    "de": {
+      "word": "der Betrag",
+      "ipa": "[bəˈtʁaːk]",
+      "examples": [
+        { "s": "Bitte überweisen Sie den Betrag bis Freitag.", "zh": "請在週五前匯出這筆金額。" },
+        { "s": "Der Betrag auf der Rechnung stimmt nicht.", "zh": "帳單上的金額不對。" }
+      ]
+    },
+    "fr": {
+      "word": "le montant",
+      "ipa": "[lə mɔ̃tɑ̃]",
+      "examples": [
+        { "s": "Veuillez régler le montant total à la caisse.", "zh": "請到收銀台付清全部金額。" },
+        { "s": "Le montant de la facture est trop élevé.", "zh": "這張帳單的金額太高了。" }
+      ]
+    },
+    "ja": {
+      "word": "金額",
+      "kana": "きんがく",
+      "romaji": "kingaku",
+      "examples": [
+        { "s": "金曜日までにこの金額を振り込んでください。", "zh": "請在週五前匯這筆金額。" },
+        { "s": "請求書の金額が間違っている。", "zh": "帳單上的金額有誤。" }
+      ]
+    }
+  }
+]
