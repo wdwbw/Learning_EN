@@ -1,7 +1,7 @@
 {
   "name": "LL — 多語單字 & 口說",
   "short_name": "LL",
-  "description": "英/德/法/日多語單字 SRS 複習卡、生活口語例句、口說跟讀評分",
+  "description": "英/德/法/日/粵多語單字 SRS 複習卡、生活口語例句、口說跟讀評分",
   "start_url": "./index.html",
   "display": "standalone",
   "orientation": "portrait",

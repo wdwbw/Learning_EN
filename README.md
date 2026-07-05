@@ -1,6 +1,6 @@
 # LL — 多語單字學習 App(交接文件)
 
-一個純靜態網頁 PWA:英文單字卡 + SRS 間隔複習 + 口說評分 + 生活例句,支援 **英 / 德 / 法 / 日** 四語切換。手機瀏覽器「加入主畫面」即可像 App 一樣使用、離線複習、麥克風口說。
+一個純靜態網頁 PWA:英文單字卡 + SRS 間隔複習 + 口說評分 + 生活例句,支援 **英 / 德 / 法 / 日 / 粵(廣東話)** 語言切換。手機瀏覽器「加入主畫面」即可像 App 一樣使用、離線複習、麥克風口說。
 
 > 本文件給接手的人(工程師或 AI 助理)。照著即可繼續擴充內容或改功能。
 
@@ -11,7 +11,7 @@
 | 項目 | 現況 |
 |---|---|
 | 英文單字 | **3096 字**(`words.js` 50 + `words-pack1.js` 3046) |
-| 多語翻譯 | **德/法/日 各 3096 字齊全**(`langs-pack1.js`),每字每語言 2 例句 |
+| 多語翻譯 | **德/法/日 各 3096 字齊全**(`langs-pack1.js`),每字每語言 2 例句;**粵語建置中** |
 | KK 音標 | 由 CMUdict 校正(`tools/apply-cmudict.js`) |
 | 部署 | GitHub `wdwbw/Learning_EN`,Pages 網址 `https://wdwbw.github.io/Learning_EN/` |
 | 待辦 | 英文(+三語)擴到 5000 → 10000 |
@@ -58,8 +58,10 @@
 ```json
 {"de":{"word":"der Flughafen","ipa":"[...]","examples":[{"s":"德語句","zh":"繁中"},{...}]},
  "fr":{"word":"l'aéroport","ipa":"[...]","examples":[{"s":"...","zh":"..."},{...}]},
- "ja":{"word":"空港","kana":"くうこう","romaji":"kūkō","examples":[{"s":"...","zh":"..."},{...}]}}
+ "ja":{"word":"空港","kana":"くうこう","romaji":"kūkō","examples":[{"s":"...","zh":"..."},{...}]},
+ "yue":{"word":"機場","jyutping":"gei1 coeng4","examples":[{"s":"香港口語句","zh":"中文意思"},{...}]}}
 ```
+各語言音標欄位:德/法用 `ipa`、日語用 `kana`+`romaji`、**粵語用 `jyutping`(粵拼)**。新增語言時在 `index.html` 的 `LANG_META` 加一筆(含 `tts` 語系,如粵語 `zh-HK`),`W_phon()` 與 `assemble-langs.js` 的 `cleanLangObj()` 各加一個分支即可。
 App 內:非英語模式時,卡片正面顯示該語言的 `word` + 音標(日語顯示 kana・romaji),背面例句用該語言的 `examples`(`s`=句子,`zh`=中文),**中文意思 `meaning` 沿用英文字的**。各語言 SRS 進度獨立(localStorage key 加 `@lang`)。
 
 ---
@@ -85,7 +87,8 @@ App 內:非英語模式時,卡片正面顯示該語言的 `word` + 音標(日語
    ```bash
    node -e "const fs=require('fs');const w={};new Function('window',fs.readFileSync('words.js','utf8'))(w);new Function('window',fs.readFileSync('words-pack1.js','utf8'))(w);console.log(JSON.stringify(w.SEED_WORDS.slice(START,END).map(x=>({id:x.id,word:x.word,meaning:x.meaning}))))"
    ```
-2. 對每字產生 de/fr/ja(格式見 §3,例句欄位用 `s`/`zh`),寫成 `[{id, de, fr, ja}]` 到 `trans/t_<START>.json`。
+2. 對每字產生翻譯(格式見 §3,例句欄位用 `s`/`zh`),寫成 `[{id, de, fr, ja}]` 到 `trans/t_<START>.json`。
+   - **粵語**同理:寫 `[{id, yue:{word,jyutping,examples}}]` 到 `trans/y_<START>.json`。`assemble-langs.js` 會依 id 把各語言(不論在哪個檔)合併起來,所以粵語可獨立於 de/fr/ja 補。
 3. 跑組裝:
    ```bash
    node tools/assemble-langs.js

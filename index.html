@@ -243,7 +243,8 @@ const LANG_META = {
   en:{label:"EN", name:"英語", tts:"en-US"},
   de:{label:"DE", name:"德語", tts:"de-DE"},
   fr:{label:"FR", name:"法語", tts:"fr-FR"},
-  ja:{label:"JA", name:"日語", tts:"ja-JP"}
+  ja:{label:"JA", name:"日語", tts:"ja-JP"},
+  yue:{label:"粵", name:"廣東話", tts:"zh-HK"}
 };
 function langData(w){ return uiLang==="en" ? null : (w.langs && w.langs[uiLang]) || null; }
 function hasLang(w){ return uiLang==="en" ? true : !!(langData(w) && langData(w).word); }
@@ -252,6 +253,7 @@ function W_phon(w){
   if(uiLang==="en") return w.kk||"";
   const l=langData(w); if(!l) return "";
   if(uiLang==="ja") return [l.kana,l.romaji].filter(Boolean).join(" ・ ");
+  if(uiLang==="yue") return l.jyutping||"";
   return l.ipa||"";
 }
 function W_examples(w){
@@ -631,7 +633,7 @@ function cleanupRec(){
 function scoreSpeech(heardRaw, target){
   const norm=s=>{
     s=(s||"").toLowerCase();
-    if(uiLang==="ja") return s.replace(/[\s、。！？!?.,・]/g,"").split(""); // 日語逐字比對
+    if(uiLang==="ja"||uiLang==="yue") return s.replace(/[\s、。！？!?.,・，]/g,"").split(""); // 日語/粵語逐字比對
     return s.normalize("NFC").replace(/[^\p{L}' ]/gu," ").split(/\s+/).filter(Boolean); // 保留重音字母
   };
   const tgt=norm(target), heard=norm(heardRaw);
