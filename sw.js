@@ -1,5 +1,5 @@
 /* LL Service Worker — 連線優先(online 一定拿最新,offline 用快取) */
-const CACHE = "ll-v3";
+const CACHE = "ll-v4";
 const ASSETS = ["./", "./index.html", "./words.js", "./words-pack1.js", "./langs-pack1.js", "./manifest.json"];
 
 self.addEventListener("install", (e) => {

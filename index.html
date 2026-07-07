@@ -326,12 +326,16 @@ if('speechSynthesis' in window){ loadVoices(); speechSynthesis.onvoiceschanged=l
 let voiceCache={};
 function pickVoice(locale){
   if(!voices.length) return null;
-  const pre=locale.slice(0,2);
-  const match=voices.filter(v=>new RegExp("^"+pre,"i").test(v.lang));
-  // 依品質排序偏好:優先挑自然 / 神經網路嗓音
-  const prefs=[/Google/i,/Natural/i,/Neural/i,/Samantha/i,/Ava/i,/Anna/i,/Amelie/i,/Thomas/i,/Kyoko/i,/Otoya/i,/Serena/i];
-  const exact=match.filter(v=>new RegExp("^"+pre+"[-_]",'i').test(v.lang));
-  const pool=exact.length?exact:match;
+  const loc=locale.toLowerCase().replace("_","-");   // 如 zh-hk
+  const pre=loc.slice(0,2);
+  const vlang=v=>(v.lang||"").toLowerCase().replace("_","-");
+  // 1) 完全符合語系優先(zh-HK 廣東話絕不用成 zh-CN/zh-TW 普通話)
+  let pool=voices.filter(v=>vlang(v)===loc);
+  // 2) 退而求其次:同語言前綴——但「中文」不退回(避免廣東話變普通話)
+  if(!pool.length && pre!=="zh") pool=voices.filter(v=>vlang(v).indexOf(pre)===0);
+  if(!pool.length) return null;
+  // 依品質/語言偏好挑嗓音(粵語優先 Sinji / 標示 Cantonese/粵 的)
+  const prefs=[/Sinji/i,/粵|粤|Cantonese/i,/Google/i,/Natural/i,/Neural/i,/Samantha/i,/Ava/i,/Anna/i,/Amelie/i,/Thomas/i,/Kyoko/i,/Otoya/i,/Serena/i];
   for(const p of prefs){ const v=pool.find(v=>p.test(v.name)); if(v) return v; }
   return pool[0] || null;
 }
